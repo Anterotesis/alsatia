@@ -1,0 +1,1 @@
+The works in this sub-directory alsatia/statutes are free of known copyright restrictions. 
