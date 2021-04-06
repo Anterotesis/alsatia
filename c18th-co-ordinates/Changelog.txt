@@ -1,0 +1,5 @@
+Eighteenth Century Co-ordinates.
+
+ChangeLog.
+
+2021-04-06: First release of a sample batch of co-ordinates in several files; and supporting materials (ReadMe, ChangeLog, License).

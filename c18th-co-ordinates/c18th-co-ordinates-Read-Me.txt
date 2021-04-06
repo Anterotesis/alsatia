@@ -1,0 +1,21 @@
+Eighteenth Century Co-ordinates
+
+Read me.
+
+This is the 'Read me' file for the set of files in the Github folder "c18th-co-ordinates"
+
+These files are:
+c18th-all-co-ords.csv
+c18th-debtor-prisons-england.csv
+c18th-London-places-co-ords.csv
+c18th-London-prisons-co-ords.csv
+Howard-prisons-co-ords.csv
+
+The co-ordinates for the most part have been taken from Wikipedia and Wikidata, although in some cases have been located by hand. A few, for prisons, have been taken from the Prison History website.
+
+(Where applicable, the points located by hand have been subsequently added to Wikipedia and / or Wikidata.)
+
+At the moment, these co-ordinates are all single points, locating buildings or small yards. It is envisaged in the future that areas - such as wards and parishes - will be included.
+
+Note that there is considerable duplication between sets. The same London prisons will be found in the lists of London places, English prisons, prisons visited by John Howard. This is because I am developing sets of points for different maps. However, the file 'c18th-all-co-ords.csv' contains all the points found in the other files.
+
