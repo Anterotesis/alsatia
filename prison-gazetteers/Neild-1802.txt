@@ -832,7 +832,7 @@ JAMES NEILD, Esq. Treasurer.
 
 “ Shut from the common air, and common use “ Of their own limbs ! How many drink the cup iC Of baleful Grief, or eat the bitter bread “ Of Misery ! — For, sure, th’awakening thought “ 'The conscious heart of Charity would warm;
 
-€t The social tear would rise, the social sigh;
+Ct The social tear would rise, the social sigh;
 
 “ The social passions work !’ *
 
@@ -1176,13 +1176,13 @@ jC* d *
 
 Every Debtor voluntarily going into the Master’s Ward, to pay the Keeper at
 
-Entrance.............o 3 4
+Entrance ...... o 3 4
 
-To the Turnkeys.............0, 1 6
+To the Turnkeys ...... 0, 1 6
 
 To Keeper at Discharge........o 6 8
 
-To the Turnkeys ...........o 2 6
+To the Turnkeys  ...... o 2 6
 
 Every Debtor lodging in the Master’s house,
 
@@ -1198,19 +1198,19 @@ Every Debtor lodged over the Arcades, to
 
 the Keeper at entrance.......o' 2 6
 
-To Turnkeys.............o 1 o
+To Turnkeys ...... o 1 o
 
 To Keeper at discharge.........o 5 o
 
-To Turnkeys .............o 2 o
+To Turnkeys  ...... o 2 o
 
-Every such Debtor over the Arcades lodged in the Keeper’s bed and room to himself, per week..........o 1 6
+Every such Debtor over the Arcades lodged in the Keeper’s bed and room to himself, per week ...... o 1 6
 
 Two such Debtors in a bed, each per week 009 Common Debtors having only straw, matrass, or their own bed, to Keeper at
 
-discharge.............o 6 o
+discharge ...... o 6 o
 
-To Turnkeys.............o 2 o
+To Turnkeys ...... o 2 o
 
 F Debtors
 
@@ -1224,7 +1224,7 @@ For signing every certificate to obtain a
 
 Supersedeas, or Rule and Order of Court o i 6 For copy of Sheriff’s Warrant, if demanded o i o For registering any Declaration against a
 
-Prisoner ............o I o
+Prisoner  ...... o I o
 
 For discharge of every debtor on composition, or by any act of insolvency, or for want of prosecution (of which is. $d. is to be the Turnkey’s fee) except where it is otherwise directed by Statute ....012, 5,
 
@@ -1254,7 +1254,7 @@ Fees, 7s. 6d.
 
 Garnish, is.
 
-Chaplain, * none.
+Chaplain, none.
 
 Surgeon, none.
 
@@ -2152,15 +2152,15 @@ I copied the following from the table of fees hung
 
 up. £. s. d.
 
-Arrest.............. 1 o
+Arrest ......  1 o
 
-Commitment.............013 4
+Commitment ...... 013 4
 
 Guard money and bed for a night...o o 4
 
-Discharge............. 6 8
+Discharge ......  6 8
 
-Yeoman porter...........o 2 6
+Yeoman porter ...... o 2 6
 
 Clerk of Dover Castle.... . . . o 3 6
 
@@ -2440,21 +2440,21 @@ Resolution,
 
 l~i. s. (i,
 
-That there is due, and ought to be paid, to the Clerk of the Papers, for every discharge of every action, ...................026
+That there is due, and ought to be paid, to the Clerk of the Papers, for every discharge of every action,  ...... 026
 
 And for the copy of every cause, not exceeding
 
-three, .....................010
+three,  ...... 010
 
 And for each and every cause, exceeding three causes, besides the one shilling a piece for each of the said first three causes, .... .004
 
-[* That there is due, and ought to be paid, to the Clerk of the Papers, for his certificate of the prisoner’s discharge, delivered to the prisoner himself, without any regard to the number of causes he stood charged with, ................026
+[* That there is due, and ought to be paid, to the Clerk of the Papers, for his certificate of the prisoner’s discharge, delivered to the prisoner himself, without any regard to the number of causes he stood charged with,  ...... 026
 
 And for his certificate to the Warden of such
 
-discharge, .................o 2 &
+discharge,  ...... o 2 &
 
-That there is due, and ought to be paid, to the Clerk of the Enquiries, on the discharge of a, prisoner by the creditor, and not by supersedeas, ].............026
+That there is due, and ought to be paid, to the Clerk of the Enquiries, on the discharge of a, prisoner by the creditor, and not by supersedeas, ] ...... 026
 
 * None of these three Fees ore taken; the Clerk of the Papers thinking them unreasonable and unnecessary. The rest of this Tabic are taken.
 
@@ -2472,7 +2472,7 @@ The clauses against spirits are hung up in the large door entering into the pris
 
 The following Table of Fees is correct, and hung up in the prison.
 
-A Table of Fees, to be taken by the Warden of the Prison of the Fleet, for any prisoner or prisoners commitment, or.coming into Gaol or Chamber-rent there, or discharge from thence, in any Civil Action, settled and established the 19th day of January, in the third year of the reign of his Majesty king George the Second, A. D. 1729, pursuant to an act lately made, intituled, cc An Act for the Relief of Debtors, in u respect to the Imprisonment of their Persons.”
+A Table of Fees, to be taken by the Warden of the Prison of the Fleet, for any prisoner or prisoners commitment, or.coming into Gaol or Chamber-rent there, or discharge from thence, in any Civil Action, settled and established the 19th day of January, in the third year of the reign of his Majesty king George the Second, A.D. 1729, pursuant to an act lately made, intituled, cc An Act for the Relief of Debtors, in u respect to the Imprisonment of their Persons.”
 
 ' Every
 
@@ -2480,7 +2480,7 @@ IN ENGLAND AND WALES.
 
 “5 £• u d-
 
-Every prisoner charged with one or more actions (who at his own desire shall go on the Master’s Side) to pay to the Warden, for a commitment-fee, ...................168
+Every prisoner charged with one or more actions (who at his own desire shall go on the Master’s Side) to pay to the Warden, for a commitment-fee,  ...... 168
 
 Every prisoner charged with one or more actions (who shall go on the Common Side) not being entitled to partake of the poor’s box, to pay.o 13 4
 
@@ -2490,9 +2490,9 @@ Every prisoner to pay for his discharge, . . . . o
 
 Every such prisoner on the Master’s Side, who, at his own desire, shall have a bed to himself, to pay for chamber-room, use of bed, bedding, and sheets, to the Warden, per week, ...o
 
-If two in a bed, and no more, for chamber-room, use of bed, bedding, and sheets, each to pay to the Warden per week, ...........o
+If two in a bed, and no more, for chamber-room, use of bed, bedding, and sheets, each to pay to the Warden per week,  ...... o
 
-If the prisoner finds his own bed, bedding, and sheets (which the Warden is in no sort to hinder him of) then he shall pay for chamber-room to the Warden per week, .............o
+If the prisoner finds his own bed, bedding, and sheets (which the Warden is in no sort to hinder him of) then he shall pay for chamber-room to the Warden per week,  ...... o
 
 If there be two prisoners in one bed, finding their own bed, bedding, and sheets, then each of them to pay to the Warden per week, ...o
 
@@ -2520,11 +2520,11 @@ Every prisoner on a commitment upon a h'al-ens
 
 Corpus at a judge’s chamber to pay to the Tip- ,
 
-stafF ...................045
+stafF  ...... 045
 
 Every prisoner on a commitment 'in court to pay
 
-to the Tipstaff................076
+to the Tipstaff ...... 076
 
 i 4 No,
 
@@ -2564,27 +2564,27 @@ and Michaelmas Terms, 5/. 5, 9. each Term, .15 13 o
 
 2. From the Court of Common Pleas, 3/. every
 
-Term, ............... 12 o 0
+Term,  ......  12 o 0
 
 3. From the Court of Exchequer, 6s. 2d. every
 
-Term, ........... . . . . 1 6 S
+Term,  ......  . . . . 1 6 S
 
 4. From the Company of Drapers, annually at
 
-Christmas, .............1 10 o
+Christmas,  ...... 1 10 o
 
 5. From the Company of Leather Sellers, at Lady-
 
-day, Midsummer, and Michaelmas Quarters, 45. each, and at Christmas 6s.; and Bread, 2s. td. each, ............180
+day, Midsummer, and Michaelmas Quarters, 45. each, and at Christmas 6s.; and Bread, 2s. td. each,  ...... 180
 
 6. From the Company of Merchant Taylors, at
 
-Christmas, ................1 10 o
+Christmas,  ...... 1 10 o
 
 ' 7. From the Company of Sadlers, 2s. 6d. each
 
-Quarter, ...................0100
+Quarter,  ...... 0100
 
 8. From the Archbishop of Canterbury, at Christmas 100
 
@@ -2598,11 +2598,11 @@ from the Grange Inn, Cary-street, ..*..200
 
 12. The Gift of Mr. Thomas Strickley, every three
 
-Years, ....................200
+Years,  ...... 200
 
 13. Executors of Mrs. Misson, in lieu of forty-eight
 
-stone of Meat, at 29. 8d. per stone, at Christmas, .....................461
+stone of Meat, at 29. 8d. per stone, at Christmas,  ...... 461
 
 14. Warden of the Fleet, at Christmas, . . . . 1 1 o
 
@@ -2876,7 +2876,7 @@ One extra Basket, ........004
 
 By four weeks room-rent, paid by Steward
 
-to general stock, ...........0120
+to general stock,  ...... 0120
 
 Signed by four Auditors. Balance, 16 12 5
 
@@ -2990,23 +2990,23 @@ Mr. Joseph Carter, o 17 Mr. Ralph Carter, o 17
 
 •Every other year, in Beef or Money, at the discretion of distributors.
 
-Mr. J.ohn Shield, ................200
+Mr. J.ohn Shield,  ...... 200
 
-Mr. Thomas Dawson, ...............090
+Mr. Thomas Dawson,  ...... 090
 
-Mr. John Kendrick, ................200
+Mr. John Kendrick,  ...... 200
 
 Mrs. Margaret Dane, a quarter of beef and five dozen penny loaves, on the 5th of November.
 
-Mr. William Parker, ..............200
+Mr. William Parker,  ...... 200
 
-Mr. Woiler, ..................100
+Mr. Woiler,  ...... 100
 
 Mr. Peter Blundell, . 400
 
-Mr. John Meredith, ................120
+Mr. John Meredith,  ...... 120
 
-Mr. Thomas Chapman, .............050 *
+Mr. Thomas Chapman,  ...... 050 *
 
 * These three luve no: been paid since Christmas, 1793.
 
@@ -3018,13 +3018,13 @@ IN ENGLAND AND WALES
 
 . d.
 
-Leathersellers Company, ............. 5 4
+Leathersellers Company,  ......  5 4
 
 Ditto, ninety-one penny loaves quarterly.
 
 Archbishop of Canterbury’s gilt, .........100
 
-Lady Ramsay, ................c 10 o
+Lady Ramsay,  ...... c 10 o
 
 Mr. John Laurd, - 1100
 
@@ -3038,9 +3038,9 @@ Mr. John Marsh, - 0^0
 
 Sir Robert Martin and Mr. John Marsh, . . . 1 7 1
 
-Mrs. Jane Sambach, ................100
+Mrs. Jane Sambach,  ...... 100
 
-Sir John Haydon, ..............4 00
+Sir John Haydon,  ...... 4 00
 
 Mrs. Margaret Simcote, sixty penny-loaves every eight weeks.
 
@@ -3126,13 +3126,13 @@ Table of Fees to be paid by the debtors, being revised and regulated as directed
 
 For entering the action whereon each prisoner is brought into custody, either on process, capias, latitat, or execution, 100 For entering and discharging every second or other action, upon process, capias,
 
-latitat, or execution, ..........013 4
+latitat, or execution,  ...... 013 4
 
-For the certificate of the want of a declaration, in order to sue out a writ of supersedeas, ...........o 6 8
+For the certificate of the want of a declaration, in order to sue out a writ of supersedeas,  ...... o 6 8
 
 N.B. The above demandable of the prisoner.
 
-For receiving and entering every declaration against a prisoner in custody, ...o 2 o For each copy of a warrant against a prisoner, ................o 3 4
+For receiving and entering every declaration against a prisoner in custody, ...o 2 o For each copy of a warrant against a prisoner,  ...... o 3 4
 
 N.B. To be paid by persons making the declaration, or demanding the warrant.
 
@@ -3152,7 +3152,7 @@ The following table of taxed charges for lodging, bedding, &c. is allowed:
 
 £, s. d.
 
-Every person confined in the Sheriff's ward) finding his own bedding, per week, .................o 1 o
+Every person confined in the Sheriff's ward) finding his own bedding, per week,  ...... o 1 o
 
 Ditto with bedding allowed by the county, 026
 
@@ -3160,7 +3160,7 @@ Ditto with bedding allowed by the county, 026
 
 Every prisoner occupying a room in the
 
-keeper's house shall pay per week, 026 Furnished, ............. o 7 6
+keeper's house shall pay per week, 026 Furnished,  ......  o 7 6
 
 By
 
@@ -3542,23 +3542,23 @@ A Table of rates and fees settled and established at this said General Quarter S
 
 For the discharge of every debtor .... o 13 4
 
-To the Turnkey..........o 1 o
+To the Turnkey ...... o 1 o
 
 For every debtor lodging singly, weekly, '
 
 including the use of bed and bedding 016 But if two debtors lodge together, both
 
-weekly.............o o 9
+weekly ...... o o 9
 
 The gaoler is not to compel any debtor to lodge single.
 
 If a debtor has a bed and bedding of his
 
-own, then...........o 1 o
+own, then ...... o 1 o
 
 If he lodges in the outside ward, then
 
-weekly only............o o 6
+weekly only ...... o o 6
 
 tf a bed of his own then nothing for it.
 
@@ -3976,13 +3976,13 @@ A Table of Fees, to be taken by the Marshal of the King's Bench Prison, in the C
 
 1. To the Marshal for every Prisoner committed on
 
-any Civil Action, ...........048
+any Civil Action,  ...... 048
 
 2. To the Turnkey on the Master's side, ...016
 
 ' 3. To the Marshal, on the discharge of every such
 
-prisoner, ...............074
+prisoner,  ...... 074
 
 4. To the Deputy Marshal, upon the discharge of one or more actions, executions, or other charge, and no airlher fee, though there be
 
@@ -3996,15 +3996,15 @@ IS ENGLAND AND WALES.
 
 3’. To the Clerk of the papers, for the first action
 
-upon the discharge, ...........030
+upon the discharge,  ...... 030
 
 6. To the Clerk of the papers for every action,
 
-execution, or othei charge, to be paid on the discharge, ............, ....004
+execution, or othei charge, to be paid on the discharge,  ...... , ....004
 
 7. To the Deputy Marshal upon a Commitment of
 
-a Prisoner in Court, or at a Judge’s Chambers, in any Civil Action, if carried to the King’s Bench Prison, ..........010
+a Prisoner in Court, or at a Judge’s Chambers, in any Civil Action, if carried to the King’s Bench Prison,  ...... 010
 
 S. To the Clerk of the papers for the. same, ...010
 
@@ -4062,21 +4062,21 @@ I copied the following List of Benefactions, on the 6th of March, 1802, from the
 
 jT.s. d.
 
-County-money, paid quarterly, by the Clerk, to the Chief Justice of the Court of King’s Bench, at 13/. per quarter, .............60 o o
+County-money, paid quarterly, by the Clerk, to the Chief Justice of the Court of King’s Bench, at 13/. per quarter,  ...... 60 o o
 
 The Gift of Sir Thomas Gresham, paid by the Chamberlain of London, at 2/. 105. per quarter, . . .1000
 
-Lady Bertie, at Lady-day yearly (deducting Land-Tax) ....................200
+Lady Bertie, at Lady-day yearly (deducting Land-Tax)  ...... 200
 
 Mr ♦
 
 in England and wales.
 
-Mr. John March, i /. and Interest of Old South Sea Annuities, 12.V. <p/. paid at Michaelmas, / by the Mercers Company, .............
+Mr. John March, i /. and Interest of Old South Sea Annuities, 12.V. <p/. paid at Michaelmas, / by the Mercers Company,  ......
 
 i 12 5
 
-Mrs. Smith, at Christmas yearly, paid by Fishmon gars’ Company, ..............
+Mrs. Smith, at Christmas yearly, paid by Fishmon gars’ Company,  ......
 
 034
 
@@ -4102,7 +4102,7 @@ Mr. Garrett, by Salters’ Company, ditto, annually, o 6 S
 
 Robert Rampston, Esq. called Brass Money (deduct
 
-Land Tax).................100
+Land Tax) ...... 100
 
 Lady Ramsey, every Christmas, 100 lb, of beef, sent by Allhallows and St. Andrew’s Undershaft, alternately.
 
@@ -4118,7 +4118,7 @@ St. Dunstan in the East, a fore quarter of Beef, weight 27 stone, 6 lb. and a pe
 
 Company of Parish Clerks, yearly, on 1 st November, 1 1 o
 
-The Company of Drapers, sixty penny loaves annually, in December, ............., ..050
+The Company of Drapers, sixty penny loaves annually, in December,  ...... , ..050
 
 Mr. Horne, ditto by ditto,
 
@@ -4144,11 +4144,11 @@ the parish of St. Ethelburg, .........o 9 0
 
 His Grace the Archbishop of Canterbury usually
 
-gives at Christnjhs, ............100
+gives at Christnjhs,  ...... 100
 
 The Sadler's Company, a free Donation of 2s. 6cl.
 
-par quarter, ...................0100
+par quarter,  ...... 0100
 
 The City of Norwich, annually, ........x 1 o
 
@@ -4548,9 +4548,9 @@ At Christmas, 1800, .........18 411
 
 At Lady-day, 1801, .........2, 1 o 5
 
-At Midsummer, ............7 o 1
+At Midsummer,  ...... 7 o 1
 
-At Michaelmas, ...........6 11 4
+At Michaelmas,  ...... 6 11 4
 
 ' Together with lady Rich's......24 o o
 
@@ -4568,7 +4568,7 @@ Miss Misson’s legacy of 61. was paid Feb.
 
 22, 1802, deducting trustee’s coach-
 
-hire and stamp, ..........516 4
+hire and stamp,  ...... 516 4
 
 The prison-fees now taken are, coming in ir, going put 25.; and 3d. per week during confinement. The whole expence attending a commitment to Ludgate, exclusive of the prison fees, is, to the clerk-sitter of one of the compters for making out the Duce tecum (as it is called), 25. 6ci, if in execution, and 15. 4d. if in mesne process. To the serjeant at mace for conduct fee, 55. Upon discharge it is various, being according to the number of writs, but if only one writ, then at the secondaries office 55. 4d; to the clerk-sitter at each of the two compters 35. 8^.; and to the messenger one shilling.
 
@@ -4804,7 +4804,7 @@ To the Knight Marshal, upon the discharge of every
 
 prisoner charged with one or more actions, o 1 S
 
-To the Keeper, for his care and safe custody of every prisoner, upon the discharge of such prisoner, on the first action, ............048
+To the Keeper, for his care and safe custody of every prisoner, upon the discharge of such prisoner, on the first action,  ...... 048
 
 To the Keeper, upon the discharge of such prisoner
 
@@ -4824,13 +4824,13 @@ s- <1
 
 I o I o
 
-To the Turnkey, upon the discharge of every prisoner, on the hrst action, .............o i 6
+To the Turnkey, upon the discharge of every prisoner, on the hrst action,  ...... o i 6
 
-To the Turnkey, upon the discharge of every prisoner charged with one or more actions after the ^rst, .....................o i o
+To the Turnkey, upon the discharge of every prisoner charged with one or more actions after the ^rst,  ...... o i o
 
 To the Clerk, for entering the discharge of a prisoner,
 
-on one or more actions, ............o
+on one or more actions,  ...... o
 
 o
 
@@ -5558,9 +5558,9 @@ debtors are allowed a bedstead and straw. Master’s side debtors pay as per Tab
 
 Every person arrested and brought to prison, 6 8
 
-Board per week, ............ So
+Board per week,  ......  So
 
-Lodging per week, ........... 24
+Lodging per week,  ......  24
 
 If the debtor finds a bed, lodging per week, 1 o
 
@@ -5744,7 +5744,7 @@ Master's side debtors pay on coming in $$. to the
 
 Keeper, and 2s. to the Turnkeys, ....070 Common-side Debtors pay nothing coming in.
 
-Common-side Debtors pay on Discharge 20s. 8d. which is disposed of as follows: to the Keeper 75. at the Sheriff’s Office Poultry 35. 8d. at the Sheriff’s Office in Giltspur Street is. at Secondaries Office Lothbury 6s. to the Turnkeys 25. and Messenger 15...........108
+Common-side Debtors pay on Discharge 20s. 8d. which is disposed of as follows: to the Keeper 75. at the Sheriff’s Office Poultry 35. 8d. at the Sheriff’s Office in Giltspur Street is. at Secondaries Office Lothbury 6s. to the Turnkeys 25. and Messenger 15 ...... 108
 
 Master's aide Debtors pay on Discharge 1 s. more than
 
@@ -6374,7 +6374,7 @@ The above demandable of the prisoner.
 
 For receiving and entering every declaration against a
 
-prisoner in custody, ............020
+prisoner in custody,  ...... 020
 
 For each copy of a warrant against a prisoner, ..030
 
@@ -6404,7 +6404,7 @@ Every person with bedding allowed by the County, 026
 
 Every person occupying a room in the keeper’s house,
 
-shall pay per week, ...........02 6
+shall pay per week,  ...... 02 6
 
 If with bedding furnished by the keeper, ....040
 
@@ -6554,13 +6554,13 @@ Table of Fees to be taken by the Gaoler of the County of Surrey from the Debtors
 
 For the discharge of every prisoner for
 
-debt, ..............
+debt,  ......
 
 For his conduct warrant on his attendance with prisoners on returns of Habeas Corpuses by the Sheriff, .. For attending with prisoners by rule or orders of Court, or otherwise to be bailed or receive judgment, .... For the use of bed, bedding, and sheets, for every debtor on the master’s side of the prison, for the first night, ..
 
 For every night after the first, .....
 
-For a room, bed, and bedding, per week, ................
+For a room, bed, and bedding, per week,  ......
 
 O IO 10
 
@@ -7014,7 +7014,7 @@ Thus some sink amidst their misery, and others survive only to propagate villain
 
 Lastly, That a committee be appointed at the quarter-sessions, and a journal of the daily occurrences of the gaol be kept for their inspection, or of any Magistrate of the County.
 
-* Sec Kxaresborougu, p. 182. f Dr. Samuel Johnson,
+* Sec Knaresborough, p. 182. f Dr. Samuel Johnson,
 
 (301)
 
@@ -8238,7 +8238,7 @@ perHoares..... 3 30
 
 lawny, Esq. 13 Benef. 68 50
 
-B. by the Rev. Dr. Gaskin .......... 5 50
+B. by the Rev. Dr. Gaskin  ......  5 50
 
 Brown, James, Esq. ... 10 00
 
@@ -8376,7 +8376,7 @@ Barrow, Mr. per Secretary ........ 1 10
 
 Bathoniensis, per Treasurer ........10 00
 
-Bibo..........10 00
+Bibo ...... 10 00
 
 Collections at sundry Churches, c9’c. viz.
 
@@ -8384,45 +8384,45 @@ Collections at sundry Churches, c9’c. viz.
 
 1772 Charlotte street and Bedford Chapels ...... 81 1 o
 
-Charlotte Street Chapel............ 31 9 o
+Charlotte Street Chapel ......  31 9 o
 
-3773 Saint Mary, Somerset............. 8 3 o
+3773 Saint Mary, Somerset ......  8 3 o
 
-Queen Street Chapel............. 36 13 7
+Queen Street Chapel ......  36 13 7
 
 1774 St. Saviour’s and St. John’s......... 134 19 o
 
 3775 The Rev. Mr. Hevries’s Meeting in the Old Jewry 38 3 6
 
-St. Faul's, Covent Garden ........... 18 o o
+St. Faul's, Covent Garden  ......  18 o o
 
-St. Mary, Whitechapel ............ 21 7 o
+St. Mary, Whitechapel  ......  21 7 o
 
-Brompton Chapel............... 28 13 o
+Brompton Chapel ......  28 13 o
 
-St. George's, Hanover Square.......... 82 x 7 /j
+St. George's, Hanover Square ......  82 x 7 /j
 
-3776 St. George’s, Southwark........... 25 9 x
+3776 St. George’s, Southwark ......  25 9 x
 
-Greenwich Church............... 83 3 o
+Greenwich Church ......  83 3 o
 
-Si. James’s, Piccadilly............ 38 14 o
+Si. James’s, Piccadilly ......  38 14 o
 
-Hampstead Church .............. 72 16 6
+Hampstead Church  ......  72 16 6
 
-Richmond Ditto................ 102 3 9
+Richmond Ditto ......  102 3 9
 
-1777 St. Bride’s, Meet Street........... 19 1 4
+1777 St. Bride’s, Meet Street ......  19 1 4
 
-Hackney Church ................ 63 13 3
+Hackney Church  ......  63 13 3
 
-Tavistock Chapel .............. 31 to o
+Tavistock Chapel  ......  31 to o
 
-St. George’s, Hanover Square.......... 39 7 9
+St. George’s, Hanover Square ......  39 7 9
 
-Clapham Church................ 47 7
+Clapham Church ......  47 7
 
-Kingston Ditto................ A1) 10 7
+Kingston Ditto ......  A1) 10 7
 
 Edmonton
 
@@ -9038,7 +9038,7 @@ Freeman, John, Esq. per Treasurer, two Benef. 7 *-Freeman, Tliomas-Edwards, Esq.
 
 o
 
-7 ®
+7
 
 o o
 
@@ -9468,7 +9468,7 @@ Hoare and Co........ 5 50
 
 Elawkins, Mrs. by Lieti-tenaiit-Col. Trelaw-
 
-ney........... 2 2 o
+ney ......  2 2 o
 
 EIav*r.'is. Mr. Jos. 2 Ben. 2 20
 
@@ -9532,7 +9532,7 @@ Ham moil d /I'll oma s, Esq.
 
 per Treasurer, dec. .. . 1 10
 
-H, S.......... 12 10 6
+H, S ......  12 10 6
 
 Hannan, Edward, Esq. 10 10 o
 
@@ -9944,23 +9944,23 @@ Legacies received.
 
 Tv.l(* v (; (.-v., 208 o o
 
-Ml. D .'A 14:/ ................ ICO o O
+Ml. D .'A 14:/  ......  ICO o O
 
-Yir. . a Marta Tomlinson.............0 0
+Yir. . a Marta Tomlinson ...... 0 0
 
-John E, q.....................io° 0 0
+John E, q ...... io° 0 0
 
-A i.ad> ..................... 5° o o
+A i.ad>  ......  5° o o
 
-Mr. J')‘in Btsoham................ 5° 0 0
+Mr. J')‘in Btsoham ......  5° 0 0
 
-Mr. K- K.-rt Cioe ................ 5° 0 0
+Mr. K- K.-rt Cioe  ......  5° 0 0
 
-Mv?.. Aii-; Knu'ne................ 100 o o
+Mv?.. Aii-; Knu'ne ......  100 o o
 
-Lady Cr-harire Noel................ 10 0 0
+Lady Cr-harire Noel ......  10 0 0
 
-William Congreve, Esq................ uoo o o
+William Congreve, Esq ......  uoo o o
 
 Mrs. Alary Wylde, by Franca Bawdier, I>q.... 'oo o o
 
@@ -9970,67 +9970,67 @@ Markham, applied 3oMy to the Gaol at Whitechapel 100 o o
 
 Executrix of Wiilini i Crewe, Esq. annual, during the Life
 
-of Mrs. Foss, novo deceased............ 24 16 o
+of Mrs. Foss, novo deceased ......  24 16 o
 
-Arrears due from Ditto................ 5° 0 0
+Arrears due from Ditto ......  5° 0 0
 
-John Darker, Also................. 5° 0 0
+John Darker, Also ......  5° 0 0
 
-Airs. Cutts, by Mr. Scott............. 57 o o
+Airs. Cutts, by Mr. Scott ......  57 o o
 
 The Rev. Isaac Cooper., Eye, Suffolk......... 5° 0 0
 
-Executors of John Barnard, Esq. ...........300 o o
+Executors of John Barnard, Esq.  ...... 300 o o
 
 Executrixes of L. D. Nelme, Esq. late Secretary to this
 
-Society .................... 10 0 0
+Society  ......  10 0 0
 
-Executors of Thomas Tolson, Esq...........200 o o
+Executors of Thomas Tolson, Esq ...... 200 o o
 
 Executors of John Boldero, i sq... ......... 50 o o
 
-Executors of James Harley, fsq............200 o o
+Executors of James Harley, fsq ...... 200 o o
 
 Executor of John Corbyn, tsq. six‘Benefactions ..... 52 7 o
 
-Executors of Mr. Olivers............. 100 o o
+Executors of Mr. Olivers ......  100 o o
 
-Executor of Charlewjod Lawton, Esq.......... 20 o o
+Executor of Charlewjod Lawton, Esq ......  20 o o
 
-Executor’s of Airs. Culling.............200 o o
+Executor’s of Airs. Culling ...... 200 o o
 
 The Administratrixesoi Lillie Aynscombc, Esq. deceased,
 
 by his Direction, per Henry Slabbing, fsq.... 20 o o
 
-Fxecutor of Mrs. Alariannc Haves........... 20 o o
+Fxecutor of Mrs. Alariannc Haves ......  20 o o
 
-Executors of Mrs. Gastril.............200 o o
+Executors of Mrs. Gastril ...... 200 o o
 
-Executors of Lady Grant. A Legacy of 500/. with Interest .....................561 11 4
+Executors of Lady Grant. A Legacy of 500/. with Interest  ...... 561 11 4
 
 Ditto, a Second Benefaction.
 
-Executors of John Howard, Esq............ 30 o o
+Executors of John Howard, Esq ......  30 o o
 
-Executors of William Pooley, Esq........... 100 o o
+Executors of William Pooley, Esq ......  100 o o
 
-Executor of John Baynard, Esq............roooo o o
+Executor of John Baynard, Esq ...... roooo o o
 
 Executors ot George Staiubridge, Lsq. being (lie Produce
 
 of zoo I. three per Cent. Consols......... 1^ 7 6
 
-Dividends due to Ditto............... '26 13 6
+Dividends due to Ditto ......  '26 13 6
 
-Executors of John Sw eet, Esq............ 30 o o
+Executors of John Sw eet, Esq ......  30 o o
 
 Elxccutors of Nathaniel George Poire, Esq....... 21 o o
 
 Executrix of the late Mrs. Rebecca Lee, 300/. Stock four
 
-per Cents. Value................246 o o
+per Cents. Value ...... 246 o o
 
 Ex-
 
@@ -10038,27 +10038,27 @@ Ex-
 
 £. s. d.
 
-Executor of Charles Selwin, Esq.......... ico o o
+Executor of Charles Selwin, Esq ......  ico o o
 
 Executors of Lady Grant, a second Benefaction, Produce
 
-of 250/. Stock, three per Cents..........173 18 3
+of 250/. Stock, three per Cents ...... 173 18 3
 
-Executors of Bercher Baril, Esq...........100 o o
+Executors of Bercher Baril, Esq ...... 100 o o
 
-Executor of Edward Heylyn, Esq........... ro 10 o
+Executor of Edward Heylyn, Esq ......  ro 10 o
 
-Executors of Thomas Lane, Esq. 3c /. Stamp Duty deducted .................... 47 o o
+Executors of Thomas Lane, Esq. 3c /. Stamp Duty deducted  ......  47 o o
 
 Executrix of Mrs. Knapton, 10/. and Stamp Duty, .... 10 3 2
 
 Executors of Ralph Kirkham, Esq. deducting Stamp
 
-Duty on 1000/.................940 o o
+Duty on 1000/ ...... 940 o o
 
 Executors of Air. Charles Belliard......... 23 o o
 
-Executors of Airs. Schank.............400 o o
+Executors of Airs. Schank ...... 400 o o
 
 Executors of William Shambrookc, Esq........300 o o
 
@@ -10066,9 +10066,9 @@ Executors of Wilson Fearson, Esq. deducting Stamp Duty 47 o o
 
 Executors of William Fuller, Esq. produce of 200/.
 
-three per Cent. Consols............. in o o
+three per Cent. Consols ......  in o o
 
-Dividends on Ditto................ 6 -o o
+Dividends on Ditto ......  6 -o o
 
 Executrix of John Peto Debeil, Esq......... 10 o o
 
@@ -10522,7 +10522,7 @@ Parker, Mr. Robert .... 3 30
 
 Fitter, Mr. Thomas ... 2 20
 
-P.A..........21 00
+P.A ...... 21 00
 
 Pooley, William, Esq. 10 10 o
 
@@ -10660,7 +10660,7 @@ Raikes, Thomas, Esq.
 
 eight Benefactions ... 54 00
 
-R. M.......... 12 o
+R. M ......  12 o
 
 Randolph, Dr. Thomas 8 80
 

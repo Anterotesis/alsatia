@@ -92,7 +92,7 @@ MY LORD,
 
 Whilst the loyal Volunteers of Kent were emulously demonstrating their high esteem of your patriotic spirit; and not only raised up a monument to perpetuate its memory, but presented you also with the insignia of your profession as their Commander*; whilst
 
-* On the spot where their Majesties dined, a pavilion was erected in his Lordship’s park, inscribed, “A Tribute of Respect from the Volunteers of Kent to the Earl of Romney, Lord  Lieutenant of the County.” On this occasion 5319 Volunteers were entertained at the tables, after having been reviewed by his Majesty on the 1st of August 1799, at his Lordship’s seat near Maidstone. And on the 21st of April, 1802, an elegant Sword was unanimously voted at Maidstone to the noble Earl, by the officers of the West Kent Militia, “as a token of the deep sense they entertained of his Lordship’s uniformly polite attention“ towards them, and of the zeal he has ever displayed in promoting the real interest and welfare of the regiment.”
+* On the spot where their Majesties dined, a pavilion was erected in his Lordship’s park, inscribed, “A Tribute of Respect from the Volunteers of Kent to the Earl of Romney, Lord Lieutenant of the County.” On this occasion 5319 Volunteers were entertained at the tables, after having been reviewed by his Majesty on the 1st of August 1799, at his Lordship’s seat near Maidstone. And on the 21st of April, 1802, an elegant Sword was unanimously voted at Maidstone to the noble Earl, by the officers of the West Kent Militia, “as a token of the deep sense they entertained of his Lordship’s uniformly polite attention“ towards them, and of the zeal he has ever displayed in promoting the real interest and welfare of the regiment.”
 
 iv DEDICATION.
 
@@ -366,25 +366,23 @@ I. s. d.
 
 19th April. Instructions and warrant to sue 0 12 0
 
-Affidavit of debt .... 0 7 2
+Affidavit of debt - 0 7 2
 
 Drawing Precipe for original
 
-fol. 25..................15 0
+fol. 25 ...... 15 0
 
 Copy for the Cursitor . . 0 12 6
 
 Paid for original . . .05 6
 
-Fee thereon................0 6 8
+Fee thereon - 0 6 8
 
-Paid the King’s fine, and at-
-
-tending to compound it . 0 10 0
+Paid the King’s fine, and attending to compound it . 0 10 0
 
 Returning and filing original 0 2 4
 
-Capias and fee .... 0 16 0
+Capias and fee - 0 16 0
 
 Warrant and messenger 0 2 0
 
@@ -403,8 +401,6 @@ the writ . . .034
 Paid for the rule . . 0 6 6
 
 Copy and service . .020
-
-Instruc-
 
 28
 
@@ -565,8 +561,6 @@ PRISONERS remaining for Want of Bail - *
 Note, The disproportion against the first and lowest class, on a comparison with the second, is two to one} on a comparison with the third, is increased $ and on a comparison with the fourth class, is twenty to one.
 
 Middlesex is reckoned only at one fifteenth of the whole kingdom:
-
-\
 
 (41)
 
@@ -778,7 +772,7 @@ Sheweth,
 
 That your Petitioner—hath not received any benefit from your Society heretofore:That he is in the Year of his Age: by profession a
 
-and hath * Insert the
+and hath Insert the
 
 Wife, and number of Children, if any, under 14 years of age.
 
@@ -996,7 +990,7 @@ Matthew, xxv. ver. 35,
 
 ABINGDON; Berkshire.
 
-Gaoler, James Goldby, a baker, and Serjeant at Mace. Salary, 10/. Fees, none.
+Gaoler, James Goldby, a baker, and Serjeant at Mace. Salary, 10l. Fees, none.
 
 Number of Debtors, 18th August 1803, and 31st August 180b, none.
 
@@ -1040,25 +1034,23 @@ IN £XGLAXD, SCOTLAND, AND WALES.
 
 APPLEBY; Westmoreland.
 
-Gaoler, James Beicsher. Salary, 20/1 He is a blacksmith, and his workshop is at the foot of the bridge, nearly opposite the gaol.
+Gaoler, James Beicsher. Salary, 20l. He is a blacksmith, and his workshop is at the foot of the bridge, nearly opposite the gaol.
 
 Fees; see Table. Garnish, Is.
 
-Chaplain, Rev. James Metcalfe. Salary, 25/. Duty, Sunday afternoon. Prayers and Sermon.
+Chaplain, Rev. James Metcalfe. Salary, 25l. Duty, Sunday afternoon. Prayers and Sermon.
 
 Surgeon, Mr. Bushby; makes a Bill.
 
 Number of Debtors
 
-This Gaol was built by the County. The Earl of Thanet is Hereditary Sheriff, and pays the gaoler his salary. The prison itself is out of the reach of the floods, but the river sometimes overflows part of the court-yard. In the lower part of the prison are four vaulted wards for felons, 14f feet by 13; a small iron-grated window in each, but no chimney:and over them are three good rooms, with fire-places, for debtors. Divine service is performed in the debtors’ day-room. Only one court, 3 2 yards by 22; so that men and women prisoners mi\ pro-
+This Gaol was built by the County. The Earl of Thanet is Hereditary Sheriff, and pays the gaoler his salary. The prison itself is out of the reach of the floods, but the river sometimes overflows part of the court-yard. In the lower part of the prison are four vaulted wards for felons, 14f feet by 13; a small iron-grated window in each, but no chimney:and over them are three good rooms, with fire-places, for debtors. Divine service is performed in the debtors’ day-room. Only one court, 3 2 yards by 22; so that men and women prisoners mi\ promiscuously
 
 Allowance; Debtors, none whatever.
 
 REMARKS.
 
 £ 2
-
-miscuoiisiy
 
 6 S
 
@@ -1094,7 +1086,7 @@ The County Gaol.
 
 Gaoler, Ilenry Sheriff'. Salary, for the Gaol 140/.; for the Bridewell 30/.
 
-Fees, abolished. But the Under-Sheriff takes from each debtor 2s. 6d. for his liberate. Chaplain, Rev, Mr. Hopkins. Duty, Prayers and Sermon every Sunday. Salary, 50/. Surgeon, Mr. Hayward. Salary, 35/. for every class of prisoners.
+Fees, abolished. But the Under-Sheriff takes from each debtor 2s. 6d. for his liberate. Chaplain, Rev, Mr. Hopkins. Duty, Prayers and Sermon every Sunday. Salary, 50l. Surgeon, Mr. Hayward. Salary, 35l. for every class of prisoners.
 
 Number of Debtors.
 
@@ -1160,7 +1152,7 @@ To the Poor of Weston Turville . G 8 To the Prisoners in Aylesbury Gaol 13 4
 
 To a Scavenger, to keep the Church-wavs
 
-clean...............................13 4
+clean - 13 4
 
 The remainder, after deducting 15s. Gel. for the Land Tax, is distributed to the widows and distressed poor of the parish of Aylesbury.”
 
@@ -1200,11 +1192,11 @@ BATH City Gaol.
 
 Gaoler, George Griffin; a Sheriff’s Officer*.
 
-Salary, 30/. Fees, 7s. Sd. No Table. Chaplain (first appointment), Rev. Mr. Marshall* Salary, 20/.
+Salary, 30l. Fees, 7s. Sd. No Table. Chaplain (first appointment), Rev. Mr. Marshall* Salary, 20l.
 
 Duty; no stated time. At my visit in 180G, it was ??iore than two months since divine service had been performed.
 
-Surgeon (first appointment), Mr. Kitsoiu Salary, 20/.
+Surgeon (first appointment), Mr. Kitsoiu Salary, 20l.
 
 Number of Debtors.
 
@@ -1247,8 +1239,6 @@ Number of Debtors.
 1800, April 24th, . 4 I 1803, Sept. 15th, . 3 1802, Jan. 26th, . 5 I 180G, Nov. 13th, . 1
 
 Allowance; four-pence a day.
-
-RE-
 
 IN ENGLAND, SCOTLAND, AND WALES, 77
 
@@ -1296,7 +1286,7 @@ BEDFORD.
 
 The County Gaol.
 
-Gaoler, Jolm-Moore Howard. Salary, 100/. and for the House of Correction QOL Fees, Debtors 13s. 4d.
+Gaoler, Jolm-Moore Howard. Salary, 100l. and for the House of Correction QOL Fees, Debtors 13s. 4d.
 
 Garnish, abolished.
 
@@ -1304,7 +1294,7 @@ Chaplain, Rev. Thomas Cave.
 
 Duty, Prayers and Sermon on Sunday, ami Prayers on Thursday *
 
-Salary, 40/.
+Salary, 40l.
 
 Surgeon, Mr. Champion.
 
@@ -1366,7 +1356,7 @@ ACCOUNT OF PRISONS FOR DERTORS
 
 BERWICK; Town and County Gaol.
 
-Gaoler, George Richardson; Salary, 40/.
+Gaoler, George Richardson; Salary, 40l.
 
 He lives distant, and keeps a public house. Fees; freemen, none; non-freemen, 2s. 6d.
 
@@ -1394,7 +1384,7 @@ ACCOUNT OF PRISONS FOR DEBTORS
 
 BEVERLY; Town and Liberty GaoL
 
-Gaoler, Timothy Lundic, Serjeant at Mace. Salary, 14/. 45. Fees, 4<$. 4d.
+Gaoler, Timothy Lundic, Serjeant at Mace. Salary, 14l. 45. Fees, 4<$. 4d.
 
 Surgeon, from the town, if wanted.
 
@@ -1426,7 +1416,7 @@ AlloAvance, none whatever at my two former visits; but in Nov. 1805, I was infor
 
 This receptacle for Debtors is situate in Philip-street :-a dark dirty dungeon, about 3 yards and half square, led down to by seven steps, to receive men and women; and one sleeping-room above it, about 12 feet square, with straw upon the floor. It is in a little back court-yard, 13 feet 10 inches by 13 feet, belonging to the Keepers house. There are three other rooms, to which he furnishes beds for those
 
-, n ^ __
+, n __
 
 Number of Debtors
 
@@ -1434,7 +1424,7 @@ whe
 
 ss
 
-ACCOUNT OF PRISON'S FOR DEBTORS
+ACCOUNT OF PRISONS FOR DEBTORS
 
 who can pay 2.9. per week. The dungeon is used as a day-room, on account of the little court-yard; and I was informed, there have frequently been four, and, at one time, fifteen prisoners in it!
 
@@ -1454,9 +1444,9 @@ Gaoler, James Chappie. Salary 30/. with Fees as per Table: and if both together 
 
 Chaplain, Rev. Mr. Morgan.
 
-Duty; Prayers and Sermon every Sunday. Salary, 50/.
+Duty; Prayers and Sermon every Sunday. Salary, 50l.
 
-Surgeon, Mr. Hamlcy.
+Surgeon, Mr. Hamley.
 
 Salary 30Z. for debtors and felons.
 
@@ -1470,11 +1460,9 @@ Allowance, to -such debtors as are poor, and petition the Magistrates, one pound
 
 * The active and ingenious Keeper employs the prisoners at his own risk of sale; and the considerate Magistrates allow him that [ortion of earnings which was formerly paid to the County.
 
-RE-
-
 90
 
-ACCOUNT OF PRISON'S FOR DEBTORS
+ACCOUNT OF PRISONS FOR DEBTORS
 
 REMARKS.
 
@@ -1514,9 +1502,7 @@ house, a bed to himself, per week 0 o 6
 
 Two such Debtors in a bed, each 0 1 3
 
-Every Debtor i n the Master’s house bri ng-
-
-ing his own bed, for lodging-room 0 1 3
+Every Debtor in the Master’s house bringing his own bed, for lodging-room 0 1 3
 
 Second Class.
 
@@ -1756,7 +1742,7 @@ IN ENGLAND, SCOTLAND, AND WALES. 105
 
 BRADFORD; Yorkshire.
 
-Gaoler, William Lee. Salary, 20/.
+Gaoler, William Lee. Salary, 20l.
 
 Surgeon, if wanted, sent for from the town.
 
@@ -1870,7 +1856,7 @@ City and County Gaol.
 
 Gaoler, William Humphries.
 
-Salary, 200/. and 21, a year gown-money.
+Salary, 200l. and 21, a year gown-money.
 
 Fees, first action, 6s. Sd.; second, and every other, 3<y. 4d.; a London action, $)s.
 
@@ -1956,7 +1942,7 @@ County Gaol and Bridewell.
 
 Gaoler, John Orridge; who is also Keeper of the Bridewell, or House of Correction.
 
-Salary, 300/. and coals and candles; together with other perquisites specified in the Rules and Regulations.
+Salary, 300l. and coals and candles; together with other perquisites specified in the Rules and Regulations.
 
 Fees; as per Table.
 
@@ -2016,7 +2002,7 @@ ground floor; the others on the upper story, to which \ ou ascend bv a stone sta
 
 of
 
-IN ENGLAND, SCOTLAND, AND WALKS. 117
+IN ENGLAND, SCOTLAND, AND WALES. 117
 
 of the Keeper’s house is raised six steps above the level of the other buildings; and the windows ol the house are so placed, that all the prisoners in the different court-yards are under constant inspection, as well as all persons corning into the Gaol. The chapel is in the centre of the Keeper’s house, up one pair of stairs: prisoners go to it by means of
 
@@ -2108,7 +2094,7 @@ Chaplain, Rev. Thomas Price.
 
 Duty, every Sunday and Holiday.
 
-Salary, 12/.
+Salary, 12l.
 
 Surgeon, Mr. William Price.
 
@@ -2150,7 +2136,7 @@ CAERNARVON; North Wales.
 
 County Gaol.
 
-Gaoler, William Griffiths. Salary, 15/.
+Gaoler, William Griffiths. Salary, 15l.
 
 Fees, Js. (no Table); besides which the Under Sheriff demands 3s. 6d. for his liberate.
 
@@ -2174,11 +2160,11 @@ County Gaol and Bridewell.
 
 Gaoler, Robert Orridge.
 
-Salary, 200/. Fees, and Rules and Order* not yet settled.
+Salary, 200l. Fees, and Rules and Order* not yet settled.
 
 Chaplain, Rev. Mr. Homes.
 
-Duty, Prayers and Sermon every Sunday. Salary, 25/. and 20/. from the Earl of Hardwicke, as Lord Lieutenant of the County.
+Duty, Prayers and Sermon every Sunday. Salary, 25l. and 20/. from the Earl of Hardwicke, as Lord Lieutenant of the County.
 
 Surgeon. Mr. Okes.
 
@@ -2220,7 +2206,7 @@ Debtors have relief from legacies and donations paid by several colleges. From S
 
 W ENGLAND, SCOTLAND, AND WALES. 127
 
-CAMBRIDGE Town Gaol Gaoler, Thomas Adams. Salary, 12/. He is bellman to the Town. Tees; none.
+CAMBRIDGE Town Gaol Gaoler, Thomas Adams. Salary, 12l. He is bellman to the Town. Tees; none.
 
 Chaplain, none. Surgeon, none.
 
@@ -2250,8 +2236,6 @@ Chaplain, none:the Rev. Mr. Gosling attends, if any prisoner is under sentence o
 
 Surgeon, Mr. Trimnel; makes a bill.
 
-\
-
 Number of Debtors.
 
 1800, March 26th, - 1 1803, Sept. 24th, - 2
@@ -2262,7 +2246,7 @@ Allowance. To those who are poor a Ad. or 6d. loaf a day, as bread is cheap or d
 
 Remarks. This Gaol is over the West gate. Here is only one day-room, about 2^ feet square. No court. There is a room in each of the two towers, for debtors to sleep in (l 1| feet in diameter), and the Keeper occasionally permits them to walk upon the leads. Only old mats to lie upon. The Keeper lives in a house adjoining, in which is a room or two for debtors, who can afford to pay for a bed. An old man goes about the City with a basket every Saturday, to collect from the butchers and green-stalls, meat and vegetables. He receives one third of what he collects, and the remainder is equally divided amongst all the prisoners. The Corporation likewise give him yearly a great coat, and a laced hat.
 
-IX £N*GLAXDj SCOTLAND, AND WALKS.
+IN ENGLAND, SCOTLAND, AND WALES.
 
 12£>
 
@@ -2304,9 +2288,9 @@ CARDIGAN.
 
 County Gaol.
 
-Gaoler, IVm. Lang don. Salary, 30/.; fees, Cs. 8d.
+Gaoler, IVm. Lang don. Salary, 30l.; fees, Cs. 8d.
 
-Chaplain, Rev. John Evans. Salary, 20/.
+Chaplain, Rev. John Evans. Salary, 20l.
 
 Duty; Sunda}rs, and at other times if required.
 
@@ -2338,15 +2322,15 @@ IN ENGLAND, SCOTLAND, AND WALES.
 
 132
 
-ACCOUNT OF PRISON'S FOR DEBTORS
+ACCOUNT OF PRISONS FOR DEBTORS
 
 CARLISLE, City and County; Cumberland.
 
-Gaoler, Joseph Midlender; Salary, 40/. and to a Blacksmith 2/. 2s. for his attendance.
+Gaoler, Joseph Midlender; Salary, 40l. and to a Blacksmith 2/. 2s. for his attendance.
 
 Fees, 1 Is. Notable. Garnish, Is. 6d.
 
-Chaplain, Rev. Mr. Mat h. Salary, 20/.
+Chaplain, Rev. Mr. Mat h. Salary, 20l.
 
 Duty, Sunday, Prayers and Sermon.
 
@@ -2374,31 +2358,23 @@ No infirmary; no bath Act for preserving the Health of Prisoners, and Clauses ag
 
 This Ciaol is in a very ruinous and dilapidated state; but there is an excellent situation near the Castle, where I was informed a new Gaol was proposed to be built. The Sessions-house might likewise adjoin, the present one being very old and inconvenient, from its being in the middle of the City, and distant from the prison.
 
-CARLISLE City Gaol is over the Scotch Gate. It is only one ruinous room, about 20 feet square, with a fire-place, and a window feet by- 1]. No allowance. No court. No water. It was filled with lumber when I was there:no prisoner had been confined in it for 10 years. The prisoners from the City are kept in the County Gaol, by agreement between the Corporation and the Keeper. No toicn debtor can now be imprisoned fo.r less than 10/.: they seldom exceed 2 or 3 in a year, and those only for a short time.
+CARLISLE City Gaol is over the Scotch Gate. It is only one ruinous room, about 20 feet square, with a fire-place, and a window feet by- 1]. No allowance. No court. No water. It was filled with lumber when I was there:no prisoner had been confined in it for 10 years. The prisoners from the City are kept in the County Gaol, by agreement between the Corporation and the Keeper. No toicn debtor can now be imprisoned for less than 10/.: they seldom exceed 2 or 3 in a year, and those only for a short time.
 
-•v
+IN ENGLAND, SCOTLAND, AND WALES. 13$
 
-.
-
-IN ENGLAND, SCOTLAND, AND WALE*. 13$
-
-HEM ARKS.
+REMARKS.
 
 This elegant Gaol, erected on a very liberal plan, at the County expence, was first inhabited in 1/77* Its handsome appearance cannot fail to excite the admiration of every passenger:blit the original plan, in many parts, was found defective. It was too much crowded by a large chapel, a needless tap-room, a spacious kitchen, and other domestic offices. These defects, however, have been since very judiciously remedied, by the abolition of the tap, and removal of the chapel to a more eligible situation; by which many single cells have been added, and the salubrity of the prison increased.
 
-Debtors and felons are here kept entirely separate. The former, men and women, have only one courtyard of , 99 feet by 14, in which is a day-room, with a flagged floor, 22 feet by 14; and eight separate sleeping-rooms, 18 feet by 14, and 9 feet 10 inches high, with fire-places and sash-windows:likewise a straw room, or free ward, 1, 3 feet by l6‘, with three sashed windows, and furnished with straw for those who cannot afford beds. A large upper room, called the smugglers-room, 42 feet by l6‘, with iron-grated windows, and furnished with good beds, is also appropriated to debtors, who can pay for the use of it. The whole Gaol is well supplied with excellent water.
+Debtors and felons are here kept entirely separate. The former, men and women, have only one courtyard of , 99 feet by 14, in which is a day-room, with a flagged floor, 22 feet by 14; and eight separate sleeping-rooms, 18 feet by 14, and 9 feet 10 inches high, with fire-places and sash-windows:likewise a straw room, or free ward, 1, 3 feet by l6‘, with three sashed windows, and furnished with straw for those who cannot afford beds. A large upper room, called the smugglers-room, 42 feet by 16‘, with iron-grated windows, and furnished with good beds, is also appropriated to debtors, who can pay for the use of it. The whole Gaol is well supplied with excellent water.
 
-Some
-
-ACCOUNT OI* PRISON'S FOR DEI5TORS
+ACCOUNT OF PRISONS FOR DEBTORS
 
 136
 
 Some years since, Mrs. Herris gave lands in trust to the incumbent of Chelmsford, out of the rents of which 5 A are distributed annually on Christmas eve, in equal portions, to the debtors. A memorial of this is hung up in the gaol. The Act for preservation of Health, and Clauses against Spirituous Liquors, are conspicuously placed.
 
-All prisoners are required to attend chapel; their behaviour when I was there was attentive and orderly. The felons are classed according to their offences, separated by wainscot partitions, with an iron screen before their seats. I cannot help expressing the pleasure I received from the worthy chaplain’s selecting passages of scripture, the most appropriate to the class he was addressintr. He admonished the profligate, exhorted the thoughtless, and comforted the afflicted. Not content with the formal discharge of required duty, he appeared to be, in principle, a Christian.
-
-\
+All prisoners are required to attend chapel; their behaviour when I was there was attentive and orderly. The felons are classed according to their offences, separated by wainscot partitions, with an iron screen before their seats. I cannot help expressing the pleasure I received from the worthy chaplain’s selecting passages of scripture, the most appropriate to the class he was addressing. He admonished the profligate, exhorted the thoughtless, and comforted the afflicted. Not content with the formal discharge of required duty, he appeared to be, in principle, a Christian.
 
 * There wants a separation of young beginners from old offenders: and at my visit in 180^ a man committed for bastardy was in the Felons’ Court. The two infirmaries are injudiciously on the ground- floor.
 
@@ -2406,7 +2382,7 @@ IS ENGLAND, SCOTLAND, AND WALKS. 13 7
 
 CHESTER CASTLE.
 
-Comity Gaol.
+County Gaol.
 
 Gaoler and Constable *, Matthew Hudson,
 
@@ -2431,8 +2407,6 @@ Number of Debtors,
 1802, Oct. 16th, - 31 I 1805, Oct. 26‘tli, - 38
 
 Allowance, To debtors, seven pounds of good wholesome bread per week, which is to be at least one day old, viz. 3f lbs. on Tuesday and Friday. See Remarks.
-
-RE-
 
 * Salary from the Crown, iS /. 5 s.
 
@@ -2466,7 +2440,7 @@ On the left side of the yard are two stories of small sleeping-rooms, twelve in 
 
 140
 
-ACCOUNT OF PRISONS FOll DEBTORS
+ACCOUNT OF PRISONS FOR DEBTORS
 
 and 13 feet high, with two windows in each room: these are for Master's-side Debtors. 'I hey have no water-cisterns in these apartments, but there is a pump well supplied with spring water in the centre of the yard. Each sleeping-room contains one bed, for which, if found by the Keeper, the prisoner pays 2s. per week; if the prisoner finds his own bed lie pays Is. per week, which is accounted for to the County by the Keeper. Debtors have no access to their sleeping-rooms during the day; the bedsteads on which they sleep are two iron tressels with boards, painted and varnished.
 
@@ -2476,7 +2450,7 @@ Opposite to these are the Women Debtors apartments; of which description there a
 
 The
 
-IN* ENG LAND, SCOTLAND, ' AND WALES. 14 J
+IN ENGLAND, SCOTLAND, AND WALES. 14 J
 
 The Chapel, which stands directly under the front room ami terrace of the Keeper’s house, is a very neat little building, ornamented with seven solid pillars lS feet long. The felons sit in live seats or boxes, 12 feet by 6 feet 8, corresponding with their respective court-yards, over which is a gallery erected for the debtors. The Keeper’s pew is behind the clergyman, and the communion table below, where the sacrament is administeredfrom four to six times a year. On each side of the chapel, in a straight line, are IS solitary cells, 7 feet 8 by 0 feet 4- Each has a small anti-room, 8 feet 2 by 7 feet 8, and 8 feet 6 inches high; three of which anti-rooms are now made into work-shops, and of the rest seven may be heated by a stove for that purpose. Over these cells on each side are workrooms for debtors, the roofs of which, being of flagged stone, form the terraces in the debtors’ and infirinary courts; and in front of them are two rows, of iron railing, placed a .little distant from each other, in order to prevent the debtors, or their friends, from seeing or conversing with the felons
 
@@ -2492,7 +2466,7 @@ and shoe-makers, that can get employ, as Chester is not a manufacturing city.
 
 There is a book kept in the prison for visiting magistrates to enter their remarks; and the earnings of the prisoners are accounted for at each Easter session. I cannot help here ^expressing my regret for the loss to this City of that able and upright magistrate, the Rev. Dr. Peploe Ward (who by the late Act is obliged to reside nine months in the year at Ely). By his active energies and unremitting attention, Industry and Morality were encouraged and inculcated; and, possessing temporal authority to make his spiritual advice respected, its influence was felt through every department of this very interesting Gaol.
 
-The only legacies I find on record are the two following. <f Mr. John Normy, Citizen and Mer-<c chant-taylor of London, by his will, loth Octo-f< ber, lCl5, left 6s. 8d. to be distributed on Can-<c dlemas yearly, for ever, by the Mayor, to the poor <c prisoners, in money or bread.”
+The only legacies I find on record are the two following. <f Mr. John Normy, Citizen and Merchant-taylor of London, by his will, loth October, lCl5, left 6s. 8d. to be distributed on Candlemas yearly, for ever, by the Mayor, to the poor prisoners, in money or bread.”
 
 “ Valentine Broughton, of Chester, Alderman, by ec his will lfith June, 1G03, left 13^. 4d. to be dis-<(tributed at Michaelmas and Lady-day yearly, for “ ever, by the Mayor, to the prisoners in the Castle, “ by equal portions, or 20 days after.”
 
@@ -2500,15 +2474,13 @@ The above written list of gifts a true copy.
 
 Tho. Tacg, Cl. Pads, N. B,
 
-IN* EXGLAND, SCOTLAND, AND WALES. 145
+IN ENGLAND, SCOTLAND, AND WALES. 145
 
 N. B; These are regularty paid (1805) by the Mayor.
 
 Of the debtors (when f was here in 1805), 1$ were at work, and one of them, a shoe-maker, had saved upwards of 10/. Of the felons seven were employed. Every one of the prisoners attended Chapel the next day:their appearance was clean, their (behaviour orderly, and they were very attentive to a serious and appropriate discourse. Their worthy Chaplain has a discretionary power to distribute among them moral and religious books, as he thinks necessary.
 
 Every Christmas the Ladies and Gentlemen of Chester are waited upon by the Turnkey; and their 'subscriptions, for relief of prisoners, generally amount from 14 to 18/. part of which is distributed in money and coals, as the visiting magistrates direct. Out of this fund the worthy keeper is authorized to allow any very poor debtor the same quantity of potatoes and salt weekly, as the felons receive. Also, from the same annual donations he assists many poor debtors to obtain their sixpences; and, frequently, to effectuate their discharge, by a small addition to the sums voted them by the SOCIETY for Small Debts, ill London; A book is kept for the purpose of entering all donations, and the manner in which they are applied, which is under the constant inspection of the Magistrates.
-
-The
 
 144
 
@@ -2556,8 +2528,6 @@ The following is entered in the Magistrates’ books.
 
 ((Rob. Goff.”
 
-\
-
 IN ENGLAND, SCOTLAND, AND WALES. 14J
 
 CHESTER CITY, North Gate.
@@ -2604,7 +2574,7 @@ REMARKS.
 
 COLCHESTER; Essex.
 
-Gaoler, John Hardy. Salary, 12/. Fees, 2s. 6d. Allowance. Four pence per day.
+Gaoler, John Hardy. Salary, 12l. Fees, 2s. 6d. Allowance. Four pence per day.
 
 Number of Debtors
 
@@ -2652,7 +2622,7 @@ ACCOUNT OF PRISONS FOR DEBTORS
 
 COVENTRY; JFandcMiire.
 
-Gaoler, Basil Goode. Salary, 120/.
+Gaoler, Basil Goode. Salary, 120l.
 
 Fees, 15-y. 4d.; besides which the Under-Sheriffi demands 4-s. for his liberate.
 
@@ -2700,7 +2670,7 @@ ACCOUNT OF PRISONS FOR DEBTORS
 
 DERBY, County Gaol.
 
-Gaoler, William Eton. Salary, 170/. and for House of Correction 301.
+Gaoler, William Eton. Salary, 170l. and for House of Correction 301.
 
 Fees, 17s. 4d.; besides which the Under-Sheriff demands 6s. 8cl. for his liberate. Garnish, abolished.
 
@@ -2708,7 +2678,7 @@ Chaplain, Rev. Nicholas Bailey.
 
 Duty, Sermon on Saturday; and prayers Monday and Wednesday; -and every day to prisoners under sentence of death.
 
-Salary, 35/.
+Salary, 35l.
 
 Surgeon, Mr. Fox. Salary 40/. for debtors and felons.
 
@@ -2752,9 +2722,9 @@ Gaoler, Joseph Draper. Salary IOO/.
 
 Chaplain, Rev. Mr. Leddiard.
 
-Duty, every Sunday. Salary, 20/.
+Duty, every Sunday. Salary, 20l.
 
-Surgeon, Mr. Gibbs. Salary, 15/.
+Surgeon, Mr. Gibbs. Salary, 15l.
 
 pi801, Dee. 15th, - 2
 
@@ -2778,13 +2748,13 @@ ACCOUNT OF PRISONS FOR DEBTORS
 
 DOLGELLY; Merionethshire.
 
-Gaoler, Rice Edwards. Salary, 20/.
+Gaoler, Rice Edwards. Salary, 20l.
 
 Fees; Gs. Sd. No Table.
 
 Chaplain, Rev. Mr. Williams. Salary, 19.1. Duty. Prayers every Saturday.
 
-Surgeon, Mr. Ellis Evans. Salary, 12/.
+Surgeon, Mr. Ellis Evans. Salary, 12l.
 
 {1800, April 2d, - 5
 
@@ -2810,7 +2780,7 @@ Gaoler, Joseph Farrington, Serjeant at Mace.
 
 Deputy, 'Thomas Hill, Town-Beadle.
 
-Salary, 10/. 10s. Cloaths and laced hat, yearly.
+Salary, 10l. 10s. Cloaths and laced hat, yearly.
 
 Fees, debtors 2s. 6d.; felons Is. 4d.; conveyance of transports 1a\ per mile.
 
@@ -2856,9 +2826,9 @@ Chaplain, Rev. Mr. Bryer.
 
 Duty, Sunday, and Wednesday. '
 
-Salary, 50/.
+Salary, 50l.
 
-Surgeon, Mr. Arden. Salary, 40/. for both
+Surgeon, Mr. Arden. Salary, 40l. for both
 
 Debtors and Felons.
 
@@ -2934,7 +2904,7 @@ DOVER CASTLE.
 
 Gaoler and Bodar *, W illiam Collinson.
 
-Salary, 30/. Fees; see the Table.
+Salary, 30l. Fees; see the Table.
 
 Garnish, Is. (hi.
 
@@ -3000,7 +2970,7 @@ DOVER Town Gaol.
 
 Gaoler, John Mitchell.
 
-Salary, 30/. a chaldron of coals, and a suit of clothes.
+Salary, 30l. a chaldron of coals, and a suit of clothes.
 
 Fees, 8$. 2d. discharge, is. 6d. Garnish, Js.
 
@@ -3046,9 +3016,9 @@ DURHAM.
 
 Gaoler, John Wolfe (by patent from the Bishop, durante beneplacito). In the patent it is called the Outer Gate.
 
-Salary, 200/. for the Bridewell 35/. and 17/. from the rents ‘of four small adjoining: houses. Out of this salary the Gaoler pays 30/. per annum to a Turnkey and assistants, and likewise provides them a house to live in Fees and Garnish abolished.
+Salary, 200l. for the Bridewell 35/. and 17/. from the rents ‘of four small adjoining: houses. Out of this salary the Gaoler pays 30/. per annum to a Turnkey and assistants, and likewise provides them a house to live in Fees and Garnish abolished.
 
-Chaplain, Rev. James Dcason. Salary, 40/. Duty, Prayers and Sermon every Sunday.
+Chaplain, Rev. James Dcason. Salary, 40l. Duty, Prayers and Sermon every Sunday.
 
 Surgeon, Mr. Green. Salary 61. 6s. and his bill for medicines.
 
@@ -3200,13 +3170,13 @@ lS J.
 
 EDINBURGH Tolbooth.
 
-Gaoler, or Captain, James IVelsh. Salary, 100/. Fees, 67/. coming in, and 67/. going out; one half paid by the creditor, the other by the debtor. See Table.
+Gaoler, or Captain, James IVelsh. Salary, 100l. Fees, 67/. coming in, and 67/. going out; one half paid by the creditor, the other by the debtor. See Table.
 
 Licence for Porter: he likewise furnishes bread and small beer.
 
 Garnish, none allowed.
 
-Chaplain, Rev. Mr. Port eons. Salary, 15/. Duty, once a Sunday, to debtors only.
+Chaplain, Rev. Mr. Port eons. Salary, 15l. Duty, once a Sunday, to debtors only.
 
 Surgeon. When one is wanted, application is made to the Deacon of the Surgeons’ Company.
 
@@ -3272,7 +3242,7 @@ Item, The incarcerator of any person or persons by the Lords’ Letters of Labur
 
 Item, the incarcerator of any person or persons on Laburrows by a magistrate, sheriff, or justice of peace, shall pay at incarceration - 1 10 0
 
-Item, The incarcerator of any person for exhibition of papers, or for implementing of writs (captions of reproduction of processes before the inferior courts excepted) shall pay at incarceration . - * 110 0
+Item, The incarcerator of any person for exhibition of papers, or for implementing of writs (captions of reproduction of processes before the inferior courts excepted) shall pay at incarceration . - 110 0
 
 The
 
@@ -3354,7 +3324,7 @@ This Gaol, like the other Tolbooth, is ill situated, and has no court-yard. Here
 
 TABLE
 
-IX ENGLAND, SCOTLAND, AND WALES. 18‘)
+IN ENGLAND, SCOTLAND, AND WALES. 18‘)
 
 TABLE OF FEES.
 
@@ -3514,7 +3484,7 @@ N
 
 EXETER City) and County Gaol.
 
-Gaoler, Richard Tarbart. Salary, 30/. lOs, Fees, Debtors, 16s. 8d. No Table.
+Gaoler, Richard Tarbart. Salary, 30l. lOs, Fees, Debtors, 16s. 8d. No Table.
 
 Under Sheriff’s liberate 3s.
 
@@ -3598,7 +3568,7 @@ The County Prison for Debtors.
 
 Gaoler, Richard Rice.
 
-Salary, 25/. Fees, as per Table.
+Salary, 25l. Fees, as per Table.
 
 Garnish. Prohibited by the Rules, but generally exacted by the prisoners.
 
@@ -3704,7 +3674,7 @@ Duty. Sunday, Prayers and Sermon; and oil Good Friday and Christmas-day the Sacr
 
 Salary, ^0/. paid by the Warden.
 
-Surgeon. None. No medical assistance in cas€ of sickness.
+Surgeon. None. No medical assistance in casC of sickness.
 
 Number of Debtors,
 
@@ -3968,7 +3938,7 @@ eight stone of Meat, at 2s. Sd. per stone, at Christmas J, - - 4 6 1
 
 X Mrs. Misson’s legacy, by the copy of her will in my possession, is the produce of ?.oq/. India Annuities, now changed into 3 per Cent. Consols. Mot regularly paid,
 
-14 ACCOUNT OF PRISON'S FOR DEBTORS
+14 ACCOUNT OF PRISONS FOR DEBTORS
 
 FLINT; North /Tales.
 
@@ -3982,7 +3952,7 @@ Chaplain, Rev. George Davies.
 
 Duty, once in every month ! Salary, 201.
 
-Surgeon, Mr. Joseph Inglehj. Salary, 30/.
+Surgeon, Mr. Joseph Inglehj. Salary, 30l.
 
 Number of Debtors, { lS00> A>)nt 3d’ ' ' 3
 
@@ -4002,17 +3972,17 @@ GILTSPUR STREET COMPTER.
 
 Gaoler, John Teague.
 
-Salary, 150/. by the Court of Aldermen, and 30/. by the Common Council.
+Salary, 150l. by the Court of Aldermen, and 30/. by the Common Council.
 
 Chaplain, Rev. Air. Edmunds.
 
 Duty, Prayers and Sermon on Sunday.
 
-Salary, 50/.
+Salary, 50l.
 
 Surgeon, Air. Hodgson.
 
-Salary, 80/. for the two Compters, and Ludgate.
+Salary, 80l. for the two Compters, and Ludgate.
 
 Number of Debtors,
 
@@ -4144,39 +4114,39 @@ Giltspur Street Compter Donations. ChrisTxMas Quarter.
 
 When paid.
 
-Yearly.....
+Yearly -
 
-' Quarterly...
+' Quarterly -
 
-Yearly.....
+Yearly -
 
 Quarterly___
 
-Ditto......
+Ditto -
 
-Ditto......
+Ditto -
 
-Yearly.....
+Yearly -
 
-Ditto......
+Ditto -
 
-Ditto......
+Ditto -
 
-Ditto......
+Ditto -
 
-Ditto......
+Ditto -
 
-Ditto......
+Ditto -
 
-Ditto....
+Ditto -
 
 Half-Yearly.
 
 Quarterly___
 
-Yearly.....
+Yearly -
 
-Ditto .....
+Ditto -
 
 Every 3 years
 
@@ -4186,31 +4156,31 @@ Donors’ Names.
 
 Sir John Kendrick, Knt.
 
-Mr. Meridith ........
+Mr. Meridith -
 
-Ditto..............
+Ditto -
 
-Ditto................
+Ditto -
 
 Mr. Peter Blundell
 
-Mr. Peak..............
+Mr. Peak -
 
-Mr. Chapman...........
+Mr. Chapman -
 
-Mr. John Wooller.....
+Mr. John Wooller -
 
 Mr. William Parker_____
 
-Mrs. Holligrave .....
+Mrs. Holligrave -
 
-Mr. Shields..........
+Mr. Shields -
 
-Mr. Clarke ..........
+Mr. Clarke -
 
 Ur. James Hodgson_____
 
-Sir William Middleton Sir Thomas Gresham ... Archbp. of Canterbury
+Sir William Middleton Sir Thomas Gresham - Archbp. of Canterbury
 
 Mr. Thomas Dawson ..
 
@@ -4220,31 +4190,31 @@ By whom paid.
 
 Drapers Company Leathersellers Com
 
-Ditto ..........
+Ditto -
 
 Skinners Company
 
-Ditto...........
+Ditto -
 
-Mr. Dunnage ....
+Mr. Dunnage -
 
 •St. Pancras Parish Merchant TaylorsComp
 
-Ditto...............
+Ditto -
 
 Clothworkers Company
 
-Cooks Company.......
+Cooks Company -
 
-Mr. Hodgson .......
+Mr. Hodgson -
 
 St. Sepulchre’s Parish.. Chamoerlain’s Office .
 
-Ditto..............
+Ditto -
 
 At Lambeth Palace*..
 
-Churchwardens of)St. Ethelbutgh Christ’s Hospital...
+Churchwardens of)St. Ethelbutgh Christ’s Hospital -
 
 Amount.
 
@@ -4328,81 +4298,81 @@ By whom paid.
 
 Amount.
 
-Quarterly....
+Quarterly -
 
-Ditto........
+Ditto -
 
-Ditto........
+Ditto -
 
-Ditto........
+Ditto -
 
-Yearly.......
+Yearly -
 
-Ditto........
+Ditto -
 
 Half-Yearly..
 
-•Yearly.......
+•Yearly -
 
-Ditto........
+Ditto -
 
 Half Yearly..
 
-Yearly ......
+Yearly -
 
 Half-Yearly..
 
-Yearly ......
+Yearly -
 
-Ditto........
+Ditto -
 
-.Mr. Meridith ...
+.Mr. Meridith -
 
 Mr. Peter Blundell.
 
-Mr. Meridith ....
+Mr. Meridith -
 
-Mr. Peak.........
+Mr. Peak -
 
 j Robert Martin and)
 
 { John March Alderman John Hoydon 5 Robert Martin and John March
 
-Richard Jacob......
+Richard Jacob -
 
-Mrs. Joan Sanbaek ...
+Mrs. Joan Sanbaek -
 
 Mr. Peter Blundell__
 
 Sir Thomas Gresham .
 
-Lady Ramsey........
+Lady Ramsey -
 
-Mr.'John Loards....
+Mr.'John Loards -
 
-Mr. John Corbett...
+Mr. John Corbett -
 
 Leathersellers Company Skinners Company
 
-Ditto ...............
+Ditto -
 
 Mr. Dunnage ..
 
-Mercers Company .....
+Mercers Company -
 
-Ditto................
+Ditto -
 
-Ditto................
+Ditto -
 
-Mrs. Ann Starling ...
+Mrs. Ann Starling -
 
-Parish of St. Bride’s ... Goldsmiths Company ... Chamberlain’s Ofliee ..
+Parish of St. Bride’s - Goldsmiths Company - Chamberlain’s Ofliee ..
 
-Christ’s Hospital....
+Christ’s Hospital -
 
-Ditto...............
+Ditto -
 
-I Cooks Company.......
+I Cooks Company -
 
 0 4 10
 
@@ -4440,13 +4410,13 @@ When paid. Donors’ Names. By whom paid. Amount.
 
 Quarterly Ditto Mr, Meridith M r. Peter Blundell Leathersellers Company Skinners Company Ditto 0 4 10 0 10 0 0 5 6 1 4 O 2 10 0 111 3 £.6 5 7
 
-Ditto Half-Yearly... Sir Thomas Gresham ... Sir William Middleton. Michaelmas Chamberlain’s Office ... Ditto Quarter.
+Ditto Half-Yearly - Sir Thomas Gresham - Sir William Middleton. Michaelmas Chamberlain’s Office - Ditto Quarter.
 
 When paid. Donor’s Names. By whom paid. Amount.
 
 Quarterly Ditto Mr. Meridith Mr. Peter Blundell Leathersellers Company Skinners Company 0 4 10 0 10 0 0 5 6 1 2 6 1 0 0 2 10 0 1 5 0 1 4 0
 
-Half- Yearly... Ditto Quarterly Half-Yearly... Quarterly { Robert Martin and } John March 5 Mr. Peter Blundell Sir Thomas Gresham ... Lady Ramsey Mr. Peak Mercers Company Goldsmiths Company ... Chamberlain’s Office ... Christ’s Hospital Mr. Dumiage
+Half- Yearly - Ditto Quarterly Half-Yearly - Quarterly { Robert Martin and } John March 5 Mr. Peter Blundell Sir Thomas Gresham - Lady Ramsey Mr. Peak Mercers Company Goldsmiths Company - Chamberlain’s Office - Christ’s Hospital Mr. Dumiage
 
 £.8 I 10
 
@@ -4494,7 +4464,7 @@ For every night-charge who shall be discharged before a Magistrate, - 3 G
 
 For
 
-230 ACCOUNT OF PRISON'S FOR DEBTORS
+230 ACCOUNT OF PRISONS FOR DEBTORS
 
 For every commitment after the first exa- 5. d.
 
@@ -4754,7 +4724,7 @@ N.B. To be paid by persons making the declaration, or demanding the warrant.
 
 “ That
 
-IN ENGLAND, SCOTLAND, AND WALKS.
+IN ENGLAND, SCOTLAND, AND WALES.
 
 sm r>
 
@@ -4810,7 +4780,7 @@ I
 
 GLOUCESTER, City and County Gaol.
 
-Gaoler, William Dunn. Salary, 31/. 10s.
+Gaoler, William Dunn. Salary, 31l. 10s.
 
 Fees. See Table. Chaplain, None,
 
@@ -4833,8 +4803,6 @@ for
 IN ENGLAND, SCOTLAND, AND WALES. 24t)
 
 for which they pay as per Table. On the 13th of December, prisoners have ten shillings worth °1 bread from an estate in Hemstead, near this city* It is sent in two-penny loaves. No memorial ol d in the Gaol.
-
-\
 
 A TABLE of the Chamber Rent and Fees.
 
@@ -4996,11 +4964,9 @@ When any felon was here found guilty, the bailiff immediately returned him back 
 
 See Halifax, and its Gibb it-Law
 
-\
-
 256
 
-ACCOUNT OF PRISON'S FOR DEBTORS
+ACCOUNT OF PRISONS FOR DEBTORS
 
 HAVERFORDWEST; Pembrokeshire. County Gaol.
 
@@ -5016,7 +4982,7 @@ Duty, Prayers, Wednesday and Friday. Salary, 201.
 
 Surgeon, Mr. Thomas.
 
-Salary, 15/. for Criminals only.
+Salary, 15l. for Criminals only.
 
 f 1800, May 4th, - 3
 
@@ -5039,8 +5005,6 @@ IN ENGLAND; SCOTLAND, AND WALKS. 257
 open into a passage four feet wide, and being three steps under ground, and damp, makes it absolutely necessary to have bedsteads; but at my visit, 1803, there was nothing but straw on the brick-floors; and the Gaoler told me that eight or ten prisoners had been crowded every night, in each cell, a month together. ' Here is a Chapel: no Infirmary, 01 Bath. A tine well of water in the centre of the court-yard. Neither the Act for Preservation of Health, nor Clauses against Spirituous Liquors, hung up.
 
 Mrs. Martha Bowen declared in her will, that 100/. had been deposited in her hands by an unknown person, about the year 1751, for the benefit of insolvent debtors and the poor; which said sum of 100/. was invested in New South-Sea Annuities, in trust, to the Rectors of St. Mary's, Haverfordwest. I found the Rector, Mr. Ayteway, quite superannuated, and incapable of giving me any account of its distribution. The Gaoler told me no debtor had received the bread from the ldth of August, 1802, to January 1803, when two sixpenny loaves were sent; and he afterwards informed me by letter, that he had received the bread in December 1804. Formerly a sixpenny loaf was given weekly to each poor debtor, and the remainder in twopenny loaves to the poor in the town. The county allows a common fire from Michaelmas to Lady-day; but no employment is furnished. In
-
-R the
 
 ACCOUNT OF PRISONS FOR DEBTORS
 
@@ -5076,7 +5040,7 @@ Chaplain. None.
 
 Surgeon. When wanted, sent by the Mayor.
 
-Number of Debtors, (1Sn'> N'ov’ "’‘I' ’
+Number of Debtors, (1Sn'> Nov’ "’‘I' ’
 
 I 1803, Aug. 20th, - 0
 
@@ -5084,15 +5048,13 @@ Allowance. Formerly none, now four pence a day in bread.
 
 REMARKS.
 
-T his Gaol is the Rye-street Gate, and one room in it is called the Bridewell. It has a small court with a sewer in it, and the whipping-post. For Common Side debtors here is a free ward, to which the Corporation allow straw:they have a little court about 15 feet square, with a sewer: and it is well supplied with water.
+This Gaol is the Rye-street Gate, and one room in it is called the Bridewell. It has a small court with a sewer in it, and the whipping-post. For Common Side debtors here is a free ward, to which the Corporation allow straw:they have a little court about 15 feet square, with a sewer: and it is well supplied with water.
 
 Master’s Side debtors have two rooms in the Keeper s house, for which they pay 2.s\ 67/. per week for a single bed; or, if twro sleep together, 1a-. 6d. each. Debtors are committed here by process issuing out of the Mayor’s Court. Neither the Act nor Clauses hung up. The whole prison very dirty.
 
-One shilling is given to each prisoner by the Chamberlain at every quarter session. '
+One shilling is given to each prisoner by the Chamberlain at every quarter session.
 
-K 2
-
-26 0
+260
 
 ACCOUNT OF PRISONS FOR DEBTORS
 
@@ -5112,11 +5074,11 @@ Chaplain, Rev. Mr. Underwood.
 
 Duty. Prayers and Sermon every Sunday, Christmas-day, and Good Friday; and prayers every Wednesday and Friday.
 
-Salary, 50/. Twenty of which is a legacy from William Bridges, Esq. of Tiberton, in this County.
+Salary, 50l. Twenty of which is a legacy from William Bridges, Esq. of Tiberton, in this County.
 
 Surgeon, Mr. Cam.
 
-Salary, 42/. for Debtors and Felons.
+Salary, 42l. for Debtors and Felons.
 
 Number of Debtor?,
 
@@ -5124,9 +5086,7 @@ Number of Debtor?,
 
 Allowance. One pound of bread per day each, and sometimes an allowance from the Charity Box. If debtors procure work for themselves, they have the whole of their earnings; but if the County furnishes employ, see Remarks.
 
-RE-
-
-^ IN ENGLAND, SCOTLAND, AND WALES. 2Cl
+IN ENGLAND, SCOTLAND, AND WALES. 2Cl
 
 REMARKS.
 
@@ -5142,7 +5102,7 @@ The Rules and Orders, which are painted on a board, and hung up in every lobby, 
 
 262
 
-ACCOUNT OF PRISON'S FOR DEBTORS
+ACCOUNT OF PRISONS FOR DEBTORS
 
 f: have raw materials of the Keeper, who will dispose of the work on the best terms he can; and,
 
@@ -5150,35 +5110,9 @@ f: have raw materials of the Keeper, who will dispose of the work on the best te
 
 “ pay the remainder to the prisoner who has performed the work; except one fourth thereof, which (i is to be reserved for the county. Any person to “ whom work is refused, or whose money is kept* “ back, or has suffered any imposition from the cc Keeper, or his servants, is particularly enjoined tf to make complaint thereof to the Magistrate, at his next visitation
 
-Men and women debtors have each a separate and
++Men and women debtors have each a separate and spacious court-yard, but no day-room. The men have twenty sleeping-rooms, ten below and ten above, twelve feet by nine each, furnished with beds and bedding by the Gaoler; for which they pay, as by the following Table. The women have eight rooms of equal size, four below and four above, all free wards; and if a debtor is too poor to provide his own bed, the County humanely furnishes him an iron-bedstead with sacking bottom, a straw-bed, two blankets, and a coverlet, gratis. There is a fire-place is every room, but no fuel allowed.
 
-spacious court-yard, but no day-room. The men
-
-have twenty sleeping-rooms, ten below and ten
-
-above, twelve feet by nine each, furnished with
-
-beds and bedding by the Gaoler; for which they
-
-pay, as by the following Table. The women have
-
-eight rooms of equal size, four below and four above,
-
-all free wards; and if a debtor is too poor to provide
-
-his own bed, the County humanely furnishes him
-
-an iron-bedstead with sacking bottom, a straw-bed,
-
-two blankets, and a coverlet, gratis. There is a
-
-fire-place is every room, but no fuel allowed.
-
-In several of the courts vegetables are grown for
-
-the use of the prisoners, in addition to the allowance
-
-above stated.
+In several of the courts vegetables are grown for the use of the prisoners, in addition to the allowance above stated.
 
 * A letter from the Keeper just received, dated 14th Feb. 180S, has given me equal surprize and concern, by informing me that the working system is in a great measure discontinued.
 
@@ -5228,19 +5162,15 @@ For the receiving and entering every declaration delivered against the prisoner 
 
 To the Turnkey, upon every declaration, - 0 0 6
 
-Jbor a certificate for want of a declaration, in
+For a certificate for want of a declaration, in order to take out a writ of Supersedeas, -03 6
 
-order to take out a writ of Supersedeas, -03 6
-
-For copy of warrant, or commitment against
-
-each prisoner, - - 0 2 6
+For copy of warrant, or commitment against each prisoner, - - 0 2 6
 
 Lodgings.
 
 Every prisoner who lies in the Keeper’s lodgings, in the Sheriff’s Ward, on a single bed,
 
-; •per week, - - 0 2 6
+; per week, - - 0 2 6
 
 For two in a single pair of sheets, per week each, 0 16
 
@@ -5264,9 +5194,9 @@ Fees, 15$. 4d.; besides which the Under-sheriff demands 6s. 8d. for his liberate
 
 Chaplain, Rev. James Moore.
 
-Duty, Prayers and Sermon every Sunday. Salary, 40/.
+Duty, Prayers and Sermon every Sunday. Salary, 40l.
 
-Surgeon, Mr. Bradley. Salary, 20/.
+Surgeon, Mr. Bradley. Salary, 20l.
 
 Number of Debtors,
 
@@ -5304,11 +5234,11 @@ Garnish; prohibited, but sometimes a pot of beer, or a pint of wine, is paid by 
 
 l)uty, Prayers every day, and a Sermon once a week.
 
-Salary, 50/.
+Salary, 50l.
 
 Surgeon, Mr. Dubbins; for Felons only *.
 
-Salary, 20/.
+Salary, 20l.
 
 r 1801, Sept. 3d, - 7
 
@@ -5376,7 +5306,7 @@ kitchen towards the Debtors’ court, and in his parlour to that of the Felons. 
 
 in
 
-IK ENGLAND, SCOTLAND, AND WALES. 2(>9
+IN ENGLAND, SCOTLAND, AND WALES. 2(>9
 
 in the day-rooms to sit upon, and shelves for debtors to deposit their plates and provisions; instead of which, at present, there are only the naked walls.
 
@@ -5404,7 +5334,7 @@ Town and County Gaul.
 
 Gaoler, Robert Raines Raines.
 
-Salary, 100/. out of which he provides a Turnkey. Fees, 7s. 6d. Garnish, abolished.
+Salary, 100l. out of which he provides a Turnkey. Fees, 7s. 6d. Garnish, abolished.
 
 Chaplain. None; but the Rev. Mr. Bromley, Vicar of Holy Trinity, frequently attends.
 
@@ -5436,7 +5366,7 @@ Gaoler, itlHiam Aveling. Salary, 10jl. and from the Corporation 4/.
 
 Fees, 10s\; to the Turnkey 2s. Gd. The Under-Sheriff demands 4.?. for his liberate ! Garnish, 2s. 6d. by order of the magistrates. Chaplain, Rev. Mr. Williams.
 
-Duty, Prayers and Sermon every Wednesday. Salary, 20L Surgeon, Mr. Desborough. Salary, 15/. 15v. Number of Debtors,
+Duty, Prayers and Sermon every Wednesday. Salary, 20L Surgeon, Mr. Desborough. Salary, 15l. 15v. Number of Debtors,
 
 1801, Aug. 20th, - 12 1806, Aug. 2, - - 3
 
@@ -5472,7 +5402,7 @@ Gaoler, Edward Scaddtng. Salary, 12^1.
 
 Fees, I4s.4d. See Table. Resides which the Under-Sheriff demands (fa. 8 d. forliis liberate! Garnish, abolished.
 
-Chaplain, Rev. Thomas Rees. Salary, 50/. Duty, Prayers and Sermon every Sunday.
+Chaplain, Rev. Thomas Rees. Salary, 50l. Duty, Prayers and Sermon every Sunday.
 
 Surgeon, Mr. Poole. Salary, none:but makes his bill.
 
@@ -5560,11 +5490,11 @@ IPSWICH, Town and Borough Gaol.
 
 Gaoler, William Brame.
 
-Salary, 50/. also two chaldrons and a half of coals, and eight dozen lbs. of candles.
+Salary, 50l. also two chaldrons and a half of coals, and eight dozen lbs. of candles.
 
 Fees, 6s. 8d. Garnish, abolished.
 
-Chaplain, Rev. Wm. Howorth. Salary, 30/. Duty, Sunday, Prayers and Sermon.
+Chaplain, Rev. Wm. Howorth. Salary, 30l. Duty, Sunday, Prayers and Sermon.
 
 Surgeon, Mr. Sechamp:makes a bill.
 
@@ -5594,17 +5524,15 @@ IN ENGLAND, SCOTLAND, AND WALES.
 
 IPSWICH, County Gaol.
 
-Gaoler, Samuel Johnson. Salary, 200/. and coals and candle for his own use.
+Gaoler, Samuel Johnson. Salary, 200l. and coals and candle for his own use.
 
 Fees, and Garnish, abolished.
 
-Chaplain, Rev. Mr. Lee. Salary, 50/.
+Chaplain, Rev. Mr. Lee. Salary, 50l.
 
 Duty, every Wednesday, Prayers; and on
 
 Sunday, Prayers and Sermon.
-
-\
 
 Surgeon, Mr. Stehhing.
 
@@ -5656,7 +5584,7 @@ KENDALL; I Westmorland.
 
 Gaoler, Miles I lay ton.
 
-Salary, 30/.
+Salary, 30l.
 
 Fees, 2s. 4 cl. 011 disci large.
 
@@ -5664,7 +5592,7 @@ Garnish. Abolished.
 
 Chaplain, Rev. Mr. Briggs.
 
-Salary, 10/.
+Salary, 10l.
 
 Duty, Sunday afternoon.
 
@@ -5838,13 +5766,11 @@ The Poor Side of the prison now consists of sixteen rooms, at the back of the bu
 
 Rules
 
-IN ENGLAND, SCOTLAND, AND WALKS. 2^7
+IN ENGLAND, SCOTLAND, AND WALES. 2^7
 
-Kui.es and Orders, for the better Government, Sec, made and signed the 2f>th November, \"t
+Rules and Orders, for the better Government, Sec, made and signed the 2f>th November, \"t
 
-1. The stocks to be kept up, for punishment of blasphe-
-
-mers, swearers, rioters, he.
+1. The stocks to be kept up, for punishment of blasphemers, swearers, rioters, he.
 
 2. Against illegal methods of confinement. None to be
 
@@ -5872,19 +5798,13 @@ their own bedding, he.
 
 to he hung up in a public room.
 
-9. Marshal and Servants to behave with the utmost ten-
-
-derness.
+9. Marshal and Servants to behave with the utmost tenderness.
 
 10. Turnkey always to attend at the door.
 
-11. No servants to partake of, or even distribute the Cha-
+11. No servants to partake of, or even distribute the Charity.
 
-rity.
-
-12. Chapel to be kept in repair. Chaplain duly to per-
-
-form.
+12. Chapel to be kept in repair. Chaplain duly to perform.
 
 13. The abusive to the stocks.
 
@@ -5898,7 +5818,7 @@ conversation; with a fire. Two rooms for the sick.
 
 16. No
 
-298 ACCOUNT OF PRISON'S FOR DEBTORS
+298 ACCOUNT OF PRISONS FOR DEBTORS
 
 16. No person committed for any criminal matter to vote
 
@@ -5910,17 +5830,13 @@ for Steward, See. or to partake of any charity, but the baskets.
 
 benefit of that station.
 
-19. The seal of the Common side to be kept by the Mas-
-
-ter of the King’s Bench office; and not put to any deed without the approbation of Marshal, Steward, and Assistants.
+19. The seal of the Common side to be kept by the Master of the King’s Bench office; and not put to any deed without the approbation of Marshal, Steward, and Assistants.
 
 20. One supersedable action may be superseded with
 
-Common side money:more than one, not without application to the Court, or a Judge. No Judge’s clerk to take a fee on the occasion.
+Common side money: more than one, not without application to the Court, or a Judge. No Judge’s clerk to take a fee on the occasion.
 
-21. The sick to be taken care of by the Steward and As-
-
-sistants, who are to be reimbursed out of the first county-money.
+21. The sick to be taken care of by the Steward and Assistants, who are to be reimbursed out of the first county-money.
 
 22. Debts contracted by the Steward and Assistants, with
 
@@ -5976,9 +5892,7 @@ Further Rules and Orders for the Government, &c. made and signed the 10th day of
 
 1. No person to bring any weapon.
 
-2. Those on the Master's side who demand Garnish, to
-
-be turned to Common side for a time^not longer than a month. Those on (lie Common side arc,
+2. Those on the Master's side who demand Garnish, to be turned to Common side for a time^not longer than a month. Those on (lie Common side arc,
 
 for
 
@@ -5986,9 +5900,7 @@ for
 
 for the like ofFcncc, to be excluded, not longer than a fortnight, from all profits, except share of the baskets.
 
-3. Doors of the great garden to be shut at dark: doors
-
-of the wards at nine.
+3. Doors of the great garden to be shut at dark: doors of the wards at nine.
 
 4. The chambers at disposal of the Marshal, &c.
 
@@ -6044,7 +5956,7 @@ I. s. d.
 
 302
 
-ACCOUNT OF TRISOXS FOR DEBTORS
+ACCOUNT OF PRISONS FOR DEBTORS
 
 I. s. cl
 
@@ -6068,13 +5980,9 @@ action upon the discharge, 0 3 0
 
 6. To the Clerk of the Papers, for every action,
 
-execution, or other charge, to he paid on
+execution, or other charge, to he paid on the discharge, - 0 0 4
 
-the discharge, - 0 0 4
-
-7. To the Deputy Marshal, upon a commit-
-
-ment of a Prisoner in Court, or at a
+7. To the Deputy Marshal, upon a commitment of a Prisoner in Court, or at a
 
 Judge’s Chambers, in any civil action,
 
@@ -6082,9 +5990,7 @@ if carried to the King’s Bench Prison, 0 1 0
 
 8. To the Clerk of the Papers for the same, 0 1 0
 
-9. To the said Deputy Marshal, for a sur-
-
-render in discharge of bail, be there
+9. To the said Deputy Marshal, for a surrender in discharge of bail, be there
 
 ever so many actions, - 0 1 0
 
@@ -6103,8 +6009,6 @@ committed at a Judge’s Chambers to the said Prison, 1 - - 060
 33. To the Marshal, for the use of chamber, bed, bedding, and sheets, for each Prisoner, if provided by the Gaoler at the
 
 Prisoner’s
-
-/
 
 IN ENGLAND, SCOTLAND, AND WALES.
 
@@ -6211,8 +6115,6 @@ O
 8
 
 0
-
-\
 
 Robert
 
@@ -6394,7 +6296,7 @@ Chaplain, Rev. John Woodrow.
 
 Duty, Sunday, prayers and Sermon; Wednesday and Friday, prayers.
 
-Salary, 50/. Also from the Dutchy, 4/. and from the Sheriff 15.9. for his attendance on every Protestant malefactor who suffers death. Roman Catholicks are attended by a priest of their own persuasion, who receives the like sum from the Sheriff.
+Salary, 50l. Also from the Dutchy, 4/. and from the Sheriff 15.9. for his attendance on every Protestant malefactor who suffers death. Roman Catholicks are attended by a priest of their own persuasion, who receives the like sum from the Sheriff.
 
 Surgeon, Mr. Baxendale. Salary, 261. and allowed for medicines.
 
@@ -6409,8 +6311,6 @@ REMARKS.
 This Castle, first built for a place of defence by the Romans, afterwards became the palace, or feudal residence of the Dukes of Lancaster; and at an early period was converted into a County Gaol.
 
 Die
-
-\
 
 314 ACCOUNT OF PRISONS FOR DEBTORS
 
@@ -6466,7 +6366,7 @@ thorn, Esq. at each Assize - - 2 0 0
 
 August
 
-IN ENGLAND, SCOTLAND, AND WALKS.
+IN ENGLAND, SCOTLAND, AND WALES.
 
 317
 
@@ -6480,7 +6380,7 @@ There are excellent Rules and Regulations for the government of the Criminal Sid
 
 The humane Surgeon, Mr. Baxendale, is frequent in his visits, and particularly attentive to the sick. He^makes a regular entry of the state of his patients, in a book kept for that very useful purpose. The Act and Clauses are conspicuously hung up j paid the prison kept exceedingly clean.
 
-ACCOUNT OF PRISON'S FOR DEBTORS.
+ACCOUNT OF PRISONS FOR DEBTORS.
 
 318
 
@@ -6530,7 +6430,7 @@ LEICESTER, County Gaol.
 
 Gaoler, John Simo)is.
 
-Salary, 130/. out of which he allows every prisoner a quart of small-beer daily.
+Salary, 130l. out of which he allows every prisoner a quart of small-beer daily.
 
 Fees; see Table. Besides which the Under-Sheriff demands a fee of 6s.Sd. for his liberate! Garnish. Abolished.
 
@@ -6700,7 +6600,7 @@ LINCOLN CASTLE Gaol.
 
 Gaoler, John Merry weather.
 
-Salary, 300/. See Remarks.
+Salary, 300l. See Remarks.
 
 Fees. None; but the Under-sheriff demands 6s. 8cl. for his liberate !
 
@@ -6710,9 +6610,9 @@ Chaplain, Rev. George Davies Kent.
 
 Duty. Twice a week Prayers, and a Sermon on Sunday; and to attend daily those under sentence of death.
 
-Salary, 50/.
+Salary, 50l.
 
-Surgeons, Messrs. Parnell and Frankly nx Salary, 30/. for debtors and felons.
+Surgeons, Messrs. Parnell and Frankly nx Salary, 30l. for debtors and felons.
 
 {1800, March 2Cth, - 14 1801, Nov. 20th, - 16. 1802, Aug. 12th, - 11
 
@@ -6774,7 +6674,7 @@ IN ENGLAND, SCOTLAND, AND WALES.
 
 LINCOLN City and County Gaol.
 
-Gaoler, Samuel Take; Salary, 40/.
+Gaoler, Samuel Take; Salary, 40l.
 
 Fees, on discharge, 6s. Sd. See Table. Garnish. Abolished.
 
@@ -6798,7 +6698,7 @@ J
 
 234 ACCOUNT OF PRISONS FOR DEBTORS
 
-tc Table of Rates and Fees settled by the Justices at a General Quarter Ssssions, held at the Guildhall, Lincoln, 14th July, 1759.
+tc Table of Rates and Fees settled by the Justices at a General Quarter Sessions, held at the Guildhall, Lincoln, 14th July, 1759.
 
 tl Every debtor that lies in a bed belonging to the keeper* is to pay one shilling weekly, and no more.
 
@@ -6836,7 +6736,7 @@ CD
 
 Gaoler, Edward Frodsham, Serjeant at Mace.
 
-Salary, 130/.
+Salary, 130l.
 
 £ s. d.
 
@@ -6862,7 +6762,7 @@ for his liberate.
 
 Garnish, 4$. 6d.
 
-Chaplain, Rev. George Monk, Salary, 31/. 10.?;
+Chaplain, Rev. George Monk, Salary, 31l. 10.?;
 
 Duty, Prayers and Sermon on Sunday, and Prayers on Thursday.
 
@@ -6873,8 +6773,6 @@ Number of Debtors, 1llt:jb 71
 I 1805, Oct. 24th, - 34
 
 Allowance. To paupers a threepenny loaf per day, weight, October l8or>, 1 lb. 3 02.; and a dinner from the Mayor every Christmas-day. See Remarks> “ Legacy.”
-
-RE-
 
 ACCOUNT t)F PRISONS TOk DEBTORS
 
@@ -6958,17 +6856,17 @@ Allowance. None.
 
 REMARKS.
 
-This is a Stannary Prison for Debtors, and the property of the Duke of Cornwall, Lord of the Stannaries. A large vaulted room below, called the Dungeon, was at my visit in 180G filled with lumber. The room above is now called the prison: it is 14 yards by 6, having iron-grated windows towards the street, with inside shutters, and straw on a, tarras floor, for men; and three rooms over it for women. There are several small sleeping-rooms, (to which the keeper furnishes beds at Ls'. per week:) used one year as the SherifFs ward for the County. Here were formerly Rules, as at the King’s Bench and Fleet Prisons, and said to extend over the whole Borough. On the 14th Nova 1805, Salathiel Harris, committed the 11th July preceding, was liberated by nonsuiting his plaintiff. There being no allowance, the prisoner was brought to the grated window; from whence he solicited casual charity, by means of a shoe suspended by a cord, which the keeper had humanely provided for |iim.
+This is a Stannary Prison for Debtors, and the property of the Duke of Cornwall, Lord of the Stannaries. A large vaulted room below, called the Dungeon, was at my visit in 180G filled with lumber. The room above is now called the prison: it is 14 yards by 6, having iron-grated windows towards the street, with inside shutters, and straw on a, tarras floor, for men; and three rooms over it for women. There are several small sleeping-rooms, (to which the keeper furnishes beds at Ls'. per week:) used one year as the Sheriffs ward for the County. Here were formerly Rules, as at the King’s Bench and Fleet Prisons, and said to extend over the whole Borough. On the 14th Nova 1805, Salathiel Harris, committed the 11th July preceding, was liberated by nonsuiting his plaintiff. There being no allowance, the prisoner was brought to the grated window; from whence he solicited casual charity, by means of a shoe suspended by a cord, which the keeper had humanely provided for |iim.
 
 IN ENGLAND, SCOTLAND, AND WALES. 343
 
 LUDGATE; London.
 
-Gaoler, John Teague. Salary, 100/.
+Gaoler, John Teague. Salary, 100l.
 
 Fees. The prison-fees now taken are, on coming in Is. going out 2s.; and ^d. per week during confinement. The ex pence attending a commitment to Ludgate, exclusive of the prison-fees, is, To the clerk-sitter of one of the Compters, for making out the Duct facias (as it is called) 2s. 6d. if in execution, and Is. 4d. if on mesne process. To the serjeant at mace for conduct fee, 5s. Upon discharge it is various, being according to the number of writs; but if only one writ, then at the secondaries office 5s. 4^.; to the clerk-sitter at each of the two compters 3s. 8d.; and to the messenger one shilling.
 
-Chaplain, Rev. John Rose. Salary, 50/.
+Chaplain, Rev. John Rose. Salary, 50l.
 
 Duty. Prayers and Sermon every Sunday.
 
@@ -6994,21 +6892,17 @@ Allowance. A loaf of bread, weight 20 oz. every other day to each prisoner, and 
 
 REMARKS.
 
-This Prison was formerly one of the Gates of the City of London, and situated on Ludgate-hill, near the spot where the London Coffee-house now stands, it is at present appropriated for the reception of debtors, being Freemen of London, Clergymen, Proctors, Attorneys, or such other persons as the Court of Lord Mayor and Aldermen shall from time to time think fit to be removed hither. It is believed to have formerly had the privilege of permitting prisoners to go out (with a Keeper) for the purpose of calling upon their several creditors, to compromise their debts, or otherwise obtain their discharge: Rut that custom, whatever might have
-
-caused its origin, has many years been discontinued, and cannot now be traced.
+This Prison was formerly one of the Gates of the City of London, and situated on Ludgate-hill, near the spot where the London Coffee-house now stands, it is at present appropriated for the reception of debtors, being Freemen of London, Clergymen, Proctors, Attorneys, or such other persons as the Court of Lord Mayor and Aldermen shall from time to time think fit to be removed hither. It is believed to have formerly had the privilege of permitting prisoners to go out (with a Keeper) for the purpose of calling upon their several creditors, to compromise their debts, or otherwise obtain their discharge: But that custom, whatever might have caused its origin, has many years been discontinued, and cannot now be traced.
 
 About forty-six years ago, when old Ludgate (to which the Table of Fees, and Rules and Orders for its Government, were adapted) was pulled down, the prisoners were removed to the London Work-house, in Bishopsgate-street, a part whereof was fitted up for that purpose, and where Ludgate prisoners continued to be received until the year 1794;
 
-when
-
-IN pNGLAND, SCOTLAND, AND WALES.
+IN ENGLAND, SCOTLAND, AND WALES.
 
 cylj
 
-Yvlien they were removed to the present prison of Ludgate, adjoining to, and partly encircled by, the Compter in Giltspur-street.
+when they were removed to the present prison of Ludgate, adjoining to, and partly encircled by, the Compter in Giltspur-street.
 
-Jmdgate has one small yard, 25 feet by 10; containing a pump, which supplies spring-water from a vvell in the Compter; another, atl'ording soft-water from the river Thames; and a shed, under which is a bathing tub.
+Ludgate has one small yard, 25 feet by 10; containing a pump, which supplies spring-water from a well in the Compter; another, affording soft-water from the river Thames; and a shed, under which is a bathing tub.
 
 The yard leads to eight rooms; viz. the Hall, fitted up with benches and tables, for the general accommodation of all the Prisoners, as a sitting-room in the day-time, and until they usually retire to rest: It is the custom of this Gaol for the
 
@@ -7016,11 +6910,9 @@ prisoners to have access to the yard at all times, either by day or night. The h
 
 The next is a long room over the hall, which will conveniently contain six persons, as a bed-room. The room over the long room will contain two persons, exclusive of two little rooms, partitioned from it, for the use of the sick.
 
-There
+34G ACCOUNT OF PRISONS FOR DEBTORS
 
-34G ACCOUNT OF PRISON'S FOR DEBTORS
-
-There is a small room over the chapel (which isonthe ground-floor,) and this, together with another room over it in the second stor}7, are convenient bedrooms for three persons each:likewise two cabins, used as bedrooms for one person each.
+There is a small room over the chapel (which is on the ground-floor,) and this, together with another room over it in the second story, are convenient bedrooms for three persons each:likewise two cabins, used as bedrooms for one person each.
 
 Two other rooms are upon the ground-floor on the other side of the yard; one of which is the bed-room of the steward and secretary, and the other a bed-room for three prisoners. The womens ward, over the steward’s room, will contain three persons. There are fire-places in the rooms, to which two chaldrons of coals a year are given by the Lord Mayor and Sheriffs.
 
@@ -7028,17 +6920,13 @@ All the prisoners here Jind their own beds and bedding, except one rug yearly, w
 
 At Christmas every debtor receives one pound of beef, a pint of porter, and a loaf value three halfpence, or potatoes in lieu of it. On New Year’s day, at Easter, and some uncertain day after, the same gift is made by the Lord Mayor and Sheriffs, who also occasionally give coals according to their discretion. Michael Angelo Taylor, Esq. M. P. on Christmas-eve gives eight pounds of beef, a half-peck loaf, and a sack of coals, to each prisoner, and the same also to the turnkey. A society of gentlemen give quarterly a pound of beef and a two-penny loaf both to each prisoner, and to the out-door-stetvard (a person whose office it is to collect the
 
-perm a-
-
 IN ENGLAND, SCOTLAND, AND WALES. 347
 
 permanent donations ; ) and one shilling for coals to dress the meat so given.
 
-There are also certain established donations, of bread and meat, at stated periods, besides some private gifts. Money is likewise paid by several of the City Companies, and others, for the release of debtors from this and other prisons; which is most frequently applied towards the discharge of such prisoners as cannot obtain the same without undertaking to pay somej'urther sum in addition to the money raised by such donations, and who are thereby prevented from availing themselves of the bounty of the Honourable and Benevolent Society for Relief of Debtors, held in Craven Street in the Strand; of which description are, the legacies of Mr. Humble, (paid by the Leathersellers’ Company, to the amount of eight pounds per annum), Mrs. Ashton, and others. The legacy of Lady Rich is usually applied in aid of the legacies of Mr. Humble, Mrs. Ashton, or any other benevolent donor, for the release of prisoners at one moiety by each legacy; and if the sum of twenty-four pounds has not been advanced for such release, before the payment of Lady Rich's legacy, then the remainder is divided among those prisoners, who were in gaol on the Christmas-day preceding, and still remain in custody.
+There are also certain established donations, of bread and meat, at stated periods, besides some private gifts. Money is likewise paid by several of the City Companies, and others, for the release of debtors from this and other prisons; which is most frequently applied towards the discharge of such prisoners as cannot obtain the same without undertaking to pay some further sum in addition to the money raised by such donations, and who are thereby prevented from availing themselves of the bounty of the Honourable and Benevolent Society for Relief of Debtors, held in Craven Street in the Strand; of which description are, the legacies of Mr. Humble, (paid by the Leathersellers’ Company, to the amount of eight pounds per annum), Mrs. Ashton, and others. The legacy of Lady Rich is usually applied in aid of the legacies of Mr. Humble, Mrs. Ashton, or any other benevolent donor, for the release of prisoners at one moiety by each legacy; and if the sum of twenty-four pounds has not been advanced for such release, before the payment of Lady Rich's legacy, then the remainder is divided among those prisoners, who were in gaol on the Christmas-day preceding, and still remain in custody.
 
 * The Society for the Relief and Discharge of Persons confined for Small Debts admit of no such undertaking, but always Require 3 receipt in full from the creditor.
-
-A Lis
 
 ACCOUNT OF PRISONS FOR DEBTORS
 
@@ -7048,83 +6936,83 @@ A List of Benefactions to Ludgate Prison, Christmas Quarter.
 
 When paid.
 
-Yearly.....
+Yearly -
 
-Ditto......
+Ditto -
 
-Ditto......
+Ditto -
 
-Quarterly...
-
-Half-Yearly.
-
-Yearly.....
-
-Ditto......
-
-Half-Yearly. Ditto......
-
-Ditto......
-
-Quarterly...
+Quarterly -
 
 Half-Yearly.
 
-Yearly.....
+Yearly -
 
-Quarterly...
+Ditto -
 
-Yearly.....
+Half-Yearly. Ditto -
+
+Ditto -
+
+Quarterly -
+
+Half-Yearly.
+
+Yearly -
+
+Quarterly -
+
+Yearly -
 
 Quarterly___
 
-Ditto......
+Ditto -
 
-Yearly ...
+Yearly -
 
-Ditto....
+Ditto -
 
-Quarterly. Yearly ...
+Quarterly. Yearly -
 
 Donors’ Names.
 
 Fishmongers Company Sir Thomas Kneesworth
 
-Mrs. Lettiec Smith...
+Mrs. Lettiec Smith -
 
 Sir Thos. Gresham, Knt.
 
-Mr. Middleton........
+Mr. Middleton -
 
 Sir John Kendric k, Knt. SirW. Peacock, Knt. ..
 
-Mr. W. Parker........
+Mr. W. Parker -
 
-Mr. John Wooler.......
+Mr. John Wooler -
 
 $ Lady Maurice and ?
 
 (Mr. Bennett £
 
-Mr. Peter Blundell...
+Mr. Peter Blundell -
 
-Sir Win. Horne, Knt...
+Sir Win. Horne, Knt -
 
-Mrs.Cook.............
+Mrs.Cook -
 
-Mr. Peter Blundell...
+Mr. Peter Blundell -
 
-Mr. James Hodgson...
+Mr. James Hodgson -
 
-Mr. NJeridith ......
+Mr. NJeridith -
 
-Mr. John Draper.....
+Mr. John Draper -
 
 Mr. Thomas Dawson ..
 
-Mrs. Holligrave ....
+Mrs. Holligrave -
 
-SadlersCompany......
+Sadlers Company -
 
 Irehbp. of Canterbury
 
@@ -7132,39 +7020,39 @@ By whom paid.
 
 Fishmongers Company
 
-Ditto................
+Ditto -
 
-Ditto................
+Ditto -
 
 Chamberlain of London
 
-Ditto.......... .....
+Ditto - .....
 
-Drapers Company......
+Drapers Company -
 
-Haberdashers ditto...
+Haberdashers ditto -
 
-MerchantTaylors Comp.
+Merchant Taylors Comp.
 
-Ditto................
+Ditto -
 
-Armourersand Bra- I ziers Company £
+Armourers and Braziers Company £
 
-Salters Company......
+Salters Company -
 
-Ditto................
+Ditto -
 
-Ditto................
+Ditto -
 
-Ironmongers ditto....
+Ironmongers ditto -
 
-Churchwardens of St. Sepulchre’s Skinners Company.... Ditto..............
+Churchwardens of St. Sepulchre’s Skinners Company - Ditto -
 
 { Churchwardens of >
 
-/ St. Ethel burgh $ Clothworkers Company
+/ St. Ethelburgh $ Clothworkers Company
 
-Sadlers Company....
+Sadlers Company -
 
 At Lambeth Palace.
 
@@ -7196,43 +7084,43 @@ Lady-Day Quarter.
 
 £.18 4 11
 
-Yearly.....
+Yearly -
 
-Ditto......
+Ditto -
 
-Ditto......
+Ditto -
 
-Ditto......
+Ditto -
 
-Quarterly...
+Quarterly -
 
-Yearly.....
+Yearly -
 
-Ditto......
+Ditto -
 
-Ditto......
-
-Half-Yearly.
-
-Yearly.....
+Ditto -
 
 Half-Yearly.
 
-Quarterly...
+Yearly -
 
-Ditto......
+Half-Yearly.
 
-Ditto......
+Quarterly -
 
-Ditto......
+Ditto -
 
-Yearly.....
+Ditto -
+
+Ditto -
+
+Yearly -
 
 Quarterly___
 
-SirThoniasCullum, Knt. Mr. AldernianHoydon... Sir Roger Martin, Knt... Drapers Company Mercers Company Ditto
+Sir Thonias Cullum, Knt. Mr. Aldernian Hoydon - Sir Roger Martin, Knt - Drapers Company Mercers Company Ditto
 
-Sir Thos. Gresham, Knt. Mr. John Corbett Mr. Richard Jacob Mercers Company* Lady Ramsey Mrs. Joan Sanback C Lady Maurice and I John Bennett £ Mr. Peter Blundell Chamberlain of London Cooks Company Mrs.Starling MercersCompany Christ’s Hospital j Churchwardens of ? St. Bride’s £ { Armourers and Bra-{ ziers Company £ Ironmongers Company.
+Sir Thos. Gresham, Knt. Mr. John Corbett Mr. Richard Jacob Mercers Company* Lady Ramsey Mrs. Joan Sanback C Lady Maurice and I John Bennett £ Mr. Peter Blundell Chamberlain of London Cooks Company Mrs.Starling Mercers Company Christ’s Hospital j Churchwardens of ? St. Bride’s £ { Armourers and Bra-{ ziers Company £ Ironmongers Company.
 
 Sir John Peachey, Knt. Sadlers Company Grocers ditto Sadlers ditto
 
@@ -7260,11 +7148,11 @@ c£.2I 0 5
 
 Being-the produce or interest of 45/. is. Id. Old South Sea Annuities.
 
-IN ENGLAND, SCOTLAND, AND WALKS.
+IN ENGLAND, SCOTLAND, AND WALES.
 
 : , vj
 
-Midsummer Ouarte r .
+Midsummer Ouarter .
 
 When paid. Donors’ Names. I’.y whom paid. Amount.
 
@@ -7278,7 +7166,7 @@ U 10 u
 
 0 ID D
 
-Half-Yearly... Sir William Home, Ki it. Ditto 0 2 c
+Half-Yearly - Sir William Home, Ki it. Ditto 0 2 c
 
 0 ID 0
 
@@ -7294,7 +7182,7 @@ When paid. Donors’ Names. By whom paid. .-.X. Amount.
 
 Quarterly Sir Thos. Gresham, Knt. Chamberlain of London 2 10 0
 
-Half-Yearly... Lady Ramsey Christ's Hospital 1 .S ()
+Half-Yearly - Lady Ramsey Christ's Hospital 1 .S ()
 
 Yearly Mr.William Roaper Parish Clerks Company 1 0 0
 
@@ -7306,7 +7194,7 @@ Mr. Meridith 0 5 G
 
 0 3 4
 
-Yearly Mr. Thomas Chapman... Parish of St. Paneras o :> o
+Yearly Mr. Thomas Chapman - Parish of St. Paneras o :> o
 
 Quarterly Sadlers Company Sadlers Company 0 2 6
 
@@ -7326,17 +7214,15 @@ pound, by the Ironmongers’ Company to be paid at Allhallows-tide, Michaelmas q
 
 .Mr. Robert Rogers, Leatherseller, gave yearly by the Leathersellers Company, twedty shillings, to be paid quarterly in bread.
 
-Mrs. Margaret Symcott, every eighth week for ever, by the Chamber of London, sixty-five penny loaves. This is Eleanor Gwj/nn's Gift, under that name.
+Mrs. Margaret Symcott, every eighth week for ever, by the Chamber of London, sixty-five penny loaves. This is Eleanor Gwynn's Gift, under that name.
 
 Mrs. Frances Ashton, by will dated 30th March 1727, gav& ninety-five pounds per annum towards discharging out of prison such and so many of the poor prisoners in Ludgate, the two Compters, and the Marshalsea, whose respective sums, for and towards such discharges, shall not amount to two pounds each. In 1803 seven pounds were paid from this legacy to discharge four prisoners from the Poultry Compter. In 1805 two pounds eleven shillings and sixpence to discharge two prisoners from Giltspur-street Compter; also two pounds ten shillings to discharge one prisoner from Ludgate:and in 1807 two pounds two shillings to discharge another from Ludgate.
 
-Mr. Richard Jacob, vintner, gave yearly for 257 years, by Joseph Howell and Susannah his wfife, their heirs, executors, and assigns, out of five tenements situate in Lincoln’s-Inn-Fields, two pounds, payable at Easter. Will dated Oct. 13th, 1612. This is subject to land-tax. See the foregoing List of Benefactions in p. 348.
+Mr. Richard Jacob, vintner, gave yearly for 257 years, by Joseph Howell and Susannah his wife, their heirs, executors, and assigns, out of five tenements situate in Lincoln’s-Inn-Fields, two pounds, payable at Easter. Will dated Oct. 13th, 1612. This is subject to land-tax. See the foregoing List of Benefactions in p. 348.
 
 Mr. Thomas Stretchley, bv his will dated August 6, 1678, gave for ever forty shillings, to be paid every three years, by the Treasurer of Christ’s Hospital. This is regularly paid. He likewise gave four pounds to discharge two prisoners every fifth year. This is not paid.
 
-The
-
-IN ENGLAND, SCOTLAND, AND WALKS. 351
+IN ENGLAND, SCOTLAND, AND WALES. 351
 
 The Chamber of London, in lieu of 250/. being the gift of Mr. Middleton, payable at Christmas and Midsummer, 3/. 2s. 6d. See List of Benefactions, pp. 3is, 349.
 
@@ -7344,7 +7230,7 @@ George Humble, Esq. gave yearly fourteen pounds per annum, for the release of tw
 
 Lady Rich gave yearly, for ever, towards relief and release of prisoners thirty pounds, payable at Christmas; this is subject to land-tax, six pounds. If the money has not wholly or in part been appropriated to release prisoners, the remainder is divided among as many debtors as were in confinement at Christmas, and not discharged on Lady-day. Twenty-four pounds were divided the 6th April 1807 among ten prisoners, 21. 8*. each, who had remained in custody since the preceding Christmas; no person having, in the course of twelve months prior to the payment thereof, been released thereby. This legacy is paid on Lady-day old style, by Mr. John Roberts of Oakingham, Berks, attorney at law.
 
-Mr. Robert Firebrace, Leatherseller, gave yearly by the Lcathersellers’ Company 6s. 8d. to be paid quarterly in bread.
+Mr. Robert Firebrace, Leatherseller, gave yearly by the Leathersellers’ Company 6s. 8d. to be paid quarterly in bread.
 
 Elizabeth Misson gave by will dated 23d May, 1770, six pounds, the annual produce of two hundred pounds three per cent. India Annuities, to be expended in meat, bread, and coals. There has lately been some irregularity in the payment of this legacy.
 
@@ -7360,11 +7246,9 @@ The Rules and Orders for the government of tlii£ prison have been made by the s
 
 each of the assistants:Ten pence halfpenny per week to the secretary, for keeping the accounts; and one shilling and nine-pence per week to the scavenger, to keep clean the house, court-yard, &c. &c.;
 
-but
-
 IN ENGLAND, SCOTLAND, AND WALES.
 
-but these salaries, and the quarterly and partial division of money, seem to militate against the benevolent intention of the donors, and prove a grievance to some of the poor prisoners, who are deprived of many of their benefits, if they fail in the payment of seven-pence per weeR. This might be remedied, by allowing a certain weekly sum, to the amount of, and to be repaid by, the annual amount of the donations, whereby the prisoners would be equally relieved, and animosities prevented from arising, in consequence of trivial benefits in favour of some, to the privation of their fellow sufferers. The remaining Orders are, to deprive offenders of their votes; against slandering, or using opprobrious words; against stealing; against cursing and swearing; against drunkenness; against singing and ranting; against abusing strangers; against retailing spirituous liquors; against keeping dogs; to enforce cleanliness, &c. &c.
+but these salaries, and the quarterly and partial division of money, seem to militate against the benevolent intention of the donors, and prove a grievance to some of the poor prisoners, who are deprived of many of their benefits, if they fail in the payment of seven-pence per week. This might be remedied, by allowing a certain weekly sum, to the amount of, and to be repaid by, the annual amount of the donations, whereby the prisoners would be equally relieved, and animosities prevented from arising, in consequence of trivial benefits in favour of some, to the privation of their fellow sufferers. The remaining Orders are, to deprive offenders of their votes; against slandering, or using opprobrious words; against stealing; against cursing and swearing; against drunkenness; against singing and ranting; against abusing strangers; against retailing spirituous liquors; against keeping dogs; to enforce cleanliness, &c. &c.
 
 The mode directed to enforce obedience to these Rules and Orders is by fines and privations: This,
 
@@ -7378,13 +7262,13 @@ LYNN REGIS; Norfolk. Town Gaol.
 
 Gaoler, William Hawes.
 
-Salary, 35/. for gaol, and house of correction, _ which adjoins.
+Salary, 35l. for gaol, and house of correction, _ which adjoins.
 
 Fees, 6s. 8d. Garnish, none.
 
 Surgeon, Mr. Upwood, as surgeon for the poor, chosen annually.
 
-Salary, 100/. for the Gaol and Poor of the parish.
+Salary, 100l. for the Gaol and Poor of the parish.
 
 Chaplain. None; but one attends occasionally.
 
@@ -7554,7 +7438,7 @@ County Gaol.
 
 Gaoler, Thomas Watson.
 
-Salary, 300/.
+Salary, 300l.
 
 Fees, 12s. lod. No Table.
 
@@ -7562,11 +7446,11 @@ Garnish, 2s. Sd.
 
 Chaplain, Rev. Mr. Evans.
 
-Duty. Prayers and Sermon to debtors and felons; and that on alternate Sundays only. Salary, 50/.
+Duty. Prayers and Sermon to debtors and felons; and that on alternate Sundays only. Salary, 50l.
 
 Surgeon, Mr. Coleman.
 
-Salary, 50/. for Gaol and Bridewell, debtor^ and felons.
+Salary, 50l. for Gaol and Bridewell, debtor^ and felons.
 
 Number of Debtors,
 
@@ -7575,8 +7459,6 @@ Number of Debtors,
 Allowance. A half-quartern loaf every other day, jt and one quart of small-beer daily. What-
 
 ever the baker’s bill amounts to weekly in bread, one half of that sum is allowed for table beer. But, when a debtor has obtained his sixpences, the allowance of bread ceases.
-
-RE-
 
 ACCOUNT OF PRISONS FOR DEBTORS
 
@@ -7604,7 +7486,7 @@ MARSHALSEA, Southwark, London,
 
 Sir James Bland Burgess, Kart. Knight-Marshal.
 
-Salary, 500/.
+Salary, 500l.
 
 Substitute, Mr. William Jenkins. Salary, 60I.
 
@@ -7616,7 +7498,7 @@ Chaplain, Rev. Mr. Trollope, who officiates by a deputy, the Rev. Mr. Webster.
 
 Duty, every Sunday.
 
-Salary, 50/. and Is. from every prisoner, on discharge. See Table.
+Salary, 50l. and Is. from every prisoner, on discharge. See Table.
 
 Surgeons, Mess. Saumarez and Dixon.
 
@@ -7644,7 +7526,7 @@ Number of Debtors,
 
 1804, Jan. 7th,
 
-1805, Mar. 16th, 180(>, Mar. 28tlr^ 1807, July 2d, *»
+1805, Mar. 16th, 180(>, Mar. 28tlr^ 1807, July 2d,
 
 50
 
@@ -7683,8 +7565,6 @@ The court-yard is spacious, and contains near fifty rooms, six of which only are
 At
 
 IN ENGLAND, SCOTLAND, AND WALES. 3^7
-
-\
 
 At my visit, 28th December 1802, I found the court-yard very scanty, a wall being built across the end of it, and twenty new rooms in the centre of the court, about 11 feet by 10, and 71 feet high, for the better accommodation of the prisoners to live in, and also to sleep in, if they can.
 
@@ -7902,11 +7782,11 @@ No other fee for the use of chamber, bed, bedding, or upon the discharge or comm
 
 W. Richardson. Elliot Bisiioi*.
 
-J .EONA R D HOWAR D
+J .EONARD HOWARD
 
 Mansfield. C. Pratt. T, Parker.
 
-IN ENGLAND, SCOTLAND, AND WALKS.
+IN ENGLAND, SCOTLAND, AND WALES.
 
 O - IJ 0/0
 
@@ -7920,7 +7800,7 @@ Garnish, abolished.
 
 Chaplain, Rev. John Powell.
 
-Duty, Prayers and Sermon on Wednesday, and Prayers on Sunday. Salary, 30/.
+Duty, Prayers and Sermon on Wednesday, and Prayers on Sunday. Salary, 30l.
 
 Surgeon, Mr. William Powell. Salary, 201.
 
@@ -7935,8 +7815,6 @@ Allowance. To debtors, who are paupers, one pound and half of bread per day, and
 REMARKS.
 
 This Gaol, which is also the County Bridewell, has much the appearance of a castle. It is situated / on a fine eminence:the boundary wall incloses about an acre of ground, given by the Duke of Beaufort. The outer gate has, on one side, the Turnkey’s Lodge, and a small room. On the other side are the wash-house and oven, and cistern for
-
-soft
 
 3/4 ACCOUNT OF PRISONS FOR DEBTORS
 
@@ -7974,7 +7852,7 @@ MONTGOMERY.
 
 County Gaol.
 
-Gaoler, John Davies. Salary, 35/.
+Gaoler, John Davies. Salary, 35l.
 
 Fees, S, y. 4d.; besides which the Under-sheriff demands Js. Cal. for his liberate !
 
@@ -8002,7 +7880,7 @@ IN ENGLAND, SCOTLAND, AND WALES. 377
 
 MORPETH; Northumberland.
 
-Gaoler, John Blake. Salary, 80/.
+Gaoler, John Blake. Salary, 80l.
 
 Fees, 12s. Gd. (No Table.) Besides which the Under-sheriff demands a fee of 2s. Gd. for each liberate; and if upon a supersedeas, Gs. Sd.
 
@@ -8016,15 +7894,9 @@ Surgeon, Mr. Douglas Sands; makes a bill.
 
 Number of Debtors,
 
-{
+1801, Feb. 1st, - 8.
 
-1801, Feb. 1st, -
-
-1802, Sept. 9th, -
-
-8
-
-11
+1802, Sept. 9th, - 11.
 
 Allowance. Four-pence per day to poor debtors, on petition to the Magistrates.
 
@@ -8076,7 +7948,7 @@ NEWCASTLE UPON TYNE; Northumberland.
 
 County Gaol.
 
-Gaoler, John Gale. lie is a tallow-chandler, and lives near the prison. Salary, 100/.
+Gaoler, John Gale. lie is a tallow-chandler, and lives near the prison. Salary, 100l.
 
 Fees, debtors, 14s. 4d. of which l£. is to the Turnkey; besides which the Under-sheriff demands 2s. 6d. on discharge of a writ front the Court of Kings Bench or Common Pleas; and 5s. on a supersedeas ! No Table.
 
@@ -8086,15 +7958,13 @@ Chaplains. The Rev. Mr. Moiser, and The Rev. Mr. Perkins.
 
 Duty. On Wednesday and Friday, Prayers; and once a month a Sermon. The chaplains officiate alternately a month each.
 
-Salary, 10/. the Corporation, and 10/. Sir Walter Placket.
+Salary, 10l. the Corporation, and 10/. Sir Walter Placket.
 
 Surgeon, Mr. William Fife. Salary, nc/ne:he makes a bill, which is allowed by the Magistrates in Sessions.
 
 Number of Debtors, Sept. Gth, 1802, - 12
 
 Allowance; 2d. a day, on petition to the mayor.
-
-RE-
 
 IN ENGLAND, SCOTLAND, AND WALES. 381
 
@@ -8116,8 +7986,6 @@ blanket, two upper blankets, and two coverlets, scoured every three months, to d
 
 This is one of the very few gaols, that have what are called in London “ the RULES.” They extend South of the prison to a running water, arched over, called Execution Dock, and on the East of the Prison down High Fryer-street about 200 yards, to a rivulet called Lork Burn, now arched over with stone. As the keeper cannot find by what authority these Rules were granted, no debtors are indulged in the
 
-use
-
 IN ENGLAND, SCOTLAND, AND WALES. 3S3
 
 use of them, but those of good character who are confined for small sums.
@@ -8128,7 +7996,7 @@ Every debtor committed by process issuing out of the mayor’s or sheriff’s co
 
 NEW GAOL, See SURRY COUNTY GAOL,
 
-0S4 ACCOUNT OF PRISON'S FOR DEBTORS
+0S4 ACCOUNT OF PRISONS FOR DEBTORS
 
 NEWGATE, London.
 
@@ -8156,7 +8024,7 @@ CiKOt'NI) I' LAN OFNBWUATB.
 
 o
 
-IK ENGLAND, SCOTLAND, AND WALES. 38$
+IN ENGLAND, SCOTLAND, AND WALES. 38$
 
 legacy paid by the Governors of St. Bartholomew’s Hospital; over and above which, sundry sums have been presented to the Ordinary by the Court of Aldermen.
 
@@ -8164,7 +8032,7 @@ Duty, Prayers and Sermon on Sunday morning, and Prayers in the afternoon; also P
 
 Surgeon, Mr. William Box, jun. who visits the prison daily.
 
-Salary, 100/. and medicines, paid for by the City, for debtors as well as criminals. There is no Surgeon’s book kept in Newgate:But I am informed he makes a regular return to the Court of Aldermen; and also another return to the Justiciary Court every day, during the Sessions at the Old Bailey, of the prisoners’ state of health.
+Salary, 100l. and medicines, paid for by the City, for debtors as well as criminals. There is no Surgeon’s book kept in Newgate:But I am informed he makes a regular return to the Court of Aldermen; and also another return to the Justiciary Court every day, during the Sessions at the Old Bailey, of the prisoners’ state of health.
 
 Number of Debtors,
 
@@ -8224,65 +8092,65 @@ Amount.
 
 Quarterly___
 
-Ditto......
+Ditto -
 
-Ditto......
+Ditto -
 
-Ditto......
-
-Half-Yearly.
-
-Ditto......
-
-Yearly .....
-
-Ditto.......
-
-Ditto.......
-
-Ditto.......
+Ditto -
 
 Half-Yearly.
 
-Quarterly....,
+Ditto -
 
-Ditto.......
+Yearly -
 
-Ditto........
+Ditto -
+
+Ditto -
+
+Ditto -
+
+Half-Yearly.
+
+Quarterly - ,
+
+Ditto -
+
+Ditto -
 
 End of Term.
 
-Mr. Rogers...........
+Mr. Rogers -
 
-Mr. John Meridith....
+Mr. John Meridith -
 
-Mr. John Draper......
+Mr. John Draper -
 
-Sir Thos. Gresham, Knt, Lady Ramsay..........
+Sir Thos. Gresham, Knt, Lady Ramsay -
 
-Lady Maurice.........
+Lady Maurice -
 
-Aid. Sir John Heydon... Sir Roger Martin, Knt..
+Aid. Sir John Heydon - Sir Roger Martin, Knt..
 
-South Sea Annuity....
+South Sea Annuity -
 
-Mr. John March.......
+Mr. John March -
 
-M r. John Wooller....
+M r. John Wooller -
 
-Mr. Peter Blundell...
+Mr. Peter Blundell -
 
-Mr. Peter 'Blundell...'..
+Mr. Peter 'Blundell - '..
 
-Sadlers Company......
+Sadlers Company -
 
-Barons of Exchequer...,
+Barons of Exchequer - ,
 
 Leathersellers Company
 
-Skinners ditto....
+Skinners ditto -
 
-Ditto.............
+Ditto -
 
 Chamberlain of London
 
@@ -8290,21 +8158,21 @@ Christ’s Hospital..
 
 Armourers and Bra ziers Company
 
-Mercer's Company......
+Mercer's Company -
 
-Ditto..................
+Ditto -
 
-Ditto.................
+Ditto -
 
-Ditto.................
+Ditto -
 
 MerehantTaylors Comp.
 
-Ditto.................
+Ditto -
 
-Haberdashers ditto....
+Haberdashers ditto -
 
-Sadlers Company........
+Sadlers Company -
 
 Exchequer Office, Temp.
 
@@ -8332,7 +8200,7 @@ Quarterly Mr. Rogers Leathersellers Company X 0 4 0 0 5 6
 
 0 3 4
 
-Ditto.... Sir Thos. Gresham, Knt. Chamberlain of London 2 10 0
+Ditto - Sir Thos. Gresham, Knt. Chamberlain of London 2 10 0
 
 Ditto Mr. Peter Blundell Merchant TaylorsComp. 0 10 0 0 10 0 0 2 6 0 13 4
 
@@ -8360,53 +8228,53 @@ By whom paid.
 
 Amount.
 
-Quarterly...
+Quarterly -
 
-Ditto.......
+Ditto -
 
-Ditto......
+Ditto -
 
-Ditto......
+Ditto -
 
 Half-Yearly,
 
-Ditto.......
+Ditto -
 
-Ditto...
+Ditto -
 
 Quarterly.
 
-Ditto....
+Ditto -
 
-Ditto....
+Ditto -
 
-Mr. Rogers...........
+Mr. Rogers -
 
-Mr. John Draper.......
+Mr. John Draper -
 
-Mr. John Meridith...
+Mr. John Meridith -
 
-Sir Thos. Gresham, Knt Lady Ramsay.........
+Sir Thos. Gresham, Knt Lady Ramsay -
 
-Lady Maurice........
+Lady Maurice -
 
-Mr. JolmWooller.....
+Mr. JolmWooller -
 
-Mr. Peter Blundell...
+Mr. Peter Blundell -
 
-Ditto...............
+Ditto -
 
-Sadlers Company......
+Sadlers Company -
 
 Leathersellers Company
 
-Salters ditto..........
+Salters ditto -
 
-Ditto.................
+Ditto -
 
 Chamberlain of London
 
-Christ's Hospital...
+Christ's Hospital -
 
 t Annonrersund Bra-l ziers Company Merchant TaylorsComp.
 
@@ -8426,65 +8294,65 @@ f 0 15 0
 
 When paid. Donors’ Names.
 
-Yearly.......
+Yearly -
 
-Ditto........
+Ditto -
 
-Ditto........
+Ditto -
 
 End of Term.
 
-Yearly.......
+Yearly -
 
-Quarterly....
+Quarterly -
 
-Ditto........
+Ditto -
 
-Ditto........
+Ditto -
 
-Yearly.......
+Yearly -
 
-Ditto........
+Ditto -
 
-Ditto........
+Ditto -
 
-Ditto........
+Ditto -
 
-• Quarterly...
+• Quarterly -
 
-Ditto........
+Ditto -
 
-Yearly.......
+Yearly -
 
-Ditto........
+Ditto -
 
-Ditto.......
+Ditto -
 
-Ditto.......
+Ditto -
 
-Ditto........
+Ditto -
 
-Ditto........
+Ditto -
 
-Ditto........
+Ditto -
 
-Ditto........
+Ditto -
 
-Ditto........
+Ditto -
 
-Quarterly...
+Quarterly -
 
 Comp, of Parish Clerk-ReoeiverGcn. of Ld. Tun
 
-Mr. John Kendrick.....
+Mr. John Kendrick -
 
 Barons of the Exchctpiet
 
-Mr. Rogers............
+Mr. Rogers -
 
-Mr. John Meridith....
+Mr. John Meridith -
 
-Mr. John Draper.......
+Mr. John Draper -
 
 Sir Thos. Gresham, Knt. Fishmong. Extra Bounty Mr. Thomas Kneesworth Mrs. Lctitia Smith.
 
@@ -8492,15 +8360,15 @@ Sir Samuel Peacock.
 
 Mr. Peter Blundell .
 
-I )itto...........
+I )itto -
 
-Mr. Win. Parker.... Mrs. Marg. Crawthorn... Mrs. Marg. Hargrave. Archbp. of Canterbury Mr. John Gerard.
+Mr. Win. Parker - Mrs. Marg. Crawthorn - Mrs. Marg. Hargrave. Archbp. of Canterbury Mr. John Gerard.
 
 Sir Wm. 1 lorne.
 
 •ir Jolm Peachey.
 
-Mr. Thomas Dawson...
+Mr. Thomas Dawson -
 
 Sir Richard Ramsay Sadlers Company____
 
@@ -8832,7 +8700,7 @@ Chaplain, Rev. John IVatts.
 
 Duty. Prayers twice a week, and Sermon every Sunday.
 
-Salary, 50/.
+Salary, 50l.
 
 Surgeon, Mr. Hardin. Salary -267.
 
@@ -8962,7 +8830,7 @@ And allowed two Turnkeys, to whom the County pays 10s. 6d. per week each.
 
 Fees and Garnish, abolished.
 
-Chaplain, Rev. Mr. Hansell. Salary, 50/.
+Chaplain, Rev. Mr. Hansell. Salary, 50l.
 
 Duty, Prayers and Sermon on Sunday; and Prayers Tuesday and Friday.
 
@@ -8975,8 +8843,6 @@ Allowance. One pound and a half of bread per day:and half a pound of cheese per 
 * Mayor of Norwich. I beg leave here to pay my respectful acknowledgments to the worthy Chief Magistrate, for his politeness in accompanying me to the prisons, hospital, and work-houses of this City.
 
 Number
-
-RE-
 
 410
 
@@ -9098,7 +8964,7 @@ County Gaol.
 
 Gaoler, John Ifolt.
 
-Salary, 140/.
+Salary, 140l.
 
 Fees, 13-v. 4d. and to the Turnkey 1.9. 4<A Besides which the Under-sherifi’ demands four shillings for his liberate !
 
@@ -9108,7 +8974,7 @@ Chaplain, Rev. William Gilt.
 
 Duty, Prayers every Thursday; and Prayers and Sermon every Sunday, Christmas-day, and Good Friday.
 
-Salary, 50/.
+Salary, 50l.
 
 Surgeon, Mr. Partridge.
 
@@ -9266,7 +9132,7 @@ in
 
 424 ACCOUNT OF PRISONS FOR DEBTORS
 
-in September 1805, 'they resided at Calverton, in this county. The sanction for the confinement of a prisoner upon the above-mentioned process runs thus: “ Forasmuch as the Royal Power ought not to be wanting to the Holy Church in its complaint, you are commanded to attach the said * by his [or her] body, according to the law and custom of England, until he [or she] shall have made satisfaction to the Holy Church, as well for the contempt, as for the injury by fiim [or her] done unto it.” One cannot help wishing, however, that the Reformation, or the Revolution, or any other adequate and legal interference, had done away the power of such imprisonment.
+in September 1805, 'they resided at Calverton, in this county. The sanction for the confinement of a prisoner upon the above-mentioned process runs thus: “ Forasmuch as the Royal Power ought not to be wanting to the Holy Church in its complaint, you are commanded to attach the said by his [or her] body, according to the law and custom of England, until he [or she] shall have made satisfaction to the Holy Church, as well for the contempt, as for the injury by fiim [or her] done unto it.” One cannot help wishing, however, that the Reformation, or the Revolution, or any other adequate and legal interference, had done away the power of such imprisonment.
 
 I here beg leave to pay my respectful acknowledgements to William-Elliott Elliott, Esq. of Ged-ling House, late High-Sheriff of this county, who humanely accompanied me to the prisons, hospital, and work-houses: And also to the worthy Magistrates in general, for the polite notice they were pleased to take of my suggestions, relative to the state of . the gaols at Nottingham and Southwell.
 
@@ -9274,7 +9140,7 @@ IN ENGLAND, SCOTLAND, AND WALES. 425
 
 NOTTINGHAM, Town-Gaol.
 
-Gaoler, Philip Bailey. A Peace-officer for the Town. Salary, 50/. and 30/. per annum for a Turnkey.
+Gaoler, Philip Bailey. A Peace-officer for the Town. Salary, 50l. and 30/. per annum for a Turnkey.
 
 Fees, 13s. 4d. Besides which the Under-
 
@@ -9310,7 +9176,7 @@ IN ENGLAND, SCOTLAND, AND WALES. 42
 
 OAKHAM; Rutlandshire.
 
-Gaoler, George Gould. Salary, 50/.
+Gaoler, George Gould. Salary, 50l.
 
 Fees. See Table. Besides which the Under-sheriff demands 9$. 2d. for hjs liberate ! Chaplain, Rev. Richard Williams; who only attends on prisoners under sentence of death. Surgeon, Mr. William Real; Salary, 5/.
 
@@ -9376,7 +9242,7 @@ OXFORD, Castle Gaol
 
 Gaoler, •Daniel Harris.
 
-Salary, 105/. and a gratuity annually from the Magistrates, of 52/. 10s.
+Salary, 105l. and a gratuity annually from the Magistrates, of 52/. 10s.
 
 Fees, see Table; Besides which the Under-sheriff demands %s. 6d. for his liberate /
 
@@ -9386,7 +9252,7 @@ Chaplain, Rev. Richard Graham.
 
 Duty, Sunday, Prayers and a Sermon:Sacrament four times a year.
 
-Salary, 42/.
+Salary, 42l.
 
 Surgeon, Mr. Rawlins. Salary 30/. 5s.
 
@@ -9420,7 +9286,7 @@ At the end of this building, and adjoining the old tower, are four cells, 11 fee
 
 The first floor contains a room of the same size as the dungeon below:it has a boarded floor, with one treble-bar iron-grated window, and is called the Condemned Room. The second and third stories contain each one room, the same size as those below; but the keeper assured me they had not been used these fifteen years. The upper room of this tower is of the same size as the others: it has a boarded floor, one window, and a large lanthorn light; and is intended for the use of debtors (as formerly), if found necessary. An engine throws water into a leaden
 
-ACCOUNT OF PRISON'S FOR DEBTORS
+ACCOUNT OF PRISONS FOR DEBTORS
 
 43 *
 
@@ -9510,7 +9376,7 @@ Chaplain, Rev. Mr. Penson.
 
 Duty, Prayers and Sermon on Sunday.
 
-Salary, 10/. 10s.
+Salary, 10l. 10s.
 
 Surgeon, Mr. Rawlins; makes a bill.
 
@@ -9526,7 +9392,7 @@ REMARKS.
 
 This Gaol is surrounded by a boundary wall 20 feet high, inclosing about an acre of land; and being at the distance of 25 feet from the prison, the Keeper has within it a convenient garden for the growth of vegetables. There is an alarm-bell at the top of the prison. The Gaolers house, in the centre of the building, fronts the outer gate; and has on each side a small flower-garden, 40 feet by 20, enclosed with open wood palisades. At the entrance is a room, about ten feet square, in which the Act for preserving Health, and Clauses against Spirituous Liquors are conspicuously hung up.
 
-436 ACCOUNT OF PRISON'S FOR DEBTORS *
+436 ACCOUNT OF PRISONS FOR DEBTORS *
 
 In this small room is an old door, with the following Inscription, engraved on a brass plate, “ This door (c was at the entrance of a cell in the old city gaol
 
@@ -9584,7 +9450,7 @@ small
 
 440
 
-ACCOUNT OF PRISON'S FOR DEBTORS
+ACCOUNT OF PRISONS FOR DEBTORS
 
 small iron grating (five inches apart), and so the Keeper had no occasion to come near the prison. Hoslin had a bed supplied him by his friends, or he must have slept upon the scanty pittance of straw on the floor !
 
@@ -9618,7 +9484,7 @@ PETERBOROUGH; Northamptonshire.
 
 Gaoler, William Millwood, SherifPs Oilicer.
 
-Salary, 30/. Fees, 6s. 8d.
+Salary, 30l. Fees, 6s. 8d.
 
 Chaplain, none. But when a prisoner lies under sentence of death, the Vicar of St. John’s, for the time being, is required to attend him.
 
@@ -9646,7 +9512,7 @@ PLYMOUTH; Devonshire.
 
 Gaolers, Tho. Tatam, Geo. Pardon, Tho. Toicton, who are likewise Serjeants at Mace.
 
-Salary, 15/. per annum each.
+Salary, 15l. per annum each.
 
 Fees: Arrest, 15^- Dicharge, 15s. 4<L No table.
 
@@ -9760,7 +9626,7 @@ Town Gaol.
 
 Gaoler, Edward Hunt; Serjeant at Mace.
 
-Salary, 80/.
+Salary, 80l.
 
 Fees, Caption 3>y. 4d. Discharge 6s. 2d.
 
@@ -9790,7 +9656,7 @@ Chaplain, Rev. Mr. Davis.
 
 Duty, Sunday, Prayers and Sermon.
 
-Salary, 50/.
+Salary, 50l.
 
 Surgeon, Mr. Hodgson.
 
@@ -9940,45 +9806,45 @@ Amount.
 
 Half-Yearly.
 
-Ditto.......
+Ditto -
 
-Yearly......
+Yearly -
 
 Ditto.
 
-Ditto........
+Ditto -
 
 Half-Yearly..,
 
-Yearly.......
+Yearly -
 
-Ditto.......
+Ditto -
 
-Ditto........
+Ditto -
 
-Ditto........
+Ditto -
 
-Ditto........
+Ditto -
 
-Ditto........
+Ditto -
 
-Ditto........
+Ditto -
 
-Quarterly....
+Quarterly -
 
-Yearly.......
+Yearly -
 
 Every 3 year;
 
-Quarterly....
+Quarterly -
 
-Ditto........
+Ditto -
 
-Ditto... ....
+Ditto - ....
 
 Mr. Peter Bluudell
 
-Ditto.............
+Ditto -
 
 Sir James Peachy..
 
@@ -9988,41 +9854,41 @@ Sir John Kendrick, Ivnt Sir Wm. Middleton, Ivnt
 
 Sir Robert Rampson..
 
-Arehbp. of Canterbury Mr. John Shields....
+Arehbp. of Canterbury Mr. John Shields -
 
-Mr. Thomas Dawson.... Mrs. Mary Ilolligrave..
+Mr. Thomas Dawson - Mrs. Mary Ilolligrave..
 
-Mr. James llodgson....
+Mr. James llodgson -
 
-Mr. Win. Parker........
+Mr. Win. Parker -
 
-Mr. Wm. Peake..........
+Mr. Wm. Peake -
 
-Mr. John Wooller.......
+Mr. John Wooller -
 
 Mr. Thomas Stretchly..
 
-Mr. John Meridith.......
+Mr. John Meridith -
 
-Ditto..................
+Ditto -
 
-Ditto..................
+Ditto -
 
 Drapers Company’....
 
 Fishmongers Company.
 
-Excise OHice........
+Excise OHice -
 
 ^ ChurchwardcnsofSt-. \Andrew Undershaft/ <and Allhallows, oue> / year beef, and the \ C other money '
 
-Drapers Company.....
+Drapers Company -
 
 Chamberlain of London 5 Mr. Buckeridge, 13, }
 
 I Orehard-st, Oxf. ro. £
 
-At Lambeth Palace....
+At Lambeth Palace -
 
 Cooks Company’.......
 
@@ -10032,9 +9898,9 @@ Cooks Company’.......
 
 I (pays land tax, 6s.) \ MerchantTaylors Comp.
 
-Christ’s Hospital....
+Christ’s Hospital -
 
-skinners Company.....
+skinners Company -
 
 Leathersellers Company’ Ditto, "doz. penny loaves
 
@@ -10088,73 +9954,73 @@ When paid.
 
 Half-Yearly.
 
-Yearly....
+Yearly -
 
 Ditto.'....
 
-Diuo.......
+Diuo -
 
 Donors’ Names.
 
-.Sir Francis Clark....
+.Sir Francis Clark -
 
 R. Martin and J. March
 
-Sir Thos. Cullunt.....
+Sir Thos. Cullunt -
 
-Sir Edw. Corbett......
+Sir Edw. Corbett -
 
 Ditto
 
 Richard Jacobs, 21.
 
-Half-Yearly... Lady Ramsay..........
+Half-Yearly - Lady Ramsay -
 
-Quarterly....Mr. Wm, Peake, 10r.
+Quarterly - Mr. Wm, Peake, 10r.
 
-Yearly....
+Yearly -
 
 Quarterly
 
 Yearly___
 
-Quarterly Ditto...
+Quarterly Ditto -
 
 Mrs. Joan Sanback..
 
-Mr. JohnMeridith.... Alderman J. Haydon
+Mr. JohnMeridith - Alderman J. Haydon
 
-Ditto..............
+Ditto -
 
-Ditto..............
+Ditto -
 
 By whom paid.
 
 Amount.
 
-Mercers Company.....
+Mercers Company -
 
-Ditto...............
+Ditto -
 
-Drapers ditto.......
+Drapers ditto -
 
-Cooks ditto.........
+Cooks ditto -
 
 Mrs. Starling; paid from the rent of houses in Lamb’s Conduit-street.
 
 (Pays land tax, Sr.)
 
-Christ’s Hospital...
+Christ’s Hospital -
 
 Mr. Dunnage; paid from the ground rent of some houses in Gloucester-street, Hoxton.
 
 (Pays land tax, 6s.) Churchwardens of St. Bride’s
 
-Skinners’ Company...
+Skinners’ Company -
 
-Mercers ditto.......
+Mercers ditto -
 
-heathersellers ditto..., Ditto, 7doz.pennyloavcs
+heathersellers ditto - , Ditto, 7doz.pennyloavcs
 
 5 0 0
 
@@ -10178,7 +10044,7 @@ Midsummer Quarter.
 
 When paid. Donors’ Names. By whom paid. Amount.
 
-Yearly Half-Yearly... Sir Thos. Gresham, Knt. Mr. Peter Blundell Mercers Company Drapers diuo 10 0 0 1 0 0 1 0 0 111 3 0 5 6 1 4 0 0 4 10
+Yearly Half-Yearly - Sir Thos. Gresham, Knt. Mr. Peter Blundell Mercers Company Drapers diuo 10 0 0 1 0 0 1 0 0 111 3 0 5 6 1 4 0 0 4 10
 
 Ditto Quarterly Ditto irWin. Middleton, Knt. Mr. JohnMeridith Chamberlain of London Skinners Company t Mr. Dunnage (pays } £ land tax, 6j.) \ L^atherscllc-rs Company Ditto, 7doz. pennyloaves.
 
@@ -10210,7 +10076,7 @@ Ditto d 247/. 18, . ?rf. t Mercers Company 7 3 9
 
 (S. S. Annuities.)
 
-Half-Yearly... Lady Ramsay 1 5 0
+Half-Yearly - Lady Ramsay 1 5 0
 
 Quarterly Mr. Wm. Peake, 1/. 10»-. 5 Mr. Dunnage (pays)\ land tax, 6s). £ 1 4 0
 
@@ -10240,13 +10106,13 @@ Gaoler, Robert Lewis. Salary, 20L Fees, 6s. Sd. No Table.
 
 Garnish, abolished.
 
-Chaplain, Rev. Mr. Smith. Salary, 10/.
+Chaplain, Rev. Mr. Smith. Salary, 10l.
 
 Duty, Prayers once or twice a week, as required; and a sermon four times a year.
 
 Surgeon, Mr. Coohscy; for felons only.
 
-Salary, 10/.
+Salary, 10l.
 
 Number of Debtors, (1801’ Nov- 14th’ " 5
 
@@ -10272,13 +10138,13 @@ Fees. See Table. The Under-sheriff demands 3$. 6d. for his liberate.
 
 Garnish, abolished.
 
-Chaplain, Rev. Mr. Hodgkinson. Salary, 50/.
+Chaplain, Rev. Mr. Hodgkinson. Salary, 50l.
 
 Duty, Sunday, Prayers and Sermon, and Wednesday, Prayers.
 
 Surgeon, Mr. Bulley.
 
-Salary, 20/. for gaol and bridewell, debtors and felons.
+Salary, 20l. for gaol and bridewell, debtors and felons.
 
 pi800, March 24th, - 10
 
@@ -10289,8 +10155,6 @@ llSod, Oct. ldth, - 8
 Allowance. Ten ounces of bread, half a pound of rice, or two pound of potatoes, to each debtor, daily, on proof of his being a pauper, and willing to work *.
 
 * This was the allowance in 1801:but on my subsequent visits I found it altered to a contract with the Gaoler, who receives 5d. per day, and 4d. per week each; for which he supplies the prisoners on Monday, Tuesday, and Wednesday, with il lb. of bread; Thursday, 2 lb. of meat, and 1 lb. of potatoes, made into soup; Friday and Saturday, i£ lb. of bread j and on Sunday (for which the additional 4th is allowed), with a dinner of offal meat, made into soup, with vegetables.
-
-RE-
 
 4^0 ACCOUNT or PRISONS FOR DEBTORS
 
@@ -10594,7 +10458,7 @@ For allowing every writ of Habeas Corpus, besides conduct money, to be paid and 
 
 0 Q 2£
 
-0 0 €
+0 0 C
 
 0 17 4
 
@@ -10634,11 +10498,11 @@ RUTHIN; Denbighshire.
 
 Gaoler, Humphrey Jones.
 
-Salary, 50/. and 71, in lieu of fees: But the Under-sheriff claims 3-y. 6d. for his liberate! Garnish, 2s. 6d,
+Salary, 50l. and 71, in lieu of fees: But the Under-sheriff claims 3-y. 6d. for his liberate! Garnish, 2s. 6d,
 
 Chaplain. Rev. Richard Jones.
 
-Duty, every Sunday, Prayers and Sermon, % Salary, 30/.
+Duty, every Sunday, Prayers and Sermon, % Salary, 30l.
 
 Surgeon, Mr. Nichols. Salary, 30A
 
@@ -10656,7 +10520,7 @@ REMARKS.
 
 This-Caol is also the County Bridewell. In front are the gaoler's aoartinents. Backwards, on the
 
-O 1  '
+O 1 '
 
 ground-floor, is a day-room for debtors, 27 feet by 15; and another the same size for criminals: for the latter only cells, 7I feet by df; 2 on each side of a passage only 3 feet wide. The cells are arched with brick, and lined with oak-plank:in each a bedstead, with two blankets and a coverlet. A window in each, 3 feet by 1. In both debtors’ and felons' day-rooms are S cupboards, with separate locks and keys, to secure their provision. Above
 
@@ -10684,7 +10548,7 @@ ST. ALBAN'S, Herts: Borough Gaol.
 
 Gaoler, James Drayton.
 
-Salary, 20/.
+Salary, 20l.
 
 Surgeon, if wanted, is ordered by the Mayor, and makes a bill.
 
@@ -10776,7 +10640,7 @@ County Gaol.
 
 Gaoler, John Willis.
 
-Salary, 150/.; and for turnkeys, 50L
+Salary, 150l.; and for turnkeys, 50L
 
 Fees, l/. the first action; 10s. for every other; and Is. to the turnkey for every action: (No table.) Besides which, the Undersheriff demands 6s. 8d. for his liberate !
 
@@ -10786,7 +10650,7 @@ Chaplain, Rev. Mr. Harrison.
 
 Duty, Prayers and a Sermon every Sunday.
 
-Salary, 50/.
+Salary, 50l.
 
 Surgeon, Mr. Fisher. Salary, 211.
 
@@ -10797,8 +10661,6 @@ Number of Debtors,
 1807, Sept. 25th, 14-
 
 Allowance. Formerly none; but in 1804 the Magistrates humanely allowed the common-side debtors if lb. of bread per day; and at Easter Sessions 1807 increased their allowance to 1| lb. It is sent in loaves from the baker’s, and I found them full weight.
-
-RE-
 
 IX ENGLAND, SCOTLAND, AX'D WALES. '
 
@@ -10880,7 +10742,7 @@ Town Gaol.
 
 Gaoler, Mary Grant.
 
-Salary, 20/.
+Salary, 20l.
 
 Chaplain, none; nor any religions attentions whatever.
 
@@ -11026,13 +10888,13 @@ Fees, as per Table:But the Under-sheriff demands a fee of js. 6d. upon discharge
 
 Garnish. Abolished.
 
-Chaplain, Rev. W. G. Rowland. Salary, 70/.
+Chaplain, Rev. W. G. Rowland. Salary, 70l.
 
 Duty. Prayers on Thursday, and Sermon on Sundays, Good Friday, and Christmas-day.
 
 Surgeon, Mr. William Thomas.
 
-Salary, 50/. for debtors and felons.
+Salary, 50l. for debtors and felons.
 
 r 1 BOO, May 2d, - 23
 
@@ -11041,10 +10903,6 @@ Number of Debtors, < 1802, Nov. 3d, - 12
 11803, Sept, llth, - 11
 
 Allowance. Debtors, 1 lb. 8 oz. of wheaten bread, made by the female convicts, and baked in the gaol. When wheat is at 11s. the strike (or bushel), a loaf of 1 lb. 8 oz. costs twopence half-penny.
-
-RE-
-
-/
 
 IN ENGLAND, SCOTLAND, AND WALES. 493
 
@@ -11055,8 +10913,6 @@ This gaol, which is likewise the house of correction, is near the castle, and wa
 Upstairs are two reception-rooms, a room for the irons, and a sitting-room (with a fire-place) for the Clergyman, where he performs his last offices to persons under sentence of death, who suffer on the flat roof above.
 
 The court fronting the Keeper’s house is about 20 yards square, and the inner Turnkey’s lodge adjoins. Master’s-side debtors have a court-yard 36 feet square, a day-room 14 feet by 12, and eleven sleeping-rooms with boarded floors. They sleep single, and pay 4s. per week for County furniture; but if they find their own beck, 2s.per week.
-
-Common-
 
 494
 
@@ -11088,7 +10944,7 @@ Attending every prisoner to give bail, special bail, habeas corpus, or other nec
 
 out
 
-IX ENGLAND, SCOTLAND, AND WALES. 4'Jj
+IN ENGLAND, SCOTLAND, AND WALES. 4'Jj
 
 •out of the gaol, as directed by the statute, per mile, - -10
 
@@ -11114,7 +10970,7 @@ When I attended divine service in September 1803* all the prisoners were present
 
 The employment here consists in making shoes, slippers, gloves, and bottle-stands. There are looms likewise for weavers, and the iron machinery for a corn-mill; but, for want of a pair of millstones, it is useless.
 
-IN'ENGLAND, SCOTLAND, AND WALES. 4QJ
+IN ENGLAND, SCOTLAND, AND WALES. 4QJ
 
 . SOUTHAMPTON; Hampshire.
 
@@ -11138,7 +10994,7 @@ This Gaol, for debtors only, is a part of the old tower, at the lower end of the
 
 I 1
 
-49$ ACCOUNT OF PRISON'S FOR DEBTORS
+49$ ACCOUNT OF PRISONS FOR DEBTORS
 
 STAFFORD.
 
@@ -11148,23 +11004,19 @@ Fees; see Table.
 
 Garnish, abolished.
 
-\
-
 Chaplain, Rev. Henry Rathhone.
 
-Salary, 30/.
+Salary, 30l.
 
 Duty, Prayers every Wednesday; and a Sermon every Sunday, Christmas-day, and Good Friday.
 
-Surgeon, Mr. Hughes. Salary, 42/.
+Surgeon, Mr. Hughes. Salary, 42l.
 
 {}800, Nov. 19th, - 18
 
 1802, Nov. 1st, - - 20 1805, Oct. 30th, - - 20
 
 Allowance. To debtors who are poor, and have no work, Monday, Wednesday, and Friday, 4 lbs. of potatoes. Tuesday, 2 lbs. of bread and i lb. of cheese. Thursday 2 lbs. of bread. Saturday 3 lbs. of bread, and \ lb. of cheese, Sunday, meat and vegetables. N.B. Debtors who receive the Sixpences from their plaintiffs have no County Allowance.
-
-RE-
 
 IN ENGLAND, SCOTLAND, AND WALES. 499
 
@@ -11176,7 +11028,7 @@ Men debtors have a spacious court, 56 yards by SO, the greater part of which the
 
 Female debtors have a separate court, 30 yards by 8, a day-room 24 feet by 15, and over it a sleeping-
 
-1 1 2 room,
+room,
 
 500 ACCOUNT OF PRISONS FOR DEBTORS
 
@@ -11234,7 +11086,7 @@ Every person confined in the Sheriff’s Ward,
 
 finding his own bedding, per week, - - 0 1 o
 
-Every person, withbeddingallowcd by the Comity, 0 2 6
+Every person, with bedding allowcd by the Comity, 0 2 6
 
 Every person occupying a room in the keeper’s
 
@@ -11262,7 +11114,7 @@ N. Grose.”
 
 The following Order was made and confirmed:
 
-- “ That debtors shall be permitted to send for, or i(have brought to them, at seasonable hours, any' “ victuals or clothing; * but, in respect to liquor, no prisoners shall be allowed either to send for or u to drink more than one pint of wine, or one quart of beer, in one day, or twenty-four hours: And “ if any prisoner shall be detected in making use of <(the name of any other prisoner, for the purpose of “ obtaining any greater quantity of wine, or beer, tc the prisoner consenting to lend his name, and the prisoner using it, shall be incapable of receiving (C a certificate of good behaviour; and the gaoler shall be required to remove them into the Sheriff’s se or common ward.”
+- “ That debtors shall be permitted to send for, or i(have brought to them, at seasonable hours, any' “ victuals or clothing; but, in respect to liquor, no prisoners shall be allowed either to send for or u to drink more than one pint of wine, or one quart of beer, in one day, or twenty-four hours: And “ if any prisoner shall be detected in making use of <(the name of any other prisoner, for the purpose of “ obtaining any greater quantity of wine, or beer, tc the prisoner consenting to lend his name, and the prisoner using it, shall be incapable of receiving (C a certificate of good behaviour; and the gaoler shall be required to remove them into the Sheriff’s se or common ward.”
 
 Stafford, 1st August, l/pg, Allowed by us,
 
@@ -11290,7 +11142,7 @@ SURRY COUNTY GAOL; Borough.
 
 Gaoler, James Ives.
 
-Salary, 300/.; and if the Debtors’ fees should not amount to an additional 1001, per annum, the County to make up the deficiency. Also for the Bridewell, 50/.
+Salary, 300l.; and if the Debtors’ fees should not amount to an additional 1001, per annum, the County to make up the deficiency. Also for the Bridewell, 50/.
 
 Fees; see Table. Garnish, abolished.
 
@@ -11298,7 +11150,7 @@ Chaplain, Rev. William Mann.
 
 Duty, every Sunday, Tuesday, and Thursday.
 
-Salary, 50/.; and as Secretary to the Visiting Committee, 30/.
+Salary, 50l.; and as Secretary to the Visiting Committee, 30/.
 
 Surgeons, Messrs. Saumarez and Dixon.
 
@@ -11316,8 +11168,6 @@ Number of Debtors,
 
 Allowance. One pound of bread per day, to Common-side debtors only. Master’s side debtors have no allowance whatever,
 
-RE-
-
 IN ENGLAND, SCOTLAND, AND WALES.
 
 505
@@ -11333,8 +11183,6 @@ The boundary-wall encloses about three acres of ground:The Sessions-house adjoin
 The Gaol, which is likewise the County Bridewell, was first inhabited the 3d of August 17.98, and has in front the Turnkey’s Lodge, on the ground-floor of which is a day-room; another room with a cold bath; and a third is the wash-house, with an oven, &c. Over these are four rooms, 18 feet by 15, for the turnkeys to sleep in; and at the top of all is a spacious lead-fiat, where criminals are executed. After passing through the lodge, an avenue paved with Yorkshire-stone leads onto the keeper’s house,
 
 which is in the centre of the prison, and from which
-
-/
 
 the several court-yards are inspected.
 
@@ -11424,13 +11272,13 @@ TOTHILL FIELDS; Westminster.
 
 Gaoler, Henry Bothwell.
 
-Salary, 400/. if room-rent, bedding, and fees amount to that sum; otherwise the County makes up the difference.
+Salary, 400l. if room-rent, bedding, and fees amount to that sum; otherwise the County makes up the difference.
 
-Fees, felons, ~)S. 2d. Garnish, 1$. 2d. Chaplain, Rev. Mr. Bennett. Salary, 20/.
+Fees, felons, ~)S. 2d. Garnish, 1$. 2d. Chaplain, Rev. Mr. Bennett. Salary, 20l.
 
 Duty, Sunday, Prayers and Sermon.
 
-Surgeon, Mr. Henbury; Salary, 30/.
+Surgeon, Mr. Henbury; Salary, 30l.
 
 Number of Debtors committed from the Courts of Conscience in nine years.
 
@@ -11516,13 +11364,13 @@ Kk
 
 5H
 
-ACCOUNT OF PRISON'S FOR DEBTORS-
+ACCOUNT OF PRISONS FOR DEBTORS-
 
 WARWICK.
 
 County Gaol.
 
-Gaoler, Ilennj Tatnall. Salary, 300/.
+Gaoler, Ilennj Tatnall. Salary, 300l.
 
 Fees. See Table. Garnish. Abolished.
 
@@ -11662,13 +11510,13 @@ By statute of 21 Geo. III. intituled “ An Act for te diminishing the Fees paya
 
 520
 
-ACCOUNT OF PRISON'S FOR DEBTORS
+ACCOUNT OF PRISONS FOR DEBTORS
 
 WINCHESTER; Hampshire. County Gaol.
 
 Gaoler, John JFhite.
 
-Salary, 200/. and two guineas a year for keeping a check-account of bread delivered.
+Salary, 200l. and two guineas a year for keeping a check-account of bread delivered.
 
 Fees. See Table: Besides which the Under-Sheriff demands 6s. 8d. and one shilling to his Clerk, for his liberate !
 
@@ -11682,13 +11530,15 @@ Salary, 701, for Gaol and Bridewell.
 
 Surgeon, Mr. Giles Lyford.
 
-Salary, 100/. for Felons, poor Debtors, and Bridewell prisoners.
+Salary, 100l. for Felons, poor Debtors, and Bridewell prisoners.
 
 Number of Debtors,
 
 1800, March 30th, 19
 
-ISOI, Jan. 10th, - 42 1802, Jan. 3d, - 26
+1801, Jan. 10th, - 42
+
+1802, Jan. 3d, - 26
 
 1802, March 29th, 23
 
@@ -11697,8 +11547,6 @@ ISOI, Jan. 10th, - 42 1802, Jan. 3d, - 26
 1807, Sept. 23d, - 23
 
 Allowance. Master’s-side Debtors, none. Those on the Common-side have each 1/ ounces of Bread per day, in loaves; which, though two days old, I found to be full weight: also a pound of Mutton each on every Sunday.
-
-RE-
 
 IN ENGLAND, SCOTLAND, AND WALES.
 
@@ -11738,9 +11586,7 @@ The ascent to the floors of these arcades, which are paved with flag-stones, is 
 
 master-
 
-IN ENGLAND, SCOTLAND, AND WALES.
-
-523
+IN ENGLAND, SCOTLAND, AND WALES. 523
 
 master-debtors’ side, are six sleeping-rooms, lG i’eet square, and nearly 11 feet high; and a kitchen or mess-room 24 feet by 22, with a large fire-place, dining table, shelves, and cupboards for provisions. They have also two rooms on the ground iloor, of the same size; one of which is a day-room, and the other for the debtor to see his friends in The bedrooms are furnished with a wood lath bedstead, straw mattress, feather-bed, blanket, sheets, and rug, at 2.9. 6(1. each per week.
 
@@ -11748,9 +11594,7 @@ The court for common-side debtors is separated from that of the master’s side 
 
 In the women-debtors’ court, which is SO feet by 35, and situated on the South side of the prison, are four spacious rooms, of like construction with those for the other debtors. One of these rooms is furnished by the keeper, at 2s. 6d. per week; and the others have a straw-in-sacking bed, blanket, and coverlet, at the County’s expenee. Every room has
 
-a Bath-
-
-524 ACCOUNT or PRISONS for debtors
+524 ACCOUNT OF PRISONS FOR DEBTORS
 
 a Bath-stove grate, an iron shovel and poker, and a coal-box, to hold two bushels: the recess on each side the chimney has a shelf 18 inches wide, for placing their provisions, &c. All the debtors’ rooms are boarded, with each a sash window, 5 feet 6* by 3 feet 6, and a grated unglazed aperture over the door, 3 feet by 18 inches. This court has uo arcades:a door out of it communicates with the chapel.
 
@@ -11759,8 +11603,6 @@ Here is a reservoir, filled by an hydraulic pump, from a well of fine water adjo
 The various sewers are placed at the end of the several wings of the Prison, on the outside of the staircases, the vaults of which are 6*0 feet deep. 'There are 'also pens adjoining the sewers, for ashes, &c. forming together little buildings, equally useful and ornamental.
 
 ' The court-yards here are so extensive and open, that the paving of them entirely with flag stone
-
-was
 
 IN ENGLAND, SCOTLAND, AND WALES.
 
@@ -11778,11 +11620,9 @@ The dav-rooms have coals allowed, with kettles and other utensils for cooking. C
 
 Within the Gaol is hung up an Account of Fees, which, after a recital of the preamble of the statute enjoining it, is as follows:I
 
-' I’able
-
 526 ACCOUNT OF PRISONS FOR DEBTORS
 
-Table of. Fees for Debtors in the County Gaol of Winchester.
+Table of Fees for Debtors in the County Gaol of Winchester.
 
 I. s. d.
 
@@ -11854,8 +11694,6 @@ If similar Institutions were set on foot throughout England and Wales, it would 
 
 o o
 
-\
-
 * My worthy friend, and able coadjutor in an examination into, and report of the state of Convicts in Portsmouth and Langston Harbours, drawn up 16th March, 1802; and to whom it will give great pleasure to be informed, that since the new system has been adopted, the Convicts are in every respect more healthy and comfortable.
 
 4E
@@ -11916,7 +11754,7 @@ WORCESTER CASTLE County Gaol.
 
 Gaoler, William Davis.
 
-Salary, 200/. for Gaol, and Bridewell which adjoins.
+Salary, 200l. for Gaol, and Bridewell which adjoins.
 
 Fees, as/?er Table:Besides which the Under-sheriff demands %s. (id. for his liberate!
 
@@ -11924,7 +11762,7 @@ Chaplain, Rev. W illiam Faulkner.
 
 Duty, Prayers Wednesday and Friday; and Prayers and Sermon every Sunday, Christ-mas-day, and Good Friday.
 
-Salary, 40/.
+Salary, 40l.
 
 Surgeon. Mr. Rayment, for felons only.
 
@@ -12020,7 +11858,7 @@ WORCESTER CITY Gao/.
 
 Gaoler, James Griffiths.
 
-Salary, 50/. I Te is likewise the parish clerk, and clerk to the House of Industry.
+Salary, 50l. I Te is likewise the parish clerk, and clerk to the House of Industry.
 
 Fees, debtors, 9s. 2d. The Under-sheriff demands 2s. 6d. for his liberate !
 
@@ -12030,7 +11868,7 @@ Chaplain. Rev. Mr. Faulkner.
 
 Duty, Prayers every Friday moming.
 
-Salary, 10/.
+Salary, 10l.
 
 Surgeon, Mr. Rayment.
 
@@ -12066,7 +11904,7 @@ YARMOUTH; Norfolk.
 
 Town Gaol.
 
-Gaoler, Thomas King. Salary, 40/.
+Gaoler, Thomas King. Salary, 40l.
 
 Fees, 6s. 8d.
 
@@ -12192,7 +12030,7 @@ Mrs.
 
 i
 
-544 ACCOUNT OF PRISON'S FOR DEBTORS
+544 ACCOUNT OF PRISONS FOR DEBTORS
 
 Mrs. Frances Thornhill, for straw, (the Lord Mayor of York has 30/. in his hands for that purpose) 1/. 10s. *
 
@@ -12214,17 +12052,17 @@ YORK, City and County Gaol.
 
 Gaoler, Mary Meggeson, widow of the late Gaoler.
 
-Salary, 110/.
+Salary, 110l.
 
 Fees; debtors 6s. 8d. Besides which the under-sheriff* demands 7s. 4d. for his liberate !
 
 Garnish, \s.
 
-' No Chaplain, nor any religious attention whatever, except when a prisoner is under sentence of death.
+No Chaplain, nor any religious attention whatever, except when a prisoner is under sentence of death.
 
 Surgeons, Messrs. Champney and Drake,
 
-Salary, 10/.
+Salary, 10l.
 
 (-1800, May 31st, - 5
 
@@ -12456,11 +12294,7 @@ The perfect completion of so salutary a reform cannot fail to, excite the just h
 
 COURTS OF CONSCIENCE. 555
 
-Another consideration, of much importance, demand* also the peculiar attention of every conscientious Magistrate. Whilst the law ordains im-
-
-u
-
-prisonment, there ought to be a County Allowance of Food, and of Bedding for every indigent and friendless prisoner: instead of which, I have sometimes found debtors, who have in prison become indebted to felons for their food; and, in some instances, have painfully witnessed, that when liberated from a gaol, they were fitter for an hospital than for labour.
+Another consideration, of much importance, demand* also the peculiar attention of every conscientious Magistrate. Whilst the law ordains imprisonment, there ought to be a County Allowance of Food, and of Bedding for every indigent and friendless prisoner: instead of which, I have sometimes found debtors, who have in prison become indebted to felons for their food; and, in some instances, have painfully witnessed, that when liberated from a gaol, they were fitter for an hospital than for labour.
 
 The foil owing; observations of Mr. Justice Blackstone demand a peculiar attention. He tells us, that “ divers trading towns, and other districts, had <c obtained Acts of Parliament, for establishing in “ them Courts of Conscience, upon nearly the same i(plan as that in the City of London. The anx-“ ious desire that has been shewn to obtain these (C several Acts, proven clearly, that the nation in “general is truly sensible of the great inconvenience fc arising from the disuse of the antient County and . “ Hundred Courts; wherein causes of this small c value were always formerly decided, with very little trouble and expence to the parties. But, it “ is to be feared, that the general remedy which of late hath been principally applied to this in-“ convenience (the erecting these new jurisdictions) (C may itself be attended, in time, with very ill consequences:as the method of proceeding therein
 
@@ -12508,7 +12342,7 @@ For every Summon.' for the Attendance)of not more than two Witnesses* - - $
 
 For every Hearing on Trial - - - For every Order, Decree, or Judgment,)
 
-on Hearing -...................£
+on Hearing - ...... £
 
 For paying Money into Court - -
 
@@ -12526,7 +12360,7 @@ For calling the Defendant before the Court
 
 To the Clerks.
 
-For every Summons.....................
+For every Summons -
 
 For every Summons for the Attendance)of not more than two Witnesses £
 
@@ -12538,7 +12372,7 @@ every Execution ----
 
 For every Nonsuit - -- -- -- -
 
-F or receiving Money out of Court, in part For receiving Money out of Court, in full For every Search in the Books ...
+F or receiving Money out of Court, in part For receiving Money out of Court, in full For every Search in the Books -
 
 For swearing every Witness ----
 
@@ -12548,17 +12382,17 @@ To the"OFFicERs.
 
 For serving every Summons on Defend- ?
 
-ant, or Witness.....................>
+ant, or Witness - >
 
 For serving Notice of Attachment on De-" fendant ---- S
 
 For giving Notice of such Service to the)
 
-Plaintiff...........................$
+Plaintiff - $
 
 For levying Executions on Debts not ex- £
 
-ceeding 15s. -..................j
+ceeding 15s. - ...... j
 
 Above 15?. and not exceeding 20v. -
 
@@ -12568,7 +12402,7 @@ Above 40s. and not exceeding 60s. -
 
 Above 60s. and not exceeding 80s. -
 
-Above SOs............................
+Above SOs -
 
 On Debts nut 0 exceeding 40 . i
 
@@ -12884,15 +12718,13 @@ The prisons, notwithstanding the recent Act of Insolvency, are already crowded w
 
 As to a farther restriction of the law of arrests on mesne process, we are not left without a guide:our ancestors, above eighty years ago, restrained the law of arrests, on process from the superior courts at Westminster, by preventing them for sums under ten pounds *.
 
-By this law, thousands of debtors have been saved from imprisonment; and, if revised, it might be the means of avoiding the enlargement of prisons, or of passing more frequent Acts of Insolvency. As money decreased in value, the benefits intended by this law gradually diminished. We may re-
+By this law, thousands of debtors have been saved from imprisonment; and, if revised, it might be the means of avoiding the enlargement of prisons, or of passing more frequent Acts of Insolvency. As money decreased in value, the benefits intended by this law gradually diminished. We may remember,
 
 * 12 Geo. I. c. 29,
 
-member,
+ARRESTS ON MESNE PROCESS,
 
-57AllftESTS ON MESNE PROCESS,
-
-member, that, above 30 years ago, Newgale, - the King’s-Bench, the Fleet, and other prisons, were considerably enlarged; but their future di-
+member, that, above 30 years ago, Newgate, the King’s-Bench, the Fleet, and other prisons, were considerably enlarged; but their future di-
 
 * O
 
@@ -12919,8 +12751,6 @@ By a statute of the present reign, to check such arrests in the inferior courts 
 Tvery creditor shares in the speculation of an arrest (whilst the chance of success is clearly diminished, when the party has neither money nor friends); but the practice is pursued from habit,
 
 - ip Geo. III.
-
-O o although
 
 ARRESTS ON MESNE PROCESS,
 
@@ -12990,9 +12820,9 @@ Benefactions.
 
 Anonymous:including Donations of less than Ten Guineas, long since sent in, either with proper Names or various Initial Letters: Also Sums, of whatever Amount, whether with Initials, Names, or Symbols, that have been regularly advertised in News-papers, after the Meetings of the Society, or noticed in the Books of Report, published with its Sanction; and whose Donors are supposed to be deceased. All which sums (like those hereafter specified) remain individually entered in the Records of the Society, together with the Dates and Circumstances under
 
-which they were respectively received....... 10, 592 7 5
+which they were respectively received - 10, 592 7 5
 
-Anonymous:P. by Isaac and John Walker, Esq. . .. 1, 575 O 0 •*'*'The Trustees of Bishop Andrews’s Charity...2/72G O O .
+Anonymous:P. by Isaac and John Walker, Esq. . .. 1, 575 O 0 •*'*'The Trustees of Bishop Andrews’s Charity - 2/72G O O .
 
 Atwick.
 
@@ -13006,33 +12836,33 @@ A. H..:. .. 160 0 0
 
 A. C. St. Thomas'.-; 240 O O A Lady, by Rev. Dr.
 
-Trotter..........21 0 0
+Trotter - 21 0 0
 
-A Lady, by Rev, Anthony Natt.........4G 18 0
+A Lady, by Rev, Anthony Natt - 4G 18 0
 
 * Acland, Rev. John. . 25 15 0 '*'*Angerstein, J.J. Ksq. 42 O 0 *Antrobus, Kdm. Ksq. 21 O O A. B’ by Treasurer SOO 0 0 A. B.byDorrienACo.50 0 0 A. B. by Biddulph and
 
-Co............ 100 0 O
+Co - 100 0 O
 
 A. B. in Letter Bov 300 0 0
 
-A. E...............20 O ()
+A. E ...... 20 O ()
 
 A.G.byFidleramlCo:40 O O
 
-A. X...............20 0 0
+A. X ...... 20 0 0
 
-A.B.X..............20 oo
+A.B.X ...... 20 oo
 
-A. B. C.......... 200 O o
+A. B. C ......  200 O o
 
 A. H. per Hoares .. GO 0 0
 
-A. F...............21 () O
+A. F ...... 21 () O
 
 A. Y. S. 5 I. each .. 15 0 0
 
-A.B.Y.X............20 o 0
+A.B.Y.X ...... 20 o 0
 
 A Philanthropist, by
 
@@ -13040,37 +12870,37 @@ Mr. Dornford, .. 100 o 0 A Lady unknown .. 40 o o
 
 Ditto, byHon.P.Pusev3 o 0 Ditto, by J. Bourne,
 
-Esq.............. 20 0 0
+Esq - 20 0 0
 
-Adams, John, Esq... 15 o o Abbott, Pet. hon. C.. .15 15 0
+Adams, John, Esq - 15 o o Abbott, Pet. hon. C.. .15 15 0
 
-A Friend............52 14 G
+A Friend - 52 14 G
 
 Ditto, by Rev. T. Thirl-
 
-wall ............ 85 0 0
+wall - 85 0 0
 
 A Friend to Honesty in
 
-Distress..........20 o 0
+Distress - 20 o 0
 
-A Friend.............7 o O
+A Friend - 7 o O
 
 Aust, George, Esq. 14 14 O *'*Auberton, P. Esq. . . 27 10
 
 Askew, Adam, Esq. 18 18 0 Askew, Arden, Esq. 8 3 0
 
-Ainbeek, Maria .... 55 O O Adair, Dr. James M. 3 3 0
+Ainbeek, Maria - 55 O O Adair, Dr. James M. 3 3 0
 
-Allen, L. B. Esq... 8 8 0
+Allen, L. B. Esq - 8 8 0
 
-Asheton, Mrs.........G Go
+Asheton, Mrs - G Go
 
 5^2
 
 , A Widow, per Messrs.
 
-Hoares............5 3 0
+Hoares - 5 3 0
 
 A Donation, per Bid-
 
@@ -13080,19 +12910,19 @@ Argill, Mr. ........7 o O
 
 A Lady, per Biddulph
 
-and Co..........6<) 0 o
+and Co - 6<) 0 o
 
-A Lady ............GO 0 O
+A Lady - GO 0 O
 
 A Quaker, (socalled) lOO o O
 
-Ditto..............50 0 0
+Ditto - 50 0 0
 
 A Lady, from Manehes-
 
-ter-squaru ..... . 35 O O Aininadab..........20 o O
+ter-squaru - . 35 O O Aininadab - 20 o O
 
-Alpha..............10 O O
+Alpha - 10 O O
 
 1
 
@@ -13106,7 +12936,7 @@ Belgrave, Lord Vise. 20 O O *Butler, Rev. Weeden 4 1 O
 
 * Broadhead, Theodore-
 
-Henry, Esq.....1G2 17 O
+Henry, Esq - 1G2 17 O
 
 * Bradney, John, Esq. ‘15 1 O
 
@@ -13116,13 +12946,13 @@ Biadney, J.jun. Esq. G 4 o Bradney, Mrs.oflIam25 3 O Browne, Isaac-Hawkins, Esq.
 
 Ridge, Messrs. .. GS 5 o Biddulph, R.M. Estj.
 
-M.P...............5 5 0
+M.P ...... 5 5 0
 
 Buckinghamshire,
 
-Countess of .... 20 10 O Bimbmy, Sir Charles,
+Countess of - 20 10 O Bimbmy, Sir Charles,
 
-Bart.............lo io o
+Bart - lo io o
 
 Bom eric, Hon. B. .10 O O *Bosanqiiet, - II. Esq. 21 O O Buller, J. Esq. M.P. 35 10 O *Brewster, Mr. W. ..39 IS O Bassett, Rev. John . 10 10 0 *Burgcss, Hugh, Esq.
 
@@ -13132,7 +12962,7 @@ lawnev, Es(|...94 10 O
 
 B. bv the Rev. Dr.
 
-Gaskin .......... 5 5 0
+Gaskin - 5 5 0
 
 Brown,
 
@@ -13162,7 +12992,7 @@ Bath, Rt. Hon. Lady 63 0 0
 
 * Battve, J. Esq 25 0 0
 
-* Bree, Martin, Esq... 22 1 0
+* Bree, Martin, Esq - 22 1 0
 
 * Barclay, David, Esq. 35 0 0
 
@@ -13194,11 +13024,11 @@ Boa!:, Jacob, Esq. .. 15 0 0
 
 Beck, James, Esq. .. 5 5 0
 
-Bettsv. orth, Mrs...3 0 0
+Bettsv. orth, Mrs - 3 0 0
 
 « Baker, Peter Wm. Esq.5 5 0
 
-B B.................20 0 0
+B B ...... 20 0 0
 
 * ^Bootle, Edward- Wil-
 
@@ -13206,19 +13036,19 @@ braham, Esq. M.P. 51 0 0
 
 Bulkeley, G. T Esq. 10 0 0 B. C. per Messrs.
 
-, Hoares............ICO O 0
+, Hoares - ICO O 0
 
-B. G.............. 100 0 0
+B. G ......  100 0 0
 
 * Baskerfie!d, T. Esq. 21 0 0
 
 Bingham, Lady Ann 3 0 0 Booth, Fred. Esq. 10 10 0 r Bathoniensis, perTrea-
 
-surer.............10 0 0
+surer - 10 0 0
 
-Bibo................10 0 0
+Bibo - 10 0 0
 
-Benign o Numine .... 2 Go
+Benign o Numine - 2 Go
 
 Burnett, Sir Francis, .. Bart. the Annual Dividends of 1000 I.
 
@@ -13238,19 +13068,19 @@ Lord Viscount .. 21 0 0
 
 Carlisle, lit. Hon. Earl
 
-of............... 20 0 0
+of - 20 0 0
 
 Cuitis, SirWm. Bait. 10 10 O *Curtis, Thomas, Esq. 35 0 O Caldwell, Wm. Esq.. . 5 5 0
 
 Caldwell, George, Esq. 2 2 O Gddwell, Andrew, Esq .2 2 O *Charle\vood, Rev.C.B.57 16 0 *Chamness, Jas. Esq. 107 15 O
 
-Cranmer, Mi's...... 27 6 0
+Cranmer, Mi's - 27 6 0
 
 * CottreIl, John, Esq. 35 14 O
 
 * Currie, William, Esq.72 10-0
 
-Clementina .........16 0 0
+Clementina - 16 0 0
 
 Crowder, Mr. J.....13 13 O
 
@@ -13278,11 +13108,11 @@ LIST OF BENEFACTIONS,
 
 Chatfield, Mrs. Al. .. 8 SO Charlett, Rich.Bourne
 
-Esq............... 0 GO
+Esq - 0 GO
 
 Charleson, Mr. Luwr. 1 l o Calvert, Peter, Esq. 10 10 0 Calvert, Miss Maria . . 5 5 0
 
-Chatteris, Wm. Esq. S SO Cator, John-Augustus, Esq..............4 4 0
+Chatteris, Wm. Esq. S SO Cator, John-Augustus, Esq - 4 4 0
 
 * Craster, Shafto, Esq. 40 O' o
 
@@ -13314,21 +13144,21 @@ Coape, ----, Esq. . . 2 2 0
 
 Cadby, William, Esq. 2 2 0 Claridge, John-Fellows
 
-Esq................2 2 0
+Esq - 2 2 0
 
 Coote, Mr. per Blox-
 
-am and Co........1 10
+am and Co - 1 10
 
 D.
 
 * De Dunstanville, Rt.
 
-Hon. Lord........30 10 0
+Hon. Lord - 30 10 0
 
 . Dimsdale, Hon. Baron
 
-dec...............G2 10 0
+dec - G2 10 0
 
 •*^Dornford, Jos. Esq. 54 12 0 *f Dimsdale, Tho. Esq. 24 3 0
 
@@ -13336,17 +13166,17 @@ dec...............G2 10 0
 
 Darrell, Edward, Esq.33 T2 0 •*DiT-Prd Porcher, Jos.
 
-' Esq.........'______38 17 0
+' Esq - '______38 17 0
 
-Du-Prc, Mrs.......10 10 O
+Du-Prc, Mrs - 10 10 O
 
-, Dawson, Mr..........5 0 0
+, Dawson, Mr - 5 0 0
 
 ' *Dawson, Wm. Esq. 29 8 0
 
 Dawson, W. Esq. Bath 2 2 0
 
-Dawson, Mrs.........G GO
+Dawson, Mrs - G GO
 
 * Dnirnmond, J. E q. 94 10 0
 
@@ -13354,7 +13184,7 @@ Dawson, Mrs.........G GO
 
 * yDrummond, A.B.Esq.64 O 0 Drummond, II. l-Aq. 5 5 O
 
-Dickson, Mrs......74 5 0
+Dickson, Mrs - 74 5 0
 
 Douglass, Lady E.dee.2G 11 (L-*l)ouglasS, J. J. Esq. 30 O O Denne, Cornel. JCs<[. 15 15 0 Drinkwater, Lt. Col. 2 2 0
 
@@ -13362,7 +13192,7 @@ Dennison, Wm. Esq. £0 OO Down, Richard, Esq. 5 5 0
 
 Dobrce, Miss Judith 150 0 0 *Da\v, William, Esq. 30 O ()
 
-Durst, Mr...........2 2 0
+Durst, Mr - 2 2 0
 
 Domville, Wm. Esq. 4 4 0
 
@@ -13370,7 +13200,7 @@ Devonport, John, Esq. 5 5 O
 
 Dalrymple, llobt. Esq. 4 4 0
 
-D. s’..............10 10 o
+D. s’ ...... 10 10 o
 
 Diana, per Treasurer 10 0 0
 
@@ -13414,7 +13244,7 @@ Enderby, Charles, Esq.4 4 0
 
 Enderby, George, Esq. 4 -4 0
 
-®*Evton, Rev. John . . 21 0 -0
+*Evton, Rev. John . . 21 0 -0
 
 Elv, Lord Bishop of 20 0 0
 
@@ -13424,7 +13254,7 @@ F.
 
 * Fadcn, Mr. .......73 10-0
 
-Field, Lady............2 0 0
+Field, Lady - 2 0 0
 
 Freeman,
 
@@ -13444,7 +13274,7 @@ G cru ral Purposes 41 18 0
 
 Fletcher, Walter, Esq. 10 10 0
 
-Foster, John, Esq... 15 15 0
+Foster, John, Esq - 15 15 0
 
 F. R 50 0 0
 
@@ -13480,7 +13310,7 @@ Fryer, Mr 4 4 0
 
 Feilitzseh, theBaroness
 
-de.................9 DO
+de - 9 DO
 
 Pothcrgill, Dr. A....5 5 0
 
@@ -13488,25 +13318,25 @@ Forrester, Peter, Esq. 2 2 0
 
 F} dell, R. Samuel, Esq.5 5 0 Flower, Richard, Esq. 2 2 0
 
-Frewin, llev. Dr.....4 4 0
+Frewin, llev. Dr - 4 4 0
 
 Fletcher, Rev. Henry 5 5 O
 
 Fanshaw, John, Esq. 5 0 0
 
-* Fry, William, Esq... 21 0 0
+* Fry, William, Esq - 21 0 0
 
 Fullerton, G. A. Esq. 5 5 O
 
-Feilowes, Mrs.........2 0 0
+Feilowes, Mrs - 2 0 0
 
 Fell owes. Miss F. L. 1 10
 
-Fa* ima, per Treasure r20 O o Flora, per ditto .... 20 0 0 Felix Spa............ 2 0 0
+Fa* ima, per Treasure r20 O o Flora, per ditto - 20 0 0 Felix Spa - 2 0 0
 
 Godolpiiix, Rt. Hon.
 
-Earl of, dec.... 100 0 O
+Earl of, dec - 100 0 O
 
 ^ Gloucester, H. It. H.
 
@@ -13520,19 +13350,19 @@ Duke of, .........30 10 O
 
 GuikH’ord, Right Hon.
 
-Earl oi dec.....94 10 O
+Earl oi dec - 94 10 O
 
 * xGwydir, Right Hon.
 
-Eord..............21 0 0
+Eord - 21 0 0
 
 Galloway, Lady Dowager Frances, .... 21 O O' Gardiner, W. Esq. cicc.84 0 O
 
-Gardiner, Mrs...... 5 5 0 *
+Gardiner, Mrs - 5 5 0 *
 
 Greville, Mrs. Hester11 11 o
 
-Greville, Mr..........6 0.0
+Greville, Mr - 6 0.0
 
 Greenwood, Wm. Esq.4 4 0
 
@@ -13544,7 +13374,7 @@ Grass well 405 4. G
 
 Gastrill, Mrs, J. dec. 10*0 0 0
 
-Grindlay, Rev. Dr... 12 12 O
+Grindlay, Rev. Dr - 12 12 O
 
 * Gunning, Sir Robert,
 
@@ -13564,7 +13394,7 @@ Green, William, Esq. 5 5 0
 
 Leeds 21 0 0
 
-Glvnn, Lady Carr .... 4 4 0
+Glvnn, Lady Carr - 4 4 0
 
 Grant, Henry, Esq. . . 2 O. o
 
@@ -13582,17 +13412,15 @@ Gooch, Mr. T. S.....1> 0 O
 
 * xGoldsniid, A. Esq. . . 21 0 O
 
-Gavin, Mr...............1. 1 O
+Gavin, Mr - 1. 1 O
 
-G. S. a Lady........19 12 <>
+G. S. a Lady - 19 12 <>
 
 G. X........‘.........20 0 0
 
 G rat kina, per Treas. 20- O O
 
 Gm -well, Mr. Sec. 10 10 G
-
-II. Hevt-
 
 LIST OF BENEFACTION.^.
 
@@ -13604,11 +13432,11 @@ dec - 810 0 0
 
 Hertford, the Most Noble Marquis of,
 
-V. P.............. 11(1 5 0
+V. P ......  11(1 5 0
 
 Hardwieke, Pari of,
 
-dec................ 80 10 0
+dec - 80 10 0
 
 ferries, Sir Robert and Co - 105 5 0
 
@@ -13620,21 +13448,21 @@ Hamilton, Sir 11. dec. 23 2 0
 
 Hamilton, Lady. . . . 5G 14 0 *Hoare, Henry, Esq. and
 
-Co..............‘25 7 0
+Co - ‘25 7 0
 
 Hoare, Wm. H. Esq. ‘20 O 0 Hoare, William, Esq. 1 10
 
-Hoare, Mrs. Beckenham, ..............30 0 0
+Hoare, Mrs. Beckenham,  ...... 30 0 0
 
-Hoare, Wm, Esq. Durham, ............. ‘2 2 0
+Hoare, Wm, Esq. Durham,  ......  ‘2 2 0
 
 Hoare, Wm. Esq. per
 
-Vere and Co.....1 10
+Vere and Co - 1 10
 
 I lovard, Rt. Hon. Ld. ‘20 0 0 ^*Harman, John, Esq. 80 0 0
 
-Harman, Mrs........ 10 0 0
+Harman, Mrs - 10 0 0
 
 Hardcastle, Jos. Esq. 10 10 0 Hammer-dey, T. Esq. '20 0 0 Hunter, Robert, E^q 8 8 0
 
@@ -13642,19 +13470,19 @@ Hyde, Mrs. dec. . 11‘2 H) 0
 
 Holder, Airs. Bath . . 8 SO *Holner, Ja. Hooper,
 
-Esq..............31 10 0
+Esq - 31 10 0
 
 Harrison, Mat. Esq. G GO
 
-Harrison, Mrs........3 3 0
+Harrison, Mrs - 3 3 0
 
-•^Hamilton, Arch. Esq.48 G 0 •*Hatsell, John, Esq. 57 15 0 Hodgson, Miss .... 21 00
+•^Hamilton, Arch. Esq.48 G 0 •*Hatsell, John, Esq. 57 15 0 Hodgson, Miss - 21 00
 
 Hodgkimon, Rev. H 5 5 0
 
 Hallifax, Savi’lle, Esq.10 0 0 Harper, R. I. Esq.. . 13 13 O Horton, Eusebiu=, Esq. 3 3 0
 
-•*rIorton, S. Esq...25 5 O
+•*rIorton, S. Esq - 25 5 O
 
 * Haliburton, D- Esq. 47 5 0
 
@@ -13662,23 +13490,23 @@ Hallifax, Savi’lle, Esq.10 0 0 Harper, R. I. Esq.. . 13 13 O Horton, Eusebiu=,
 
 * MIiirris, Quarles, Esq.450 O 0 Holland, Richard, Esq.tj <; O Holland, Mr. per Dr.
 
-Lettsom.......... 1 Of)
+Lettsom - 1 Of)
 
 Holland, Edu. Esq 1,) o o I hr.don, W illiam, jun.9 ; » o
 
-Haulon, Miss.......l l o
+Haulon, Miss - l l o
 
 Huggcrston, J. E-iq.. . G G o Harvey, Mr. Richard, 1 () ()
 
 Her\|’y, \\'. AritMuny 2 () ()
 
-H. S...............12 in G
+H. S ...... 12 in G
 
 Hannan, Edw, Esq. 1() 10 0
 
-H. D. Y...........30 10 ()
+H. D. Y ...... 30 10 ()
 
-H. G..............20 0 o
+H. G ...... 20 0 o
 
 -*Hopeton, M. C. Esq. 30 o o I fart, W. Ne\ il, Esq. 2 2 O
 
@@ -13704,11 +13532,11 @@ ilooinan. Miss, S. . . 3 8 0
 
 1. and J.
 
-I. P.............. 120 0 0
+I. P ......  120 0 0
 
 "-Ives, William, Esq. 23 2 O
 
-Ives, E. Esq......... 1 10
+Ives, E. Esq - 1 10
 
 Ives, Cornelius, Esq. 7 7 0
 
@@ -13716,13 +13544,13 @@ I. G. per Treasurer 20 0 0
 
 I.I.perMcs.-.rs.HoaresGO O 0 Jellery, George, Esq. 15 10 0
 
-Joyce, Mrs.......... 80 0 O
+Joyce, Mrs - 80 0 O
 
 Jeiferys, Nath. Esq. 18 IS 0 Jcnner, Rev. Dr. . . 14 14 O
 
-l.X................ 100 0 0
+l.X ......  100 0 0
 
-* Jacques, Mr.........4S GO
+* Jacques, Mr - 4S GO
 
 James, Mr. Jos. pm. 5 5 0
 
@@ -13742,7 +13570,7 @@ Johnson, Wm. Esq . 50 0 0
 
 Johnson, Jas. Esq. 330 0 0
 
-Johnson, G. Esq... 9 3 0
+Johnson, G. Esq - 9 3 0
 
 Johnson, Mrs O 2 0
 
@@ -13750,7 +13578,7 @@ Johnson, Mr . 10 0 0
 
 Johnston, Mrs O 2 0
 
-Johnston, Miss.... <? O 0
+Johnston, Miss - <? O 0
 
 J. J 50 0 0
 
@@ -13776,11 +13604,11 @@ K.
 
 * Kerry, Rt. Hon. Earl
 
-of..........260 0 O
+of - 260 0 O
 
 * Knightly, Rev. Sir J.
 
-Bart........56 11 O
+Bart - 56 11 O
 
 Kempenl'ek, G. A. Esq.
 
@@ -13808,7 +13636,7 @@ Kcstevan, Mr. James, 2 o 0
 
 Esq 21 0 0
 
-Kiinpton, Mr. Wm... 2 2 o
+Kiinpton, Mr. Wm - 2 2 o
 
 Keddington, R. Esq. 1 1 0
 
@@ -13816,13 +13644,13 @@ L.
 
 Leicester, Rt. Hon.
 
-Earl of............5 5 0
+Earl of - 5 5 0
 
 Lmhington, Sir Stc-
 
 plan, Bait.dec. ..15 15 0
 
-L. W. a Lady.....10 10 O
+L. W. a Lady - 10 10 O
 
 Lady H. W........ 10 10 0
 
@@ -13832,13 +13660,13 @@ Lady A. B........2 2 O
 
 Leheup, P.jun. Esq. 100 0 0
 
-Leheup, Mrs...... CO 0 0
+Leheup, Mrs - CO 0 0
 
-Leheup, S..........2 20
+Leheup, S ...... 2 20
 
 Leheup, Mrs. Jane. .15 15 0 *La\v, Ewan, Esq. .. 66 3 0
 
-L. VV. Ciericus .... 54 7 0
+L. VV. Ciericus - 54 7 0
 
 * Lettsom, Ur. J. C. .. 29 8 0
 
@@ -13848,7 +13676,7 @@ LowncLs, Rich. Esq. 20 0 0
 
 Lownds, Millies, Esq. 5 0 0
 
-* Lind, F. Esq... j.. . 74 10
+* Lind, F. Esq - j.. . 74 10
 
 Lane, Mr. Thomas 2 7 6 0
 
@@ -13868,7 +13696,7 @@ Lington, Mr 2 1 0
 
 Leigh, Rev. Thomas 36 15 0
 
-Leitrh, Rev. Mr.... 10 10 0
+Leitrh, Rev. Mr - 10 10 0
 
 Leigh, Thomas, Esq.
 
@@ -13902,7 +13730,7 @@ Bart 3 3 o
 
 Lee, James, Esq 4 4 o
 
-Lee, Mrs.... 2 2 0
+Lee, Mrs - 2 2 0
 
 Larkin, I. P. Eso 2 2 0
 
@@ -13922,17 +13750,17 @@ LEGACIES received, viz.
 
 Lady Osborne.. .. 20S 0 0 Mr. Daniel llemy. .100 0 0 Mrs. Henrietta-Maria
 
-Tomlinson.......405 0 0
+Tomlinson - 405 0 0
 
 John. Cale, Esq.. . 200 O 0
 
-A Lady.............50 0 0
+A Lady - 50 0 0
 
 Mr. John Bispham. .50 0 0 Mr. B, pbeit Clee.. . 50 O O Mis. Marv Bourne. 100 0 0 Lady Cath.Noel. ... 10 O 0 W. Congreve, Esq.1000 0 0 Mrs. Ann Campbell. 10 0 0 Mrs. Mary Wylde . . 100 0 0
 
 Mrs. Eliz. Cumyns. 100 0 0 Wra. Crewe, Esq. . . 74 1G 0 John Darker, Esq. 50 0 0
 
-Mrs. Cutts......... 37 0 0
+Mrs. Cutts - 37 0 0
 
 Rev. Isaac Cooper. .50 0 0
 
@@ -13946,25 +13774,25 @@ John Corbyn, Esq. . 52 7 0 Mrs. Mary Wilson,
 
 Charlewood Lawton
 
-Esq..............20 0 0
+Esq - 20 0 0
 
-Mrs. Culling......200 0 0
+Mrs. Culling - 200 0 0
 
 LillieAynseombe, Esq20 0 0 Mrs. Marianne Hayes20 O 0
 
-Mrs. Gastril...... 200 0 0
+Mrs. Gastril - 200 0 0
 
-Lady Grant....... 735 9 7
+Lady Grant - 735 9 7
 
 John Howard, Esq. .50 0 0 WilliamPooley, Esq. 100 0 0 John Buynard, Esq. 1000 0 0
 
 George Stainbi idge.
 
-Esq.............182 10
+Esq - 182 10
 
 John Sweet, Esq.. . 30 0 0
 
-Nathaniel George Petit. Esq..........21 0 0
+Nathaniel George Petit. Esq - 21 0 0
 
 Mrs. Rebecca Lee 24G 0 0 CharlesSelwyn, Esq. 100 0 0 Bercher Baiil, Esq. 100 0 0 Edward Heylyn, Esq. 10 10.0
 
@@ -14002,7 +13830,7 @@ Red G25 0 0
 
 James Pell, Esq. .. 1S8 0 0
 
-Peter Du-Cane, Esq. 10 O O Miss Anna Maria Reynolds.............200 0 0
+Peter Du-Cane, Esq. 10 O O Miss Anna Maria Reynolds - 200 0 0
 
 Ja. Hawkins, Esq. 525 0 0
 
@@ -14012,11 +13840,11 @@ John Walton, Esq . 92 0 (> Mrs. Ann Taylor. .183 0 0
 
 Gen. George Wardel05 1G 0 Benjamin Allen, Esq. 90 0 0 WilliamChiveis/Esq.90 0 O
 
-J. H. Esq........ 100 0 0
+J. H. Esq - 100 0 0
 
 Ja. Preston, Esq. .4170 2 6 Mr. Cha. Tomlinson 4G O 0 Mrs. Kath. Hyde.. . 45 0 0
 
-Mrs. Whetham.... 180 0 0 Thos.-Edwards Freeman, Esq.........100 0 0
+Mrs. Whetham - 180 0 0 Thos.-Edwards Freeman, Esq - 100 0 0
 
 LEGACIES in expectancy } and which, depending on contingencies, cannot j et be ascertained.
 
@@ -14064,9 +13892,7 @@ Morland, Wm. Esq. 10 0 0
 
 Morland, Francis, Es(j. 2 2 0
 
-Miller, Lady, perTrea-
-
-surer 37 10 0
+Miller, Lady, per Treasurer 37 10 0
 
 Marrissal, N. Esq. . 20 0 0
 
@@ -14088,7 +13914,7 @@ Mar rat t, John, Esq. 14 14 0
 
 Aiello, Arnold, Esq.. 5 5 0
 
-Malkin, T. Esq.... 12 12 0
+Malkin, T. Esq - 12 12 0
 
 Malkin, Wm. Esq. . 10 10 0
 
@@ -14114,13 +13940,13 @@ Martin, Ambrose, Esq. 4 4 0
 
 Macdonald, Felix, Esq.5 5 0
 
-Mc Cleland, Mr.... 2 o 0
+Mc Cleland, Mr - 2 o 0
 
 Methold, Henry, Esq. 10 5 0
 
 * Musgrave, Ja. Esq. .25 4 0
 
-Musgrave, Mrs.... 10 10 0
+Musgrave, Mrs - 10 10 0
 
 March, All’s 2 o 0
 
@@ -14152,15 +13978,15 @@ AI. E. Y. per Biddulph
 
 and Co 10 10 0 *
 
-•*Mildmav, SirHcnry St.
+•*Mildmay, SirHcnry St.
 
 John, Bart. AI. P. 25 5 0
 
-Mildniav, Lady.... 10 5 0
+Mildniav, Lady - 10 5 0
 
 * AIilncr, George, Esq.22 1 0
 
-Aland, John, Esq...S 8 0
+Aland, John, Esq - S 8 0
 
 Mitchell, H. C. Esq.. 5 5 0
 
@@ -14190,11 +14016,11 @@ M. P. P 10 10 0
 
 M.E.H. per Lucadou
 
-and Co...........10 10 0
+and Co - 10 10 0
 
-Morvina, per Treasurer..............20 0 0
+Morvina, per Treasurer - 20 0 0
 
-Mole, per ditto.... 10 00
+Mole, per ditto - 10 00
 
 Montagu, Hon. Mi's.
 
@@ -14222,35 +14048,35 @@ Nunn, Win. Esq. .. . 7 7 0
 
 Newman, Win. l^cwi s.
 
-Esq................2 2 O
+Esq - 2 2 O
 
 X ewnuin, Mr. John 10 0 0
 
 Nuvni>s, per'I’reasnrcr25 0 0
 
-Nemo, ditto........ 10 0 0
+Nemo, ditto - 10 0 0
 
-Nab, ditto...........20 0 0
+Nab, ditto - 20 0 0
 
 1).
 
 O. P. L. Rev. Dr. .. 1-1 14 0
 
-Oliver, Mrs.........20 0 O
+Oliver, Mrs - 20 0 O
 
-Oliver, D. Esq......10 0 0
+Oliver, D. Esq - 10 0 0
 
 Owen, Hugh, Esq. .4 4 O
 
-Oakes, Mr...........10 0 0
+Oakes, Mr - 10 0 0
 
 0‘Brien, Dennis, Esq.2 2 0 Onnnuney, Edward,
 
-Esq...............5 5 0
+Esq - 5 5 0
 
 Olive, Jeremiah, Esq.4 4 O
 
-Olive, Miss..........4 4 0
+Olive, Miss - 4 4 0
 
 Old Noll (Letter-box) 10 0 O
 
@@ -14258,7 +14084,7 @@ Old Noll (Letter-box) 10 0 O
 
 Pusev, Hon. Philip,
 
-V. P.......... 170 3 0
+V. P ......  170 3 0
 
 Puscy, Lady Lucy’. .47 5 0
 
@@ -14266,11 +14092,11 @@ Puscy, Lady Lucy’. .47 5 0
 
 Pearce, W. Esq. . . . 12 12 O *Pepperell, Sir Win.
 
-• Bart.............27 GO
+• Bart - 27 GO
 
 Pulteney, Hon. Mrs.30 10 0 Pulteney, Sir Jas. Bart. 5 5 0
 
-P. A...............21 0 0
+P. A ...... 21 0 0
 
 * Pattle, Thomas, Esq.23 2 O Powell, Mr. David. .11 11 O *Paxton, Arch. Esq. 44 2 0
 
@@ -14280,15 +14106,15 @@ P. A...............21 0 0
 
 Weller, Bart . 98 14 0 *'Park, Janie* - Allan,
 
-Esq...............31
+Esq - 31
 
 Pott, John, Esq. «Zt<:.40 Phillipps, T. March,
 
-‘>q................-
+‘>q - -
 
 Phillipps, Mr*. March 7 Parks, Richard, Esq. 57 Pitt, Thomas, Esq. 12 1\arson, W ikon, Jvq Pell, James, Esq. da. 80 Platt, Thom is, Esq. . 20 Pinnock, James, Esq. 17 *Pigoil, Robe rt, Esq.GO Polhill, Charles, Esq.
 
-dec.............. 12 12 O
+dec - 12 12 O
 
 Proctor and Brow nlov. 5 0 0
 
@@ -14330,23 +14156,23 @@ Clare-hall. . 3 O D 0
 
 ' "'Pieschell, Charles,
 
-Esq..............21
+Esq - 21
 
 * Powell, John Clarke,
 
-Esq..............21 00
+Esq - 21 00
 
 * Prime, Samuel, Esq. 52 10 0 *Pepys, 'Charles Christ.
 
-Esq..............21 OO
+Esq - 21 OO
 
 Plummer, Tho. Esq.
 
-per Treasurer... 10 10 O Pigott, ltev. James. .1 10
+per Treasurer - 10 10 O Pigott, ltev. James. .1 10
 
 R.
 
-Romney, the Right Hon. Lord, dec. late President of this Society...............99 15 o
+Romney, the Right Hon. Lord, dec. late President of this Society - 99 15 o
 
 Roiuney,
 
@@ -14358,29 +14184,29 @@ S.
 
 * Stanhope, the Right
 
-Hon. Earl........21 0 0
+Hon. Earl - 21 0 0
 
 St. Vincent, Rt. Hon.
 
-Countess of.....IS IS 0
+Countess of - IS IS 0
 
 Smith, Sir John, Bart. 15 15 O *Stanhope, C. Esq. . .SO GO Sykes, Rev. Sir Martin, Bart. dec. . . 170 0 O *Smith, Mr. Joint. .240 0 0
 
 Smart, Richard, Esq. 8 8 O
 
-Spilling, Mr........10 10 0
+Spilling, Mr - 10 10 0
 
 Spranger, John, Esq. 20 O O Squire, Mr. William. .2 2 0
 
 Squire, Mrs. Elizabeth 4 4 0
 
-Shipman, Mrs........21 0 0
+Shipman, Mrs - 21 0 0
 
 Scott, David, Esq.dec.10 10 O Sidgraves, James, Esq 15 0 0 Sidgraves, Sullivan,
 
-Esq................2 2 0
+Esq - 2 2 0
 
-Shiffner, Mrs.......42 7 0
+Shiffner, Mrs - 42 7 0
 
 Shiffner, Mr. T.... 35 0 0
 
@@ -14390,13 +14216,13 @@ Stockwell, John, Esq. 6 6 O Stafford,
 
 LIST OF BENEFACTIONS. 5<L>
 
-Stafford, Lady.......3
+Stafford, Lady - 3
 
-S. P. Mis..........42
+S. P. Mis - 42
 
 S. G. per Fuller and
 
-Co...............20
+Co - 20
 
 Stevenson, Rob. Esq. 10 Sturges-Bourne, Win.
 
@@ -14404,15 +14230,15 @@ Esq. M. P.........2
 
 Swiney, Vice-Admiral Snow, Robert, Esq. . 5 Sansoni, Ph. Esq. ... 8 Soltau, Win. Esq. . . . G Soltau, George, Esq. 6
 
-Soltau, Mrs..........3
+Soltau, Mrs - 3
 
 Sauniarez, Sir James,
 
-Vice-Admiral......2
+Vice-Admiral - 2
 
 Saumarez, R. Esq. . . 4 Sykes, Rev. R. West-
 
-Ella.............20
+Ella - 20
 
 Sykes, R. jun. Esq.. 10
 
@@ -14420,25 +14246,25 @@ T.
 
 Talbot, the Rt. Hon.
 
-Earl, dec.........57
+Earl, dec - 57
 
 Tufton, the Rt. Hon.
 
 Lady Charlotte.. 230 Temple, Hon. Mrs. 21 Taylor, Sir Rob. dec. 23 *Trevor, Right Hon. *
 
-John............52
+John - 52
 
-Trevor, Hon. Mrs.... 3 Thornton, John, Esq.
+Trevor, Hon. Mrs - 3 Thornton, John, Esq.
 
-dec............15G
+dec - 15G
 
 * Thornton, Hen. Esq. 7 0 Thornton, Mrs. II.. 10 *Thornton, Rob.Esq.21 *Thornton, Sam. Esq.77 Thornton, Wm. Esq. 4 Tilson, the Rev. Geo.G *Thompson, Robert,
 
-Esq...............37
+Esq - 37
 
-Tvvol .adies, fi'oni Man-chester-square. . . 49 Two Ladies of Dorsetshire..............5
+Tvvol .adies, fi'oni Man-chester-square. . . 49 Two Ladies of Dorsetshire - 5
 
-* Tamez, James, Esq. of Moscow...............45
+* Tamez, James, Esq. of Moscow - 45
 
 3 0 x xTaylor, James, Esq. 23 O 0
 
@@ -14478,7 +14304,7 @@ Madras 5 5 0
 
 0 0 Royal Navy 1 1 0
 
-Till, Mr. Henrv 2 o 0
+Till, Mr. Henry 2 o 0
 
 Trevelyan, John, Esq. 10 10 0
 
@@ -14542,17 +14368,17 @@ LIST 01 BENEFACTIONS.
 
 i
 
-Unknown, sent in a - penny-post letter, to the Treasurer at Chelsea............ 1000 0 0
+Unknown, sent in a - penny-post letter, to the Treasurer at Chelsea - 1000 0 0
 
 W.
 
 Willoughby de Broke,
 
-Lord............330 15 0
+Lord - 330 15 0
 
 * \Vatson, Mr. IV.. . 76 GO *\\ ilberforce. Win.Esq.
 
-M. P.............99 15 0
+M. P ...... 99 15 0
 
 Walker, Isa. Esq. dec. 41 10 0
 
@@ -14564,19 +14390,19 @@ Waddington, Messrs.
 
 of Nottingham. ... 2 20
 
--*\Vaddington, B. Esq.36 5 0 *Ward, John, Esq. .37 16 0 *Walter, Mr. John.. 37 16 0 Wedgwood and Byer-
+Waddington, B. Esq.36 5 0 *Ward, John, Esq. .37 16 0 *Walter, Mr. John.. 37 16 0 Wedgwood and Byer-
 
-ly, Messrs.......94 10 0
+ly, Messrs - 94 10 0
 
 Wansey, M7m. Esq. .. 5 5 0
 
 Wansey, J. Esq. ... 12 12 0 Wood, Richard, Esq. 5 5 O
 
-W.H.............. 120 0 0
+W.H ......  120 0 0
 
 W. H. of Newcastle. 50 0 0 Wells, Mr. J. Smith 16 16 0 Walker, Mr. Charles. 16 16 0
 
-Wallace, Mr....... 12 11 0
+Wallace, Mr - 12 11 0
 
 * Woods, Edm. Esq. .32 11 0 *Whitfield, John, Esq.33 12 0 Wrangham, Rev.Fra..4 4 0 Webb, Miss, Gloucester 2 0 *Wilbraiumi, It. Esq 55 5 O
 
@@ -14584,9 +14410,9 @@ Wilbmham, Tho. Esq.5 5 O
 
 Williams, Rev. W. of
 
-Waterbeach......10 10 0
+Waterbeach - 10 10 0
 
-Wainwriglit, Mr.... 3 30
+Wainwriglit, Mr - 3 30
 
 Wainwright, Mr.Win. 3 3 0
 
@@ -14638,33 +14464,33 @@ Co 25 0 0
 
 X.
 
-X. X Z..........100 0 0
+X. X Z ...... 100 0 0
 
 X. X. per Treasurer 100 0 0
 
 X.A.perBiddulph and
 
-Co............ 100 0 0
+Co - 100 0 0
 
-X. Y...............70 0 0
+X. Y ...... 70 0 0
 
-X. X. X. X. a banknote, per penny-post. ............10 00
+X. X. X. X. a banknote, per penny-post.  ...... 10 00
 
 Y.
 
-Yorke, Hon. Mr.... 20 10 0 Young, Hon.Dowager
+Yorke, Hon. Mr - 20 10 0 Young, Hon.Dowager
 
-Lady.............40 0 0
+Lady - 40 0 0
 
 Yonge, Rev. Duke. . 10 10 O Yonge, Rev. James. .3 3 0
 
 Y.Z.perMess.Hoares50 O 0
 
-Y. Y. Y...........20 0 0
+Y. Y. Y ...... 20 0 0
 
-Y. Y..:..........ioo oo
+Y. Y..: ...... ioo oo
 
-Y. G..............15 0 0
+Y. G ...... 15 0 0
 
 (5 93)
 
@@ -14778,7 +14604,7 @@ Brought over S79I 19, 370 17 11
 
 24, 094 i£. 66, 015 7 6>
 
-The 24, 094 Debtors had 14, 446 Wives, and 40, 795 Children
+The 24,094 Debtors had 14,446 Wives, and 40,795 Children
 
 I 79, 335 Persons immediately benefited j for £. 66, 015 7s. 6$d.
 
