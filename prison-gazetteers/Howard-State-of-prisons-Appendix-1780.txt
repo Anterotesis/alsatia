@@ -74,9 +74,9 @@ Tables - 196.
 
 APPENDIX.
 
-THE House of Commons having taken under consideration the regulation of prisons, I thought myself bound, by the promise made in the conclusion of my late publication, to collect such farther hints as I might be able to procure in several foreign Territories there mentioned. I therefore visited them and some other countries, and shall subjoin those remarks which seemed moll worthy of attention.
+THE House of Commons having taken under consideration the regulation of prisons, I thought myself bound, by the promise made in the conclusion of my late publication, to collect such farther hints as I might be able to procure in several foreign Territories there mentioned. I therefore visited them and some other countries, and shall subjoin those remarks which seemed most worthy of attention.
 
-In the Draught of a Bill "to punish by Imprisonment and Hard Labour, certain Offenders; and to establish proper Places for their Reception*," the plan was formed on the Rasp and Spin-houses in Holland. This made me more solicitous to gain the best information, by a fresh inspection, and by conversation with intelligent men. In pursuance of this design, I went to Holland in April 1778, and cheerfully entered on the intended business of my journey at
+In the Draught of a Bill "to punish by Imprisonment and Hard Labour, certain Offenders; and to establish proper Places for their Reception,*" the plan was formed on the Rasp and Spin-houses in Holland. This made me more solicitous to gain the best information, by a fresh inspection, and by conversation with intelligent men. In pursuance of this design, I went to Holland in April 1778, and cheerfully entered on the intended business of my journey at
 
 * This has since passed into an Act, 19th George III. Cap. LXXIV.
 
@@ -182,9 +182,9 @@ Rotterdam Rasp-house.
 
 APPENDIX.
 
-Rotterdam raised one above another. They were all clean and neat; had no-Rasp-  ...... J
+Rotterdam raised one above another. They were all clean and neat; had no- Rasp-  
 
-house. thing diflingu:fh:ng in their dress, but were without hats. While they flood up during prayer, they held up their aprons to cover their faces. The men were neat, dressed in brown coats, had been shaved, had clean shirts (which were moll of them chequed), dean stockings, and wore handkerchiefs about their necks. They also were seated on raised benches, in a room out of the chapel, and separated from it by an iron grating, from the top of the room to the bottom, l'o wide that all the audience, except the female prisoners, had them full in view. The keeper’s feat adjoins to this grating, and two of his servants, who are turnkeys, fat oblerving their behaviour.
+house. thing distinguishing in their dress, but were without hats. While they flood up during prayer, they held up their aprons to cover their faces. The men were neat, dressed in brown coats, had been shaved, had clean shirts (which were moll of them chequed), dean stockings, and wore handkerchiefs about their necks. They also were seated on raised benches, in a room out of the chapel, and separated from it by an iron grating, from the top of the room to the bottom, l'o wide that all the audience, except the female prisoners, had them full in view. The keeper’s feat adjoins to this grating, and two of his servants, who are turnkeys, fat oblerving their behaviour.
 
 The chaplain, after a short prayer, preached extempore; then, the men convifls joined in singing, ’moll of them having books: When the chaplain had prayed again, he catechised for about three quarters of an hour. It being the women s turn that Sunday, fix of them flood up, one after another, and made the responfes, which the chaplain explained to them. After this he prayed, and the service concluded by singing the fifty-first Psalm. The decent behav iour and attention of the audience, evidently proved that the service, though of two hours and an half, was not tedious or disagreeable.
 
@@ -2240,11 +2240,11 @@ ART. IX.
 
 In every prison the prisoners may appoint three or five of themselves, and change them at their pleasure, in order to inspect their vittuals and fee if they be good, and if they have their fharc or portion whether in weight or measure according to the following vittualling table; and if there arise any reason for complaint, either of dressing, serving them up, or otherwise, they are with decency to apprise the commissary of it, who finding such complaint well grounded shall give immediate redress and do them justice.
 
-a r T. x.
+ART. X.
 
 It shall be allowed to tradesmen or fellers of ware (except such as deal in things that nre not fit to be sold to prisoners) to wait at the great gate of the prisons from ten o’clock in the morning till three in the afternoon, in order to fell their ware to such prisoners as have wherewithal to pay for them on the spot.
 
-ART. xi.
+ART. XI.
 
 Whatever prisoner shall dare by this means to take or bring in strong liquors or other things that arc not fit for prisoners, or shall receive or deliver any letter, shall be punished for the abuse he has made of this facility.
 
@@ -2941,33 +2941,27 @@ Fever.
 “ before the men return to the ship, the decks should be thoroughly tc scraped and cleaned. If the infedlion has been very violent, the “ parts of the ship moll exposed to it may also be white-washed.— “ Every thing ragged and dirty should be destroyed, as also the “ clothes and bedding of such as brought the infedlion into the ship, “ the bedding of such as have died of the fever, and unless the infee-“ tion has been very mild, the bedding of such as have had the fever “ though recovered. The remaining clothes and bedding should be u purified by being exposed twice a week to the steams of the brim-“ stone and charcoal; or when the brimflone might be supposed to “ injure the clothes, they may be hung up in a close place, exposed “ to the smoke of tobacco strewed on charcoal fires. Linens, and “ such articles as will admit of being wet, should after the first “ fumigation be fleeped forfeveral hours in cold water or leys, be well “ washed, and then dried in the open air.—If, during the fortnight “ of this fumigation, any person is taken ill of the fever, the fortnight “ should again commence from the day on which such person leaves “ the ship.—Strict attention should be paid to the cleanliness of the “ men both in their persons and apparel: such as are sluggish and “ dirty should be made to bathe and clean themselvesj and a sufficient <c quantity of flops should be issued, that every man may have a “ change of clothes.”*
 
 * I have observed in prisons abroad a very cheap and pleasant fumigation, which surprisingly corrects the bad air. I suppose it is the fame as is used in Roman catholic churches, iTS. juniper berries thrown upon burning coals in a chaffing-dish.
-
-ENGLAND.
+---
+117
 
 ENGLAND.
 
 LONDON.
 
-THE TOWER isa strong fortress, and the only prison in England for state delinquents of rank. The care of it is committed to an officer called the Constable of the Tower, who has under him a lieutenant, deputy-lieutenant called the governor, and many other officers, among whom are forty warders, whose uniform is the fame with the king’s yeomen of the guards. Nineteen of these warders have separate houses well furnished, in any of which, as the governor is pleased to order, the state delinquents may be confined j and the custom has been to assign them two of the best rooms on the first floor. Sometimes they are committed to close confinement; but in general they are at liberty to walk in the area of the Tower, attended always by a warder.
+London.
+
+THE TOWER is a strong fortress, and the only prison in England for state delinquents of rank. The care of it is committed to an officer called the Constable of the Tower, who has under him a lieutenant, deputy-lieutenant called the governor, and many other officers, among whom are forty warders, whose uniform is the fame with the king’s yeomen of the guards. Nineteen of these warders have separate houses well furnished, in any of which, as the governor is pleased to order, the state delinquents may be confined; and the custom has been to assign them two of the best rooms on the first floor. Sometimes they are committed to close confinement; but in general they are at liberty to walk in the area of the Tower, attended always by a warder.
 
 There have been no prisoners here for a few years past; and when there are any, their fate is soon determined by a legal trial, and consequently their confinement can never be long. Six shillings and eight pence a day is allowed by government for their subsistence, but they seldom accept this allowance.
 
 In this fortress, besides the houses just mentioned, there are several public offices and store-houses; such, particularly, as the office of Ordnance, the Jewel-office, the Mint, and buildings for holding artillery and arms.
 
-117
+118 APPENDIX.
 
 London.
 
 NEWGATE.
-
-11 s
-
-APPENDIX.
-
-London.
-
-NEWGATE.
-
+---
 Every part of the gaol was clean, and free from offensive scents. On the felons fide there were only three sick, in one of the upper wards. An infirmary was building near the condemned cells.—Of the one hundred and forty-one felons &c. there were ninety-one con-v’nfts and fines,* who had only the prison allowance of a penny loaf a day: Mr. Akerman generoufiy contributes towards their relief.— In the felons court, the table of fees painted on a board was hung up.f
 
 1779, Aug. 16, Debtors 51. Felons &c. 141.
@@ -3556,13 +3550,9 @@ Surgeon now, Mr. Perkins.
 
 1779, Sept, 22, Debtors 11. Felons &c. 14. Deserters 4.
 
-Bedford-
+Bedfordshire.
 
-shire.
-
-Hunting-
-
-donshire.
+Huntingdonshire.
 
 CAMBRIDGE-
 
@@ -3572,9 +3562,7 @@ APPENDIX.
 
 Cam-
 
-bridge-
-
-shire.
+bridgeshire.
 
 CAMBRIDGESHIRE.
 
@@ -4018,9 +4006,7 @@ W. H. ASHURST.
 
 T COVENTRY
 
-Warwick-
-
-shire.
+Warwickshire.
 
 146
 
@@ -4126,9 +4112,7 @@ Leicester-
 
 SH I RE.
 
-Derby-
-
-shire.
+Derbyshire.
 
 Michaelmas Sessions 1776.
 
@@ -4196,9 +4180,7 @@ No alteration, but a table of fees hung up.
 
 7’own
 
-Derby-
-
-shire.
+Derbyshire.
 
 Notting-
 
@@ -4294,13 +4276,9 @@ salary
 
 APPENDIX.
 
-Lincoln-
+Lincolnshire.
 
-shire.
-
-Rutland-
-
-shire.
+Rutlandshire.
 
 salary is £11.—A distrafted woman has been confined about three years. In the last nine years the keeper had 387 prisoners.
 
@@ -4692,9 +4670,7 @@ APPENDIX.
 
 S. D.
 
-Shrop-
-
-shire.
+Shropshire.
 
 £•
 
@@ -4798,27 +4774,19 @@ COUNTY GAOL at HEREFORD.
 
 X 2 COUNTY
 
-Shrop-
+Shropshire.
 
-shire.
-
-Hereford-
-
-shire.
+Herefordshire.
 
 APPENDIX.
 
 164.
 
-Hereford-
-
-shire.
+Herefordshire.
 
 Mon-
 
-mouth-
-
-shire.
+mouthshire.
 
 COUNTY BRIDEWELL at HEREFORD.
 
@@ -4880,11 +4848,9 @@ Sept. 1, — 5.
 
 Mon-
 
-mouth-
+mouthshire.
 
-shire.
-
-G LOUCES-TERSHIRE.
+GLOUCESTERSHIRE.
 
 BERKLEY.
 
@@ -5064,9 +5030,7 @@ SHERIFF’S
 
 APPENDIX.
 
-Devon-
-
-shire.
+Devonshire.
 
 Cornwall.
 
@@ -5148,9 +5112,7 @@ SHEPTON-
 
 APPENDIX.
 
-Somerset-
-
-shire.
+Somersetshire.
 
 Yorkshire.
 
@@ -5472,9 +5434,7 @@ Z 2
 
 We STM OR. LAND.
 
-Lanca-
-
-shire.
+Lancashire.
 
 COUNTY
 
@@ -5482,9 +5442,7 @@ i8o
 
 APPENDIX.
 
-Lanca-
-
-shire.
+Lancashire.
 
 COUNTY BRIDEWELLS.
 
@@ -5694,13 +5652,9 @@ APPENDIX.
 
 186
 
-Flint-
+Flintshire.
 
-shire.
-
-Denbigh-
-
-shire.
+Denbighshire.
 
 8. That the public rooms—be kept and made clean daily—by the prisoners.
 
@@ -5856,17 +5810,11 @@ No alteration; probably never was washed: abounds with vermin. 1779, June 4, Deb
 
 189
 
-Cardigan
+Cardiganshire.
 
-shire.
+Pembrokeshire.
 
-Pembroke-
-
-shire.
-
-Carmar-
-
-thenshire.
+Carmarthenshire.
 
 SOUTH
 
@@ -5874,15 +5822,11 @@ APPENDIX.
 
 190
 
-Radnor-
+Radnorshire.
 
-shire.
+Breconshire.
 
-Brecon-
-
-shire.
-
-G L AMOR-CAN SHIRE.
+GLAMORGAN SHIRE.
 
 SOUTH WALES CIRCUIT.
 

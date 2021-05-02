@@ -40,102 +40,80 @@ By JOHN HOWARD, F. R. S.
 
 "O let the sorrowful sighing of the PRISONERS come before thee."
 
----
-
 WARRINGTON,
 
-PRINTED BY WILLIAM EYRESJ AND SOLD BY T. CADELL, J, JOHNSON, C. DILLY, AND J, TAYLOR, IN LONDON.
+PRINTED BY WILLIAM EYRES;
 
-M DCC L X X X I X.
+AND SOLD BY T. CADELL, J. JOHNSON, C. DILLY, AND J. TAYLOR, IN LONDON.
 
-NIHIL EST TAM REGIUM, TAM LIBERAL E, TAMQUE MUNIfICUM, QU A M O P E M FERRE S U P P L I C I B U S,
+MDCCLXXXIX.
 
-EXCITARE AFFLICTOS, DARE SALUTE M,
+NIHIL EST TAM REGIUM, TAM LIBERALE, TAMQUE MUNIFICUM,
 
-LI BE RARE PERI CU LIS HOMINES.
+QUAM OPEM FERRE SUPPLICIBUS,
+
+EXCITARE AFFLICTOS, DARE SALUTEM,
+
+LIBERARE PERICULIS HOMINES.
 
 CICERO.
 
-CONTENTS
+CONTENTS.
 
-Introduction
+Page
+
+Introduction - 1
 
 SECTION I.
 
-AN ACCOUNT OF THE PRINCIPAL LAZARETTOS IN EUROPE -
+AN ACCOUNT OF THE PRINCIPAL LAZARETTOS IN EUROPE - 3
 
 SECT. II.
 
-PROPOSED REGULATIONS AND A NEW PLAN FOR A LAZARETTO
+PROPOSED REGULATIONS AND A NEW PLAN FOR A LAZARETTO - 23
 
 SECT. III.
 
-PAPERS RELATIVE TO THE PLAGUE
+PAPERS RELATIVE TO THE PLAGUE - 32
 
 SECT. IV.
 
-AN ACCOUNT OF FOREIGN PRISONS AND HOSPITALS -
+AN ACCOUNT OF FOREIGN PRISONS AND HOSPITALS - 52.
 
 SECT. V.
 
-SCOTCH PRISONS AND HOSPITALS ....
+SCOTCH PRISONS AND HOSPITALS - 75.
 
 SECT. VI.
 
-IRISH PRISONS AND HOSPITALS -
+IRISH PRISONS AND HOSPITALS - 78.
 
 SECT. VII.
 
-CHARTER SCHOOLS IN IRELAND ....
+CHARTER SCHOOLS IN IRELAND - 101.
 
-S E
-
-pace
-
-I.
-
-3-
-
-' z3*
-
-32.
-
-52.
-
-75-
-
-78.
-
-101.
-
-C T.
-
-CONTENTS.
-
-Vlll
+CONTENTS
 
 SECT. VIII.
 
-PACE
+Page
 
-ENGLISH PRISONS AND HOSPITALS - 1z+.
+ENGLISH PRISONS AND HOSPITALS - 124.
 
-HULKS ON THE THAMES fie. - 216.
+HULKS ON THE THAMES - 216.
 
-REMARKS ON PE NIT E NT I ART HOUSES 2ZO.
+REMARKS ON PENITENTIARY HOUSES - 220.
 
-REMARKS ON THE GAOL-FEVER 231.
+REMARKS ON THE GAOL-FEVER - 231.
 
-CONCLUSION ...... 233-
+CONCLUSION - 233.
 
-TABLES ....... 239.
+TABLES - 239.
 
-I take the liberty of suggesting, that if I should be spared to finifti another foreign journey., which I have in view, I propose then to publish an Appendix to this work; which I here mention, as some Gentlemen may choose to bind them up together.
-
-INTRODUCTION,
+I take the liberty of suggesting, that if I should be spared to finish another foreign journey, which I have in view, I propose then to publish an Appendix to this work; which I here mention, as some Gentlemen may choose to bind them up together.
 
 INTRODUCTION.
-
+---
 IN my latest tours, I had with pain observed, that notwithstanding the regulations which had been made in our own country, and elsewhere, for preserving health in prisons and hospitals, yet that infectious diseases continued occasionally to arise and spread in them. I had also been led, by the view of several lazarettos in my travels, to consider how much all trading nations are exposed to that dreadful scourge of mankind which those struftures are intended to prevent, and to reflect how very rude and imperfect our own police was with respect to this object. It likewift (truck me, that establishments, effectual for the prevention of the most infectious of all dileafes, must afford many useful hints for guarding against the propagation of contagious distempers in general. These various considerations induced me, in the last edition of I’he State of the Prtfons &c. to express a wilh, “ that some future traveller would give us plans of the lazarettos at Leghorn, Ancona and other places.” At length I determined to procure these plans, and acquire all the necessary information respecting them, myself: and towards the end of the year 1785, I went abroad for the purpose of visiting the principal lazarettos in France and Italy. To the physicians employed in them, I proposed a set of queries respecting the nature and prevention of the plague; but their answers not affording satisfactory instruction, I proceeded to Smyrna and Constantinople. For, although the subjects of the Turkish empire be little enlightened by the modern improvements in arts and sciences, I conceived that from their intimate acquaintance with the disease in question, and from the great difference between their customs and manners, and ours, some practices might be found among them, and some information gained, not unworthy the notice of more polished nations. I also pleased myself with the idea, not only of learning, but of being able to communicate somewhat to the inhabitants of these distant regions, if they should
 
 INTRODUCTION.
@@ -2784,9 +2762,7 @@ Edin-
 
 burgh.
 
-Infir-
-
-mary.
+Infirmary.
 
 Orphan
 
@@ -2932,7 +2908,7 @@ Ay
 
 Sect. VI.
 
-I R E L A N D.
+IRELAND.
 
 Si
 
@@ -3212,9 +3188,7 @@ Philips-
 
 town.
 
-Infir-
-
-mary.
+Infirmary.
 
 Water-
 
@@ -3376,9 +3350,7 @@ Tralee.
 
 County
 
-Infir-
-
-mary.
+Infirmary.
 
 Limerick.
 
@@ -3396,9 +3368,7 @@ CONNAUGHT
 
 92
 
-I R E L A
-
-N D.
+IRELAND.
 
 Connaught Circuit.
 
@@ -3466,9 +3436,7 @@ Galway.
 
 County*
 
-Infir-
-
-mary.
+Infirmary.
 
 COUNTY of CLARE. ENNIS County Gaol, has been built about seven years. Only one day room for both men and women. The criminals have beds and proper bedding. Allowance a threepenny loaf (weight one pound eleven ounces): a twopenny loaf and a pennyworth of milk, as at Limerick and Tralee, would be better.
 
@@ -3540,9 +3508,7 @@ Longford.
 
 County
 
-Infir-
-
-mary.
+Infirmary.
 
 Cavan.
 
@@ -4034,9 +4000,7 @@ quell may for this time be paid. Should the committee think his charges too high
 
 “ By Order, Thomas Gibbons/* P 2 Dundalk
 
-I R E L A
-
-N D.
+IRELAND.
 
 Sect. VII.
 
@@ -4056,7 +4020,7 @@ Ball1n-ROB E School. Ballinrobe School. March 31ft, 1788, twenty-five boys. Four
 
 Sect. VII.
 
-I R E L A N D.
+IRELAND.
 
 from them in those counties where all the neighbours are Roman-Catholics. Allowance, for soap and candles only £3: fuel S'■ for mending windows Jr. —No water: no vault.
 
@@ -4098,7 +4062,7 @@ Castle
 
 11©
 
-I R E L A N D.
+IRELAND.
 
 Sect. VII.
 
@@ -4196,7 +4160,7 @@ County,
 
 account
 
-1 R E L A N D.
+IRELAND.
 
 Sect. Vi I.
 
@@ -4232,9 +4196,7 @@ report
 
 Sect. VII.
 
-I R E L A
-
-N D.
+IRELAND.
 
 report of Sir Francis Hutchinjon, one of the committee of fifteen. “ I fee that at leall “ half of die gowns are so small as not to be sufficient to protest the girls from cold, “ and some of them have be£n torn in endeavouring to make them cover their shoulders “ or breads. 1 fee that about sixteen, that is half of them, have the itch, and some “of these have it to a very considerable degree. 29th August 1787. F. Hutchinjon.” The contract for clothing is still continued with the same person.- —The infirmary is used for a pig fty: no vault. I am sorry to find no report of this last defect in any even of the girls’ schools.
 
@@ -4595,18 +4557,10 @@ Ackworth
 Rules.
 
 I cannot
+---
+124 LONDON. Sect. VIII.
 
-I24
-
-LONDON.
-
-Sect. VIII.
-
-Tower.
-
-Newgate.
-
-I cannot better conclude this subject than in the words of my learned, much respected and honoured friend Dr. Price. “ Seminaries of learning are the Iprings of “ society, which, as they flow foul or pure, diffuse through succeslive generations “ depravity and niifery, or on the contrary, virtue and happiness. On the bent given to “ our minds as they open and expand, depends their subsequent fate; and on the general “ management of education depend the honour and dignity of our species.”
+I cannot better conclude this subject than in the words of my learned, much respected and honoured friend Dr. Price. “Seminaries of learning are the springs of society, which, as they flow foul or pure, diffuse through successive generations depravity and misery, or on the contrary, virtue and happiness. On the bent given to our minds as they open and expand, depends their subsequent fate; and on the general management of education depend the honour and dignity of our species.”
 
 SECTION VIII.
 
@@ -4614,11 +4568,15 @@ ENGLISH PRISONS and HOSPITALS.
 
 THE TOWER.
 
-THE Tower is the only prison in England for state delinquents of rank. There has been no prisoner since Mr. Laurens went out, December 31ft, 1781.
+Tower.
 
-Here, in 1787, I saw a great quantity ofjunk or old cordage, and having again found the prisoners in the bridewells in and about London without employment, I cannot avoid repeating my former remark: “If the great quantities of old cables and ropes piled up at “ the Tower were delivered out to the several keepers of bridewells in and about London “ to be wrought for use, and prompt payment made for the work, this would prevent the “ excuses of keepers for not employing their prisoners.”
+THE Tower is the only prison in England for state delinquents of rank. There has been no prisoner since Mr. Laurens went out, December 31st, 1781.
+
+Here, in 1787, I saw a great quantity of junk or old cordage, and having again found the prisoners in the bridewells in and about London without employment, I cannot avoid repeating my former remark: “If the great quantities of old cables and ropes piled up at the Tower were delivered out to the several keepers of bridewells in and about London to be wrought for use, and prompt payment made for the work, this would prevent the excuses of keepers for not employing their prisoners.”
 
 NEWGATE.
+---
+Newgate.
 
 No alteration.* In three or four rooms there were near one hundred and fifty women crowded together, many young creatures with tire old and hardened, some of whom had been confined upwards of two years: on the men’s fide likewise there were many boys of twelve or fourteen years of age; some almost naked. In the men’s infirmary, there were only seven iron oedsteads; and at my last visit, there being twenty sick, some of them, naked and with fores, in a miserable condition, lay on the floor with only a rug. There were four sick in the infirmary for women, which is only fifteen feet and a half by twelve, has but one window, and no bedsteads; sewers offensive: prison not white-
 
@@ -4872,7 +4830,7 @@ Bench
 
 Prison.
 
-Marshalsea Pr ISON.
+Marshalsea PRISON.
 
 Borough
 
@@ -5176,7 +5134,7 @@ George's
 
 Hospital.
 
-British Lying-i n Hospital.
+British Lying-in Hospital.
 
 London Lying-1 Iff HOSPITAL.
 
@@ -5186,7 +5144,7 @@ Sect. VIII.
 
 *3*
 
-Lon don JLy I KG-IN HOSPITAL.
+London JLy I KG-IN HOSPITAL.
 
 Lock
 
@@ -6340,9 +6298,7 @@ Bridewell
 
 County
 
-Infir-
-
-mary.
+Infirmary.
 
 used for a chapel was too dole, though when I was there, only one debtor attended the service.—Allowance to felons now i-d. in bread and a halfpenny in money. Five of the felons were county, and five town convicts.
 
@@ -6772,7 +6728,7 @@ Ordered,
 
 Oxford Circuit.
 
-B E R K S H I R E.
+BERKSHIRE.
 
 169
 
@@ -8696,9 +8652,7 @@ City
 
 Bridewell
 
-Infir-
-
-mary.
+Infirmary.
 
 COUNTY BRIDEWELL.
 
@@ -12636,13 +12590,27 @@ Wymondham, I $ 2
 
 Y.
 
-Yarmouth town gaol, 154 bridewell, 155 poor-house, 15 5 Yorke, Mrs. good effects of her afiiduity, 163 Yorkshire, 191
+Yarmouth town gaol, 154
+
+bridewell, 155
+
+poor-house, 155
+
+Yorke, Mrs. good effects of her afiiduity, 163
+---
+Yorkshire, 191
 
 York castle, 191
 
 city gaol, 191
 
-bridewell, 192 St. Peter*s gaol, 192 county hospital, 198 Young, Rev. Mr. commended, 97
+bridewell, 192
+
+St. Peter's gaol, 192
+
+county hospital, 198
+
+Young, Rev. Mr. commended, 97
 
 Z.
 
@@ -12652,59 +12620,56 @@ prison, 61
 
 hospital, 62
 
-DIRECTIONS
+[Numerous illustrations.]
 
-[Note: cpoy used for this OCR has Sir S. T. Janssen’s 'Table (badly ) inserted at thi point. Badly scanned, so removed.]
+[Note: copy used for this OCR has Sir S.T. Janssen’s Table inserted at this point. Badly scanned, so removed.]
 
 DIRECTIONS to the BOOK-BINDER.
 
-THE Plates ARE TO EE INSERTED AS FOLLOWS:
+THE Plates ARE TO BE INSERTED AS FOLLOWS:
 
-N0. i.' Plan of the Lazaretto at Marseilles - to face 3-
+Page
 
-2 Sea View of the Lazaretto at Genoa - to face 6.
+Plate N° 1. Plan of the Lazaretto at Marseilles - to face 3.
 
-3- View and Plan of the Lazaretto at Genoa - End of the Book. -v
+2. Sea View of the Lazaretto at Genoa - to face 6.
 
-4- S’ Views of the Lazaretto at Spezia at the End.
+3. View and Plan of the Lazaretto at Genoa - End of the Book.
 
-6. Plan of the Lazaretto at Spezia at the End.
+4, 5. Views of the Lazaretto at Spezia - at the End.
 
-7- Plan of the Lazaretto of San Leopoldo at Leghorn - at the End.
+6. Plan of the Lazaretto at Spezia - at the End.
 
-8. Plan of the Lazaretto of San Rocco at Leghorn at the End.
+7. Plan of the Lazaretto of San Leopoldo at Leghorn - at the End.
 
-9- Health-Offce at Naples - to face 8.
+8. Plan of the Lazaretto of San Rocco at Leghorn - at the End.
 
-10, II. Plan of the Lazaretto at Messina at the End.
+9. Health-Office at Naples - to face 8.
 
-12. Plan of the old Lazaretto at Venice - to face '3-
+10, 11. Plan of the Lazaretto at Messina - at the End.
 
-I3- Plan of the new Lazaretto at Trieste at the End.
+12. Plan of the old Lazaretto at Venice - to face 13.
 
-14. Sketch of a Plan for a Lazaretto - to face 23*
+13. Plan of the new Lazaretto at Trieste - at the End.
 
-IS- View of Port man Castle - - to face 5 «.
+14. Sketch of a Plan for a Lazaretto - to face 23.
 
-16. Plan of the Prison at ditto - - to face 56.
+15. View of Portman Castle - to face 56.
 
->7- Plan of Part of the Hospital at Florence - to face 58.
+16. Plan of the Prison at ditto - to face 56.
+
+17. Plan of Part of the Hospital at Florence - to face 58.
 
 18. Plan of the Greek Hospital at Smyrna - to face 63.
 
-19. Plan of Has'lar Hospital - - to face 180.
+19. Plan of Haslar Hospital - to face 180.
 
-20. Plan for a Penitentiary House - - to face 229.
+20. Plan for a Penitentiary House - to face 229.
 
 21. Petersburg House of Correction - to face 230.
 
-22. View of a proposed Lazaretto at the End.
+22. View of a proposed Lazaretto - at the End.
 
-Sir S. T. Janssen’s 'Table - at the End.
+Sir S.T. Janssen’s Table - at the End.
 
-1 would just hint to the book-binder} that as this work is printed with a full j
-
-in order to be uniform with my last publication, it may be proper to cut off as little as poffibU at the top and bottom of the leaves.
-
-I
-
+N.B. I would just hint to the book-binder, that as this work is printed with a full page, in order to be uniform with my last publication, it may be proper to cut off as little as possible at the top and bottom of the leaves.
