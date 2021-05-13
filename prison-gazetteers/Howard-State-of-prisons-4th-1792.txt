@@ -376,7 +376,6 @@ Dragg'd the detected monsters into light.
 
 Wrench'd from their hand Oppression's iron rod.
 
-— — — — —
 
 Much Hill untouch'd remains —
 
@@ -1268,7 +1267,7 @@ Cans.
 
 Each man has, during the three summer months, daily, of beer, - z\
 
-and during the three winter months, ----- — -
+and during the three winter months, ——
 
 and during the remaining six months, ----- ----- - 2
 
@@ -1950,11 +1949,7 @@ FOREIGN PRISONS.
 
 Bremen.
 
-House
-
-OF
-
-Correction.
+House of Correction.
 
 large trading cities as Hamburg, and Bremen, it seems owing to the little credit that is given — the expence of aliment &c. falling on the creditor — the being separated from their families, and deprived of every kind of amusement and diversion while in prison — and the disgrace of being the re.
 
@@ -2060,19 +2055,11 @@ On one of the doors, both within and without, was hung up the following order, d
 
 Hanover.
 
-House
-
-of
-
-Correction.
+House of Correction.
 
 Brunswick.
 
-House
-
-of
-
-Correction.
+House of Correction.
 
 The weight of Bread in this city corresponded to the ajjlze, viz.
 
@@ -3158,11 +3145,7 @@ HOUSE.
 
 SPAND AAP.
 
-House
-
-OF
-
-Correction.
+House of Correction.
 
 That the police is indeed strict and extensive I had some evidence by weighing the bread from various parts of the city; all which exactly agreed with the affixe or standard. In June 1778, the fine white bread was something above three halfpence a pound; and there was just double the weight of rye bread for the same money. In October 1781, three pennyworth of the finest was ilb. 140Z; of the second fort, 31b. 7 oz; and of the third, 51b. 40Z. The bakers here and in Silesia, gain more by the fine bread, than by the coarse, which last fort, however, they are obliged to make; this is designed for the advantage of the poor. — Here also the price of the {Several forts of butchers meat is fixed and published,
 
@@ -3882,11 +3865,7 @@ Nuren-
 
 BURC.
 
-House
-
-of
-
-Correction.
+House of Correction.
 
 Schwa-
 
@@ -4168,23 +4147,15 @@ T 2
 
 Antwerp.
 
-House
+House of Correction.
 
-of
+140
 
-Correction.
-
-each j
-
-i4o
-
-Antwerp House of Cor rec-
-
-T ION.
+Antwerp House of Correction.
 
 FOREIGN PRISONS.
 
-each; for spinning which, thirteen foils*were paid. I found, by the books, that at first coming, some did not earn more than seven or eight fous in a week, but soon after they earned from twelve to fourteen. Rye bread (to the value of half a fiver each meal) and water, was their allowance; and whatever they had more than this, they were required to pay for out of their earnings. They were obliged to put on clean linen every week, towards washing which each paid a fou. The stoves were heated twice a day, and candles and lamps were provided, at the expence of the magistrates.
+each; for spinning which, thirteen foils*were paid. I found, by the books, that at first coming, some did not earn more than seven or eight fous in a week, but soon after they earned from twelve to fourteen. Rye bread (to the value of half a fiver each meal) and water, was their allowance; and whatever they had more than this, they were required to pay for out of their earnings. They were obliged to put on clean linen every week, towards washing which each paid a sou. The stoves were heated twice a day, and candles and lamps were provided, at the expence of the magistrates.
 
 There were three rooms for the ungovernable. One of them (the penitentiary room) had a floor made of pieces of wood laid edgeways four inches asunder. The prisoner was chained in the middle of this floor, so that he could move but a few steps; and being allowed no shoes or {lockings, whether he flood or laydown, he mufl have been in a very uneasy posture. This room therefore was dreaded by the prisoners. The other rooms were abodes so dark and solitary, as to be almost equally dreadful.
 
@@ -6886,7 +6857,7 @@ RESOLUTION
 
 Gth. That there is due and ought to be pa.d to the clerk of the papers for every dlfcharge of
 
-every action - - - - - 0 26
+every action - 0 26
 
 And for the copy of every cause not exceeding three - - - o I a
 
@@ -7244,7 +7215,7 @@ Mr. Thomas Stretchley every third year £2, and ^4 to discharge two prisoners ev
 
 Mrs. Eljz. Miflon the yearly produce of £zoo 3 per cent, annuities for meat, bread and
 
-coals - - - - - - 600
+coals - - 600
 
 -Chamber of London yearly Mr. Middleton - - - - 3 2 6
 
@@ -7358,7 +7329,7 @@ Every prisoner in the bed ward on the master-side to pay to the keeper for his d
 
 To the turnkeys upon such discharge - - -
 
-Every such prisoner in the best ward on the master-side, who at his own desire shall have a bed to himself to pay for chamber-room use of bed bedding and (heets, to the keeper per week - -- -- -
+Every such prisoner in the best ward on the master-side, who at his own desire shall have a bed to himself to pay for chamber-room use of bed bedding and (heets, to the keeper per week ——
 
 If two in a bed, and no more — for chamber-room, use of bed bedding and (heets to pay to the keeper each per week -----
 
@@ -8642,11 +8613,11 @@ on the first attion - - . - - 048
 
 To the keeper upon the discharge of such prisoner charged with one or more actions after the
 
-first - - - - - - 038
+first - - 038
 
 To the surgeon or apothecary on the discharge of every prisoner charged with one or more
 
-actions - - - - - - oio
+actions - - oio
 
 To the chaplain on the like discharge - - - 010
 
@@ -8654,7 +8625,7 @@ To the turnkey upon the discharge of every prisoner on the first attion - - 016
 
 To the turnkey upon the discharge of such prisoner charged with one or more actions after the
 
-first - - - - - - oio
+first - - oio
 
 To the clerk for entering the discharge of a prisoner on one or more actions - - 010
 
@@ -8764,7 +8735,7 @@ To the turnkey for the dismission of every such prisoner - - - o i o
 
 For every prisoner brought by a peace officer for safe custody untill hearing can be had before a
 
-magistrate - - - - - 020
+magistrate - 020
 
 By the Court
 
@@ -10006,7 +9977,7 @@ For every warrant he is charged with afterwards the sum of - - -050
 
 To the fsheriff for his liberty the sum of - - - o z 6
 
-To the turnkey - - - - - 026
+To the turnkey - 026
 
 From Felons at the assizes the sum of - - - o ij o
 
@@ -10014,7 +9985,7 @@ To the turnkey - - » - - - o z 6
 
 At the quarter session or otherwise the sum of - - - . - 0134
 
-To the turnkey - - - - - 026
+To the turnkey - 026
 
 Chamber rent if the debtor is furnished with bedding per week the sum of - -026
 
@@ -10022,7 +9993,7 @@ If he finds his own bedding unless he lie in the common-room the sum of - -016
 
 Searching the files for any warrant - - - -0 06
 
-For a copy thereof - - - - - 006
+For a copy thereof - 006
 
 For every declaration or other pleadings whatsoever to be paid by the plaintiff or his agent.
 
@@ -12538,7 +12509,7 @@ A Table of Fees to be taken by the Gaoler or Keeper of the Gaol for the County o
 
 Every prisoner shall pay to the gaoler at his first coming into gaol six shillings and eight-pence -----
 
-Every prisoner that will lodge in any chamber in the house shall pay to the gaoler for his bed weekly - - - -
+Every prisoner that will lodge in any chamber in the house shall pay to the gaoler for his bed weekly ——
 
 If he will have the whole bed to himself, to pay weekly -
 
@@ -12562,7 +12533,7 @@ lodging and diet having three meals a day - - - -050
 
 If he eats at the second table then he shall pay but four shillings a week for his diet and
 
-lodging - - - - - . 040
+lodging - . 040
 
 Every debtor that lies in the common grate may provide himself with a bed, bedding and (lieets, and pursuant to the act have necessaries of life from any place — between fix in the morning and fix at night from Lady-day to Michaelmas — between eight and four from Michaelmas to Lady-day — no more than one quart of ale a day — brought in to one prisoner, to prevent disturbance, &c.
 
@@ -12728,13 +12699,13 @@ A Table of — Rates and Fees — settled by the Justices — at a General Quart
 
 Every debtor that lies in a bed belonging to the keeper is to pay one shilling weekly and
 
-no more - - - - - o I o
+no more - o I o
 
 Any debtor that finds a bed and places it in the common room is to pay nothing for his
 
-lodging - - - - - -00 0
+lodging - -00 0
 
-Every prisoner for debt is to pay one fee to the keeper for his discharge out of prison though he Hands committed in several actions and that fee no more than six shillings and eight pence - - - - - 068
+Every prisoner for debt is to pay one fee to the keeper for his discharge out of prison though he Hands committed in several actions and that fee no more than six shillings and eight pence - 068
 
 Every felon is to pay to the gaoler for his discharge out of prison six shillings and eight
 
@@ -13790,7 +13761,7 @@ For the under keeper or turnkey upon every action or writ - - -02
 
 For the under keeper or turnkey upon discharging of each prisoner by /uper/edeas* or
 
-otherwise - - - - - 01
+otherwise - 01
 
 LODGINGS.
 
@@ -13996,7 +13967,7 @@ But if two lodge in the same bed on their own election, then each to pay per wee
 
 To the gaoler for lodging of each person in the garrets on the gaoler's bed and furniture
 
-per week - - - - - 010
+per week - 010
 
 That
 
@@ -15244,7 +15215,7 @@ LODGINGS.
 
 Every prisoner that lyes in the keeper's lodging in the Prize or Sheriff's ward pays by
 
-the week - - - - - O 2 6
+the week - O 2 6
 
 We whose Names are here under written — at the General Quarter Sessions — held — at Warminster — do hereby — allow the fame
 
@@ -20980,7 +20951,7 @@ Northern Circuit. Southern Circuit. Western Circuit.
 
 Edinburgh* Aberdeen* Perth. Inverness. Jed- BURCH. Dumfries. Ayr. Glasgow. Stirling. Crimes.
 
-170a X - - - - - Forgery.
+170a X - Forgery.
 
 1769 - _ _ _ “ I “ Horse-stealing. Murder and Robbery.
 
@@ -21000,7 +20971,7 @@ Edinburgh* Aberdeen* Perth. Inverness. Jed- BURCH. Dumfries. Ayr. Glasgow. Stirl
 
 - - “ - I - X _ Theft. S'ealing a I etter from Post Office.
 
-*777 - - - - - - *i Child-murder.
+*777 - - *i Child-murder.
 
 *778 - - I - - - - Theft of Cattle.
 

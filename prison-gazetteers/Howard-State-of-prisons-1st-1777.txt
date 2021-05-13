@@ -428,7 +428,7 @@ Garnish.
 
 In many Gaols, to the Garnish paid by the new comer, those who were there before make an addition;and great part of the following night is often spent in riot and drun-kennefs. The gaoler or tapfler finding his account in this practice, generally answers questions concerning it with reluctance. Of the Garnish which I have set down to sundry
 
-E prisons,
+
 
 6
 
@@ -436,7 +436,7 @@ BAD CUSTOMS.
 
 GAMING.
 
-prii'ons, I often had my information from prisoners who paid it. But I am aware that the sum is sometimes varied by sets of succeeding prisoners, and the different circumstances of a new comer. In some Gaols, if a Felon can pay the Debtor's Garnish (which is commonly more than that of the Felons) he is entitled to partake of the Garnish paid afterwards by new-come Debtors. In some places, this demand has been lately waved: in others, flridtly prohibited by the Magistrates.
+prisons, I often had my information from prisoners who paid it. But I am aware that the sum is sometimes varied by sets of succeeding prisoners, and the different circumstances of a new comer. In some Gaols, if a Felon can pay the Debtor's Garnish (which is commonly more than that of the Felons) he is entitled to partake of the Garnish paid afterwards by new-come Debtors. In some places, this demand has been lately waved: in others, flridtly prohibited by the Magistrates.
 
 Gaming in various forms is very frequent: cards, dice, skittles, Miffifiopi and Portobello tables, billiards, fives, tennis, &c. In the country the three first are most common;and especially cards. There is scarce a County-Gaol but is furnished with them: and one can seldom go in without seeing prisoners at play. In London, all the forts that I have named are in use. I am not an enemy to diverting exercise: yet the riot, brawling, and profaneness, that are the usual consequents of their play; the circumstances of debtors gaming away the property of their creditors, which I know they have done in some prisons to a considerable amount; accomplishing themselves in the frauds of gamblers, who, if they be not themselves prisoners, are fare to haunt where gaming is practised;hindering their fellow-prisoners who do not play from walking in the yards while they do, of which inconvenience I have heard them complain: these seem to me cogent reasons for prohibiting
 
@@ -468,7 +468,7 @@ Who, touch'd with human woe, redreffive fought Into the horrors of the gloomy ja
 
 Unpitied, and unheard, where misery moans;
 
-Where sickness pines; ----- -----
+Where sickness pines; ——
 
 Hail Patriot Band 1 who, scorning secret scorn,
 
@@ -1020,11 +1020,7 @@ Sir John Pringle, in his last Anniversary Discourse at the Royal Society, on the
 
 “ vices, destructive both to mind and body, are inconsistent with the habit of Cleanliness.”
 
-I 2
-
-brooms.
-
-6o
+60
 
 PROPOSED IMPROVEMENTS.
 
@@ -2846,7 +2842,7 @@ If the Prisoners find their own bedding (which the Keeper
 
 shall in 110 wife hinder) then they shall pay for chamber-?' 0: 0: 3 room if more beds than one in a room, each per week J
 
-If the Prisoner hath a room to himself, and provide himself with bed and bedding, which the Keeper is in no fort to hinder him of, then he shall pay for chamber-room per week — — — —
+If the Prisoner hath a room to himself, and provide himself with bed and bedding, which the Keeper is in no fort to hinder him of, then he shall pay for chamber-room per week ——
 
 o
 
@@ -5234,7 +5230,7 @@ St. GEORGE'S FIELDS. Built 177a. Separate wards and court-yards for men and wome
 
 The
 
-If any such Prisoner through poverty can only provide a couch, then to the said Gaoler or Keeper for chamber rent per wet — — — -
+If any such Prisoner through poverty can only provide a couch, then to the said Gaoler or Keeper for chamber rent per wet ——
 
 £. S. D. o: o: 1
 
@@ -5706,7 +5702,7 @@ CAMBRIDGESHIRE. Norfolk Circuit.
 
 £ *. D.
 
-And in case more Prisoners are put into a room, so that there is occasion for more beds in the fame chamber, Then there shall be paid for the use of the chamber, and of every bed and linnen and cloaths belonging to it the fern of — - — —
+And in case more Prisoners are put into a room, so that there is occasion for more beds in the fame chamber, Then there shall be paid for the use of the chamber, and of every bed and linnen and cloaths belonging to it the fern of ——
 
 > o:
 
@@ -9694,7 +9690,7 @@ For every commitment and discharge by a Justice of Peace or in Court — — —
 
 1: 5: 4
 
-For every commitment for not finding bail for good behaviour — — — —
+For every commitment for not finding bail for good behaviour ——
 
 For
 
@@ -9882,7 +9878,7 @@ For the use of the Common room the Prisoner finding his" bed and bedding — —
 
 But if the Keeper finds bedding then —
 
-For the Liberate and Discharge of every Prisoner out of the* said Prison for Debt or otherwise in Civil Suits or o Actions — — — —
+For the Liberate and Discharge of every Prisoner out of the* said Prison for Debt or otherwise in Civil Suits or o Actions ——
 
 For the Turnkey Fees of every Prisoner discharged
 
@@ -13610,9 +13606,9 @@ HOME CIRCUIT, £ s. D.
 
 Burnt in the Hand — — — — 4 8
 
-Whipped — — — — — 4 8
+Whipped - 4 8
 
-Acquitted — — — — — 8 4
+Acquitted - 8 4
 
 Discharged by Proclamation — — — — 8 4
 

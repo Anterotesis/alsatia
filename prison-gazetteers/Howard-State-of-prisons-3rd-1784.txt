@@ -524,7 +524,6 @@ Debtors. Feloui &C. Petty Offender*. Tom/.
 
 344 122 466
 
-— - —
 
 2437 994 653 '4084
 
@@ -9264,7 +9263,7 @@ prisoner on the first action - - - -048
 
 To the keeper upon the discharge of such prisoner charged with one or more actions after
 
-the first - - - - - 038
+the first - 038
 
 To the forgeon or apothecary oa the discharge of every prisoner charged with one or
 
@@ -9882,7 +9881,7 @@ To him more on the discharge of every such prisoner - - -010
 
 On the commitment or coming into gaol of every prisoner in a civil action, to the said
 
-gaoler or keeper - - - - - 030
+gaoler or keeper - 030
 
 On the discharge of every such pii/oner to the said gaoler or keeper - - so 7 10
 
@@ -11072,7 +11071,7 @@ To the gaoler for the commitment fee to be paid at the time of commitment, only 
 
 To the gaoler for the discharge of every prisoner to be paid at the time of his discharge,
 
-only - - - - - .054
+only - .054
 
 To the fheiiff for the discharge of every prisoner to be paid on such discharge - 020
 
@@ -13296,7 +13295,7 @@ Any debtor that finds a bed and places it in the common room is to pay nothing f
 
 lodging - - . . - . - o o
 
-Every prisoner for debt is to pay one fee to the keeper for his discharge out of prison though he (lands committed in several actions and that fee no more than six shillings and eight pence - - - - - 06
+Every prisoner for debt is to pay one fee to the keeper for his discharge out of prison though he (lands committed in several actions and that fee no more than six shillings and eight pence - 06
 
 Every felon is to pay to the gaoler for his discharge out of prison six shillings and eight
 
@@ -14574,7 +14573,7 @@ For every certificate in order for a fmfcrfcdttu, or in order to sue OUt a rule 
 
 Fees for the Gaoler for Felons or other Crimes.
 
-To the gaoler for the discharge of every prisoner found guilty of felony If at assizes o To the gaoler for the discharge of every prisoner found guilty of felony If at sessions o To the gaoler for the discharge of every prisoner committed for a certain time, or fined and committed until paid, or bailed out of gaol, or superfeded by a justice or justices of the peace - - - - - O
+To the gaoler for the discharge of every prisoner found guilty of felony If at assizes o To the gaoler for the discharge of every prisoner found guilty of felony If at sessions o To the gaoler for the discharge of every prisoner committed for a certain time, or fined and committed until paid, or bailed out of gaol, or superfeded by a justice or justices of the peace - O
 
 But if continued in gaol three months or upwards - - - - o
 

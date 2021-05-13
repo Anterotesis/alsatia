@@ -2406,7 +2406,7 @@ In the General Hospital, 389 Men. 424 Women.
 
 Lying-in Hospital, — — in - — 23 Children.
 
-Lunatic Hospital, 183 -- 78--- — -
+Lunatic Hospital, 183 -- 78 ——
 
 Total 120S
 
@@ -4348,7 +4348,7 @@ master (who thinks he understands physic) gives, as he fays, to every child, sul
 
 £■ S. D.
 
-*e Eleven coffins and grave digger - - - - - - - - - 2123
+*e Eleven coffins and grave digger - 2123
 
 Sundries for upwards of eighty children in the fever and hooping cough, such as
 
@@ -4356,7 +4356,7 @@ wine, wine-whey &c. &c. - - - - ~ - - - - 4110
 
 “ Diet and wages, nurse tender for thirteen weeks attending the children in the fever
 
-and hooping cough - - - - - - - - - - 3186
+and hooping cough - - 3186
 
 When I inspected the children in 1787, I plainly saw they were improperly managed; this led me to doubt of the matter's medical fkil), and to observe to him that an attention to cleanliness and diet is more necessary than physic. Nor has my doubt been
 
@@ -4680,7 +4680,7 @@ debtors with money given by the public. There were no sick prisoners in either o
 
 1788, Aug. 26, Debt. M. Side, Men 17, Worn. 5. C.Side 16. Felons&c. 19. ForExamin. ix.
 
-- - Ocb 1, - - - - - - 13, - - 5. - - 26. - - - 10. - 38.
+- - Ocb 1, - - 13, - - 5. - - 26. - - - 10. - 38.
 
 * One advantage that was expected from the abolition of the tap in gaols, was preventing die comrades of criminals from affoc rating with them, which gave an opportunity of plotting further mischief, and tended to suppress impeachments, through the false hopes with which their companions encouraged them before their trials; but, the unrestrained visits of their friends, and the permission of beer, wine &c. to be brought to them from certain public houses, this intended advantage is in a great measure frustrated.
 
@@ -6650,7 +6650,7 @@ SECOND CLASS.
 
 Every such debtor, having a room and bed to himself, fumilhed by the gaoler, per week, o 1 6
 
-Two such debtors in a bed, each per week, - - - - - - 009
+Two such debtors in a bed, each per week, - - 009
 
 Debtors in general are to pay to the Gaoler,
 
@@ -6818,7 +6818,7 @@ A prison is now building for a county gaol and bridewell, on Mr. Blackburn's pla
 
 * A lift of prisoners in the county gaol and bridewell, from January 23d, 1786, to January 7th, 1787, was published, with an account of their earnings, expense of maintenance, materials for work &c. which was as follows:
 
-Total Earnings - - - - - - ,£198: 1; 11
+Total Earnings - - ,£198: 1; 11
 
 Expense in Bread - £58: 19: o
 
@@ -6828,7 +6828,7 @@ Overlooker - - - - 22; 10: o
 
 Materials for Work &c. - 11: 11: o
 
-Total Expense - - - - - - 178:1:9!
+Total Expense - - 178:1:9!
 
 Balance saved to the County - - - - 20: o:
 
@@ -10644,21 +10644,21 @@ I *1 _ _ _ _ _ _ _ House-breaking and Theft.
 
 *1 _ _ _ > _ _ . _ . Theft and Refett.
 
-I7S3 I - - - - - - - - Robbeiy.
+I7S3 I - - - - Robbeiy.
 
-- - - *1 - - - - - - Sheep-fteaiing.
+- - - *1 - - Sheep-fteaiing.
 
 - - *3 - - - - *1 _ Theft.
 
-- - - t - - - - - Horse-stealing.
+- - - t - Horse-stealing.
 
 _ a . . _ . . *2 . . Theft.
 
-- 1 - - - - - - - - Stealing a Child.
+- 1 - - - - Stealing a Child.
 
-- - - - - - - 1 - - Robbery,
+- - - 1 - - Robbery,
 
-- - - - - - - - - 1 Murder.
+- - - - - 1 Murder.
 
 ' - - - - 1 House-breaking and Theft.
 
@@ -10666,47 +10666,47 @@ a _ _ . House-breaking and Theft.
 
 - - - 1 - - - . - - Sheep-fteaiing.
 
-1785 - I - - - - - - - - Wilful Fire-raising.
+1785 - I - - - - Wilful Fire-raising.
 
 - - - - - * 1 _ *1 - _ Theft.
 
-- - - - - - I - - - Forgery.
+- - I - - - Forgery.
 
-- - - - - - - 1 - - Murder.
+- - - 1 - - Murder.
 
 " - - a - Robbery.
 
 a _ _ _ _ _ . . . House-breaking and Theft.
 
-1 - - - - - - - - - Pocket-picking.
+1 - Pocket-picking.
 
 - 1 - - - - 1 - _ Theft.
 
-1 - - - - - - - - - Robbery.
+1 - Robbery.
 
-a - - - - - - - - - Robbery of the Mail.
+a - Robbery of the Mail.
 
-- - - *3 - - - - - - Sheep- stealing.
+- - - *3 - - Sheep- stealing.
 
-■ - - - - - I - - - Stealing a Letter from the Mail,
+■ - I - - - Stealing a Letter from the Mail,
 
-- - - - a - - - - - Horse-stealing.
+- - - - a - Horse-stealing.
 
 " - " “ * I Murder.
 
 1 - - _ _ _ _ Murder of his own Child.
 
-1 - - - - - - - - - Sheep-fteaiing.
+1 - Sheep-fteaiing.
 
 ' - - - - 1 - - Theft.
 
-1787 - *1 - - - - - - - - Shop-breaking.
+1787 - *1 - - - - Shop-breaking.
 
 ■ ' " - - *1 - a - - Robbery.
 
 - - * - - 1 - - - - Murder.
 
-" " •1 - - - - - House-breaking and Theft.
+" " •1 - House-breaking and Theft.
 
 16 7 a 8 4 3 * 12 I 3 58 Total Condemned.
 
@@ -11414,9 +11414,9 @@ July 5 - - - 5 - - - - 5
 
 September 1, 6 - - - 1 4 - - 1 6
 
-- 20, I 1 - - - - - * - I
+- 20, I 1 - * - I
 
-November 135 2 - - - - - 2 - - 2
+November 135 2 - 2 - - 2
 
 - ■7. 9 - - - 3 3 - - 3 9
 
@@ -11430,7 +11430,7 @@ February 2, 20 - - 1 12 6 - - I 20
 
 March 3» 5 - - - 1 3 - - I 5
 
-April II, I - * 1 - - - - - - - I
+April II, I - * 1 - - - I
 
 26, I - - - 1 - _ * - _ I
 
@@ -11468,7 +11468,7 @@ June 6 1 - 2 - 1 3 _ - , 7
 
 July 27, September 14, November 22, 2 5 7 - - - 1 4 2 3 - - 2 2 5 7
 
-December 18, 3 3 - - - - - - - 3
+December 18, 3 3 - - - 3
 
 50 1 6 2 2 z3 10 2 - 6 51
 
@@ -11486,7 +11486,7 @@ August 3°> IO - - - - 2 7 - - IO
 
 O ftober 31- IO 1 - - 1 6 4 - - - 11
 
-December - 1 - - - - - - - 1 I
+December - 1 - - - 1 I
 
 - - 27> 3 - - - - 2 1 - - - 3
 
@@ -11504,7 +11504,7 @@ June 24, i - - 1 - - - - 1
 
 September 3> 4 - - - - 2 - - 2 4
 
-- ' 12, 1 - - - - - - - 1 i
+- ' 12, 1 - - - 1 i
 
 25 1 3 3 5 5 5 - 5 26
 
