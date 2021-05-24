@@ -100,7 +100,7 @@ Conclusion - 617
 
 PORTSMOUTH AND LANGSTON HARBOURS - 619
 
-No. 1. Report on the State of the Convicts in Portsmouth Harbour, 1802 - 620
+No. I. Report on the State of the Convicts in Portsmouth Harbour, 1802 - 620
 
 II. Report on the State of the Convicts in Langston Harbour - 623
 
@@ -414,7 +414,7 @@ It is the fate of all human institutions, however founded in wisdom and the best
 
 The increase of Trade and Manufacture in the Country was, of course, attended with an enlarged population in particular districts; and the disuse into which the
 
-x\v
+XXV
 
 COURTS OF CONSCIENCE.
 
@@ -988,44 +988,34 @@ Berkhamstead, Hertfordshire, Bridewell - 41
 
 Berwick-upon-Tweed, Town and County Gaol 39
 
----
-
 Beverley, Hall-Garth, Yorkshire, for Debtors 41
 
-- Town and Liberty Gaol - 42
+Beverley, Town and Liberty Gaol - 42
 
----House of Correction - 43
+Beverley, House of Correction - 43
 
-— — - New Sessions House, and House
-
-of Correction - 44
+Beverley, New Sessions House, and House of Correction - 44
 
 Birmingham, Warwickshire, Town Gaol - 46
 
----- Court Prison, for Debtors only 4“
+Birmingham, Court Prison, for Debtors only - 47
 
----- Aston Gaol - 48
+Birmingham, Aston Gaol - 48
 
 Blandford, Dorsetshire, Town Gaol - 50
 
-GENERAL LIST OK PRISONS.
+GENERAL LIST OF PRISONS. lxi
 
-Ixi
+Page
 
-rage
+Bodmin, Cornwall, County Gaol and Bridewell - 51
 
-Bodmin, Cornwall, County Gaol and Bridc-
+Borough Compter, Southwark, in Surrey - 57
 
-well - r, l
+Boston, Lincolnshire, Town Gaol and Bridewell - 55
 
-Borough Compter, Southwark, in Surrey ., 57
-
-Boston, Lincolnshire, Town Gaol and IJride-
-
-well - 55
-
-- - House of Correction - 57
-
+Boston, House of Correction - 57
+---
 Bottcsdale, Suffolk, House of Correction .. ti8
 
 Bradford, Yorkshire, Town Gaol - ‘15
@@ -1144,7 +1134,7 @@ Bridewell - 153
 
 Dnlgelly, Merionethshire, North Wales,
 
-Town Gaol - : .... 151
+Town Gaol - 151
 
 ---- Bridewell - 151
 
@@ -1188,15 +1178,11 @@ Evesham, Worcestershire, Borough Gaol.. 217 Eicter, De\on»hire, County High Gao
 
 Felons - 2n5
 
----- South Gate, City and County Gaol 2()9
+---- South Gate, City and County Gaol 209
 
----- Sheriff's Ward, County Prison for
+---- Sheriff's Ward, County Prison for Debtors - 212
 
-Debtors - 212
-
-ixii
-
-GENERAL LIST OF PRISONS,
+lxii GENERAL LIST OF PRISONS,
 
 Page
 
@@ -1218,7 +1204,7 @@ Gilt-Spur-Street Compter, London - 228
 
 Glasgow, Scotland, the Tolbooth - 233
 
----- the Bridewell.. ......... 242
+---- the Bridewell.. - 242
 
 Gloucester, County Gaol, and Penitentiary
 
@@ -1766,13 +1752,13 @@ Yarmouth, Norfolk, Town Bridewell -
 
 ---- Town Gaol -
 
-York, City Bridewell -
+York, City Bridewell - 606
 
----- St. Peter’s Gaol -
+---- St. Peter’s Gaol - 606
 
----- City and Ainsty Gaol -
+---- City and Ainsty Gaol - 608
 
-York Castle, County Gaol -
+York Castle, County Gaol - 611
 
 554 543
 
@@ -1820,9 +1806,7 @@ York Castle, County Gaol -
 
 603
 
-605
 
-606 60S 611
 
 STATE OF PRISONS,
 
@@ -5506,7 +5490,7 @@ Keeper, The Town Constable.
 
 It consists of two rooms, arched with brick, under the Town-Hall. Debtors not being now sent hither, the Prisoners here are only confined for a night. At my visit, 2d October, 1803, there were none.
 
-CARDIGAN. South-1Tales.
+CARDIGAN. South-Wales.
 
 The County Gaol and Bridewell.
 
@@ -5538,7 +5522,7 @@ Oil one side of the entrance is the Gaolers kitchen, and, on the other side, his
 
 Were the Gaoler to live in the Great-Hall, he would then have a full and complete view of the whole l’rison, from a point the most eligible for effectual inspection: But, at my last v isit, in September 181)3, !Jound it filled trif/t corn, and tiro lUeit were absolutely threshing it out The six passages, which lead to the Criminals’ sleeping-cells, open into this room.
 
-For Debtors here are four rooms on the ground-floor, and four above stairs, each 13 feet by 11, an i\ f urnished withJirc-pluccs; hut no fuel allowed, which had rather a tantalizing appearance. Straw is the only bedding supplied by the County for Prisoners of every description.
+For Debtors here are four rooms on the ground-floor, and four above stairs, each 13 feet by 11, an i\ f urnished with Jirc-pluccs; but no fuel allowed, which had rather a tantalizing appearance. Straw is the only bedding supplied by the County for Prisoners of every description.
 
 ' I’lie entrance to the Felons’ ward is at the lower end of the Great-Hall, and forms a detached wing of the Gaol. They have four sleeping-cells below, and four above stairs, each 10 feet 6 inches by y feet, and 10 feet (1 inches high. To this wing are attached two small courts, 15 feet each by 11; but, as being out of the Gaolers view, the Prisoners seldom hare the use of them.
 
@@ -5662,9 +5646,9 @@ IN ENGLAND, SCOTLAND, AND WALES.
 
 113
 
-“ Castle Rushen," says my unknown Correspondent, “ was built upwards of f)()Q years ago, and contains only three inhabitable rooms, in which Felons and Debtors are promiscuously confined. Here no Insolvent Act hath ever reached; neither have the laws of this Island ever provided any mode of relief for the honest, though unfortunate Debtor.
+“Castle Rushen," says my unknown Correspondent, “was built upwards of f)()Q years ago, and contains only three inhabitable rooms, in which Felons and Debtors are promiscuously confined. Here no Insolvent Act hath ever reached; neither have the laws of this Island ever provided any mode of relief for the honest, though unfortunate Debtor.
 
-“ After a Debtor has given up all his efi’eets, there is not any public provision of food, beds, fuel, or medicine, for persons confined in this place. Many of them, therefore, suffer the severest consequences of want and wretchedness; and, as there is no parochial support afforded to their wives and families, they are reduced to the greatest distress, although formerly enjoying comfort and respectability. Strange also as it may appear, no subscription was ever known to have l>een entered into, throughout any part of this Island, for the relief of the unfortunate. For, as the indigenous Manx are not liable to imprisonment for debt, their feelings seldom are £ tremblingly alive' to the miseries of an incarcerated Stranger.”
+“After a Debtor has given up all his effeets, there is not any public provision of food, beds, fuel, or medicine, for persons confined in this place. Many of them, therefore, suffer the severest consequences of want and wretchedness; and, as there is no parochial support afforded to their wives and families, they are reduced to the greatest distress, although formerly enjoying comfort and respectability. Strange also as it may appear, no subscription was ever known to have been entered into, throughout any part of this Island, for the relief of the unfortunate. For, as the indigenous Manx are not liable to imprisonment for debt, their feelings seldom are £ tremblingly alive' to the miseries of an incarcerated Stranger.”
 
 My mournful Correspondent mentions, as his fellow-prisoners, the descendant
 
