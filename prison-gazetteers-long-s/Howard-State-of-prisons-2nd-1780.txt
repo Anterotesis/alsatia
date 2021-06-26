@@ -17965,7 +17965,7 @@ Total Number of Prisoners
 
 4375
 
-Though I have visited all the county gaols, and I think all the county bridewells, as also many of the corporation and private-property prisons, yet as there are some few of the two latter which 1 did not fee in 1779, we may add more prisoners on their account j and then probably we shall have nearly the average numbtr of persons confined at one time in the prisons of this kingdom.
+Though I have visited all the county gaols, and I think all the county bridewells, as also many of the corporation and private-property prisons, yet as there are some few of the two latter which 1 did not fee in 1779, we may add more prisoners on their account j and then probably we shall have nearly the average number of persons confined at one time in the prisons of this kingdom.
 
 INDEX.
 
@@ -18885,7 +18885,9 @@ proprietor 371 Yorke, Sir Joseph, his polite assistance *9> 73
 
 Z.
 
-Zell 76 Zurich 1 ix
+Zell 76
+
+Zurich 1 ix
 
 END.
 
