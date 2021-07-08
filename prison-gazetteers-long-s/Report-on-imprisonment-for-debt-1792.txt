@@ -412,7 +412,7 @@ Nor does it often happen, that a Defendant who has been arrested, imprisoned, an
 
 Tnwnley Ward’s Evidence.
 
-Horfham Gaol.
+Horsham Gaol.
 
 [ M ]
 
@@ -1248,7 +1248,7 @@ APPENDIX, N- i.
 
 Warrant. The Plaintiff’s Attorney attended in Person. The Bailiff wished. me to go to his House. I told him I had received so much ill Treatment that I refused it, and was carried to the County Gaol, and brought here by Habeas.
 
-The Situation of Four Fifths of the Prisoners confined in the King’s Bench is very distressed. .1 look on it the other Proportion is supported entirely by their Friends, and there are some few who may have Property, but who I believe reserve that Property merely because they cantiot make equal Terms with their Creditors. The Wives and Famine-, in general, oi the Priioners within the Prison are in a distressed Situation. The Children are in general without Education. The Number of Children are a very great Inconvenience. Their Parents have no Means of supporting them without the Prison, but by Means of their Parish, which would be better for both the Parents and Children than their remaining confined in the Prison, as they can be of very little Assistance to their Parents where they are. The Scavengers do not keep the Stair Cafes sufficiently clean. The Cryer makes no Demand, but it is understood he experts Half a Guinea, and has sometimes received a Guinea, either to procure a Prisoner a good Room, -or to prevent his having a Chum,
+The Situation of Four Fifths of the Prisoners confined in the King’s Bench is very distressed. .1 look on it the other Proportion is supported entirely by their Friends, and there are some few who may have Property, but who I believe reserve that Property merely because they cantiot make equal Terms with their Creditors. The Wives and Famine-, in general, oi the Prisoners within the Prison are in a distressed Situation. The Children are in general without Education. The Number of Children are a very great Inconvenience. Their Parents have no Means of supporting them without the Prison, but by Means of their Parish, which would be better for both the Parents and Children than their remaining confined in the Prison, as they can be of very little Assistance to their Parents where they are. The Scavengers do not keep the Stair Cafes sufficiently clean. The Cryer makes no Demand, but it is understood he experts Half a Guinea, and has sometimes received a Guinea, either to procure a Prisoner a good Room, -or to prevent his having a Chum,
 
 Withdrew,
 
@@ -1988,8 +1988,6 @@ March 28th 1791. Steward.
 
 John Ward, Alex. Smith.
 
-
-
 92
 
 APPENDIX, N° 7.
@@ -2541,7 +2539,9 @@ That the Court will sometimes, on Application, give them Time to add another Bai
 Does not the Expence of these Proceedings in general fall ultimately on the Defendant?
 
 If the Defendant is in a Situation to pay, they certainly all fall on him; if he is insolvent, then the Loss certainly falls on the Plaintiff When the Attachment issues against the Sheriff he pays the Money He then resorts to the Bail Bond; and it frequendy occurs that they are the fame Bail who have been rejected in Court. If they are infuffeient, then the Sheriff sustains the Loss.
+
 ---
+
 Does it frequently happen that the Defendant surrenders himself into Custody, or is surrendered by his Bail, whereby they are discharged?
 
 Yes.
@@ -2565,3 +2565,4 @@ Do you know of any Instance where the Debtor has been brought up under the Claus
 I do not.
 
 Withdrew.
+
