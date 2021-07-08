@@ -1015,7 +1015,9 @@ Borough Compter, Southwark, in Surrey - 57
 Boston, Lincolnshire, Town Gaol and Bridewell - 55
 
 Boston, House of Correction - 57
+
 ---
+
 Bottcsdale, Suffolk, House of Correction .. ti8
 
 Bradford, Yorkshire, Town Gaol - ‘15
@@ -1805,8 +1807,6 @@ York Castle, County Gaol - 611
 602
 
 603
-
-
 
 STATE OF PRISONS,
 
