@@ -402,7 +402,7 @@ HOLLAND. 15
 
 gentlemen, who daily visit the prison, informed the magistrates that it had been the cause of frequent ruptures.*
 
-No friends of the prisoners are permitted to visit them, without express orders from the regents, unless on Mondays: and then they mu ft be searched, to prevent the introduction of spirituous liquors, or instruments for breaking out, or any thing else forbidden: and they must retire before the time for Ihutting up. Every visitant is obliged to put two stivers into a box entrusted with the father. Refreshments may be received and given to the ronvidts on Tuesdays; but not on other days. Every evening, at eight o’clock, the father must lee that all things are in due order. The saws, and other heavy implements for their work, are taken from them in the evening, and returned in the morning. If a convidt be guilty of breaking any thing considerable, or of neglect or disobedience, he is punished severely by whipping, or confined to bread and water in a dungeon -under ground.
+No friends of the prisoners are permitted to visit them, without express orders from the regents, unless on Mondays: and then they mu ft be searched, to prevent the introduction of spirituous liquors, or instruments for breaking out, or any thing else forbidden: and they must retire before the time for Ihutting up. Every visitant is obliged to put two stivers into a box entrusted with the father. Refreshments may be received and given to the ronvidts on Tuesdays; but not on other days. Every evening, at eight o’clock, the father must lee that all things are in due order. The saws, and other heavy implements for their work, are taken from them in the evening, and returned in the morning. If a convict be guilty of breaking any thing considerable, or of neglect or disobedience, he is punished severely by whipping, or confined to bread and water in a dungeon -under ground.
 
 Prayers are read morning and evening, and before and after meals, by one of the best-behaved convicts: and divine service, with a sermon, is performed by a clergyman on Sunday mornings.
 
@@ -854,7 +854,7 @@ APPENDIX.
 
 T RIESTE.
 
-under strict discipline; were well supplied with food and cloaths j had two shirts, two pair of stockings, &c. and they lay in good beds * with coverlids, in large airy rooms having opposite windows, and not, like many conviCts, in close dirty dungeons under the fortifications. But they were distinguished from other labourers by a light chain on their legs, and a chain supported by a girdle of leather at their waists.
+under strict discipline; were well supplied with food and cloaths j had two shirts, two pair of stockings, &c. and they lay in good beds * with coverlids, in large airy rooms having opposite windows, and not, like many convicts, in close dirty dungeons under the fortifications. But they were distinguished from other labourers by a light chain on their legs, and a chain supported by a girdle of leather at their waists.
 
 ITALY.
 
@@ -994,7 +994,7 @@ the new Lazaretto, which is a noble spacious building, with different apartments
 
 The old keeper generouffy ordered his son to copy for me all the rules, from which I shall here give some extracts.
 
-Three keepers have their salary from the Grand Duke. They receive a copy of the process against every convidt, carry it to the government, and register it in the proper book; and when required, they muff give an exact account of all proceedings against the prisoners. They make a report of the refradlory to government, that they may be punished in proportion to their offences, with severer confinement, irons, and baftinadoes. The principal keeper has power to choose two turnkeys out of the best-behaved prisoners, who are to exhort and instrudt the others: but the keeper is to have a strict watch over them. He muff: order that all prisoners, when they are brought in, have their heads shaved, — be dressed in the uniform of the house, — and have irons on their feet.
+Three keepers have their salary from the Grand Duke. They receive a copy of the process against every convict, carry it to the government, and register it in the proper book; and when required, they muff give an exact account of all proceedings against the prisoners. They make a report of the refradlory to government, that they may be punished in proportion to their offences, with severer confinement, irons, and baftinadoes. The principal keeper has power to choose two turnkeys out of the best-behaved prisoners, who are to exhort and instrudt the others: but the keeper is to have a strict watch over them. He muff: order that all prisoners, when they are brought in, have their heads shaved, — be dressed in the uniform of the house, — and have irons on their feet.
 
 The prisoners are condemned to labour, for thirty, twenty, ten, or seven years, or for a shorter term, according to the nature of their crimes; and are chiefly employed on the publick works. They are sent out every morning, under a guard of soldiers, and are chained two and two together, with a chain of about eighteen pounds weight. An hour’s relaxation is allowed them at breakfast, and two hours in the afternoon: and at an hour before sun-set, they are recondudled to the prison, and muff be well searched by the keepers, to prevent their having any thing.concealed: and two hours after sun-set, they are ordered to go quietly to rest. When they are employed on the
 
@@ -1880,7 +1880,7 @@ FLANDERS.
 
 present they have a careful and attentive keeper. Some tailors and shoe-makers were at work; but most of the men were occupied in the manufacture of paper-hangings; carving the moulds, grinding the colours, and staining the paper. The women prisoners were entirely separated from the meny and were employed in making lace. All the prisoners have clean linen every week.
 
-At Ghent I went over the house of correction, or La Maison de Force, with one of the magistrates, and found that they were still carrying on a well-regulated manufactory. There were two hundred and eighty men prisoners, and one hundred and seventeen women. These latter had on the honfe clothes, and were at work. Molt of them were spinning or knitting, ranged in proper order, attentive and quiet. I was informed that all the prisoners are allowed one fifth of their earnings for themselves. I brought home specimens of the cloth, as I did of the paper from Brujfels; which I mention, because I know an idea has prevailed, that no manufacture can be carried on by conviCts to any valuable purpose.
+At Ghent I went over the house of correction, or La Maison de Force, with one of the magistrates, and found that they were still carrying on a well-regulated manufactory. There were two hundred and eighty men prisoners, and one hundred and seventeen women. These latter had on the honfe clothes, and were at work. Molt of them were spinning or knitting, ranged in proper order, attentive and quiet. I was informed that all the prisoners are allowed one fifth of their earnings for themselves. I brought home specimens of the cloth, as I did of the paper from Brujfels; which I mention, because I know an idea has prevailed, that no manufacture can be carried on by convicts to any valuable purpose.
 
 In the prison at Antwerp there are two rooms for citizens; and up flairs there is a cage, about six feet and a half square, into which criminals are put before the torture. — A criminal, while he suffers the torture, is cloathed in a long shirt, has his eyes bound, and a physician and surgeon attend him: and when a confession is forced from him, and wine has been given him, he is required to sign his confession; and about forty-eight hours afterwards he is executed.
 
@@ -2630,7 +2630,7 @@ five
 
 Edinburgh.
 
-“ in every parish” in Scotland, and the presbytery hasthefuperintendenceof the execution of this act, which has been carefully attended to. Many schools are also settled by donations and legacies, and by the society for propagating chriltian knowledge; so that no farish is without a school, and in some there are four or five. In the southern parts of Scotland, it is very rare that you meet with any person that cannot both read and write. It is scandalous for any person not to be possessed of a Bible, which is always read in the parochial schools.
+“ in every parish” in Scotland, and the presbytery hasthefuperintendenceof the execution of this act, which has been carefully attended to. Many schools are also settled by donations and legacies, and by the society for propagating christian knowledge; so that no farish is without a school, and in some there are four or five. In the southern parts of Scotland, it is very rare that you meet with any person that cannot both read and write. It is scandalous for any person not to be possessed of a Bible, which is always read in the parochial schools.
 
 * By the act made in king Il'illiam’s first session, 1695, Chap. IV. all capital crimes are restricted to the trial and sentence within three Suns; and the “ Execution, “ which is hereby left to the discretion of the Judge, not exceeding nine days after “ sentence.”
 
@@ -3392,7 +3392,7 @@ No alteration. 1779, March n, Debtors 3.
 
 GUILDFORD BRIDEWELL.
 
-Three new rooms up flairs were lately added, and the necessary sewers. The act for preserving the health of prisoners painted on a board was hung conspicuoufly up in the court. None were at work.
+Three new rooms up flairs were lately added, and the necessary sewers. The act for preserving the health of prisoners painted on a board was hung conspicuously up in the court. None were at work.
 
 1779, March 9, Prisoners 3.
 
@@ -5336,7 +5336,7 @@ LANCASHIRE.
 
 COUNTY GAOL, LANCASTER CASTLE.
 
-I had the pleasure to find fix cells made in the old Jlable, ten feet two inches by six feet eight inches, each having an aperture about two feet by one and a half: and two good rooms fitted up for an infirmary in one of the towers. The debtors rooms were white-washed, and casements put in their windows: the yard lowered and paved, which being on a descent, may easily be kept clean. The act for preserving the health of prisoners, and the clauses against spirituous liquors hung up very conspicuoufly. The surgeon’s salary is ,fio: 10: o.
+I had the pleasure to find fix cells made in the old Jlable, ten feet two inches by six feet eight inches, each having an aperture about two feet by one and a half: and two good rooms fitted up for an infirmary in one of the towers. The debtors rooms were white-washed, and casements put in their windows: the yard lowered and paved, which being on a descent, may easily be kept clean. The act for preserving the health of prisoners, and the clauses against spirituous liquors hung up very conspicuously. The surgeon’s salary is ,fio: 10: o.
 
 1779, May 11, Debtors 72. Felons &c. 11. ImprefTed Men 17.
 
