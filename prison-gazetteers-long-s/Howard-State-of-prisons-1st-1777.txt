@@ -1648,7 +1648,7 @@ GERMANY.
 
 market-days with a basket for prisoners: and 1 have seen him bring them a comfortable meal of fresh vegetables.
 
-But there are separate Prisons in which confinement for a week or two on bread and water is all the punishment for some petty offences. Perhaps, when a condemned criminal is only to live a day or two, such diet may be more proper than the indulgence with which the Germans treat prisoners, after sentence of death, which is commonly executed within forty-eight hours. The malefadtor has then his choice of food, and wine, in a commodious room, into which his friends are admitted; and a Minister attends him during almost all his remaining hours.
+But there are separate Prisons in which confinement for a week or two on bread and water is all the punishment for some petty offences. Perhaps, when a condemned criminal is only to live a day or two, such diet may be more proper than the indulgence with which the Germans treat prisoners, after sentence of death, which is commonly executed within forty-eight hours. The malefactor has then his choice of food, and wine, in a commodious room, into which his friends are admitted; and a Minister attends him during almost all his remaining hours.
 
 - AT Strasburg I saw in one of the five towers three Stras-
 
@@ -8130,11 +8130,11 @@ THIS GAOL is much too small for the number of Prisoners: and so is the Felons Co
 
 A TABLE OF FEES- — settled at the General Quarter Sessions — 18 th day of April 1732.
 
-For entering the Action whereon each Prisoner is firffc. brought into custody either on Prcce/s Capias Latitate Execution or Writ of Excom ad Capiendum and discharging each Prisoner by Writ of Superfedeas or otherwise For receiving and entering every Declaration delivered"! against Prisoners to be paid by the Plaintiff in such 5. Action — J
+For entering the Action whereon each Prisoner is firffc. brought into custody either on Prcce/s Capias Latitate Execution or Writ of Excom ad Capiendum and discharging each Prisoner by Writ of Supersedeas or otherwise For receiving and entering every Declaration delivered"! against Prisoners to be paid by the Plaintiff in such 5. Action — J
 
-For a Certificate for want of a Declaration in order to sue-j out a Writ of Super/edeas — J
+For a Certificate for want of a Declaration in order to sue-j out a Writ of Supersedeas — J
 
-For a Copy of each Warrant against each. Prisoner For the Under Keeper or Turnkey upon every Action or Writ For the Under Keeper or Turnkey upon discharging of each -t Prisoner by Super/edeas or otherwise — i
+For a Copy of each Warrant against each. Prisoner For the Under Keeper or Turnkey upon every Action or Writ For the Under Keeper or Turnkey upon discharging of each -t Prisoner by Supersedeas or otherwise — i
 
 o: o:
 
@@ -8506,7 +8506,7 @@ To the Turnkey on the Discharge of every Prisoner For the receiving and entering
 
 To the Turnkey upon every Declaration —
 
-For a Certificate for want of a Declaration in order to take out a Writ of Superfedeas —
+For a Certificate for want of a Declaration in order to take out a Writ of Supersedeas —
 
 For a Copy of a Warrant or Commitment against each Prisoner —
 
@@ -8634,7 +8634,7 @@ For entering and discharging every second and other Action upon Process Capias L
 
 For receiving and entering every declaration again!! Prisoners' in Custody —
 
-For the Certificate of the want of a declaration in order to sue out a writ of Super/edeas —
+For the Certificate of the want of a declaration in order to sue out a writ of Supersedeas —
 
 For a Copy of each Warrant against each Prisoner —
 
@@ -8788,7 +8788,7 @@ Imprimis, for entering the Action whereon each Prisoner is first brought into cu
 
 For receiving and entering every declaration against Prisoners9in custody — 5
 
-For the Certificate of the want of a declaration in order to9sue out a writ of Superfedeas, — 3
+For the Certificate of the want of a declaration in order to9sue out a writ of Supersedeas, — 3
 
 For a Copy of each Warrant against each Prisoner —
 
@@ -10444,7 +10444,7 @@ the pump in it. They have no water but what is handed to them; and all the rooms
 
 BATH CITY GAOL.
 
-The ascent to this Prison, lately built in a meadow which is sometimes overfknved, is by a fine flight of Steps. On the ground-floor is the Keeper's kitchen &c. and some rooms for Petty Offenders. Above are three stories; five rooms on each: one or two of them used by the Keeper: the rest for Debtors; one bed in a room, in which if two Prisoners sleep, they pay two shillings a week each; if one has it to himself he pays two shillings and six pence a week. Two rooms on the second story are a free ward; on the upper floor is their workshop. There is a court-yard with often five sewers too near thehouse. — Keeper a Sheriff 's Officer: no Salary: Fees, if from the Court of Conscience 3s. 6d. these Debtors are cleared in thirteen weeks paying those Fees: Debtors for large sums 7s. Sd. no
+The ascent to this Prison, lately built in a meadow which is sometimes overfknved, is by a fine flight of Steps. On the ground-floor is the Keeper's kitchen &c. and some rooms for Petty Offenders. Above are three stories; five rooms on each: one or two of them used by the Keeper: the rest for Debtors; one bed in a room, in which if two Prisoners sleep, they pay two shillings a week each; if one has it to himself he pays two shillings and six pence a week. Two rooms on the second story are a free ward; on the upper floor is their workshop. There is a court-yard with often five sewers too near the house. — Keeper a Sheriff 's Officer: no Salary: Fees, if from the Court of Conscience 3s. 6d. these Debtors are cleared in thirteen weeks paying those Fees: Debtors for large sums 7s. Sd. no
 
 395
 
@@ -11942,7 +11942,7 @@ Fees taken by the Gaoler of Lancaster Castle. (viz)
 
 £ S. D.
 
-For every Debtor's Discharge when by a Superfedeas — o: 8: o
+For every Debtor's Discharge when by a Supersedeas — o: 8: o
 
 On a Common Discharge 8s. and 2S. & 6d. for the'Sheriff's Certificate — —,) [o: io: 6
 
@@ -13070,7 +13070,7 @@ COUNTY
 
 470
 
-RADNORSHIRE. SouthWales Circuit.
+RADNORSHIRE. South Wales Circuit.
 
 Remarks.
 
@@ -13738,7 +13738,7 @@ TABLES.
 
 \
 
-On 20 Sefllons in the 15 Years of Peace (8 in a year) only one was Maiden; in 1749. Of the 64 Sessions in the 8 Years of War, nine were Maiden.
+On 20 Sessions in the 15 Years of Peace (8 in a year) only one was Maiden; in 1749. Of the 64 Sessions in the 8 Years of War, nine were Maiden.
 
 Mur- der. Hou rebreaking High- way. Horse- stealing. For- gery. Coin- ing. Returning from Trans-port-ation. Defraud- ing Credi- tors. Shoplifting Riot and 12 other Crimes. Total.
 

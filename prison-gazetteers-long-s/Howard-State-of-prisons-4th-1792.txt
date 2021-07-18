@@ -832,7 +832,7 @@ This Is called lime-white, although whiting is not an ingredient in it. Nothing 
 
 PROPOSED IMPROVEMENTS.
 
-of bread. — Every prisoner should be obliged to wash his hands and face before hfc comes for his daily allowance; and to keep himself as neat as circumstances will admit. I have said -before, there should be plenty of water in a prison; and need not add now, that prisoners should constantly have free and easy access to it. Nothing can be more unreasonable than the pretences used among us to justify inattention and negligence. I cannot help taking this occasion to add the following authorities on this subject. All unprejudiced persons must acknowledge the absolute necessity of fresh air and cleanliness to preserve and promote health. To this purpose Dr. Mead writes, in his Discourse concerning Pejlilential Contagion, page 41, &c. 3d edit. 1720. “ Nothing approaches so near to the first original of contagion, as air pent up,
+of bread. — Every prisoner should be obliged to wash his hands and face before hfc comes for his daily allowance; and to keep himself as neat as circumstances will admit. I have said -before, there should be plenty of water in a prison; and need not add now, that prisoners should constantly have free and easy access to it. Nothing can be more unreasonable than the pretences used among us to justify inattention and negligence. I cannot help taking this occasion to add the following authorities on this subject. All unprejudiced persons must acknowledge the absolute necessity of fresh air and cleanliness to preserve and promote health. To this purpose Dr. Mead writes, in his Discourse concerning Pestilential Contagion, page 41, &c. 3d edit. 1720. “ Nothing approaches so near to the first original of contagion, as air pent up,
 
 “ loaded with damps, and corrupted with the fikhinefs that proceeds from animal “ bodies. Our common prisons afford us an instance of this, in which very few “ escape, what they call the gaol-fetter, which is always attended with a degree of “ malignity in proportion to the closeness and stench of the place. And it would certainly very well become the wisdom of the government, as well with regard to the “ health of the town, as in compassion to the prisoners, to take care, that all houses of “ confinement, should be kept as airy and clean, as is confident with the use, to which
 
@@ -1782,7 +1782,7 @@ For the refractory, here are two closets, the bottoms and fides of which are pie
 
 In the prison for the Military at Groningen there were two prisoners. The gallows joins to the prison.
 
-There is also here a prison for the province. On the gallows, which is placed on elevated ground at a distance from the town, a criminal was hanging (November 1781) who had been executed the year before. In this country malefadtors are often thus left to hang after execution, till they drop into a well (or deep pit) underneath, which is designed for the reception of their bones.
+There is also here a prison for the province. On the gallows, which is placed on elevated ground at a distance from the town, a criminal was hanging (November 1781) who had been executed the year before. In this country malefactors are often thus left to hang after execution, till they drop into a well (or deep pit) underneath, which is designed for the reception of their bones.
 
 Over the gate of the Rcjp and Spin-house3 there is the following infeription: Vitiorum Jemma — otiura lab ore exhauriendum. Anno 1664.
 
@@ -10950,7 +10950,7 @@ Norfolk Circuit, NORFOLK.
 
 For copy of every warrant - 0 S. I D. 0 ThetTord.
 
-To the gaoler's certificate for superfedeas - 0 I 0
+To the gaoler's certificate for supersedeas - 0 I 0
 
 On the discharge of every debtor if on one execution or mesne process - 0 6 8
 
@@ -14316,7 +14316,7 @@ Imprimis for entering the action whereon each prisoner is first brought into cus
 
 For receiving and entering every declaration against prisoners in custody
 
-For the certificate of the want of a declaration in order to sue out a writ of superfedeas
+For the certificate of the want of a declaration in order to sue out a writ of supersedeas
 
 For a copy of each warrant against each prisoner -
 
@@ -14506,7 +14506,7 @@ Imprimis, for entering the action whereon each prisoner is first brought into Cu
 
 For receiving and entering every declaration against prisoners in custody
 
-For the certificate of the want of a declaration in order to sue out a writ of superfedeas
+For the certificate of the want of a declaration in order to sue out a writ of supersedeas
 
 For a copy of each warrant against each prisoner -
 
@@ -22126,7 +22126,7 @@ bridewell 443 Chef erf eld county bridewell 319-gaol 320 Chi chefer 273
 
 Child-murder, punishment of 76
 
-Children of malefadtors taken care of
+Children of malefactors taken care of
 
 Cinque Ports 268
 
@@ -22576,7 +22576,7 @@ bridewell 266
 
 Manchester 435 Manheim 133
 
-Mann, Sir Horace, his kindness 108 Manufadlory for deserted children 152
+Mann, Sir Horace, his kindness 108 Manufactory for deserted children 152
 
 of military cloth in Denmark 78 Marlborough 377 Marshalsea prison 230
 
