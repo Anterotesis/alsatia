@@ -3432,7 +3432,7 @@ H.UISHtRt.
 
 1779j March -4, t jsjo prisoners> One or two had lately escaped. Oiftob. 13, 3
 
-WEST-WYCOMB. This prison was lately removed from Higb~ Wycomb, and the keeper was dismissed at the Michaelmas Sdfions, 1778, for inattention. It consists of two garrets in the present keeper’s house. The windows are almost closed up, by strong planks nailed across for security. His salary, ^20.
+WEST-WYCOMB. This prison was lately removed from High~ Wycomb, and the keeper was dismissed at the Michaelmas Sdfions, 1778, for inattention. It consists of two garrets in the present keeper’s house. The windows are almost closed up, by strong planks nailed across for security. His salary, ^20.
 
 1779, April 23, No prisoners.
 
@@ -6186,7 +6186,7 @@ City 2 I O O r Bridewell O O 0 27
 
 Carmarthen >3 1 8 O Flint I 0 3 O
 
-Town O O 1 O Fokingbam 0 0 O 2
+Town O O 1 O Fokingham 0 0 O 2
 
 Carnarvon S O 1 0 Gainsborough O 0 O s
 
