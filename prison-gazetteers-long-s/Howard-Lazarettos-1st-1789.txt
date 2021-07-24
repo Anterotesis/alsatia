@@ -9664,8 +9664,6 @@ Fever.
 
 On
 
-^3a
-
 Gaol-Fevzr.
 
 GAOL-FEVER.
