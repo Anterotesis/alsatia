@@ -918,7 +918,7 @@ In the other prison, Delle Stinche, there are five doors to pass before you come
 
 Oportet mfereri, (We ought to be compassionate.) In this prison are many spacious rooms, in which are small benches, or cribs to lie on.
 
-The mca’s rooms are below, and look into the court, which is about forty-three feet square. The 'women, entirely separated, are up flairs, and have an hospital joining to their room. A new infirmary for the men (forty-four feet by twenty-nine) is contiguous to the chapel.
+The mca’s rooms are below, and look into the court, which is about forty-three feet square. The 'women, entirely separated, are up stairs, and have an hospital joining to their room. A new infirmary for the men (forty-four feet by twenty-nine) is contiguous to the chapel.
 
 In this prison were forty-two men and fourteen women. Debtors are not separated from criminals. In one room were eight, who paid for their beds. The bread was good: the day’s allowance to each fifteen ounces. None were in irons. — The chaplain has apartments, and resides in the gaol.f
 
@@ -1058,7 +1058,7 @@ Here is a chamber for distratfted prisoners, in which were feverf miserable obje
 
 There are several chambers with beds for those who are called prisoners at large, for which each pays one panic and a half (about eight pence) a night. There is a chamber for priests, one for boys, one for fezes, and one for prisoners who have cutaneous disorders.
 
-Oh the upper floor are two Infirmaries: one, appropriated to the prisoners in the secrete, in which were four patients. In the other, which is for the rest of the prisoners, were ten patients the first time I was there, and the last time only f'even * The whole prison is arched with brick, for security in case of fire. The passages are seven feet two inches wide, and light. The afeent to each story, is by two flights of seventeen stone steps. These staircases are seven feet three inches wide; the rises five inches: this I mention, as generally, in our prisons (even those that are lately built) the flairs are
+Oh the upper floor are two Infirmaries: one, appropriated to the prisoners in the secrete, in which were four patients. In the other, which is for the rest of the prisoners, were ten patients the first time I was there, and the last time only f'even * The whole prison is arched with brick, for security in case of fire. The passages are seven feet two inches wide, and light. The afeent to each story, is by two flights of seventeen stone steps. These staircases are seven feet three inches wide; the rises five inches: this I mention, as generally, in our prisons (even those that are lately built) the stairs are
 
 * This infirmary is a spacioas airy ward, seventy-three feet by twenty-three, with seventeen beds three feet three inches asunder; was clean, and had every thing proper for the sick.
 
@@ -1186,7 +1186,7 @@ The hospital of S. Gio Later an 0 was also crowded and offensive; and that of S.
 
 f Formerly many nations founded hospitals in this city. This was founded by one of our Saxon kings. Some others continue to the present time entirely national, as the Milanese, Florentine, and Spanish hospitals.
 
-J Here is a Jlaircafe remarkable for its afeent being very easy, for valetudinarians, and for carrying up the sick in a kind of chairs or enclosed beds. It is seven feet wide, and has a rail on each fide. Every ilep is an inclined plane of three inches afeent, one foot eight inches wide, and the rife from one step to another is only three inches. These steps are of bricks, set edgeways, and fronted with Hone.
+J Here is a staircase remarkable for its afeent being very easy, for valetudinarians, and for carrying up the sick in a kind of chairs or enclosed beds. It is seven feet wide, and has a rail on each fide. Every ilep is an inclined plane of three inches afeent, one foot eight inches wide, and the rife from one step to another is only three inches. These steps are of bricks, set edgeways, and fronted with Hone.
 
 § Indeed I saw the hospitals under great difid vantages, it being a very sickly time, occasioned by the long continuance of drought, and the extraordinary heats of the summer 177S.
 
@@ -1882,7 +1882,7 @@ present they have a careful and attentive keeper. Some tailors and shoe-makers w
 
 At Ghent I went over the house of correction, or La Maison de Force, with one of the magistrates, and found that they were still carrying on a well-regulated manufactory. There were two hundred and eighty men prisoners, and one hundred and seventeen women. These latter had on the honfe clothes, and were at work. Molt of them were spinning or knitting, ranged in proper order, attentive and quiet. I was informed that all the prisoners are allowed one fifth of their earnings for themselves. I brought home specimens of the cloth, as I did of the paper from Brujfels; which I mention, because I know an idea has prevailed, that no manufacture can be carried on by convicts to any valuable purpose.
 
-In the prison at Antwerp there are two rooms for citizens; and up flairs there is a cage, about six feet and a half square, into which criminals are put before the torture. — A criminal, while he suffers the torture, is cloathed in a long shirt, has his eyes bound, and a physician and surgeon attend him: and when a confession is forced from him, and wine has been given him, he is required to sign his confession; and about forty-eight hours afterwards he is executed.
+In the prison at Antwerp there are two rooms for citizens; and up stairs there is a cage, about six feet and a half square, into which criminals are put before the torture. — A criminal, while he suffers the torture, is cloathed in a long shirt, has his eyes bound, and a physician and surgeon attend him: and when a confession is forced from him, and wine has been given him, he is required to sign his confession; and about forty-eight hours afterwards he is executed.
 
 In a small dungeon is a stone feat like some I have seen in old prison towers, in which it is said that formerly prisoners were fujfo-cated by brimfione, when their families wifiied to avoid the disgrace
 
@@ -3338,7 +3338,7 @@ BATTLE. Two rooms fourteen feet by twelve and a half, in one of which is a chimn
 
 1779, April 18, No prisoners.
 
-RYE. The town gaol is an old tower. The lower rooms arc, one about seventeen feet diameter, with a fire-place, and two small ones of about six feet; and above flairs are three rooms of the fame dimensions. Allowance to prisoners, three halfpence a day. Fees, 3J. 4d. No table. Salary, none. Keeper, a sergeant at mace.
+RYE. The town gaol is an old tower. The lower rooms arc, one about seventeen feet diameter, with a fire-place, and two small ones of about six feet; and above stairs are three rooms of the fame dimensions. Allowance to prisoners, three halfpence a day. Fees, 3J. 4d. No table. Salary, none. Keeper, a sergeant at mace.
 
 1779, April 18, No prisoners.
 
@@ -3392,7 +3392,7 @@ No alteration. 1779, March n, Debtors 3.
 
 GUILDFORD BRIDEWELL.
 
-Three new rooms up flairs were lately added, and the necessary sewers. The act for preserving the health of prisoners painted on a board was hung conspicuously up in the court. None were at work.
+Three new rooms up stairs were lately added, and the necessary sewers. The act for preserving the health of prisoners painted on a board was hung conspicuously up in the court. None were at work.
 
 1779, March 9, Prisoners 3.
 
@@ -3626,13 +3626,13 @@ WYMUNDHAM. No alteration, but the dungeon arched with brick. It is fifteen feet 
 
 The Justices seem to have overlooked a clause in a late act of parliament, fC to prevent the prisoners from being kept under Cf ground, whenever they can do it conveniently,” * as there is abundant room on the premises.
 
-In the room up flairs were four dirty pale and sick women at work, with padlocks on their legs, though never out in the court except on Sundays. The very small quantity of straw on the floor was worn almost to dust.
+In the room up stairs were four dirty pale and sick women at work, with padlocks on their legs, though never out in the court except on Sundays. The very small quantity of straw on the floor was worn almost to dust.
 
 1779, March 30, Prisoners 5.
 
 AYLSHAM. In the floor of the work or day-room is a trapdoor into a dungeon, which is nine feet and a half by six feet.
 
-Above flairs are three rooms not secure. No fire-place: no straw: the court not secure j prisoners in it only on Sundays: no water: no fewer: no implements for work: no allowance, but two pennyworth of bread a day to vagrants. Keeper’s salary, ^13:6:8.
+Above stairs are three rooms not secure. No fire-place: no straw: the court not secure j prisoners in it only on Sundays: no water: no fewer: no implements for work: no allowance, but two pennyworth of bread a day to vagrants. Keeper’s salary, ^13:6:8.
 
 1779, April 1, Prisoners 4.
 
@@ -4478,7 +4478,7 @@ The castle-yard is raised and gravelled. A workman for a guinea a year keeps the
 
 COUNTY BRIDEWELL at WORCESTER.
 
-Here I found a new keeper: the prison very clean: and a window in the men’s night-room up flairs. The prisoners were employed, beating hemp.
+Here I found a new keeper: the prison very clean: and a window in the men’s night-room up stairs. The prisoners were employed, beating hemp.
 
 1779, May 18, Prisoners 6.
 
@@ -5440,7 +5440,7 @@ This prison for the Manor or Barony of Wich-Malbank, otherwise Nantwich, is the 
 
 1779, Aug. 28, Prisoners a.
 
-As the table of fees is of a late date, and so compiehenfive, I here give the copy.
+As the table of fees is of a late date, and so comprehensive, I here give the copy.
 
 A Table of Fees, to be taken by Sheriffs, Under-sheriffs, Bailiffs, or other Officers within the County of Chester, made, settled and allowed, at the General Quarter Sessions — held at the Castle of Chester, in and for the said County, the Fifteenth Day of April, 1777, and in the 17th — George III. before Sir Thomas Broughton, Baronet, George Heron, John Townshend, Charles Mainwaring, Samuel Barrow, Samuel Finney, and Henry OffleyTPYight, Esquires; Samuel Alderjey, Robert Hill, and John Baldwin, Clerks, Tuftices —
 
@@ -5872,7 +5872,7 @@ I.
 
 1
 
-De par les Commifiaires pour le Soin des Malades & des Blesses de la Marine, et pour 1’Echange des Prisonniers de Guerre;
+De par les Commissaires pour le Soin des Malades & des Blesses de la Marine, et pour 1’Echange des Prisonniers de Guerre;
 
 REGLES que tous les Prisonniers de Guerre, dans la Grande Bretagne, & I’lrlande,
 
@@ -5880,7 +5880,7 @@ doivent observer.
 
 1.
 
-T ES ordres donnes par l’Agent, aiant foin des prisonniers, doivent etre observes 1* fans replique ou dispute. Qu’aucun des prisonniers ofe infulter, menacer, maltraiter, & encore moins frapper le guichetier, ni personne par l’Agent employe aux affaires de la prison, fous peine de la punition qu’ordonneront Mellieurs les CommifTaires, et de perdre leur tour d’etre echanges; detre etroitement enfermes, et prives de la moitie de leur vivres.
+T ES ordres donnes par l’Agent, aiant foin des prisonniers, doivent etre observes 1* fans replique ou dispute. Qu’aucun des prisonniers ofe infulter, menacer, maltraiter, & encore moins frapper le guichetier, ni personne par l’Agent employe aux affaires de la prison, fous peine de la punition qu’ordonneront Mellieurs les Commissaires, et de perdre leur tour d’etre echanges; detre etroitement enfermes, et prives de la moitie de leur vivres.
 
 11.
 
@@ -5922,7 +5922,7 @@ Les prisonniers doivent informer l’agent, des hardes, ou autres choses dont il
 
 IX.
 
-Dans chaque prison les prisonniers pourront nommer trois, ou cing d’entre eux, et les changer quand il leur plaira, pour Pexamen des vivres; afin de voir s’ils font bons, & s’ils ont leur ration, soit pour le poids, soit pour la mesure; suivant la table d’avituaillement ci-deflous. Et s’il fe trouve quelque sujet de plainte, soit fur la maniere de les appreter, servir, ou dans quelqu’autre chose; ils doivent, avec bienfeance, le faire savoir a 1’agent; qui, trouvant la plainte fondee, doit imme-diatement y mettre ordre. S’il le neglige, ils doivent en avertir Messieurs les Commiflaires, qui ne manqucront pas de leur rendre justice, a tous egards.
+Dans chaque prison les prisonniers pourront nommer trois, ou cing d’entre eux, et les changer quand il leur plaira, pour Pexamen des vivres; afin de voir s’ils font bons, & s’ils ont leur ration, soit pour le poids, soit pour la mesure; suivant la table d’avituaillement ci-deflous. Et s’il fe trouve quelque sujet de plainte, soit fur la maniere de les appreter, servir, ou dans quelqu’autre chose; ils doivent, avec bienfeance, le faire savoir a 1’agent; qui, trouvant la plainte fondee, doit imme-diatement y mettre ordre. S’il le neglige, ils doivent en avertir Messieurs les Commissaires, qui ne manqucront pas de leur rendre justice, a tous egards.
 
 x.
 
