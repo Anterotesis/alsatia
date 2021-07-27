@@ -706,7 +706,7 @@ Lady Day.
 
 - Chamberlain - 2 10 0
 
-- Lady Bertie’s gift -  1 12 0
+- Lady Bertie’s gift - 1 12 0
 
 - - 19 2 0
 
@@ -746,7 +746,7 @@ CONFINED FOR DEBT.
 
 Brought-up, 73 7 9
 
-Mr. Hacket’s gift ......  0 13 4
+Mr. Hacket’s gift ...... 0 13 4
 
 Mr. Morris’s ditto......... o 3 4
 
@@ -754,11 +754,11 @@ Grocers’ Company, gift of Sir J. Peachy 0 5 0
 
 Salters’ Company, gift of Mr. Garrett.. 0 6 8
 
-Mr. Horne  ......  0 5 0
+Mr. Horne ...... 0 5 0
 
 Churchwardens of St. Sepulchre’s.... 0 10 0
 
-Brass money, per annum, one pound, paid by Mr. Buckeridge, of Orchard-Street, who calls after Christmas to pay it; deducting, if he requires it, four shillings for land tax ......  0 16 0
+Brass money, per annum, one pound, paid by Mr. Buckeridge, of Orchard-Street, who calls after Christmas to pay it; deducting, if he requires it, four shillings for land tax ...... 0 16 0
 
 ---- 2 19 4
 

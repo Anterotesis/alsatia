@@ -12854,7 +12854,7 @@ A. X ...... 20 0 0
 
 A.B.X ...... 20 oo
 
-A. B. C ......  200 O o
+A. B. C ...... 200 O o
 
 A. H. per Hoares .. GO 0 0
 
@@ -13038,7 +13038,7 @@ Bulkeley, G. T Esq. 10 0 0 B. C. per Messrs.
 
 , Hoares - ICO O 0
 
-B. G ......  100 0 0
+B. G ...... 100 0 0
 
 * Baskerfie!d, T. Esq. 21 0 0
 
@@ -13432,7 +13432,7 @@ dec - 810 0 0
 
 Hertford, the Most Noble Marquis of,
 
-V. P ......  11(1 5 0
+V. P ...... 11(1 5 0
 
 Hardwieke, Pari of,
 
@@ -13452,9 +13452,9 @@ Co - ‘25 7 0
 
 Hoare, Wm. H. Esq. ‘20 O 0 Hoare, William, Esq. 1 10
 
-Hoare, Mrs. Beckenham,  ...... 30 0 0
+Hoare, Mrs. Beckenham, ...... 30 0 0
 
-Hoare, Wm, Esq. Durham,  ......  ‘2 2 0
+Hoare, Wm, Esq. Durham, ...... ‘2 2 0
 
 Hoare, Wm. Esq. per
 
@@ -13532,7 +13532,7 @@ ilooinan. Miss, S. . . 3 8 0
 
 1. and J.
 
-I. P ......  120 0 0
+I. P ...... 120 0 0
 
 "-Ives, William, Esq. 23 2 O
 
@@ -13548,7 +13548,7 @@ Joyce, Mrs - 80 0 O
 
 Jeiferys, Nath. Esq. 18 IS 0 Jcnner, Rev. Dr. . . 14 14 O
 
-l.X ......  100 0 0
+l.X ...... 100 0 0
 
 * Jacques, Mr - 4S GO
 
@@ -14084,7 +14084,7 @@ Old Noll (Letter-box) 10 0 O
 
 Pusev, Hon. Philip,
 
-V. P ......  170 3 0
+V. P ...... 170 3 0
 
 Puscy, Lady Lucy’. .47 5 0
 
@@ -14398,7 +14398,7 @@ Wansey, M7m. Esq. .. 5 5 0
 
 Wansey, J. Esq. ... 12 12 0 Wood, Richard, Esq. 5 5 O
 
-W.H ......  120 0 0
+W.H ...... 120 0 0
 
 W. H. of Newcastle. 50 0 0 Wells, Mr. J. Smith 16 16 0 Walker, Mr. Charles. 16 16 0
 
@@ -14474,7 +14474,7 @@ Co - 100 0 0
 
 X. Y ...... 70 0 0
 
-X. X. X. X. a banknote, per penny-post.  ...... 10 00
+X. X. X. X. a banknote, per penny-post. ...... 10 00
 
 Y.
 

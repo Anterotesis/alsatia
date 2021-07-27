@@ -2414,7 +2414,7 @@ Number of Prisoners,
 
 ]S05, Sept. 3d. -- 14
 
-1810, Sept. Gth, -- -- ......  9
+1810, Sept. Gth, -- -- ...... 9
 
 Allowance, sixpence a-day in money, or in bread, pease, and potatoes.
 
@@ -5246,7 +5246,7 @@ Number of Prisoners, Debtors. Criminals.
 
 1807, Aug. 30th, -- 0 5
 
-1810, Sept. 2d,  ...... 0 ......  3
+1810, Sept. 2d, ...... 0 ...... 3
 
 Allowance, to Debtors, none statedly: But see Remarks.
 
@@ -5294,7 +5294,7 @@ Number of Prisoners,
 
 1809, July 10th, Felons and Petty Offenders, 2S.
 
-1810, July 9th, Ditto,  ...... 15.
+1810, July 9th, Ditto, ...... 15.
 
 Allowance, one pound of bread per day, and a pint of gruel, with salt. To those who work in the outer ground, half a pound of meat, with vegetables, for Dinner; and the next day broth, from the meat that has been boiled: also a pint of 20a'. table beer at dinner, and half a pint of strong beer in the afternoon.
 
@@ -9830,7 +9830,7 @@ Number of Prisoners, Debtors. Felons, fee.
 
 1802, Sept. 18th, -- - 28 - - 27.
 
-1809, Oct. 25th,  ...... 20 - 43.
+1809, Oct. 25th, ...... 20 - 43.
 
 Allowance, to Debtors, according to the discretion of the Magistrates, from 10d. to 2s. (Id. per da) ', which is paid by the Creditor; and on failure of which the Debtor is discharged. To Felons, four-pence per day, in money.
 
@@ -13674,9 +13674,9 @@ Amount of the produce of the Poor’s Fields in Mosslake, Liverpool, in l$0-\
 
 sG-
 
-l'rom Mr. Carson, as Tenant,  ...... ~6.
+l'rom Mr. Carson, as Tenant, ...... ~6.
 
-From Mr. Illation ', as Tenant,  ...... 41-
+From Mr. Illation ', as Tenant, ...... 41-
 
 Clear Rent, per annum, ^.117
 
@@ -15382,7 +15382,7 @@ The humane and very attentive Constable of Chester Castle was for many years the
 
 Every attention is here paid by the considerate Magistrates, which the sorrows and sufferings of wholesome confinement can require.
 
-The average number of annual commitments to this Gaol appears to have been. From 1785 to 1705,  ...... 137-
+The average number of annual commitments to this Gaol appears to have been. From 1785 to 1705, ...... 137-
 
 MONMOUTH. Town Gaol.
 
@@ -21076,7 +21076,7 @@ proper.
 
 Earnings from Michaelmas 1803 to Michael- s, d. ^jg. s. d.
 
-mas 1804 ......  111 15 8
+mas 1804 ...... 111 15 8
 
 Expences attending the work done - 24 11 3
 
@@ -21962,7 +21962,7 @@ Benefit - £.269 4 li
 
 Earnings, Jan. 1st, 1808 to 1809 -- - 319 19 j
 
-Rewards - ......  - - 54 13 0
+Rewards - ...... - - 54 13 0
 
 Benefit - £. 265 6 1
 
@@ -24200,7 +24200,7 @@ _^27G 3
 
 25 8
 
-2G  ......  9
+2G ...... 9
 
 JH379 ........1790
 
