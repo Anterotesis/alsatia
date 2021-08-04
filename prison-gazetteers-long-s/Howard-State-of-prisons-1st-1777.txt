@@ -6366,13 +6366,11 @@ The old Town-Hall adjoining, and now useless, might be added to this Prison.
 
 1776, Jan. 7, Prisoners 6.
 
---- Oft. 30, - 3.
+--- Oct. 30, - 3.
 
 BIRMINGHAM TOWN GAOL.
 
 The gaol for this large populous town is called the Dungeon. The court-yard is only about twenty-four feet square. Keeper's house in front; and under it two cells down eight steps: the straw is on bedsteads. On the right hand of the court two linall night-rooms for women; and forne rooms over them: — on the left hand is the Gaoler's liable, and one small day-room for men and women; no
-
-window:
 
 275
 
@@ -6458,13 +6456,11 @@ This seems to be the low moist Dungeon that was complained of by a debtor in thi
 
 Remarks.
 
-cloatheci
+---
 
-278
+278 LEICESTERSHIRE. Midland Circuit.
 
-LEICESTERSHIRE. Midland Circuit.
-
-cloathed or discharged; and an account of the expenditure of the remainder in feeding and warming all the Prisoners in the inclement season. The collections in 1774 amounted to (j\. The accounts are kept, and the application of the money is chiefly directed by John Simpjon, Esq. of Leicester. I wish every County would imitate this exemplary benevolence: and I wish every County that does so, a Steward equally faithful and assiduous.
+cloathed or discharged; and an account of the expenditure of the remainder in feeding and warming all the Prisoners in the inclement season. The collections in 1774 amounted to £74. The accounts are kept, and the application of the money is chiefly directed by John Simpson, Esq. of Leicester. I wish every County would imitate this exemplary benevolence: and I wish every County that does so, a Steward equally faithful and assiduous.
 
 Leicestershire.
 
@@ -6474,17 +6470,17 @@ A TABLE of FEES to be taken by the Keeper of this Gaol.
 
 For lodging of every Prisoner per week — 0: 2: 4
 
-For Gaol-Fees for discharge of every Prisoner — o: 13: 4
+For Gaol-Fees for discharge of every Prisoner — 0: 13: 4
 
 For the Turnkey — 0: 2: 0
 
-A Room of every Prisoner who finds his own bed per w'eek o: 1: 0
+A Room of every Prisoner who finds his own bed per week — 0: 1: 0
 
-A Room, called the Celiar, for debtors if they find their own bed o: 0: 0
+A Room, called the Cellar, for debtors if they find their own bed — 0: 0: 0
 
 For the Copy of every Warrant or Commitment — 0: 1: 0
 
-For signing the Certificate in order to obtain a Superfedcas o: 1: 0
+For signing the Certificate in order to obtain a Supersedeas — 0: 1: 0
 
 Thomas a Becket Session. July 10. 1759.
 
@@ -6492,41 +6488,49 @@ We whose names are hereunto subscribed his Majesty's Justices of the Peace in an
 
 We the Judges of Assize for the County of Leicester have reviewed and do hereby confirm the above Table of Fees. Given under our Hands this 17th day of August 1759
 
-T. PARKER JA. HEWITT.
+Wm. Wrighte
 
-WM. Wrighte Ch. Hutchinson John Danvers W. Cant.
+Ch. Hutchinson
+
+John Danvers
+
+W. Cant
 
 The above is a Copy of the Original.
 
-COUNTY
-
-279
+Midland Circuit. LEICESTERSHIRE. 279
 
 COUNTY BRIDEWELLS.
 
 LEICESTER. Two rooms below for men: two above for women; one of these not used, because not secure. No chimneys. Court-yard not safe for Prisoners to be allowed the use of it. The Prison is kept clean. Keeper's Salary £21: he pays Window-tax £0: 14: 0. No allowance. I saw none at work.
 
-177 S> Jan- 3> Prisoners 3,
+1775, Jan. 3, Prisoners 3,
 
-1776, Oft. 29, - 2.
+1776, Oct. 29, Prisoners 2.
 
-MELTON-MOWBRAY. Two rooms about eleven feet by nine. The loft above is a malt chamber, let by the Keeper for 10 s. 6d. a year. Salary £4. He pays twenty-five shillings a year for the cottage he now lives in The County is building him a little dwelling of two rooms. — No court-yard nor any room for one. No water.
+MELTON-MOWBRAY. Two rooms about eleven feet by nine. The loft above is a malt chamber, let by the Keeper for 10s. 6d. a year. Salary £4. He pays twenty-five shillings a year for the cottage he now lives in. The County is building him a little dwelling of two rooms. — No court-yard nor any room for one. No water.
 
 1776, Sep. 25, Prisoners none.
 
-HINKLEY. This Prison has a work-room; a lodging-room for men; another for women; both of them small. Mats upon bed-steads. Keeper's Salary £4: 4: 0. Fees £0: 2: 6: no Table. Pie is also master of the Work-house adjoining; in which the poor looked healthy, were cheerful, clean, and at work.
+HINKLEY. This Prison has a work-room; a lodging-room for men; another for women; both of them small. Mats upon bed-steads. Keeper's Salary £4: 4: 0. Fees £0: 2: 6: no Table. He is also master of the Work-house adjoining; in which the poor looked healthy, were cheerful, clean, and at work.
 
-1776, Oft. 30, No Prisoners.
+1776, Oct. 30, No Prisoners.
 
-LEICESTER
-
-LEICESTERSHIRE. Midland Circuit.
+280 LEICESTERSHIRE. Midland Circuit.
 
 LEICESTER BOROUGH and COUNTY GAOL.
 
-GAOLER, Henry Coul/on, now Samuel Jordan. Salary, none: he pays rent £3.
+GAOLER, Henry Coulson, now Samuel Jordan.
 
-Number of - Debtors. Felons &c.
+Salary, none: he pays rent £3.
+---
+Fees.
+
+Transports, £10 each.
+
+Licence, for Beer.
+
+Number of - Debtors. - Felons &c.
 
 1774, April 4, 5 - 5>
 
@@ -6541,12 +6545,6 @@ CHAPLAIN, None.
 SURGEON, Mr. Maule.
 
 Salary, none: he makes a Bill.
-
-Fees.
-
-Transports, £10 each.
-
-Licence, for Beer.
 
 PRISONERS,
 
