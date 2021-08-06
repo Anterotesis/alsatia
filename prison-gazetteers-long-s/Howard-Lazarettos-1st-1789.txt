@@ -2030,7 +2030,7 @@ MALT A.
 
 59
 
-The pavement is of neat marble (or stone) squares. The deling is lofty; but, being wood, now turned black; the windows being small, and the walls hung round with dusty pictures, this noble hall makes but a gloomy appearance. All the patients lie single. One ward is for patients dangeroufiy sick or dying; another for patients of the middle rank of life; and the third for the lower and poorer fort of patients. In this last ward (which is the largest) there were four rows of beds; in the others, only two. They were all so dirty and offensive as to create the neceftity of perfuming them; and yet I observed that the physician, in going his rounds, was obliged to keep his handkerchief to his face. — The ule of perfume I always reckon a proof of inattention to cleanliness, and airiness; and this inattention struck me here forcibly on opening some of the private closets, with which this hall is very properly furnished. — There are several other wards, and some single rooms for such of the knights as choose to come here when lick. There is likewise a large apartment in which the governor (always one of the knights) resides during the time of his being governor, which is two years. He has a salary; and is generally, as a sensible gentleman here told me, a young and unexperienced person; others, either not liking the confinement, or being fearful of catching some distemper.
+The pavement is of neat marble (or stone) squares. The deling is lofty; but, being wood, now turned black; the windows being small, and the walls hung round with dusty pictures, this noble hall makes but a gloomy appearance. All the patients lie single. One ward is for patients dangerously sick or dying; another for patients of the middle rank of life; and the third for the lower and poorer fort of patients. In this last ward (which is the largest) there were four rows of beds; in the others, only two. They were all so dirty and offensive as to create the neceftity of perfuming them; and yet I observed that the physician, in going his rounds, was obliged to keep his handkerchief to his face. — The ule of perfume I always reckon a proof of inattention to cleanliness, and airiness; and this inattention struck me here forcibly on opening some of the private closets, with which this hall is very properly furnished. — There are several other wards, and some single rooms for such of the knights as choose to come here when lick. There is likewise a large apartment in which the governor (always one of the knights) resides during the time of his being governor, which is two years. He has a salary; and is generally, as a sensible gentleman here told me, a young and unexperienced person; others, either not liking the confinement, or being fearful of catching some distemper.
 
 The great hall already mentioned is on the ground floor; and under it is another hall, or rather a large ward, which is nothing but a dark and damp arched cellar. Here were cutaneous patients ■, also fifty-two old infirm servants from the city, who are maintained by the religion. The first and the under-physician, with the surgeon, a few pupils, and one or two attendants, take the round or walk of the upper wards; but in this ward the first physician does not attend. In the great hall there is a date fixed on the closet door at the fide of the beds of the patients, on which the initial letters of their usual medicines, diet &c. are written. On this slate also one of the pupils always marks the doctor’s order, so that, at his next visit, he may fee his last prescription. When these gentlemen go their rounds, all the patients are required to be in their beds.
 
@@ -2342,7 +2342,7 @@ The House of Correction, in which vagrants chiefly, and a few debtors are confin
 
 1. Prisoners* names. ro. Prisoners7 day of discharge.
 
-2. ^ - offences. 11. Number at the house allowance.
+2. - offences. 11. Number at the house allowance.
 
 3- - - - age. 12. - - - at their own allowance.
 
@@ -3544,7 +3544,7 @@ K. nine inches by three feet fix.— No water: — no vaults. Patients, eight me
 
 Lifford. \ COUNTY OF DONEGAL. LIFFORD County Gaol. The five dungeons (or vaults, as they are properly called) are under the county hall, in a passage five feet wide,—windows towards the street,—one of them is quite dark. — No proper separation of the sexes. — Allowance, 10 lb. of oatmeal a week, f
 
-' > 1 j J i )! * Some of the tinder Jberijfs in Ireland are guilty of a great abuse in taking zo or 30 guineas of the gaolers for their appointments, which lays them under the necefiity of many exactions on prisoners. By the 3d of Geo. III. Chap, xxviii. “ No sheriff, or other person or persons, bodies corporate or politic, having powers “ to appoint a gaoler, shall, by themselves or any other person in trull for them, take any fee or gratuity, or “ reserve any rent payable out of any such gaol for such appointment, under the penalty of ^500; one moiety “ thereof to be paid to the king, the other to the informer, with full costs of suit.” f By the 27th of Geo. III. Chap, xxxix. it is enabled, t£ That it shall and may be lawful for the inspector of ft every gaol, bridewell, or house of correttion in this kingdom, and he is hereby required, to procure and “ provide bread, meal, potatoes, or such other food as he shall judge most proper, to the value of not less than " three-pence per day for every prisoner, confined for any offence under his inspection; and to cause the fame <e to be regularly distributed among the said prisoners, twice in every week, to wit, on Sundays and Thursdays, “ in presence of the said inspector, and the gaoler or keeper of such prison.”
+' > 1 j J i )! * Some of the tinder Jberijfs in Ireland are guilty of a great abuse in taking zo or 30 guineas of the gaolers for their appointments, which lays them under the necefiity of many exactions on prisoners. By the 3d of Geo. III. Chap, xxviii. “ No sheriff, or other person or persons, bodies corporate or politic, having powers “ to appoint a gaoler, shall, by themselves or any other person in trull for them, take any fee or gratuity, or “ reserve any rent payable out of any such gaol for such appointment, under the penalty of ^500; one moiety “ thereof to be paid to the king, the other to the informer, with full costs of suit.” f By the 27th of Geo. III. Chap, xxxix. it is enabled, t£ That it shall and may be lawful for the inspector of ft every gaol, bridewell, or house of correction in this kingdom, and he is hereby required, to procure and “ provide bread, meal, potatoes, or such other food as he shall judge most proper, to the value of not less than " three-pence per day for every prisoner, confined for any offence under his inspection; and to cause the fame <e to be regularly distributed among the said prisoners, twice in every week, to wit, on Sundays and Thursdays, “ in presence of the said inspector, and the gaoler or keeper of such prison.”
 
 1 A
 
@@ -3864,7 +3864,7 @@ Supper seven. Supper Seven.”
 
 I could with that children were always accustomed to early hours. Brcakfajl, in the summer half year, should not be later than half pail seven, nor in winter than eight: the hour of dinner even in winter should be one; and for flipper fix. By the present allowance, if the mailers do julbice to the children, they will now be properly fed.
 
-f Dr. Lind in his ninth section on the Preservatives of Health on board ships fays, “ That by cold bathing << ^ warm weather the body is cooled and refrelhed, the fibres braced and invigorated, so that the men become << afterwards better enabled to undergo the fatigues and heat of the day. This would prove not only an excel-« lent means of health, but of cleanliness; by cleansing the Ikin, and invigorating the whole habit, it is so far “ from (lopping the perlpiration in hot weather, that it promotes it.
+f Dr. Lind in his ninth section on the Preservatives of Health on board ships fays, “ That by cold bathing << warm weather the body is cooled and refrelhed, the fibres braced and invigorated, so that the men become << afterwards better enabled to undergo the fatigues and heat of the day. This would prove not only an excel-« lent means of health, but of cleanliness; by cleansing the Ikin, and invigorating the whole habit, it is so far “ from (lopping the perlpiration in hot weather, that it promotes it.
 
 << I can affirm, from my own experience in hot climates, that faxes and many other complaints have not only “ been cured by cold bathing, but the return, and even the attack, of such diseases, effectually prevented by it.” He adds, “ I am persuaded that the remarkable healthfulness of the Tyger ship of war, was more owing " to the nfe of the cold bath, than to any other circumstance. ”
 
@@ -4136,7 +4136,7 @@ t No, I, ARDBRACCAN, County 07 MEATH.
 
 “ This school, wherein are fifty children, was endowed by the Right Rev. Dr, Maule, former Lord Bishop of Meath, deceased, with two acres of land, plantation measure, rent-free in perpetuity, belonging to the See, on part whereof the school-house is built: His Lordship also granted to the society a lease of eighteen acres more, contiguous to the fame, at 5:. per acre per annum, for which he took no rent during his incumbency, and always renewed without fine, and his Lordship gave £20 and collected £246 17:6 towards the building.”
 
-“ The Right Reverend and Honourable Dr, Henry Maxwell, Lord Bishop of Meath, upon the society’s application for further “ aid, had been pleased to propose either to grant a renewal of the present lease, without fine, or to grant a new lease upon “ such terms as his Lordship is empowered to do by a clause in the act of parliament, paired in the eighth year of his present “ Majesty’s reign, for licensing hawkers and pedlars, and for the encouragement of English protestant schools, which latter “ proposal the society did agree mod thankfully to accept. And his Lordship has in consequence, granted a lease for lives “ renewable for ever, of said lands to the society, N, B, The master pays the society 12 1, per acre for the lands.”
+“ The Right Reverend and Honourable Dr, Henry Maxwell, Lord Bishop of Meath, upon the society’s application for further “ aid, had been pleased to propose either to grant a renewal of the present lease, without fine, or to grant a new lease upon “ such terms as his Lordship is empowered to do by a clause in the act of parliament, paired in the eighth year of his present Majesty’s reign, for licensing hawkers and pedlars, and for the encouragement of English protestant schools, which latter “ proposal the society did agree mod thankfully to accept. And his Lordship has in consequence, granted a lease for lives “ renewable for ever, of said lands to the society, N, B, The master pays the society 12 1, per acre for the lands.”
 
 Charter
 
@@ -6116,7 +6116,7 @@ COUNTY GAOL at WARWICK.
 
 The felons were sadly crowded. Only one final) day-room for the men; and I saw thirty-two lie chained in a dungeon of twenty-two feet diameter, down thirty-one Heps; two of whom were ill of a flow fever.* There were three others in a room, very ill, and in irons. In two rooms (seven feet and a half by fix and a half) with apertures only in the doors, there lay fourteen women, almost fuffocaled. None of the women were now in irons. No infirmary: no bath. The for preserving the health of prisoners not hung up. No coals, j- — Allowance, a three pound loaf every other day: it was good bread and full weight. Convicts have not the half crown a week. Acquitted prisoners are kept in irons till the judge leaves the town. Executions are at the gaoler’s expenfep The prisoners receive yearly, from a legacy, £1: io: o, the rent of a house in the town. Some of the felons complained of having been forced to pay 4,. id. for garnish, or be stripped of their clothes. This is one of die bad effects of the admission of beer. The debtors pay for garnish a much larger sum. Gaoler’s salary £60 in lieu of the tap. ]| 1788, Feb. 15, Debtors 31. Felons &c. 51. Women Convi£ts 9.
 
-* Before the convicts went off, who lately were ordered to Plymouth, this dungeon was so crowded that some of the poor wretches were forced to Hand up (and take a fort of miserable night watch) while the others flept. From the aperture of this dungeon, which is three feet three inches wide (as from the door and the two funnels of the dungeon in the gaol at Stafford) the- Hearn of the prisoners’ breath comes out, in winter, like the finoke of a chimney.
+* Before the convicts went off, who lately were ordered to Plymouth, this dungeon was so crowded that some of the poor wretches were forced to Hand up (and take a fort of miserable night watch) while the others slept. From the aperture of this dungeon, which is three feet three inches wide (as from the door and the two funnels of the dungeon in the gaol at Stafford) the- Hearn of the prisoners’ breath comes out, in winter, like the finoke of a chimney.
 
 f No coals being allowed, the women here, as in other gaols, fell even their bread to procure fuel.
 
@@ -6926,7 +6926,7 @@ No alteration, but cleaner and quieter than in the time of the late gaoler. The 
 
 f In the course of my pursuits, I have known also several amiable young gentlemen, who, in their zeal to do good, have been carried off by that dreadful disorder, the gaol-fever; and this has been one incentive to my endeavours for its extirpation out of our prisons. I [hall mention one assessing indance which happened here, of a young physician falling a sacrifice to this didemper through a benevolent attention to some prisoners afflicted with it, as the circumdance is related by Dr. Barnes in the Manchester Memoirs, vol. II. f. 85. “ Dr. Jobnstone
 
-" junior, of Worceder, has lately fallen a much lamented martyr to a noble discharge of duty, in attending 4‘ the prisoners ill of a fever in Worceder jail (1783). He attained, at an early period, to great and deserved ^ eminence in his profession: and will be ever regretted as a physician of great ability and genius, and as one of " the mod pleasing and benevolent of men; prematurely snatched from his friends and country, when become highly " agreeable andufeful to them.”—And yet, alas I the dreadful dungeon here, the planks of which were perilhed by damp and the breath of priioners, was at my lad visit preparing again for the reception of others.
+" junior, of Worceder, has lately fallen a much lamented martyr to a noble discharge of duty, in attending 4‘ the prisoners ill of a fever in Worceder jail (1783). He attained, at an early period, to great and deserved eminence in his profession: and will be ever regretted as a physician of great ability and genius, and as one of " the mod pleasing and benevolent of men; prematurely snatched from his friends and country, when become highly " agreeable andufeful to them.”—And yet, alas I the dreadful dungeon here, the planks of which were perilhed by damp and the breath of priioners, was at my lad visit preparing again for the reception of others.
 
 I His Majesty, in his late visit to this city, very humanely left £300 to be applied to the releasing of debtors from confinement. I could have wifned he had made such a kind visit to this cadle as he did at Oxford.
 
@@ -8310,7 +8310,7 @@ See the Life of Captain Cook; by Dr. Kippis, Chap. II. p. 100. 1788.
 
 f Here was a prfoner, lately the widow of an old gentleman, who left her an estate of ,£300 per annum and about £7000 in mortgages. She was afterwards married in Scotland to a Mr. Milbourne of this city, who soon spent £4000, but upon some disagreement (he refused to give up the mortgages'of the other ^£3000. By an attachment from the court of chancery, her husband sent her to the common gaol, which confinement prevented her compliance with an order for appearance at that court in fifteen days of St Hilary's term next ensuing. At fird (he was on the mader’s fide; but the late gaoler, after cruelly seizing her clothes &c.. for chamber-rent, turned her to the common fide. Her room (nine feet and a half by eight and a half) has no fire-place. She, not having the county allowance, supports herself by spinning and knitting, and the occasional kindness of her late hu(band’s relations, while her present husband is living and rioting on her estate.
 
-By a letter dated the 14th of October 1788, from a respestable gentleman at Carlisle, I am informed that Mrs. Milbourne is dill in the gaol, and that for above two years, Mr. Milbourne did not give her one farthing, her subsidence being'wholly on occasional charities, and the small earnings of spinning, at which employment (he could not get more than 4d. but now by practice and extremely close application (when health permits) can earn \od. a week. In March lad her husband sent her twenty shillings, and in October 178S (twenty-seven weeks after) the fame sum. The judices lad quarter sessions commferating her hardships, have allowed her the county bounty; the fird shilling of which, this moded poor woman received, the 1 ith of Oft. 1788.
+By a letter dated the 14th of October 1788, from a respectable gentleman at Carlisle, I am informed that Mrs. Milbourne is dill in the gaol, and that for above two years, Mr. Milbourne did not give her one farthing, her subsidence being'wholly on occasional charities, and the small earnings of spinning, at which employment (he could not get more than 4d. but now by practice and extremely close application (when health permits) can earn \od. a week. In March lad her husband sent her twenty shillings, and in October 178S (twenty-seven weeks after) the fame sum. The judices lad quarter sessions commferating her hardships, have allowed her the county bounty; the fird shilling of which, this moded poor woman received, the 1 ith of Oft. 1788.
 
 COUNTY
 
@@ -8486,7 +8486,7 @@ Wm. Fleetwood, Thomas Lyon,
 
 R. Rowbottom.
 
-The be fore-written rules and regulations are confirmed and allowed by me, at the assize and general gaol delivery of our Lord the King, held in and for the county of Lancaster, the twenty-ninth day of March, one fhoufa&d seven hundred and eighty-six. ^ W I L L E S
+The be fore-written rules and regulations are confirmed and allowed by me, at the assize and general gaol delivery of our Lord the King, held in and for the county of Lancaster, the twenty-ninth day of March, one fhoufa&d seven hundred and eighty-six. W I L L E S
 
 Observations
 
@@ -8790,7 +8790,7 @@ Before I conclude this subject of work-houses, I mull add, that I by no means ap
 
 what they earned, they would be enabled to return to the comforts of their ran fire fide, and be at liberty “ to engage in any other occupation that might offer.” “ For the original institution of the poor laws is, in * judge Blackstone's words, to relieve the impotent poor, and them only; and to find employment for such “ as are able to work: a plan more humane and beneficial than even feeding and clothing of millions, by (< affording them the means (with proper industry) to feed and clothe themselves.”
 
-I f all parishes were to procure the means of labour, both for men and women, I am persuaded it would keep many out of those places of confinement, parish work-houses: and as for such persons as have nothing but their labour by which to support themselves, they should be compelled to work, in well regulated houses of correttion, unless in cases of sickness, age and incapacity.
+I f all parishes were to procure the means of labour, both for men and women, I am persuaded it would keep many out of those places of confinement, parish work-houses: and as for such persons as have nothing but their labour by which to support themselves, they should be compelled to work, in well regulated houses of correction, unless in cases of sickness, age and incapacity.
 
 * Dr. Hodges, who was in great practice in London, during the plague In 1665, and wrote an Hijlorical Account of it, fay3, « Whether we regard the narcotick quality of this American henbane; or the poisonous oil which exhales from it in smoking; « or that prodigious discharge of spittle which it occasions, and which nature wants for many other important occasions; £t or, lastly, the exercise it gives to the lungs in drawing it; besides the aptitude of the pestilential poison to be taken down along “ with it, and the irksomeness of itsfeent; I must confess myself at uncertainties about it: though, as to myself, I am its <( profefied enemy,” And to the advocates for such a habit, who use the argument of its being antipeJlHential, I would only ask; »n what country is smoking more used than in Turkey?
 
@@ -9546,7 +9546,7 @@ Wa-meitl Infirmary Bast ©
 
 Contt
 
-(inre/rtu " ^ ^ GtnYmota
+(inre/rtu " ^ GtnYmota
 
 B*son^P 0arr/'" a,*/,
 
@@ -11166,7 +11166,7 @@ Total 4 30 So 49 20 2 79
 
 O
 
-Forgery. vl ? ■*§> a |o|' |> Co V 5* "S 0 § a | §. to S Executed. 2 5 s ^ to 2 tOJ*, 5 3 2.8
+Forgery. vl ? ■*§> a |o|' |> Co V 5* "S 0 § a | §. to S Executed. 2 5 s to 2 tOJ*, 5 3 2.8
 
 7 - 5 §- S V 5“
 
@@ -11398,7 +11398,7 @@ S’J
 
 >a
 
-Executed. Men. Women, ^ C-c, Q it '3'. a °? ;T Total.
+Executed. Men. Women, C-c, Q it '3'. a °? ;T Total.
 
 January zi. 3 1 - 1 2 1 - - - 4
 
@@ -12140,7 +12140,7 @@ Haves, 58
 
 the hall at the great hospital a security for criminals, 59
 
-Manchester, 206 Marine school at Amfierdam, 71 Dublin, 83
+Manchester, 206 Marine school at Amsterdam, 71 Dublin, 83
 
 Marlborough, 184 Marseilles lazaretto, 3 prison, 54 Marfkalfea, 130 Maryborough, 86
 

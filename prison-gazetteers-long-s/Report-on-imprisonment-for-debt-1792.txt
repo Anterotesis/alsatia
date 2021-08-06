@@ -98,7 +98,7 @@ If he is able to defray the Expence, and obtains his Liberty either upon the Pla
 
 And a Defendant who has been so arrested and confined in Prison, pending the Proceedings in the Action, is in no Case entitled to any Allowance in Addition to taxed Costs for Damages, on Account of his Arrest and Imprisonment.
 
-If, indeed, he can bring Evidence of Malice in the Plaintiff, and is able to support the Expence of a separate Action for maliciously arresting and holding him to Bail, he may recover Damages for the Arrest and Irnprisonment. But it is not sufficient in such an Action to shew that the Demand on which he was arrested and imprisoned, was groundless; because it does not from thence follow, that the Arrest and Imprisonment was malicious. The Circumstances must be so strong, as to satisfy a Jury, that when the Plaintiff commenced the Action, he could have no Reason whatever to expect a Judgment in his Favour, upon its Merits.
+If, indeed, he can bring Evidence of Malice in the Plaintiff, and is able to support the Expence of a separate Action for maliciously arresting and holding him to Bail, he may recover Damages for the Arrest and Imprisonment. But it is not sufficient in such an Action to shew that the Demand on which he was arrested and imprisoned, was groundless; because it does not from thence follow, that the Arrest and Imprisonment was malicious. The Circumstances must be so strong, as to satisfy a Jury, that when the Plaintiff commenced the Action, he could have no Reason whatever to expect a Judgment in his Favour, upon its Merits.
 
 An Indictment for Perjury must be supported by still stronger Evidence, and besides affords no Means of Redress to the Prosecutor.
 
@@ -285,7 +285,9 @@ And as there is nothing to protect Persons who are in the utmost Extremity of Si
 [ 22 ]
 
 Circumstances of such extreme Distress; but the Returns which have been received, imperfect as they are with respett to the Number of Deaths in Prison, afford some Examples, the Amount of which shall be stated.
+
 ---
+
 One Woman died the same Day on which she was committed to Prison. A Man died the next Day after his Commitment—Three Persons died within a Week—Six within a Fortnight—Fourteen within a Month—and Twelve within Two Months after their respective Commitments. But there are many Prisoners who gradually decline, and live a considerable Number of Years in a State of Disease, occasioned by their Confinement.
 
 Nixon’s Evidence.
@@ -363,6 +365,7 @@ The Gaoler of the Borough Compter states, with respect to Prisoners from the Cou
 In February 1772, a considerable Number of well-disposed Individuals formed themselves into a Society for the Relief and Discharge of unfortunate Persons imprisoned for small Debts, commonly called The 'Thatched House Society; which was at jfirft confined to London and its. Neighbourhood, but afterwards extended its Operation to the Country. Lord Romney was President, and Lord Viscount Beauchamp, Lord Chief Baron Smythe, Mr. fujiice Nares, and John Thornton, Esquire, were Vice Presidents. They
 
 proceeded on a Plan well calculated to prevent Imposition, and secure the right Application of their Bounty. The leading Rule with regard to the Objects of their Charity is in the following Words: “ That such Debtors shall have the Preference as are moll aged or infirm, have the largest Families unprovided 4t for, are the most likely to be useful to the Community, and 4t appear te have lost their Liberty by unavoidable Misfortunes; at “ least not by Fraud, Vice, or Extravagance.” And to enable them to carry this Rule into Execution, their Practice is to oblige each Petitioner “ to name Two respectable Housekeepers as
+
 [ 27 ]
 
 “ Vouchers for his Integrity, Sobriety, and Industry; to whom the Society constantly refer their Enquiries, and by these Means “ preclude almost the Possibility of Imposition.”
@@ -1025,7 +1028,7 @@ On the 24th of February 1791, upon the nearest Calculation I could make, there w
 
 APPENDIX, N° i.
 
-of their Rooms where they flept, at a late Hour, when there was not Time to get a Bed elsewhere: One of them got to a Place under the Stair Case, N° 16, where he died: Another that was turned out in that Manner (laid in the Tap Room all Night, and it was with great Difficulty he could get any Body to take him in afterwards, he was so fluxed; the Prisoners subscribed towards paying for his Lodging. Captain Stevenson can give the Committee further Information on this Matter. The Prison is not kept in a proper Stare of Cleanliness; since the Death of the late Mr. Hill it has not been kept so clean; he paid particular Attention to this. The Necessary Houses, for Want of being cleaned oftener, are often very ostensive,' and particularly so in hot Weather. The Prison is very well supplied with Water. The Rooms nor the Stair Case have been white-walked at the Marshal's Expence since I have been in Prison; when it is done it is at the Prisoners Expence. Many of the Rooms occupied by the poorer Sort of Prisoners are in a very dirty Condition. Edward Keene, who died in the King’s Bench on the 27th December 1787, of the Small Pox, his Wife at the same Time was supported at the Expence of the Parish, with her Five Children, at an Allowance of Three Shillings a Week only; therefore, it was not in her Power to procure proper Necessaries for him, nor yet Medical Assistance, otherwise her Husband, in all Probability, might not have died. He had not proper Assistance, otherwise . I think his Life might have been laved. He was buried by Subscription.
+of their Rooms where they slept, at a late Hour, when there was not Time to get a Bed elsewhere: One of them got to a Place under the Stair Case, N° 16, where he died: Another that was turned out in that Manner (laid in the Tap Room all Night, and it was with great Difficulty he could get any Body to take him in afterwards, he was so fluxed; the Prisoners subscribed towards paying for his Lodging. Captain Stevenson can give the Committee further Information on this Matter. The Prison is not kept in a proper Stare of Cleanliness; since the Death of the late Mr. Hill it has not been kept so clean; he paid particular Attention to this. The Necessary Houses, for Want of being cleaned oftener, are often very ostensive,' and particularly so in hot Weather. The Prison is very well supplied with Water. The Rooms nor the Stair Case have been white-walked at the Marshal's Expence since I have been in Prison; when it is done it is at the Prisoners Expence. Many of the Rooms occupied by the poorer Sort of Prisoners are in a very dirty Condition. Edward Keene, who died in the King’s Bench on the 27th December 1787, of the Small Pox, his Wife at the same Time was supported at the Expence of the Parish, with her Five Children, at an Allowance of Three Shillings a Week only; therefore, it was not in her Power to procure proper Necessaries for him, nor yet Medical Assistance, otherwise her Husband, in all Probability, might not have died. He had not proper Assistance, otherwise . I think his Life might have been laved. He was buried by Subscription.
 
 Mr. JAMES JACKSON, a Prisoner in the King’s Bench.
 
@@ -1036,8 +1039,6 @@ APPENDIX, N° i.
 61
 
 Two Persons in One Room, both of which were in a vety dangerous Situation; One was attended by Dr. Budd as well as myself: They both prayed earneltly to be removed from each other. I made Application to the Marshal’s Deputy for that Purposej who alked me, if I chcle to take One of them myself in my own Room ? I found mylelf much hurt at lb xinjuft a Request, after being a Prisoner Four Years; and went away. One of them died Two Days afterwards; the other got out of Prison a Week after that, and died also. Soon after that, a Bankrupt was under a similar Situation: He was lent for to go to Manchester, to appear to his Commission; I gave a Certificate of the Impofiibilky of his being capable of bearing the Journey. JHe was ordered by the Marshal to quit the Prison, notwithstanding his dangerous Indifposition. I wrote to the Deputy Marshal, Hating the Man’s cxabt Situation: He persevered in r.‘moving of him, and was angry with me for writing, and the Man died the next Morning. Tire re are Two or Three Prisoners appointed to be in a Room together, and in case of any Man being bad, or even dying, theiv is no other Accommodation for those who remain in the Room. I also made Application to the Deputy Marshal a Month ago, relating to a Gentleman then in a deep Decline, in order that the Marshal might enforce his Authority for the Servants to clean out the Gentleman’s Room. He turned about in a very angry Manner, and alked me, if he was to clean it out.? I cold him u No, but his Servants might; for the Room was not fit for any Christian to go into, filled with all Kind of Filth and Vermin;”—of course I got no Redress, either for the Patient or myself; and the Patient died that Day Week. I made immediate Enquiry respecting his Situation of his Chum, who told me, he had wanted for a great Length of Time, though afterwards he told me he could get Money at any Time he chose to lend for it. However, at the Time I was sent for to attend the Man, I found him in a State of Delirium, and every how incapable of getting any Thing for himself. I attended him One Week, and gave him every Sort of Medicine nccefiary, and also Nourishment; and when he died, the Coroner’s Inquest fat on the Body, and I was examined and sworn as to the supposed Cause of his Death, which I gave, as my Opinion, was Want of Food and Care; and the Verdi 6t was, Died by “ the Visitation of God.” About Two Months ago I was sent for by Mr. Skynner to attend Two Children, then in a very dangerous Way; I found them without a Bed to lie on, and without any Kind of Nourishment whatever. I reported this Case to my Fellow Prisoners, and gained temporary Relief for them; in this Situation they were for Eight Weeks: After that the Father was taken bad also, and in great Distress (Subscriptions are going on for him now) and confined Six Weeks to his Bed, without any Kind of Afliltance but what he got from his poor Fellow Prisoners; he is perfectly free from Disease at this Time, but deliitute of proper Cloathing and the common Food necessary for his Existence. I believe near i, Soo Persons are conllantly resident within the Walls of the Prison. Mr. Barber’s Wife was taken in Labour about Two Months ago, 1 was sent for, and delivered her, and who, from her impoverished State, and Want of Cloathing, kept her Bed for Six Weeks afterwards; immediately on her Recovery her Husband was taken bad also, and continued so for Six Weeks. A
-
-
 
 6i
 
@@ -1151,7 +1152,7 @@ Withdrew.
 
 WILLIAM MOSS, a Prisoner, examined.
 
-There are Three chummed in the Room in which I lodge. There were Six flept there till last Night, and had done so for about a Fortnight past. Bothmore, who is One of the Persons that pays for sleeping in the Room with us, is not billetted in any Room. I was not chummed in any Room for the first Six Weeks upon my being in Prilon, because I had no Money to pay my Fees. I applied to Eaglefield to be chummed, and the Answer he gave me was, “ You must pay your Chummage.” The whole Demand was ioj. 2 d.I said I had no Money, so I went to Mr. Lunt, whom I knew before, and flept with him. This Day Three Weeks I paid the 10 2
+There are Three chummed in the Room in which I lodge. There were Six slept there till last Night, and had done so for about a Fortnight past. Bothmore, who is One of the Persons that pays for sleeping in the Room with us, is not billetted in any Room. I was not chummed in any Room for the first Six Weeks upon my being in Prilon, because I had no Money to pay my Fees. I applied to Eaglefield to be chummed, and the Answer he gave me was, “ You must pay your Chummage.” The whole Demand was ioj. 2 d.I said I had no Money, so I went to Mr. Lunt, whom I knew before, and slept with him. This Day Three Weeks I paid the 10 2
 
 and directly received a Chummage Ticket. I paid it to the same Person, who first demanded it, and received my Ticket from him.
 
@@ -1240,8 +1241,6 @@ What is the Expence of a Prisoner’s procuring his Discharge under the Insolven
 Act i
 
 Dependant on the Person employed to sue for it; suppose it to be but a few Shillings.
-
-
 
 APPENDIX, N° 2.
 
@@ -1359,7 +1358,7 @@ APPENDIX, N° 3.
 
 1*
 
--j. In any State of the Fulnefs of the Prison can a Prisoner have a ^ Room by paying for it.
+-j. In any State of the Fulnefs of the Prison can a Prisoner have a Room by paying for it.
 
 A. No Rooms are paid for.
 
@@ -1766,8 +1765,6 @@ There were only Three who escaped in the Year 1780: One of them the Keeper re-to
 New Compter, London, 23d May 1791.
 
 JOHN KIRBY, Keeper.
-
-
 
 APPENDIX, N° 6.
 
@@ -2318,7 +2315,9 @@ Of those how many for Debts under £.20
 One hundred and Twenty-one.
 
 What is the usual Expence attending an Arrest, and of compleating the Appearance of the Defendant by Special Bail
+
 ---
+
 About £.8 or £9.
 
 What appears to be the Average Number of Debts which are Annually settled immediately on the Arrest?
