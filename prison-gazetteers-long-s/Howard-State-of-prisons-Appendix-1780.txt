@@ -3636,7 +3636,7 @@ Above stairs are three rooms not secure. No fire-place: no straw: the court not 
 
 1779, April 1, Prisoners 4.
 
-. Anno 14 George III. Cap. XLIil.
+Anno 14 George III. Cap. XLIil.
 
 S 2 ACLE.
 
@@ -4146,7 +4146,7 @@ The gaoler is to take notice, that if he takes more than the above sums he is li
 
 And the said Justices do order and direct, that the clerk of the peace for this town and the county thereof, do as soon as conveniently may be, put up a copy of this table in some conspicuous open place within the gaol of the said town, in order that the fame may be inspedted as occasions may require, and be preserved within the said gaol and resorted to by the said prisoners at all reasonable times in the day-time without paying any thing for the fame, after the original table (which is now ingrossed on parchment, and is intended to be filed amongst the records of this court) has been reviewed and confirmed, or moderated by the Judge of Assize at the next Assizes to be holden for this town.
 
-. W. H. ASHURST.
+W. H. ASHURST.
 
 Tho. Sands, Mayor. Rich. Butler, Aid. John Fellozvs, Aid.
 
@@ -6284,7 +6284,7 @@ Bridewell 0 0 O 171 Norwich 23 I 29 O
 
 Marshalsea 88 4 O 0 Nottingham 12 0 S O
 
-. Newgate 46 5 Hi 0 — — T own -7 0 O O
+Newgate 46 5 Hi 0 — — T own -7 0 O O
 
 — — New Ludgate •5 O O 0 Oakham 3 0 I O
 

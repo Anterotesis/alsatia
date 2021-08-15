@@ -2396,7 +2396,7 @@ At the back of this hospital, there are twelve neat rooms, with every thing in t
 
 Tower The nezv Tozver for Lunatics, near this hospital, has five stories, and twenty-eight rooms
 
-. FOR on each floor. The doors open into a paffaee fix feet wide, which goes round the Lunatics. r r
+FOR on each floor. The doors open into a paffaee fix feet wide, which goes round the Lunatics. r r
 
 building. Though great attention was paid to cleanliness, the passages were very offensive; the form of the building causing the air to stagnate in its centre, as in a deep well.
 
@@ -4418,7 +4418,7 @@ mistress to accompany the children to and from church, and fit with them there.�
 
 The time for the children’s work not to exceed four hours a day, and the matters and mistresses not to be charged for it.—Large and neat gardens fora supply of vegetables, instruction and work for the boys. — The girls to be employed in spinning and knitting, in
 
-* I have often mentioned the want of lime-whiting in the prisons, hospitals and schools in this country, when they appeared to me very dirty; as it is attended with little expcnfe, is exceedingly salutary, and tends to inspire young persons in particular with a love of cleanliness. Of this la ft circumstance, I am convinced from experience in somewhat limilar instances; as I have repeatedly observed, that when I have pulled down old cottages that had clay floors, and no pantry, no pump, no outhouse for fuel, nor any vault, and have built new ones with these conveniences, which have also been white-washed both within and without; the very fame families that were before llovenly and dirty, have, upon this change of their habitations, become clean and neat in their persons, in their houses, and gardens. — It was in consequence of these observations, made during my residence on my ellate in Bedfordshire, that the clause for white-walhing gaols was inserted in the act for preserving the health of prisoners.—In addition to what has been said with regard to cleanliness, it may be observed, that when quick lime is flacked in boiling water, and immediately used, it not only dellroys -vermin, but is found to be one of the llrongell mtififtics. In confirmation of this fact, 1 shall take the liberty of mentioning a remarkable instance of its efficacy in this respect. Dr. John Hope, the first physician to the royal infirmary at Edinburgh, informed me in one of my visits there, that two or three years before, a putrid fever had prevailed in that hospital, and that one large ward in particular was so deeply infefted, as to prove fatal, for some time, to the patients that were lodged in it; but that lime-whiting the walls had eradicated the infection, after walhing the ward repeatedly with vinegar had failed of this effect; and that this salutary practice had been continued ever since.
+* I have often mentioned the want of lime-whiting in the prisons, hospitals and schools in this country, when they appeared to me very dirty; as it is attended with little expense, is exceedingly salutary, and tends to inspire young persons in particular with a love of cleanliness. Of this la ft circumstance, I am convinced from experience in somewhat limilar instances; as I have repeatedly observed, that when I have pulled down old cottages that had clay floors, and no pantry, no pump, no outhouse for fuel, nor any vault, and have built new ones with these conveniences, which have also been white-washed both within and without; the very fame families that were before llovenly and dirty, have, upon this change of their habitations, become clean and neat in their persons, in their houses, and gardens. — It was in consequence of these observations, made during my residence on my ellate in Bedfordshire, that the clause for white-walhing gaols was inserted in the act for preserving the health of prisoners.—In addition to what has been said with regard to cleanliness, it may be observed, that when quick lime is flacked in boiling water, and immediately used, it not only dellroys -vermin, but is found to be one of the llrongell mtififtics. In confirmation of this fact, 1 shall take the liberty of mentioning a remarkable instance of its efficacy in this respect. Dr. John Hope, the first physician to the royal infirmary at Edinburgh, informed me in one of my visits there, that two or three years before, a putrid fever had prevailed in that hospital, and that one large ward in particular was so deeply infefted, as to prove fatal, for some time, to the patients that were lodged in it; but that lime-whiting the walls had eradicated the infection, after walhing the ward repeatedly with vinegar had failed of this effect; and that this salutary practice had been continued ever since.
 
 malting
 
@@ -5824,7 +5824,7 @@ The diet table hung up; which is as follows. Breakfast; one penny loaf, househol
 
 They are allowed to rest half an hour at breakfast, an hour at dinner, and half an hour at supper; though no supper is given them. No other liquor than water is permitted, except in case of sickness, and when ordered by the surgeon. The weight of the penny loaf was 1302:. The allowance is too small for those who are confined several months, and kept constantly to work. They should be permitted to purchase milk and bread, at least, out of that part' of their earnings to which they are entitled by Act of Parliament. Several young men seemed as if they could not go out so fit for labour, as they came in.
 
-. 1788, Sept. 12, Men 12. Women 4.
+1788, Sept. 12, Men 12. Women 4.
 
 I have been the more particular in my account of this prison, as it affords one of the best examples of the proper management of a house of correction, so as to render it a place of reformation for the idle and dissolute. It is to the unremitted attention of a neighbouring magistrate. Sir Thomas Beevor, that the public is indebted for the improvements in this house, and the strict execution of its salutary regulations. The other bridewells in. this county, I understand, are on the fame plan.
 
@@ -8516,7 +8516,7 @@ PRESTON. Three of the rooms in this prison are made into a chapel. The court Pre
 
 not being secure, the prisoners are never out. No bedding but a little straw. Employ- CouNTY
 
-. . Bridewell
+. Bridewell
 
 ment, winding linen yarn and cotton, and spinning wonted. Prisoners have no
 
@@ -10390,7 +10390,7 @@ S21 666 263 106 2004 2 75
 
 Great Total 927 2670 538
 
-. n
+n
 
 TABLE
 
@@ -10608,7 +10608,7 @@ I # I - * I: Robbery. Murder. House-breaking and Theft. Theft.
 
 2 I I I 1 i - Robbery. Child-murder. Shop-breaking and Theft. Murder. Theft. Stealinga Letter from Post Office.
 
-. . - *1 Child-murder.
+. - *1 Child-murder.
 
 - - I - - Theft of Cattle.
 
@@ -11666,7 +11666,7 @@ quiry, 101 Chelmsford county gaol, 143
 
 Chelmsford
 
-. i HI
+i HI
 
 Home, 142
 
