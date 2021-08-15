@@ -1294,7 +1294,7 @@ APPENDIX.
 
 54
 
-Nati.es. court furounded by buildings so high as to prevent the circulation of air. In this court was a recess, under arcades like those under the chapel at Newgate. Some of the prisoners were employed in knitting, and others in making lhoes, but moll of them were entirely without employment. In six chambers, which opened into a spacious hall, were many beds for such as could pay for them. Adjoining was a chapel, and an airy infirmary for the whole prison.* In seven close offensive rooms were thirty-one prisoners, almost without cloaths on account of the great heat: and in six dirty rooms communicating with one another were fifty women. Of all the prisoners, one man only was in irons, in a dungeon, near a small chapel which is allotted to the condemned before execution.
+Nati.es. court furounded by buildings so high as to prevent the circulation of air. In this court was a recess, under arcades like those under the chapel at Newgate. Some of the prisoners were employed in knitting, and others in making shoes, but moll of them were entirely without employment. In six chambers, which opened into a spacious hall, were many beds for such as could pay for them. Adjoining was a chapel, and an airy infirmary for the whole prison.* In seven close offensive rooms were thirty-one prisoners, almost without cloaths on account of the great heat: and in six dirty rooms communicating with one another were fifty women. Of all the prisoners, one man only was in irons, in a dungeon, near a small chapel which is allotted to the condemned before execution.
 
 The bread was good: the daily allowance to each was twenty-two ounces.
 
@@ -1414,7 +1414,7 @@ Milan
 
 House of Correction.
 
-In L’Argaftro there were three hundred and fifty-nine prisoners, healthy and strong. A considerable number of them were at work in public:* but in the house there were at work lhoe-makers, taylors, smiths, wheelwrights, cabinet-makers, turners, nailers, rope-makers, leather-dressers, painters on gauze, spinners and weavers. In one room eleven looms were employed, f
+In L’Argaftro there were three hundred and fifty-nine prisoners, healthy and strong. A considerable number of them were at work in public:* but in the house there were at work shoe-makers, taylors, smiths, wheelwrights, cabinet-makers, turners, nailers, rope-makers, leather-dressers, painters on gauze, spinners and weavers. In one room eleven looms were employed, f
 
 Their dormitory is a spacious room, with three stages in it on which they lie. In the centre of the cieling are four large apertures and sixteen small ones. J
 
@@ -1520,7 +1520,7 @@ SWITZERLAND.
 
 In entering Switzerland from Geneva, a traveller will be furpri-fed to meet frequently with a gibbet on the road, if he be not informed that almost every seigneurie or bailiwick has a prison, and possesses the power of trying criminals and capitally convicting them. I visited one of these prisons. It belonged to Mr. Baron de Prangins,
 
-*1 hoped to have found here no torture chambers, but I had only the pleasure to hear that none had suffered in them these twenty five years. They are thus retrained by the thirty second article in the Rcgletnent de I'illujlre Mediation pour la pacification des troubles de la Republique de Geneve, published in 1738, "Let accuses ct “ criminels ne pourront etre appliques d la Quejiion ott Torture, que prealablcment ils n'ayer.t “ etc par jugtment defiuitif, eondatw.es amort.”
+*1 hoped to have found here no torture chambers, but I had only the pleasure to hear that none had suffered in them these twenty five years. They are thus retrained by the thirty second article in the Rcgletnent de I'illujlre Mediation pour la pacification des troubles de la Republique de Geneve, published in 1738, "Let accuses ct “ criminels ne pourront etre appliques d la Question ott Torture, que prealablcment ils n'ayer.t “ etc par jugtment defiuitif, eondatw.es amort.”
 
 and
 
@@ -1640,7 +1640,7 @@ I was agreeably relieved from the pain excited by these scenes, with the view of
 
 The prison at Ratijbon or Regenflntrg is in the town-house. Many of the chambers are airy, and most of them have stoves. There are
 
-above the floor and painted black. Various engines of torture, some of which are stained with blood, hang round the room. When the criminals fufter, the candles are lighted; for the windows are shut close, to prevent their cries being heard abroad. Two crucifixes are presented to the view of the unhappy objetts. But it is too (hocking to relate their different modes of cruelty. Even women are not spared. — This room fecms very much like the torture-room in Spain, described in Limharch's Hijiory of the Inquiftion translated by Chandler, vol. II. p. 221, 4to. edit. “ It was a large under-“ ground room, arched, and the walls covered with black hangings. The candle-“ flicks were fattened to the wall, and the whole room enlightned with candles placed “ in them. — The inquisitor and notary fat at a table, so that the place seemed as the “ very mansion of death, every thing appearing so terrible and awful.”
+above the floor and painted black. Various engines of torture, some of which are stained with blood, hang round the room. When the criminals fufter, the candles are lighted; for the windows are shut close, to prevent their cries being heard abroad. Two crucifixes are presented to the view of the unhappy objects. But it is too (hocking to relate their different modes of cruelty. Even women are not spared. — This room fecms very much like the torture-room in Spain, described in Limharch's Hijiory of the Inquiftion translated by Chandler, vol. II. p. 221, 4to. edit. “ It was a large under-“ ground room, arched, and the walls covered with black hangings. The candle-“ flicks were fattened to the wall, and the whole room enlightned with candles placed “ in them. — The inquisitor and notary fat at a table, so that the place seemed as the “ very mansion of death, every thing appearing so terrible and awful.”
 
 69
 
@@ -1848,7 +1848,7 @@ The two prisons (distinguished by the names of the old and the new) near La Port
 
 • In this and many other cities, the convifl knows not of his execution, till three days before the time. Then he is conllantly attended by his confessor, and indulged in the choice of food.
 
-+ The dimensions were seven feet by six feet nine inches, and six feet and a half high. On one fide was an aperture of fix inches by four, for giving in the vifluals.
++ The dimensions were seven feet by six feet nine inches, and six feet and a half high. On one fide was an aperture of fix inches by four, for giving in the victuals.
 
 wretches
 
@@ -2746,7 +2746,7 @@ IRELAND.
 
 I was happy in finding at Dublin a new gaol (Newgate) almost ready for the removal of the prisoners into more airy and convenient apartments, in which the Ihocking intercourse of the two sexes which took place in the old prison, will be avoided. This new prison is one hundred and seventy feet in length, and has separate courts for men and women. The cells on the first and second floors are about twelve feet by eight, and on the upper floor twelve by four, all arched with brick, to prevent danger from fire.* Besides these
 
-Item, All creditors or incarcerators of prisoners for civil debt or othenvifc shall be free of all fees to the clerk at incarceration.
+Item, All creditors or incarcerators of prisoners for civil debt or otherwise shall be free of all fees to the clerk at incarceration.
 
 And the council statues and declares, that if any fees shall be demanded orexafted in time coming, by the jailor or clerk of their Tolbooth, other than these above set down, they shall incur the deprivation of their respective offices; and ordain their presents to be printed and published, that none may pretend ignorance.
 
@@ -5168,7 +5168,7 @@ No alteration.
 
 KNARES-
 
-Northern Circuit. Y ORKSHIRE.
+Northern Circuit. YORKSHIRE.
 
 KNARESBOROUGH TOWN GAOL.
 
@@ -5850,7 +5850,7 @@ CONCLUSION.
 
 HAVING thus, according to my ability, completed the design I had engaged in, it was my intention immediately to have retired to the tranquil enjoyment of that easy competence a kind Providence has bestowed upon me: — happy in the idea, that I had in some degree been the instrument of alleviating the sufferings of a numerous and unhappy set of people, and had excited the attention of my countrymen to an important obieft of civil policy. May I be permitted, too, to say, that I felt additional satisfaction, in having avoided giving any possible occasion to impute what I had done to self-interested views. For as nothing but a consciousness of duty could have enabled me to go through all the disagreeable scenes which lay in my way, so I had the happiness of being placed out of the reach of any other incitements.
 
-Mv resolution of resigning all further public concern in this matter was, however, broken in upon by the urgent persuasions of some, who were pleased to think me a proper person to afiift in the
+Mv resolution of resigning all further public concern in this matter was, however, broken in upon by the urgent persuasions of some, who were pleased to think me a proper person to assist in the
 
 CONCLUSION.
 
