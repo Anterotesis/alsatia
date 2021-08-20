@@ -678,7 +678,7 @@ The sewers or vaults of all prisons should be in the courts, and not in the pass
 
 The infirmary and sheds will not render the court unsafe, provided the walls have parapets, or small chevaux de frise.
 
-Debtors and felons should have wards totally separate: the peace, the cleanliness, the health and morals of debtors cannot be secured otherwise. The act 22d and 23d Charles II. Chapter XX. lequires this separation at night; that debtors may not be disturbed by the curses and other profane language of felons: “ Be it enabled, — That f‘ they shall be put, kept, and lodged separate and apart one from another, in distinCl “ rooms.” These words do perhaps in the ftrict construction imply no more than nocturnal separation. But surely it is a far greater mischief for debtors to be annoyed and corrupted by the wicked conversation of felons all day long, than to be disturbed by it in the night-time. I am not designing to infer from hence, nor yet from the character of the Gentlemen who composed that parliament, that the act should be construed according to my view of the argument; or to what I conjecture was their intention. I know it is wrong to explain laws by such a vague principle as the supposed spirit of them. But it seems to me necessary that there should be a total separation: for where there is but one court, the lower class of debtors join with the felons in their diversions of fives, &c. and often become equally profligate: as at Worcester, Glocester, Salisbury, Aylesbury, Bedford, Ipswich, Bury, Leicester, &c. These different sorts of prisoners are indeed generally separated at night. I do not recollect more than one or two gaols where they lodge together, viz. the Borough-compter, Clerkenwell bridewell, the Devizes and St. Albans. I must now add Tothillfields bridewell, where debtors are confined, since Westminster gatehouse is taken down. Constant separation is desirable. The gaol will by that means be kept cleaner: and if the small-pox, or the gaol-fever, should infect one ward, the other at a distance may be free from it. This would also remove the objection that is now made against permitting debtors to work: that is, the danger of their furnishing felons with tools for mifehies, or escape.
+Debtors and felons should have wards totally separate: the peace, the cleanliness, the health and morals of debtors cannot be secured otherwise. The act 22d and 23d Charles II. Chapter XX. lequires this separation at night; that debtors may not be disturbed by the curses and other profane language of felons: “ Be it enabled, — That f‘ they shall be put, kept, and lodged separate and apart one from another, in distinCl “ rooms.” These words do perhaps in the strict construction imply no more than nocturnal separation. But surely it is a far greater mischief for debtors to be annoyed and corrupted by the wicked conversation of felons all day long, than to be disturbed by it in the night-time. I am not designing to infer from hence, nor yet from the character of the Gentlemen who composed that parliament, that the act should be construed according to my view of the argument; or to what I conjecture was their intention. I know it is wrong to explain laws by such a vague principle as the supposed spirit of them. But it seems to me necessary that there should be a total separation: for where there is but one court, the lower class of debtors join with the felons in their diversions of fives, &c. and often become equally profligate: as at Worcester, Glocester, Salisbury, Aylesbury, Bedford, Ipswich, Bury, Leicester, &c. These different sorts of prisoners are indeed generally separated at night. I do not recollect more than one or two gaols where they lodge together, viz. the Borough-compter, Clerkenwell bridewell, the Devizes and St. Albans. I must now add Tothillfields bridewell, where debtors are confined, since Westminster gatehouse is taken down. Constant separation is desirable. The gaol will by that means be kept cleaner: and if the small-pox, or the gaol-fever, should infect one ward, the other at a distance may be free from it. This would also remove the objection that is now made against permitting debtors to work: that is, the danger of their furnishing felons with tools for mifehies, or escape.
 
 In the debtors ward there should be a day-room or kitchen; also a large work-Shop for such as are willing to work. Some few gaols have the latter; and in them I have seen basket-makers, shoe-makers, See. employed in their several trades; preserving their habit of industry; contributing to the support of their families, and lightening the burthen that by their imprisonment falls on the respective parishes. Here I would observe, that wherever the windows are glazed there should be casements; for I have found the debtors rooms, and passages of many town and city gaols, very offensive for want of apertures.
 
@@ -974,7 +974,7 @@ their graves.” Others, cc The justices think the inside of my house too close 
 
 BRIDEWELLS.
 
-I f our bridewells be not more properly conduced, fending prisoners from them to county-gaols will defeat all the care of the most attentive gaolers, and the whole intention of the act for preserving the health of prisoners. And when offenders are discharged, they will spread disease and vice wherever they go: and instead of being amended, become an aggravated evil to society.
+If our bridewells be not more properly conduced, fending prisoners from them to county-gaols will defeat all the care of the most attentive gaolers, and the whole intention of the act for preserving the health of prisoners. And when offenders are discharged, they will spread disease and vice wherever they go: and instead of being amended, become an aggravated evil to society.
 
 It is a shocking thing to destroy in prison the morals, the health, and (as is osten, done) the lives of those whom the law consigns only to hard labour and correction. — One is charged with bastardy: another is abusive in a drunken quarrel: a young creature, who perhaps was never taught a moral lesson, is guilty of some petty theft fend them to bridewell for a year, or two, which they must waste in idleness, hunger, dirt, and with companions much improved by such education. — If that prison be not secure, fend them into still worse company; that of abandoned felons in the county-gaol. What is this but devoting them to destruction ? Many may date the total loss of every principle of honour and virtue, from their confinement in these schools. of wickedness.
 
@@ -982,7 +982,7 @@ Every county and town that has a bridewell should be careful to fee, first of al
 
 In all large rooms, where there are numbers of people, provision should be made for letting out the vitiated air. at the top of them. See Dr. Prieftlefs Experiment*, &c. page 281.
 
-Wo R K-
+WORK-
 
 RGOMS.
 
@@ -992,7 +992,7 @@ Iisur^
 
 PROPOSED IMPROVEMENTS.
 
-Wo R K.
+WORK.
 
 hours in the day. The rooms, where the windows are not glazed, should have fireplaces. The windows should be by no means towards the street, that spirituous liquors or files, &c. may not be conveyed to the prisoners. In the court-yard (for such is necessary in every prison *) there should be a pump, or some other provision for water in plenty. And prisoners should be permitted to walk about, when they have done working.
 
@@ -1042,11 +1042,11 @@ Many young creatures, when their term is expired, are detained in prison; others
 
 PROPOSED IMPROVEMENTS. 41
 
-can any criminality of theirs justify our negle<fl in this particular. The last recited author fays, “ Religion will, I am satisfied, have a strong influence in correcting the <( morals of men; and I am no less persuacted, that it is religion alone which can “ effectually accomplish so great and so desirable a work.”
+can any criminality of theirs justify our neglect in this particular. The last recited author fays, “ Religion will, I am satisfied, have a strong influence in correcting the <( morals of men; and I am no less persuacted, that it is religion alone which can “ effectually accomplish so great and so desirable a work.”
 
 Some have supposed that the profit of the work in a house of correction might support the expence of the house. But however it may appear in speculation, in practice it is always found otherwise. The difference is great between involuntary labour and that which is performed from choice. In the belt regulated houses of correction in Holland, taxes are fixed for their support *. But though a bridewell cannot support itself, yefe under proper regulation, it would contribute in some measure towards its own maintenance. An exaCt account should be kept of the profit of the work; and all of it applied to common benefit; not left to the disposal of keepers: for some of them, in the few bridewells where work is done, keep to themselves a sixth part, some half, and some the whole of the prisoners earnings; giving them only the short county-allowance, and sometimes but part of that. When I said all the earnings should go to common (lock, I meant it of the stated hours for working. Those who will employ themselves in extra-hours, should have the profit to themselves. And it would be an encouragement to diligence in the stated hours, to give them some portion of the profit of these also; or employ them in beating hemp, and spinning, and weaving linen for their own use: for clean linen they should have every week. With regular ceconomy, prisoners would be better nourished, and fitter for labour, than they now are; and yet the county not bur-, thened with much, if any, additional expence. But a building fit for the intention they ought to provide.
 
-The charge of this, as well as of a proper gaol, will, no doubt, be complained of But if that be weighed against the benefit which will accrue to the public, it will be found but light. Besides, that ought not to be allowed as a valid objeClion, the occasion of which should have been removed long ago. Why have some prisons been suffered to become ruinous, so that many rooms in them are unrsafe, and prisoners are crowded together in the few that remain; or, for the smallest offences are loaded with irons to prevent their escape ? Why were not the walls of the courts repaired in time, that prisoners might with safety be allowed the proper use
+The charge of this, as well as of a proper gaol, will, no doubt, be complained of But if that be weighed against the benefit which will accrue to the public, it will be found but light. Besides, that ought not to be allowed as a valid objection, the occasion of which should have been removed long ago. Why have some prisons been suffered to become ruinous, so that many rooms in them are unrsafe, and prisoners are crowded together in the few that remain; or, for the smallest offences are loaded with irons to prevent their escape ? Why were not the walls of the courts repaired in time, that prisoners might with safety be allowed the proper use
 
 Mr. Thomas Firmin, a citizen of London in the last century, employed about two thousand poor, by which he loft £100 a year, though good quantities of commodities were taken oft' by the kindnefe of several persons, at the price they coll him to fpln and weave. In particular, the East India and Guinea companies gave him encouragement to make their allabas cloths, and coarse canvas for pepper bags, which before they bought from foreign countries. “ For seven or eight years together he loft two pence in a “ ftiilling by all the work of his poor: but he was content; for he would say, two pence given them by “ in their work, was twice so much saved to the public, in that it took them off from beggary, or “ theft.' Firmin'; Life, pages 33 & 34.
 
@@ -1084,7 +1084,7 @@ PROPOSED IMPROVEMENTS.
 
 Since this has taken place, I suppress what I had written *; and will only give, at the end of my book, a list of the numbers delivered from Newgate for transportation in the course of three years. This will shew, in a very alarming light, the danger there may be in future of crowding our prisons, so as to produce the most destruClive consequences.
 
-I cannot conclude this feCtion, without attempting to obviate some objections that may occur to the improvements proposed in it. It may be said, that from the many conveniences suggested in the struClure of prisons, and the removal of those hardships which rendered them so terrible, the dread of being confined in them will in great measure be taken off, and the lower classes of people will find them more comfortable places of residence than their own houses. But let it be considered in the first place, that although I have indeed recommended such attention in the construttion and management as may free them from the diseases and hardships under which they have laboured, I have proposed nothing to give them an air of elegance or pleasantness. On the contrary, I have censured the plan of some modern gaols as too Ihewy and splendid; and nothing abroad struck me more with regard to these buildings, than the perfect plainness and fmplicity of their appearance. Then, with respect to the more humane treatment of the prisoners in the articles of food, lodging, and the like, I venture to assert, that if to it be joined such ftrict regulations in preventing all dissipation and riotous amusement, as I have inculcated, confinement in a prison, though it may cease to be destruClive to health and morals, will not fail to be sufficiently irksome and disagreeable, especially to the idle and profligate.
+I cannot conclude this feCtion, without attempting to obviate some objections that may occur to the improvements proposed in it. It may be said, that from the many conveniences suggested in the struClure of prisons, and the removal of those hardships which rendered them so terrible, the dread of being confined in them will in great measure be taken off, and the lower classes of people will find them more comfortable places of residence than their own houses. But let it be considered in the first place, that although I have indeed recommended such attention in the construction and management as may free them from the diseases and hardships under which they have laboured, I have proposed nothing to give them an air of elegance or pleasantness. On the contrary, I have censured the plan of some modern gaols as too Ihewy and splendid; and nothing abroad struck me more with regard to these buildings, than the perfect plainness and simplicity of their appearance. Then, with respect to the more humane treatment of the prisoners in the articles of food, lodging, and the like, I venture to assert, that if to it be joined such strict regulations in preventing all dissipation and riotous amusement, as I have inculcated, confinement in a prison, though it may cease to be destruClive to health and morals, will not fail to be sufficiently irksome and disagreeable, especially to the idle and profligate.
 
 The Penitentiary houses directed by a late act of parliament, may, under proper management, be made to answer very.useful purposes. Much, however, will depend upon their proper regulation. I do not pretend to be qualified for drawing up a perfect system of this difficult business; but in order to assist persons of superior abilities in their researches on this subject, I have added, at the end of the volume, a table of such general heads and particulars as seem to me most deserving of attention.
 
@@ -1110,8 +1110,6 @@ HOLLAND.
 
 Prisons in the United Provinces are so quiet, and most of them so clean, that a visitor can hardly believe he is in a gaol. They are commonly (except the rasp-houses) white-washed once or twice a year: and prisoners observed to me how re-frelhing it was to come into the rooms after they had been so thoroughly cleaned.
 
-A physician
-
 45
 
 Sect. IV. HOLLAND.
@@ -1124,17 +1122,15 @@ The common method of execution for unpremeditated murder, is decollation by. a b
 
 Debtors also are but few. The magistrates do not approve of confining in idleness any that may be usefully employed. And when one is imprisoned, the creditor mud pay the gaoler for his maintenance, from five and a half to eighteen divers a day, according to the debtor's former condition in life. The aliment mud be paid every week: in default whereof, the gaoler gives eight days notice; and if within that time, the money, or security for it, be not brought, the debtor is discharged.
 
-Another reason is, that the situation is very disgraceful. But, perhaps, the principal cause that debtors, as well as capital offenders, are few, is the great care that is taken to train up the children of the poor, and indeed of all others, to indudry.
+Another reason is, that the situation is very disgraceful. But, perhaps, the principal cause that debtors, as well as capital offenders, are few, is the great care that is taken to train up the children of the poor, and indeed of all others, to industry.
 
-No debtors have their wives and children living with them in prison: but occasional visits in the day-time are not forbidden. You do not hear in the dreets as you pass by a prison, what I have been rallied for abroad, the cry of poor hungry Jlarving debtors.
+No debtors have their wives and children living with them in prison: but occasional visits in the day-time are not forbidden. You do not hear in the dreets as you pass by a prison, what I have been rallied for abroad, the cry of poor hungry starving debtors.
 
-The States do not transport convicts , but men are put to labour in the rasp-houses, and women to proper work in the spin-houses: upon this profeffed maxim, Make them diligent, and they will be honest. The rasping logwood, which was formerly the principal work done by the male convicts, is now in many places performed at the mills, much cheaper: and the Dutch, finding woollen manufactures more profitable, have lately set up several of them in those houses of correction. In some, the work 4
+The States do not transport convicts , but men are put to labour in the rasp-houses, and women to proper work in the spin-houses: upon this professed maxim, Make them diligent, and they will be honest. The rasping logwood, which was formerly the principal work done by the male convicts, is now in many places performed at the mills, much cheaper: and the Dutch, finding woollen manufactures more profitable, have lately set up several of them in those houses of correction. In some, the work 4
 
 of the robuff prisoners does not only support them; but they have a little extra-time to earn somewhat for their better living in prison, or for their benefit afterwards.
 
 Great care is taken to give them moral and religious instruction, and reform their manners, for their own and the public good. The chaplain (such there is in every
-
-house
 
 46
 
@@ -1144,7 +1140,7 @@ Rotterdam.
 
 house of correction) does not only perform public worship, but privately instructs the prisoners, catechifcs them every week, &c. and I am well informed, that many come out sober and honest *. Some have even chosen to continue and work in the house after their discharge.
 
-Offenders are sentenced to these houses, according to -their crimes, for seven, ten, fifteen, twenty, and even to ninety-nine years: but, to prevent despair, seldom for life. As an encouragement to sobriety and industry, those who distinguisti themselves by such behaviour, are discharged before the expiration of their term. And the prisoner who gives information of an intended escape is greatly favoured in this respect: his term is shortened, and sometimes he gains his liberty. A little before the election of new magistrates, those who are in office inspect these prisons; and inquire of the keeper which prisoners, of those who have been confined a few years, have been diligent and orderly; and of the minister, which of them have been most attentive to public and private instructions. According to the accounts, they abridge the appointed time of punishment: so that fourteen years will sometimes be reduced to eight or ten; and twelve years to six or seven. This practice is in every view wife and beneficial. Indeed, I have some reason to think that criminals are often doomed to a longer term, with an intention to make such deductions upon their amendment.
+Offenders are sentenced to these houses, according to -their crimes, for seven, ten, fifteen, twenty, and even to ninety-nine years: but, to prevent despair, seldom for life. As an encouragement to sobriety and industry, those who distinguish themselves by such behaviour, are discharged before the expiration of their term. And the prisoner who gives information of an intended escape is greatly favoured in this respect: his term is shortened, and sometimes he gains his liberty. A little before the election of new magistrates, those who are in office inspect these prisons; and inquire of the keeper which prisoners, of those who have been confined a few years, have been diligent and orderly; and of the minister, which of them have been most attentive to public and private instructions. According to the accounts, they abridge the appointed time of punishment: so that fourteen years will sometimes be reduced to eight or ten; and twelve years to six or seven. This practice is in every view wife and beneficial. Indeed, I have some reason to think that criminals are often doomed to a longer term, with an intention to make such deductions upon their amendment.
 
 I was informed that the produce of the work does not maintain theffr houses: though the men that are robust earn from eight to ten stivers a day; and healthy women by spinning, &c. from four to fix. But some earn less; and those that are infirm, very little: none however are quite idle, unless sick. This is surely excellent policy; for besides guarding against the pernicious effects of idleness in a prison, and breaking criminals to habits of industry, if work so constant does not support the houses, how much heavier would be the public burthen, maintaining the numerous offenders in these prisons, if, as in many of our bridewells, no work at all were done there
 
@@ -1162,9 +1158,9 @@ HOLLAND.
 
 there are any, they are alimented at one fixed sum, viz. sixteen slivers a day There are seven vaulted rooms for criminals or disorderly persons about seventeen feet by ten. One of them is called the condemned room, into which a criminal is put fourteen days before his final sentence; and immediately after the sentence, he is executed with a solemnity very striking to the common people. In three of the rooms, were three persons confined for a limited time for some small offences, and kept to bread and water. Their daily allowance was fora four to five slivers, and their pitcher was filled with water three times a day; but the other criminals had their pitcher filled once a day with beer, and their allowance was from nine to ten slivers. There were cases with thick straw mats, and two or three coverlets to each. At my last visit there were four criminals.
 
-In the Rajp-house, (or Spin-house as it should be called) at one of my former visits there were thirty-eight men, and in 1781, twenty-eight men and forty women. Two men were rasping logwood, others, combing, spinning, and carding wool, and (a few) making fishing nets, and sorting coffee-berries. The women were spinning wool and flax, and carding hair, or winding at a great wheel like those which at Derby are turned by water. They were clean, and appeared healthy and well. I observed the ceiling was very white; and one of the regents informed me, that the room was white-washed regularly twice a year.
+In the Rasp-house, (or Spin-house as it should be called) at one of my former visits there were thirty-eight men, and in 1781, twenty-eight men and forty women. Two men were rasping logwood, others, combing, spinning, and carding wool, and (a few) making fishing nets, and sorting coffee-berries. The women were spinning wool and flax, and carding hair, or winding at a great wheel like those which at Derby are turned by water. They were clean, and appeared healthy and well. I observed the ceiling was very white; and one of the regents informed me, that the room was white-washed regularly twice a year.
 
-The men were more separated than the women into rooms (about seventeen feet long, eleven feet broad, and ten high), each of which contained only four or five prisoners. These rooms were very offensive; the persons confined in them being taken out only once in the week. For preventing combinations, two of the men are removed every ten or fourteen days, to different companies. There were among them some Jews, whose dinner was not pork as was that of the other prisoners, but muttony which the society of Jews in the city sent them with a slice of white bread by permis-fion of one of the five regents or inspectors -J-.
+The men were more separated than the women into rooms (about seventeen feet long, eleven feet broad, and ten high), each of which contained only four or five prisoners. These rooms were very offensive; the persons confined in them being taken out only once in the week. For preventing combinations, two of the men are removed every ten or fourteen days, to different companies. There were among them some Jews, whose dinner was not pork as was that of the other prisoners, but muttony which the society of Jews in the city sent them with a slice of white bread by permission of one of the five regents or inspectors -J-.
 
 For the refractory there are dark rooms, but not dungeons: in one of these, on shutting the door on myself, I found no dampness. My conductor observed, that the floor was raised to preserve it dry. Here they are allowed no bedding, and are kept to bread and water, which is given them at an aperture in the doer. Their confinement is for fix, eight, ten, or fourteen days.
 
@@ -1174,9 +1170,7 @@ t As I was there at one o'clock, the time of the distribution, I observed that t
 
 Rotterdam.
 
-Rasp-
-
-house.
+Rasp-house.
 
 3
 
@@ -1188,9 +1182,7 @@ FOREIGN PRISONS.
 
 Rotterdam.
 
-Rasp-
-
-house.
+Rasp-house.
 
 At the whipping-post (which is in the middle of the court, in full view of the male criminals) some of our dexterous countrymen in 1781, were disciplined, for melting their pewter spoons and forming them into keys. The pewter was hardened with a mixture procured from an apothecary, under the pretence of its being a remedy for the tooth-ach. But the scheme was defeated by an English Jew, who for this service obtained his liberty, though he had been committed for thirty years.
 
@@ -1270,31 +1262,23 @@ Each man has, during the three summer months, daily, of beer, - z\
 
 and during the three winter months, ——
 
-and during the remaining six months, ----- ----- - 2
+and during the remaining six months, - 2
 
 Boys, women and half-talked, for the three summer months, each, daily, ij
 
-and for the remaining nine months, — ----- - - 1
+and for the remaining nine months, — - 1
 
 In the foregoing regulation for diet, no alteration is to be made, unless when lish shall be extraordinarily cheap and plentiful, all the prisoners may be indulged with one meal, provided with the consent of a majority of the regents.
 
-H in
+Rotterdam
 
-Rotter-
-
-dam
-
-Rasp-
-
-house.
+Rasp-house.
 
 5°
 
 FOREIGN PRISONS.
 
-Rotter-
-
-dam,
+Rotterdam,
 
 Pest-
 
@@ -2192,7 +2176,7 @@ I here copy a few articles from the code of municipal laws. “ Aucun citoyen ne
 
 “ Les compositions eurent lieu dans les moindres delits, mais les meurtres, les vols forces ou com-' pliques, l'apoftafie, la forcelerie, la trahison, furent punis de mort, lorfqu'on eut saisi le criminel tc fur le salt.” A. Dathe's BJfa't fur PHiftoire de Hambotirg, p. z I and 23.
 
-+ Would not some public intimations of the punishment to follow crimes be useful also in England? notwithstanding the numbers of fishermen and loose boys about Amsterdam, the Hague, and Schevelin, their public walks and beautiful plantations remain uninjured; which is owing, partly to the ftriCtnefs of the police, and partly to the warnings given by placarts painted on boards, and hung up in different places, with representations of whipping, cutting off hands, &c.
++ Would not some public intimations of the punishment to follow crimes be useful also in England? notwithstanding the numbers of fishermen and loose boys about Amsterdam, the Hague, and Schevelin, their public walks and beautiful plantations remain uninjured; which is owing, partly to the strictnefs of the police, and partly to the warnings given by placarts painted on boards, and hung up in different places, with representations of whipping, cutting off hands, &c.
 
 L 2
 
@@ -6820,7 +6804,7 @@ F f rooms
 
 LONDON.
 
-Fieet. rooms for debtors), a room for the turnkey, another for the watchman, and eighteen rooms for prisoners. — Besides the coffee-room and tap-room, two of those eighteen rooms, and all the cellar-floor, except a lock-up room to confine the disorderly, and another room for the turnkey, were held by the tapfier, John Cartwright, who bought the remainder of the lease at public auction in 1775. The cellar-floor is sixteen steps below the hall-gallery. It consists of the two rooms just now mentioned, the tapster's kitchen, his four large beer and wine celiars, and fifteen rooms for prisoners. These fifteen, and the two before-mentioned on the hall-gallery, the tapster lets to prisoners for from four to eight shillings a week*.
+Fieet. rooms for debtors), a room for the turnkey, another for the watchman, and eighteen rooms for prisoners. — Besides the coffee-room and tap-room, two of those eighteen rooms, and all the cellar-floor, except a lock-up room to confine the disorderly, and another room for the turnkey, were held by the tapfier, John Cartwright, who bought the remainder of the lease at public auction in 1775. The cellar-floor is sixteen steps below the hall-gallery. It consists of the two rooms just now mentioned, the tapster's kitchen, his four large beer and wine cellars, and fifteen rooms for prisoners. These fifteen, and the two before-mentioned on the hall-gallery, the tapster lets to prisoners for from four to eight shillings a week*.
 
 On the first gallery (that next above the hall-gallery) are twenty-five rooms for prisoners. On the second gallery twenty-seven: one of them, fronting the staircase, is their committee-room. A room at one end is an infirmary. At the other end, in a large room over the chapel, is a dirty billiard-table; kept by the prisoner who fleeps in that room. On the highest story are twenty-seven rooms. Some of these upper rooms, viz. those in the wings, are larger than the rest; being over the chapel, the tap-room, &c. All the rooms I have mentioned are for master's-side debtors. The weekly rent of those not held by the tapster is is. $d. unfurnished. They fall to the prisoners in succesiion, thus: when a room becomes vacant, the first prisoner upon the lift of such as have paid their entrance-fees, takes possession of it. When the prison was built, the warden gave each prisoner his choice of a room according to his seniority as prisoner. If all the rooms be occupied, a new comer must hire of some tenant a part of his room; or ftiift as he can. Prisoners are excluded from all right of succesiion to the rooms held by the tapster, and let at the high rents aforesaid. — The apartments for common-side debtors are only part of the right wing of the prison. Besides the cellar (which was intended for their kitchen, but is occupied with lumber, and (hut up) there are four floors. On each floor is a room about 24 or 25 feet square, with a fire-place; and on the fides, seven closets or cabins to lleep in Such of these prisoners as swear in court or before a commissioner that they are not worth five pounds, and cannot subsist without charity, have the donations which are sent to the prison, the begging-box, and the grate. Of them there were at one of my viiits sixteen, at some other times not so many.
 
@@ -6954,7 +6938,7 @@ Their sense to be deemed the sense of the whole house. The president or secretar
 
 Common-side prisoners to bt confined to their own apartments, and not to associate with these law-makers, nor to use the same conveniences.
 
-The above was the account of the Fleet before it was burnt by the rioters in 1780. It is rebuilt on the same plan. The floors of the celiar, the hall, and the first story are now stone, and arched with brick. The tapster still has all the cellar-floor. He and several of the prisoners keep dogs, which nuisance should never be permitted in prisons. The billiard and mifiiflppi tables are put down, and the little code of laws abolished. — In 1783, from July 7, to Aug. 25, not one prisoner was brought in — Robert Baflan, a crown prisoner, was committed Nov. 29, 1776, and after the fire surrendered himself under the proclamation Nov. 17, 1781, and was here at my last visit. Clauses against spirituous liquors are hung up. Now also is hung up the following table of fees.
+The above was the account of the Fleet before it was burnt by the rioters in 1780. It is rebuilt on the same plan. The floors of the cellar, the hall, and the first story are now stone, and arched with brick. The tapster still has all the cellar-floor. He and several of the prisoners keep dogs, which nuisance should never be permitted in prisons. The billiard and mifiiflppi tables are put down, and the little code of laws abolished. — In 1783, from July 7, to Aug. 25, not one prisoner was brought in — Robert Baflan, a crown prisoner, was committed Nov. 29, 1776, and after the fire surrendered himself under the proclamation Nov. 17, 1781, and was here at my last visit. Clauses against spirituous liquors are hung up. Now also is hung up the following table of fees.
 
 A Table of Fees to be taken by the Warden of the Prison of the Fleet, for any Prisoner or Prisoners Commitment, or coming into Gaol or Chamber Rent there, or discharge from thence, in any Civil Action. Settled and established the nineteenth Day of January, in the third Year of the Reign of his Majesty King George the Second, A.D. 1729, pursuant to an Act of Parliament lately made, intitled. An Act for the Relief of Debtors, in respect to the Imprisonment of their Persons.
 
@@ -11754,7 +11738,7 @@ SURGEON, Mr. Mafoti.
 
 Salary, £15 for debtors and felons.
 
-FOR master-side debtors nine or ten rooms. Day-room common. The free Remarks. ward, the celiar, is a dungeon, 294. feet by 9, and 6 feet 8 inches high, down 7 steps and dampf; two windows-, the largest about 15 inches square. Felons day and night-rooms are dungeons from 5 to 7 steps under-ground. They sleep on thick mats on the floor; which, if cribs and coverlets were added, would be better than straw.
+FOR master-side debtors nine or ten rooms. Day-room common. The free Remarks. ward, the cellar, is a dungeon, 294. feet by 9, and 6 feet 8 inches high, down 7 steps and dampf; two windows-, the largest about 15 inches square. Felons day and night-rooms are dungeons from 5 to 7 steps under-ground. They sleep on thick mats on the floor; which, if cribs and coverlets were added, would be better than straw.
 
 The whole close and offensive. Court small, 36 feet by 17 feet inches. No chapel.
 
@@ -11798,7 +11782,7 @@ For the turnkey -
 
 A room of every prisoner who finds his own bed per week -
 
-A room, called the celiar, for debtors if they find their own bed
+A room, called the cellar, for debtors if they find their own bed
 
 For the copy of every warrant or commitment -
 
@@ -18442,7 +18426,7 @@ A debtor officiates as clerk, for which the county allows £2 a year. SURGEON, M
 
 Salary, none: he makes a bill.
 
-THIS castle is the property of the King. The first room is a hall: there are two staircases leading up from it to four rooms for master's-side debtors. Down 18 Heps is a small court, which was common to debtors and felons. It is lately divided, but the high close pales which separate the two courts, now so very small, deprive both debtors and felons of the benefit of fresh air, and-the keeper has no view of the felons court or day-room, in which men and women are together: the debtors, in the pope's kitchen (improperly called their free ward, as they pay one shilling a week each); the felons, in their day-room, the king's kitchen. Both these are 6 steps below the court: each of them about 35 feet by 22. Near the former is the condemned room. Under the king's kitchen is the king's celiar; quite useless. Under the pope's kitchen is a dark past'age 24 feet by 9: the descent to it, is by 21 steps from the court. No window: not a breath of fresh air: only two apertures (lately made) with grates in the ceiling into the pope's kitchen above. On one side of it are fix 5 cells
+THIS castle is the property of the King. The first room is a hall: there are two staircases leading up from it to four rooms for master's-side debtors. Down 18 Heps is a small court, which was common to debtors and felons. It is lately divided, but the high close pales which separate the two courts, now so very small, deprive both debtors and felons of the benefit of fresh air, and-the keeper has no view of the felons court or day-room, in which men and women are together: the debtors, in the pope's kitchen (improperly called their free ward, as they pay one shilling a week each); the felons, in their day-room, the king's kitchen. Both these are 6 steps below the court: each of them about 35 feet by 22. Near the former is the condemned room. Under the king's kitchen is the king's cellar; quite useless. Under the pope's kitchen is a dark past'age 24 feet by 9: the descent to it, is by 21 steps from the court. No window: not a breath of fresh air: only two apertures (lately made) with grates in the ceiling into the pope's kitchen above. On one side of it are fix 5 cells
 
 Chester Circuit.
 
