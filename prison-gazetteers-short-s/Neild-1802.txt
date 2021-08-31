@@ -4288,7 +4288,7 @@ Surgeon, Mr. Maule.
 
 Salary, none; makes a bill.
 
-C I SOO, 9 . r> « » . . . (2 *
+C I SOO, 9 . r> . . . (2 *
 
 Number of Debtors i 0 ,
 
@@ -5366,7 +5366,7 @@ Salary, None; makes a bill.
 
 r 1800, March ao, .. 5
 
-Number of Debtors < « x 0 *
+Number of Debtors < x 0 *
 
 1002, Jan. 28, .... 6
 
@@ -7276,7 +7276,7 @@ ground
 
 IN LANGSTON HARBOUR.
 
-* » T r *
+* T r *
 
 JO
 

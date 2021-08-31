@@ -4366,7 +4366,7 @@ Number of Prisoners for nearly sixteen years, beginning in 1794, and continued u
 
 1794, - 1224. 1802, - 1751.
 
-17.95, - 1318. t — CO 0 Co » 1 1 1480.
+17.95, - 1318. t — CO 0 Co 1 1 1480.
 
 17 96, 1490. 1804, - 1296*.
 
@@ -4378,7 +4378,7 @@ Number of Prisoners for nearly sixteen years, beginning in 1794, and continued u
 
 1800, - 1989. 1 1 1 1 1 czT 0 CO r — t 1226'.
 
-1 1 1 1 1 O CO — < 1935. > — « CO 0 1 1 1 1 1 553-
+1 1 1 1 1 O CO — < 1935. > — CO 0 1 1 1 1 1 553-
 
 Allowance, one quartern loaf per day for six Prisoners, provided by the Hospital; independent of the contract made with Mr. Hudson, the Steward; who is allowed one shilling per day for the maintenance of each Prisoner, and furnishes the following diet for each, as settled in the Special Committee, 19th January, 1 So 1.
 
@@ -6304,7 +6304,7 @@ Number of Prisoners, Felons, &e.
 
 1804, Aug. 31st, - 154 1810, May 22d, - llG
 
-LO O CO » — 1 April 13th, - 140 1S11, Feb. 16’th, - 85
+LO O CO — 1 April 13th, - 140 1S11, Feb. 16’th, - 85
 
 Allowance, one pound of bread per day, sent from the Baker’s, in loaves of 2lbs. weight, every other day.
 
@@ -9668,7 +9668,7 @@ Ditto - Mr. Shields - Cooks Company - O 0 0
 
 Ditto - Mr. Clarke - Mr. Hodgson^ - - 1 0 0
 
-Ditto - Mr. James Hodgson - St. Sepulchre’ *, Parish - » 10 0
+Ditto - Mr. James Hodgson - St. Sepulchre’ *, Parish - 10 0
 
 Half-Yearly - Sir William Middleton - Chamberlain’s Office - 1 11 3
 
@@ -12798,7 +12798,7 @@ from Mrs. Langton, paid by Lawrence Rawsthorn, Esq. at each Assize - -2
 
 From Sir 1 homas Gerrard, of Gartswood, paid by Mr. Pinsick,
 
-Steward to the present Family; due about 1st August - « 8
+Steward to the present Family; due about 1st August - 8
 
 s. d. 0 0 0 0
 
@@ -16396,7 +16396,7 @@ End of Term - Barons of Exchequer - Exchequer Office, Temple - 0 6 s
 
 Yearly - Sundry Persons J - " leathersellers Company - *0 11 <)
 
-Quarterly _ - Mr. John Meridith - » 5 (5
+Quarterly _ - Mr. John Meridith - 5 (5
 
 Ditto _ _ - Mr. John Dra|H?r - Ditto -- 0 3 4
 
@@ -16812,7 +16812,7 @@ Surgeon, Mr. Hardin. Salary, 26I. for all.
 
 Number of Prisoners, Debtors. Felons, &c. Debtors. Felons, &e
 
-1801, Aug. 18th, - 1 0 1 1 Co 180S, July 2<)th, CM 1 1 » — < 1 1
+1801, Aug. 18th, - 1 0 1 1 Co 180S, July 2<)th, CM 1 1 — < 1 1
 
 1802, Jan. 31st, - 10 - 38 l8()<), Aug. 17th, - 6 - 24
 
@@ -18926,7 +18926,7 @@ The advantages arising from the Employment of Prisoners, in Bridewells and House
 
 I do not think it a difficult matter so to encourage Industry, as to make Idleness
 
-O « 7
+O 7
 
 become just as irksome and odious, as hitherto it has been palatable. And this opinion, (which only requires calm reflexion,) is absolutely formed in my mind from frequent conversation, even with Prisoners, at various times and places.
 
