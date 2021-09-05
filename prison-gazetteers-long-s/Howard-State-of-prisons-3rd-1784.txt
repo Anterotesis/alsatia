@@ -3926,7 +3926,7 @@ In one of the Galleys just returned from conveying some noblemen to their countr
 
 The hospital for died- galleys is on shore-, and in it arc hung up the regulations, which consist chiefly of such orders as the following:
 
-“ That five superintendencs shall be appointed by the magistrates, who every month shall draw lots, to determine which of the galleys they are to inspect.—That exact lids of the crews, and of the lick in the infirmary, with an account of the time of their admission, shall be taken and kept, with the assistance of the physician, chaplain, and surgeon.—That the lecretary {hall keep a regillcr of all things necessary to be provided; bread, wine, meat, peale, beans, rice, &c. &c.—That four caldrons of broth shall be allowed weekly to a galley, besides kettles of broth datedly given them in the three winter months.—That when the superintendents discontinue the allowance of meat, cheese, oil, and dockfilli, the chaplain shall fee that each of the
+“ That five superintendencs shall be appointed by the magistrates, who every month shall draw lots, to determine which of the galleys they are to inspect.—That exact lids of the crews, and of the lick in the infirmary, with an account of the time of their admission, shall be taken and kept, with the assistance of the physician, chaplain, and surgeon.—That the secretary {hall keep a regillcr of all things necessary to be provided; bread, wine, meat, peale, beans, rice, &c. &c.—That four caldrons of broth shall be allowed weekly to a galley, besides kettles of broth datedly given them in the three winter months.—That when the superintendents discontinue the allowance of meat, cheese, oil, and dockfilli, the chaplain shall fee that each of the
 
 Haves
 
@@ -5852,8 +5852,6 @@ It contains thirty-three articles. To this arret is annexed three others, viz. t
 
 f The foundation of this was probably the fird article upon prisons in the excellent criminal Ordonnanct de Lotus XIV. 1670, which directs that they shall be so disposed that tbt health of frifontrt fiso.ll net be incommoded.
 
-A a 2
-
 that
 
 FOREIGN PRISONS.
@@ -6163,8 +6161,6 @@ There was a new temporary Pr'tfon at Deal. It had an airy and spacious room belo
 I could have wiihed, that the gentlemen concerned for the American prisoners, had extended their reg'ards also to the Trench, and by their attention and visits had obliged the contractors to* be more careful in discharging their duty.
 
 f It might have been better, if in the rooms appropriated to the sick, there had been women QUrfctf as in the royal hospitals at Haflar and Plymouth, which are neat and clean.
-
-B b 2
 
 ToltTOK.
 
@@ -7086,8 +7082,6 @@ It should be observed, that by the statute 32d George II. if any gaoler, or keep
 
 f My minuteness with respect to measurements and other circumstances relating to the construction and government of these buildings, will require no apology with those who consider, that in the formation of new establishments, it is of use to be acquainted with many things which, though apparently trivial, arc frequently of material consequence to the purposes intended to be answered.
 
-E e 2
-
 THE
 
 r
@@ -7378,7 +7372,7 @@ F-set. rooms for debtors), a room for the turnkey, another for the watchman, and
 
 On the first gallery (that next above the hall-gallery) are twenty-five rooms for prisoners. On the Jeccni gallery twenry-seven: one of them, fronting the staircase, is their committee-room. A room at one end is an infirmary. At the other end, in a large room over the chapel, is a dirty billiard-table; kept by the prisoner who deeps in that room. On the highest story are twenty-seven rooms. Some of these upper rooms, crz. those in the wings, are larger than the rest; being over the chapel, the tap-room, &c. All the rooms I have mentioned are for master's-fide debtors.
 
-The weekly rent of those not held by the tapster is 1 s. yd. unfumiftied. They fall to the prisoners in succession, thus: when a room becomes vacant, the first prisoner upon the lift of such as have paid their entrance-fees, takes possession of it. When the prison was built, the warden gave each prisoner his choice of a room according to his leniority as prisoner. If all the rooms be occupied, a new comer must hire of some tenant a part of his room; or ihift as he can. Prisoners are excluded from all right of succession to the rooms held by the tapster, and let at the high rents aforesaid.—The apartments for common-fide debtors are only part of the right- wing of the prison. Belides the cellar (which was intended for their kitchen, but is occupied with lumber, and lhut up) there are four floors. On each floor is a room about 14 or 2J feet square, with a fire-place; and on the sides, seven closets or cabins to sleep in Such of these prisoners as swear in court or before a commissioner that they are not worth five pounds, and cannot subsist without charity, have the donations which are sent to the prison, the begging-box, and the grate. Of them there were at one of my visits sixteen, at some other times not so many.
+The weekly rent of those not held by the tapster is 1 s. yd. unfumiftied. They fall to the prisoners in succession, thus: when a room becomes vacant, the first prisoner upon the lift of such as have paid their entrance-fees, takes possession of it. When the prison was built, the warden gave each prisoner his choice of a room according to his seniority as prisoner. If all the rooms be occupied, a new comer must hire of some tenant a part of his room; or ihift as he can. Prisoners are excluded from all right of succession to the rooms held by the tapster, and let at the high rents aforesaid.—The apartments for common-fide debtors are only part of the right- wing of the prison. Belides the cellar (which was intended for their kitchen, but is occupied with lumber, and lhut up) there are four floors. On each floor is a room about 14 or 2J feet square, with a fire-place; and on the sides, seven closets or cabins to sleep in Such of these prisoners as swear in court or before a commissioner that they are not worth five pounds, and cannot subsist without charity, have the donations which are sent to the prison, the begging-box, and the grate. Of them there were at one of my visits sixteen, at some other times not so many.
 
 I have in the Report of the Committee of the House of Commons 1728,.a table of some charities: but no such table was hung up in the prison. f
 
@@ -7416,7 +7410,7 @@ of every action - - - - -- _ - 026
 
 And for the copy of every cause not exceeding three - . - o I o
 
-And for each and every cause exceeding three causes - . - o o ;
+And for each and every cause exceeding three causes - . - o o;
 
 Besides the ilh a piece for each of the said first three causes yth. That there is due and ought to be paid to the clerk of the papers for his certificate of the prisoner’s discharge delivered to the prisoner himself without any regard to the number of causes he Hood charged with - - - -02 6
 
@@ -7429,8 +7423,6 @@ of a prisoner by the creditor and not by fupcrfeeleas - - -026
 14th. That there is a fee of 5 lb 4d due to the clerk of the papers for the allowance of every writ of habeas corpus and 4lh for the return of the first cause and 2 Ih for every other cause and no more.
 
 There is in the prison a table of rules or orders. They were made at very distant times, from the reign of Queen Elizabeth, to the date they bear; and some of Them partly coincide with others: those which do so I have put together to avoid repetition, and have presumed to abridge the whole.
-
-F f 2
 
 Fleet.
 
@@ -7476,7 +7468,7 @@ that is difcafec.
 
 21, 11, 23, 24, 25, 26. Warden to keep books, and register commitments, courts from whence, declarations, discharges, writs of habeas corpus. Tipstaff and judge's clerk to keep each a separate book of prisoners delivered of at a judge’s chamber.
 
-27. All those books, except the tipstaff’s, to be kept in the public office of the clerk of the papers ;
+27. All those books, except the tipstaff’s, to be kept in the public office of the clerk of the papers;
 
 accessible to all persons for copying. See. zS. No clerk, officer, or servant of any judge to take a fee on occasion of a petition or complaint, founded upon the foregoing orders, or any misgovernment.
 
@@ -7946,8 +7938,6 @@ O 3 0
 
 0 Z 0
 
-G g 2
-
 PovimT
 
 CourTEIt.
@@ -8306,7 +8296,7 @@ OVER the gate, two new rooms for night-charges, as at the New Prison. 'In the Re
 
 6 feet by 16; the other two, 0 by 10 each; full 8 feet high. Their night-rooms opposite on the ground floor, one for fines, and one for other offenders, are about 20 feet by 14 each; with barrack-beds. One of them was so crowded, that some prisoners slept in hammocks. Over these night-rooms are chambers with beds for those who pay 3J. 6d. a week: and another room also for fines: joining to which, is a small close room used as an infirmary for men. In another part of the court is a hemp-shop or; workshop: it is a passage to fix little work-ihops for faulty apprentices; .7 feet by jt each: fronting these are their fix night-rooms (8 by 4); all on the ground-floor.
 
-In the women's court are three lheds or day-rooms; fame size as those of the men; with a hemp-lhop or workshop. Over this, and the men’s workshop, is a long gallery or passage, in which are twelve dark unwholesome night-rooms for women ;
+In the women's court are three lheds or day-rooms; fame size as those of the men; with a hemp-lhop or workshop. Over this, and the men’s workshop, is a long gallery or passage, in which are twelve dark unwholesome night-rooms for women;
 
 H h a 9 feet
 
@@ -11158,8 +11148,6 @@ Assize in this isle, of late, twice a year, viz. Lent at Ely, Summer at Wisbech.
 
 ’ This was by chaining them down on their backs upon a floor, across which were several iron bars; with an iron collar with spikes about their necks and a heavy iron bar over their legs. An excellent magistrate, Jumn Coilyir, Esq. presented an account of the case, accompanied with a drawing, to the king; with which his majesty was much affected, and gave immediate orders for a proper inquiry and redress.
 
-P p 2
-
 At
 
 2$2
@@ -12076,8 +12064,6 @@ Warwick.
 
 Remarks.
 
-R r 2
-
 Debtors
 
 jo8 WARWICKSHIRE. Midland Circuit.
@@ -12215,8 +12201,6 @@ W, H. Ashurst.
 1—an AS of
 
 £ s. D.
-
-O z 6
 
 O 1 6
 
@@ -12441,8 +12425,6 @@ HINKLEY. This prison has a work-room; a vaulted lodging-room for men; another fo
 Beide-
 
 WELLS.
-
-S f 2
 
 LEICESTER
 
@@ -15450,8 +15432,6 @@ And it is ordered—“that the gaolrr—shall not' receive firefttjr or indireA
 
 £ s. D.
 
-O a 0
-
 1 5 4
 
 O 12 8
@@ -16784,8 +16764,6 @@ For every person discharged from bridewell, ' -
 
 £ $; z>.
 
-O s 4
-
 0 1 6
 
 O 6 8
@@ -17390,8 +17368,6 @@ And all others that shall be committed to gaol before the assizes or gaol.delive
 
 O to 4
 
-O a 0
-
 O 8 0
 
 O 6 8
@@ -17784,7 +17760,7 @@ Debtors. Felons &c. Debtors. Fdodi&e.
 
 1774, Nov. 1, 5> O. 1779, May 7, 8, I.
 
-1776, Jan. 29, 6, 3 17&2, Jan.30, 7. 4*
+1776, Jan. 29, 6, 3 17 & 2, Jan.30, 7. 4*
 
 4, s-
 
@@ -19308,7 +19284,7 @@ Upon every commitment by the mayor for a misdemeanbr if a freeman If a foreigner
 
 For the bine room to a gentleman committed prisoner, per week
 
-For lodging every night in a feather bed ..... In a flock or chaff bed - - - . - ;
+For lodging every night in a feather bed ..... In a flock or chaff bed - - - . -;
 
 Chamber-rent per week the prisoner finding his own bedding -
 
@@ -19682,7 +19658,7 @@ Fees, Debtors, £0:6:0.
 
 Felons, o: 3: 6.
 
-Transports, £t each to Chester. ;
+Transports, £t each to Chester.;
 
 Licence, none.
 

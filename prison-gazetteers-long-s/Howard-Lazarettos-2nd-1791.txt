@@ -502,7 +502,7 @@ Sect. I.
 
 LAZARETTOS
 
-The court is always attended by a lecretary, who is a notary public, advocate fiscal, Venice. and several clerks, who are for life or during good behaviour, and have their respective salaries.- The priors of the lazarettos are subjected to this board, as are the guardians of health, and me (Tenge rs, whose particular duties I shall afterwards describe. It maintains overseers in different parts of the city to inspect the provisions fold in the public markets, lhops or otherwise, who make their report of whatever they find that might have a tendency to affect the public health; their business is also to fu-perintend beggars, to prevent loathsome and noxious distempers being derived from want and misery, or other obvious causes; they keep an exact register of deaths, and the bodies of those who die without any previous malady, are accurately examined by the physician and surgeon immediately belonging to the office; both these have a fixed lalary, and are consulted by the board in cases relating to their respective professions; they are also obliged in contagious emergencies to (hut themselves up in the lazaretto to take care of the Tick *.
+The court is always attended by a secretary, who is a notary public, advocate fiscal, Venice. and several clerks, who are for life or during good behaviour, and have their respective salaries.- The priors of the lazarettos are subjected to this board, as are the guardians of health, and me (Tenge rs, whose particular duties I shall afterwards describe. It maintains overseers in different parts of the city to inspect the provisions fold in the public markets, lhops or otherwise, who make their report of whatever they find that might have a tendency to affect the public health; their business is also to fu-perintend beggars, to prevent loathsome and noxious distempers being derived from want and misery, or other obvious causes; they keep an exact register of deaths, and the bodies of those who die without any previous malady, are accurately examined by the physician and surgeon immediately belonging to the office; both these have a fixed lalary, and are consulted by the board in cases relating to their respective professions; they are also obliged in contagious emergencies to (hut themselves up in the lazaretto to take care of the Tick *.
 
 The city of Venice has two lazarettos appropriated to the expurgation of merchandise Lazaret-susceptible of infection, coming from fulpedted parts, and for the accommodation of paf- T0S* (engers in performing quarantine; as also for the reception of persons and effects infected in the unhappy times of pestilence. The old lazaretto is two miles, and the new about five miles dillant from the city, both on little ifiands, separated from all communication, sot only by broad canals surrounding rbem. but also by high walls; they are of large extent, being about four hundred geometrical paces in circumference. They have only a ground floor and one over it, and are divided and lubdivided into a great number of apartments, greater and smaller, for the reception of passengers; all these apartments have their separate entries and stairs, and every range of them has an open court in front, with plats of grass which is not suffered to grow too high, and no kind of trees or vegetables are permitted within this district, nor within a good distance from it. There are (heds against some of the walls, and in other proper places (but not mixed with the apartments of passengers) so contrived that the merchandise is not exposed to damage by rain or otherwise, and at tire fame time, that the air is not confined. A more minute description would be tedious, and as the plan of the old lazaretto may be seen (in plate XII.), is not necessary.
 
@@ -2810,7 +2810,7 @@ f All hospitals should have set days for visitants, and only two in a week (as a
 
 % In almost every village in Ireland, there are several public houses for the sale of spirituous liquors; and when gentlemen, from a regard to the morals and health of their domestics and tenants, have applied to prevent licenses to such houses, the publicans have obtained them from the commissioners of excise in Dublin, because the means of increasing the revenue.
 
-On a resolution at a vestry-meeting in the vestry-room of St. Mary’s Dublin, April 2, 1788, to wait on the Lord Lieutenant, the gentlemen flated, M That, upon a most accurate inquiry, it appears th*t dram-shops u amount to a number alarming to humanity; there being in the parish in which they were assembled above tc one seventh of the total number of houses; in St. Wer burgh's no fewer in proportion; in St. Mark*s one “ fifth; and in St James's one fourth of the whole.”—In Dr. Aikin*s Remarks on the different success, with respefl to health, of some attempts to pass the winter in high northern latitudes, in the Memoirs of the Literary emd Philofophical Society* of Manchester, <vol. /. pag. 89. having related several accounts, he thus observes as to the important article of their drink: “ It appears, that in all the unsuccessful in fiances, vinous and spirituous “ liquors were used, and probably in considerable quantities. Thus, in one of the Dutch journals, notice is €t taken, that an allowance of brandy begun to be served to each man as soon as the middle of September. u Writers on the scurvy fecm, almost unanimously, to consider a portion of these liquors as an useful addition to
+On a resolution at a vestry-meeting in the vestry-room of St. Mary’s Dublin, April 2, 1788, to wait on the Lord Lieutenant, the gentlemen flated, M That, upon a most accurate inquiry, it appears th*t dram-shops u amount to a number alarming to humanity; there being in the parish in which they were assembled above tc one seventh of the total number of houses; in St. Wer burgh's no fewer in proportion; in St. Mark*s one “ fifth; and in St James's one fourth of the whole.”—In Dr. Aikin*s Remarks on the different success, with respefl to health, of some attempts to pass the winter in high northern latitudes, in the Memoirs of the Literary emd Philosophical Society* of Manchester, <vol. /. pag. 89. having related several accounts, he thus observes as to the important article of their drink: “ It appears, that in all the unsuccessful in fiances, vinous and spirituous “ liquors were used, and probably in considerable quantities. Thus, in one of the Dutch journals, notice is €t taken, that an allowance of brandy begun to be served to each man as soon as the middle of September. u Writers on the scurvy fecm, almost unanimously, to consider a portion of these liquors as an useful addition to
 
 M u the
 
@@ -9100,8 +9100,6 @@ No alteration, but petty offenders are sent to the adjoining prison. No proper s
 
 Ruthin CoyNTT Gaol.
 
-E e 2
-
 » COUNTY
 
 ' by
@@ -12128,7 +12126,7 @@ house of industry, 91
 
 county hospital, 91
 
-Lincolnshire, 163 ;
+Lincolnshire, 163;
 
 Lincoln county gaol, 163 city gaol, 163
 
@@ -12812,7 +12810,7 @@ Munster, 87
 
 Connaught, ' 92 Ulster North-weft, 94 Ulster North-east, 97
 
-Circuits, Eng!if ;
+Circuits, Eng!if;
 
 Home 142
 
@@ -13088,8 +13086,6 @@ In the City Hospital, the apertures that have been lately made in the ceiling of
 
 The Pest-house is out of the city. At both my visits, I had the pleasure to find every ward sweet and clean, the patients calm and quiet, and diat order that I wilh to find in all hospitals. This I the more readily mention, as the state of this house occasioned me to censure it in a former work. Here were 107 men and 129 women.
 
-N n 2
-
 In
 
 4
@@ -13311,8 +13307,6 @@ The old House of Correction, which was burnt down last winter, was situated near
 • In some Roman Catholic countries, I have been informed that the priests have refused to administer the sacrament to prisoners, unless their irons were taken off.
 
 * f In several places I now take the liberty to mention what seemed to me an obvious remedy to some defeat that happened to strike me. I hope it will not be thought by any gentleman, that I do it in the style of a djftator. Yet should it be a iked, why I did not so generally do it in my first publications, I reply, that my purpose then was to collect what was good, with a view of a reform in my own country; as I did not think any observations of so private an individual would either reach the eye of foreign magistrates, or be attended to by them: but, it has pleased God to order it otherwise; it would therefore be, on my part, refusing to do the giod offered to my endeavours, were I to abstain from such remarks as may correct abuses, and alleviate roifery in all die places I visit.
-
-O o 2
 
 'Ml ME I*
 
