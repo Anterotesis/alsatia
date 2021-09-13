@@ -1720,7 +1720,7 @@ In the Stadt-House there is hung up to public view, a board shewing the mortalit
 
 Deaths in 1774, — 66^9
 
-1775> — 7895-
+1775, — 7895-
 
 August 6th, 1776, — 120
 
@@ -3078,7 +3078,7 @@ A chapel, almost finished; which is to be common to this Prison and the Bridewel
 
 The Tap-Room is near the outer gate. Prisoners do not come into it; but take their liquor at a wicket made for that purpose in the wall, that separates if from them. No infirmary: no bedding or draw.
 
-A matron has £5 salary out of the Gaoler's £30. In July 1775 the Justices thought fit to raise his fees from 5 s. 6d. to 7 s.
+A matron has £5 salary out of the Gaoler's £30. In July 1775 the Justices thought fit to raise his fees from 5s. 6d. to 7s.
 
 A generous Benefactor (a falefman in Smithfield) often sends the Prisoners Ijeef and bread. They have occasionally other small donations.
 
@@ -3776,7 +3776,7 @@ Salary, 13. from each Prisoner on discharge.
 
 SURGEONS, MclT1'3. Stapleton and Waljhman.
 
-Salary, 1 s. from each Prisoner on discharge.
+Salary, 1s. from each Prisoner on discharge.
 
 TO this Prison of the Court of the Marshalsea, and of the King's Palace-Court of Westminster, are brought Debtors arrested for the lowed sums, any where within twelve miles of the Palace, except in the city of London: and also persons committed for piracy.
 
@@ -4964,9 +4964,9 @@ Felons, 0: 2: 6.
 
 Number of - Debtors. Felons
 
-1773» Nov. 27, 6 - *7>
+1773, Nov. 27, 6 - *7>
 
-1774> Nov. 12, 4 - CO 1
+1774, Nov. 12, 4 - CO 1
 
 1776, Jan. 3, 10 - 10.
 
@@ -5008,7 +5008,7 @@ rent free. Prisoners allowance one pound of bread a day.
 
 1776, Jan. 3, - 3.
 
---- Nov. 2, - 1.
+1776, Nov. 2, - 1.
 
 COUNTY
 
@@ -5016,7 +5016,7 @@ Norfolk Circuit. BEDFORDSHIRE.
 
 COUNTY GAOL at BEDFORD.
 
-GAOLER, 'Thomas Howard.
+GAOLER, Thomas Howard.
 
 Salary, none.
 
@@ -5038,7 +5038,7 @@ Felons, two halfpeck-loaves a week each. Garnish, Debtors, ^0: 5: o.
 
 Number of - Debtors. Felons See.
 
-1773' - " S to io, 6 to 9,
+1773, - " S to io, 6 to 9,
 
 1776, Feb. 12, 8, - 5.
 
@@ -5054,15 +5054,11 @@ Salary, £ 12 for the Gaol and Bridewell.
 
 IN this Prison there is a day-room for Debtors, which is used as a Chapel, and three or four lodging-rooms: for Felons, two day-rooms, one for men, the other for women, without fire-places: two dungeons, down eleven steps, and often
 
-I i 1 very
-
 243,
 
 Remarks,
 
-244-
-
-BEDFORDSHIRE. Norfolk Circuit.
+244. BEDFORDSHIRE. Norfolk Circuit.
 
 very damp. The straw, for which the County allows the Gaoler f_5 a year, is not on the floors, but on frames or bedsteads. On application, the Justices allow in winter coals both to Felons and Debtors. The court-yard is common to both, and final!. No apartments for the Gaoler.
 
@@ -5224,7 +5220,7 @@ Number of Debtors. Felons &c.
 
 177 3> Nov. 4, - 8 - 2,
 
-1774> Dec. 13, - 6 - 4>
+1774, Dec. 13, - 6 - 4>
 
 1776, Feb. 9, - 8 - 6,
 
@@ -6920,7 +6916,7 @@ FOKINGHAM. Damp rooms: no chimneyfmall yard: no pump: no fewer. Yet the Keeper s
 
 1774, Oft. 28, Prisoners 4.
 
-SPALDING. This Prison, lately built, has several sizeable airy rooms thirteen feet by ten: chimneys in foine of them. A work-room twenty-eight feet by nine and three-quarters. The under-rooms vaulted, twelve feet and a half by nine and a half. No yard: no water accessible to Prisoners. When they work they have three-fourths of the profit; Turnkey, the remainder. Clauses of Act again!! Spirituous Liquors hung up: — as also is the late Act for preserving the Health of Prisoners; neatly painted on a small board. — Keeper's Salary ^38: Fees 5 s. no Table. — He told me that in the laffc six years he had 236 Prisoners.
+SPALDING. This Prison, lately built, has several sizeable airy rooms thirteen feet by ten: chimneys in foine of them. A work-room twenty-eight feet by nine and three-quarters. The under-rooms vaulted, twelve feet and a half by nine and a half. No yard: no water accessible to Prisoners. When they work they have three-fourths of the profit; Turnkey, the remainder. Clauses of Act again!! Spirituous Liquors hung up: — as also is the late Act for preserving the Health of Prisoners; neatly painted on a small board. — Keeper's Salary ^38: Fees 5s. no Table. — He told me that in the laffc six years he had 236 Prisoners.
 
 1776, Feb. 2, Prisoners 4.
 
@@ -7132,7 +7128,7 @@ Garnish, one shilling.
 
 Number of Debtors. Felons &c.
 
-1774> Jan. 23, 0 - 0,
+1774, Jan. 23, 0 - 0,
 
 1775, Nov. xo, .1 - r r>
 
@@ -7178,7 +7174,7 @@ Number of Debtors. Felons &c.
 
 177J> Nov. 15, -9- - 8,
 
-1774> April 5,' - 6 -
+1774, April 5,' - 6 -
 
 177 5> Jan. 2, - 8 - 7>
 
@@ -7228,7 +7224,7 @@ PETERBOROUGH GAOL,
 
 For the Liberty called the Soke, which contains thirty-two towns, is the property of Lord Exeter. It is now also the Prison of the Dean and Chapter of the Cathedral Church of the Borough of St. Peter otherwise Peterborough.
 
-Two rooms for Debtors, and down three steps a room called the Gaoli in which is the condemned room: the Court having power of life and death. A Malefactor was executed here about two years ago. No allowance. Keeper's Salary £ 12: Fees 7 s. 8 d. the Table neither signed nor dated. He pays Window-tax £1: 5: 6.
+Two rooms for Debtors, and down three steps a room called the Gaoli in which is the condemned room: the Court having power of life and death. A Malefactor was executed here about two years ago. No allowance. Keeper's Salary £ 12: Fees 7s. 8 d. the Table neither signed nor dated. He pays Window-tax £1: 5: 6.
 
 1774, Oft. 28, Debtors 2,
 
@@ -7236,7 +7232,7 @@ Two rooms for Debtors, and down three steps a room called the Gaoli in which is 
 
 PETERBOROUGH BRIDEWELL,
 
-For the Soke, as above, has on the ground-floor a large workshop, and a room lately divided into a. part for men, and another for women. — Up stairs, two rooms or hemp-warehouses: the Keeper a hemp-dresser. A very small court-yard j not secure: Prisoners always within doors. No water. Keeper's'Salary £8: Fees 3 s. 6d. no Table.
+For the Soke, as above, has on the ground-floor a large workshop, and a room lately divided into a. part for men, and another for women. — Up stairs, two rooms or hemp-warehouses: the Keeper a hemp-dresser. A very small court-yard j not secure: Prisoners always within doors. No water. Keeper's'Salary £8: Fees 3s. 6d. no Table.
 
 1774, Oft. 28, Prisoner 1,
 
@@ -7330,7 +7326,7 @@ BERKSHIRE.
 
 COUNTY BRIDEWELLS.
 
-READING. This is also the town bridewell. It was formerly a Church, and is a spacious room, with four small cabins on one side for night-rooms. No court-yard: no water: allowance three-pence a day. Keeper's Salary £ 18 from the County; £2 from the 'Town: Fees 4 s. 4d. no Table: Licence for Beer: half the profit of the Prisoners work: £1 a year to find them straw.
+READING. This is also the town bridewell. It was formerly a Church, and is a spacious room, with four small cabins on one side for night-rooms. No court-yard: no water: allowance three-pence a day. Keeper's Salary £ 18 from the County; £2 from the 'Town: Fees 4s. 4d. no Table: Licence for Beer: half the profit of the Prisoners work: £1 a year to find them straw.
 
 1776, Jan. l> Prisoners 6, --- Nov. i, 6.
 
@@ -7362,7 +7358,7 @@ I need not observe that his Majesty is Proprietor. The Duke of Montague is Const
 
 WINDSOR TOWN GAOL.
 
-Two rooms: no chimney: no yard: no water. Keeper a Sergeant at Mace; no Salary; Fees 6 s. 8d. Notable. Allowance threepence a day.
+Two rooms: no chimney: no yard: no water. Keeper a Sergeant at Mace; no Salary; Fees 6s. 8d. Notable. Allowance threepence a day.
 
 1776, March 1, Prisoners 3.
 
@@ -7408,7 +7404,7 @@ Number of - Debtors. Felons
 
 17 7 4> July 4> 11 - *7>
 
-1776> Jan. 2, 13 ~ - 10,
+1776, Jan. 2, 13 ~ - 10,
 
 — Oft. 31, 7 - 14.
 
@@ -7446,7 +7442,7 @@ Oxford Circuit. OXFORDSHIRE.
 
 3l7
 
-There is another Legacy to Prisoners of both forts; 8 s. 8d. a year; paid quarterly by Mr. Hart of Oxford.
+There is another Legacy to Prisoners of both forts; 8s. 8d. a year; paid quarterly by Mr. Hart of Oxford.
 
 Debtors have in common every Saturday two shillings worth of meat; sent by a Gentleman of Christ Church College. From two other Colleges they have in bread about as. 4d. a week. Christ Church and New College fend them broth; generally three times in a fortnight: the Prisoners pay four pence to the man who brings it.
 
@@ -7606,7 +7602,7 @@ Number of - Debtors. Felons &c.
 
 1775, Dec. 1, 25 - 17,
 
-1776> Sep. 10, 9 - 10.
+1776, Sep. 10, 9 - 10.
 
 CHAPLAIN, Rev. Mr. Taylor. Duty — Friday.
 
@@ -7964,7 +7960,7 @@ An Infirmary should be added: for if the intended improvements will be some prot
 
 When the Apothecary finds that a sick Prisoner should have better diet, he orders the Gaoler to provide it, and signs his bill for the amount; which is readily allowed by the Justices at Quarter Sessions.
 
-Of the twenty-four Felons in September last, fourteen were Convicts for Transportation. — The County allows Transports convicted at Quarter Sessions as much as those convicted at Assize have from the King's allowance, viz, 2 s. 6d. a week.
+Of the twenty-four Felons in September last, fourteen were Convicts for Transportation. — The County allows Transports convicted at Quarter Sessions as much as those convicted at Assize have from the King's allowance, viz, 2s. 6d. a week.
 
 Mr. Wood,
 
@@ -8088,7 +8084,7 @@ COUNTY BRIDEWELL at SHREWSBURY.
 
 Too finall: only one day-room for men and women. Two night-rooms above for women. In one of them I saw a poor young creature too ill to come down stairs j she was languishing on the floor in a consumption. The night-room for men is a dungeon down ten steps. There is a finall court-yard with water. — By means of a door from this into one of the Gaol Court-yards, thele Prisoners have a privilege (which few in Bridewells enjoy) of attending Public Worship in the Chapel on Sunday.
 
-Keeper's Salary £50. Fees at Discharge of a Felon, 8 s. of one guilty of a Misdemeanor, 6 s. 8 d. of a Vagrant, 3 s. 6d. as per Table in the Prison. — Allowance, bread as Felons in the Gaol. Little or no employment: Keeper has half the profit.
+Keeper's Salary £50. Fees at Discharge of a Felon, 8s. of one guilty of a Misdemeanor, 6s. 8 d. of a Vagrant, 3s. 6d. as per Table in the Prison. — Allowance, bread as Felons in the Gaol. Little or no employment: Keeper has half the profit.
 
 The Prohibition of Garnish, 3s mentioned in the County Gaol, is not hung up in this Bridewell.
 
@@ -8846,15 +8842,16 @@ Ed Stawell John Foyle Ed Hooker Rob Pyke Tho5, Durnford
 
 Thos> Bates
 
+
 R. C. Chaloner Cobb
 
 Benj Woodroofe
 
 Ric New John Alwick
-
+---
 At WINCHESTER is
 
-A PRISON for debtors, the Cheyney Court in and for the Liberty of the Soke: Property of the Bishop. Out of repair. There is a Garden into which some Prisoners are admitted. The Bounty of the Duke of Chandos supplies this Prison every week with two gallon loaves and about twenty pounds of beef. Fees x6 s. 8d. no Table.
+A PRISON for debtors, the Cheyney Court in and for the Liberty of the Soke: Property of the Bishop. Out of repair. There is a Garden into which some Prisoners are admitted. The Bounty of the Duke of Chandos supplies this Prison every week with two gallon loaves and about twenty pounds of beef. Fees 16s. 8d. no Table.
 
 1775, Dec. 28, Prisoners 6.
 
@@ -8864,29 +8861,27 @@ WINCHESTER. The three rooms are too close, and the yard too small for the Prison
 
 Western Circuit. HAMPSHIRE. 357
 
-especially at Quarter Sessions, when they are brought hither from the other Bridewells. This Prison has been fatal to vast numbers. The misery of the Prisoners excited the companion of the Duke of Chandos; who for some years past has sent them every week about thirty pounds of beef and two gallon loaves. A pump lately funk: no straw. Clauses of Act against Spirituous Liquors hung up. Keeper's Salary £40: Fees 7 s. 8d. no Table. Licence, Beer and Wine. Allowance, a three-penny loaf in two days: no employment.
+[Bridewells.]
+
+especially at Quarter Sessions, when they are brought hither from the other Bridewells. This Prison has been fatal to vast numbers. The misery of the Prisoners excited the companion of the Duke of Chandos; who for some years past has sent them every week about thirty pounds of beef and two gallon loaves. A pump lately sunk: no straw. Clauses of Act against Spirituous Liquors hung up. Keeper's Salary £40: Fees 7s. 8d. no Table. Licence, Beer and Wine. Allowance, a three-penny loaf in two days: no employment.
 
 1774, Sep. 24, Prisoners 13,
 
 1775, Dec. 28, - 21.
 
-GOSPORT. Apartments convenient, but not kept clean. The yard air}7. An oven to purify the cloaths, but no fuel allowed by the County. No straw. Keeper a Sheriff's Officer: Salary £40: Fees 6 s. 8d. no Table. Licence, Beer and Wine. Allowance, two-pennyworth of bread a day: no employment. Clauses of Act against Spirituous Liquors hung up.
+GOSPORT. Apartments convenient, but not kept clean. The yard airy. An oven to purify the cloaths, but no fuel allowed by the County. No straw. Keeper a Sheriff's Officer: Salary £40: Fees 6s. 8d. no Table. Licence, Beer and Wine. Allowance, two-pennyworth of bread a day: no employment. Clauses of Act against Spirituous Liquors hung up.
 
 1774, Sep. 27, Prisoners 2,
 
 1776, Feb. 26, - 5.
 
-ODIAM. Three rooms. The Keeper takes to himself for a brew-house, dairy &c. the middle room, which is far the largest: the other two are twelve feet by eleven each. Keeper a Sheriff's Officer: Salary ,£15: Fees 6s. 8d. no Table. No Licence. Allowance about a pound of bread a day: no straw: no employment. Clauses of Act against Spirituous Liquors not hung up.
-
-BRIDEWELLS.
+ODIAM. Three rooms. The Keeper takes to himself for a brew-house, dairy &c. the middle room, which is far the largest: the other two are twelve feet by eleven each. Keeper a Sheriff's Officer: Salary £15: Fees 6s. 8d. no Table. No Licence. Allowance about a pound of bread a day: no straw: no employment. Clauses of Act against Spirituous Liquors not hung up.
 
 1776, Feb. 28, Prisoners 8.
 
-NEWPORT
+358 HAMPSHIRE. Western Circuit.
 
-HAMPSHIRE. Western Circuit.
-
-NEWPORT in the Isle of Wight. This is the Keeper's property. Two rooms; one of them quite dark: no yard: no water. Keeper told me his Salary7 was ^19: 15: o, for which he was to supply each Prisoner daily with three-halfpennyworth of bread, and three pints of water.
+NEWPORT in the Isle of Wight. This is the Keeper's property. Two rooms; one of them quite dark: no yard: no water. Keeper told me his Salary was £19 : 15 : 0, for which he was to supply each Prisoner daily with three-halfpennyworth of bread, and three pints of water.
 
 1774, Sep. 27, Prisoners none.
 
@@ -8896,29 +8891,27 @@ NEWPORT GAOL. No yard: no water. Allowance three-halfpennyworth of bread: three 
 
 1774, Sep. 27, Prisoners none.
 
-IN this County are also at SOUTHAMPTON,
+IN this County are also at
 
-THE BAR GATE. Sheriff's Ward for Debtors. Two rooms: in that for women, no chimney. There is no court-yard: no water. Keeper, the oldest Sergeant at Mace: Salary £$: Fees 13s. 4d. no Table. Clauses of Act against Spirituous Liquors hung up.
+SOUTHAMPTON,
 
-1774, Sep. 24, Debtors a,
+THE BAR GATE. Sheriff's Ward for Debtors. Two rooms: in that for women, no chimney. There is no court-yard: no water. Keeper, the oldest Sergeant at Mace: Salary £5: Fees 13s. 4d. no Table. Clauses of Act against Spirituous Liquors hung up.
+
+1774, Sep. 24, Debtors 2,
 
 1776, Feb. 26, - 2.
 
-GAOL for felons, lower end of the town. Two close rooms. A court-yard: no water. Gaoler's Salary7 £$. Prisoners allowance three-pennyworth of bread a day.
+GAOL for felons, lower end of the town. Two close rooms. A court-yard: no water. Gaoler's Salary £5. Prisoners allowance three-pennyworth of bread a day.
 
 1774, Sep. 24, Felons none,
 
 1776, Feb. 26, Ditto.
 
-BRIDEWELL,
+Western Circuit. HAMPSHIRE. 359
 
-Western Circuit.
+[Southampton.]
 
-HAMPSHIRE.
-
-359
-
-BRIDEWELL, joins to the Gaol. Three airy rooms up stairs: no yard: no water: no straw: no employment. Keeper, a junior Sergeant at Mace: Salary £1: Fees 3 s. 4d. no Table. Prisoners allowance three-pennyworth of bread a day: ten shillings a year for bedding.
+BRIDEWELL, joins to the Gaol. Three airy rooms up stairs: no yard: no water: no straw: no employment. Keeper, a junior Sergeant at Mace: Salary £2: Fees 3s. 4d. no Table. Prisoners allowance three-pennyworth of bread a day: ten shillings a year for bedding.
 
 1774, Sep. 24, Prisoners none.
 
@@ -8928,45 +8921,37 @@ PORTSMOUTH
 
 TOWN GAOL. In one of the rooms, which is large, Debtors and Felons lodge together. The upper rooms are for women: none in them. Gaoler is Sergeant at Mace: no Salary: Licence for Beer and Wine. Prisoners allowance, Debtors none; Felons four pence a day. No bedding nor straw.
 
-I have a copy of the Table of Fees hung up in this Gaol: it is signed by the Town-Clerk George Huish 30th June 1738. He writes at the title ct Fees due to the Sergeants at Mace of the said Borough, u which I have known to be paid from the year 1693 and have been tc informed were antiently paid..”
+I have a copy of the Table of Fees hung up in this Gaol: it is signed by the Town-Clerk George Huish 30th June 1738. He writes at the title ”Fees due to the Sergeants at Mace of the said Borough, which I have known to be paid from the year 1693 and have been informed were antiently paid.”
 
-For every Commitment 15 s. iod. out of which the Town-Clerk hath 3 s. 6d.
+For every Commitment 15s. 10d. out of which the Town-Clerk hath 3s. 6d.
 
-Sec. Sec. Sec.
+&c. &c. &c.
 
-Debtors. Felons &c.
+Debtors. - Felons &c.
 
 1774, Sep. 24, 2 - 4,
 
-1776, Feb. 26, 2-1.
+1776, Feb. 26, 2 - 1.
 
 BASINGSTOKE
 
-PRISON, for debtors under£10, is one convenient room in the Keeper's Public-house. He has no Salary.
+PRISON, for debtors under £10, is one convenient room in the Keeper's Public-house. He has no Salary.
 
 1776, Feb. 28, Prisoners none.
 
-s 0 u T H-
-
-AMPTON.
-
-COUNTY
-
-WILTSHIRE.
-
-Western Circuit.
-
-36°
+360 WILTSHIRE. Western Circuit.
 
 COUNTY GAOL at SALISBURY.
 
 GAOLER, Thomas Biggs.
 
-Salary, none. But £80 a year (lately raised from £50) to supply Felons as below. (See Remarks.) Fees, Debtors, £i: 1: o.
+Salary, none. But £80 a year (lately raised from £50) to supply Felons as below. (See Remarks.)
 
-Felons, 1: 6: 4.
+Fees, Debtors, £1 : 1 : 0.
 
-Transports, £4 -.4: 0 each.
+Felons, 1 : 6 : 4.
+
+Transports, £4 : 4: 0 each.
 
 Licence, for Beer and Wine.
 
@@ -8974,7 +8959,7 @@ PRISONERS,
 
 Allowance, Debtors, none. (See Remarks.)
 
-Felons, a penny loaf a day each (weight in Sep. 1774, 8 oz.): now 2d. a day; i. e. lid. bread, 4-d. a quart small beer. (See Remarks.)
+Felons, a penny loaf a day each (weight in Sep. 1774, 8 oz.): now 2d. a day; i. e. 1½d. bread, ½d. a quart small beer. (See Remarks.)
 
 Garnish, Debtors Master's-side, - £0: 8: 8,
 
@@ -8982,11 +8967,11 @@ Felons and Common-side Debtors, 0: 4: 4.
 
 Number of - Debtors. Felons &c.
 
-77 3> Dec. 13, - 14 - 3,
+1773, Dec. 13, - 14 - 8,
 
-1774> Sep. 23, - 12 - 9>
+1774, Sep. 23, - 12 - 9,
 
-1775, Dec. 27, - 21 - -
+1775, Dec. 27, - 21 - 15,
 
 1776, Sep. 3, - 7 - 12.
 
@@ -8998,43 +8983,35 @@ Salary, £40; of which £20 is a Legacy. (See Remarks.)
 
 SURGEON, Mr. Crompton.
 
-Salary, £10: 10: o for Felons and Common-side Debtors.
+Salary, £10: 10: 0 for Felons and Common-side Debtors..
+
+Western Circuit. WILTSHIRE. 361
 
 SALISBURY.
 
-Western Circuit.
+[Remarks.]
 
-WILTSHIRE.
-
-SALISBURY.
-
-THE PRISON in this City called Fisherton-Anger Gaol (from the name of the Parish in which it Hands) near a fine stream, is also one of the county bridewells. Only one yard. No day-room for Common-side Debtors, nor Felons: each fort have their fire on a brick hearth raised in the middle of their respective lodging-rooms, without chimney. The Debtors room over the Felons. Women-felons have a separate room, more commodious.
+THE PRISON in this City called Fisherton-Anger Gaol (from the name of the Parish in which it stands) near a fine stream, is also one of the county bridewells. Only one yard. No day-room for Common-side Debtors, nor Felons: each sort have their fire on a brick hearth raised in the middle of their respective lodging-rooms, without chimney. The Debtors room over the Felons. Women-felons have a separate room, more commodious.
 
 Mr. Biggs has £6: 13: 4 Salary for the Bridewell; and £10 a year for Fees of Prisoners acquitted at Quarter Sessions. He pays Window-tax £3: 15: 0.
 
-The lad time I was there, I saw a new building in the yard; a liable, £art-house, and brew-house; with an Infirmary over them; one room for men, another for women. I could not help wishing that the lower part indead of stable &c. had been two day-rooms with fire-places, one for Common-side Debtors, another for Felons.
+The lad time I was there, I saw a new building in the yard; a stable, cart-house, and brew-house; with an Infirmary over them; one room for men, another for women. I could not help wishing that the lower part instead of stable &c. had been two day-rooms with fire-places, one for Common-side Debtors, another for Felons.
 
 That part of the Prison which was the Bridewell is not secure; and Petty Offenders are confined in the Gaol.
 
-Just without the Prison-gate is a round staple fixed in the wall: through it is put a chain, at each end of which a Common-side Debtor padlocked by the leg. Hands offering to those who pass by, nets, laces, purses &c. made in the Prison. The two whom I saw there laH were Crown Debtors not cleared by the late Insolvent Act.
+Just without the Prison-gate is a round staple fixed in the wall: through it is put a chain, at each end of which a Common-side Debtor padlocked by the leg, stands offering to those who pass by, nets, laces, purses &c. made in the Prison. The two whom I saw there last were Crown Debtors not cleared by the late Insolvent Act.
 
-I have been informed, that at Christmas, Felons chained together were permitted to go about; one of them carrying a sack or bafleet for food, another a box for money.
+I have been informed, that at Christmas, Felons chained together were permitted to go about; one of them carrying a sack or basket for food, another a box for money.
 
-361
+362 WILTSHIRE. Western Circuit.
 
-Remarks.
+Twenty pounds a year of the Chaplain's Salary is paid by Lord Weymouth by a Bequest of Thomas Thyme, Esq. who bound for Payment the Manors of Weobly and Ross in the County of Hereford. The Bequest was recognized by Lord Weymouth in a Deed of Settlement dated 2d November 1709.
 
-WILTSHIRE.
-
-Western Circuit.
-
-Twenty pounds a year of the Chaplain's Salary is paid by Lord Weymouth by a Bequest of nomas Thyme, Esq. who bound for Payment the Manors of Weobly and Rojs in the County of Hereford. The Bequest was recognized by Lord Weymouth in a Deed of Settlement dated 2d November 1709.
-
-Lord Pembroke pays a Legacy of a year; part to the Chaplain himself, viz. a guinea for a hat; the remainder to be by him distributed among the Prisoners. Mr. Smith of Salisbury left the Interest of ^50 to be divided among them. No Memorial of any Legacy hung up in the Gaol.
+Lord Pembroke pays a Legacy of a year; part to the Chaplain himself, viz. a guinea for a hat; the remainder to be by him distributed among the Prisoners. Mr. Smith of Salisbury left the Interest of £50 to be divided among them. No Memorial of any Legacy hung up in the Gaol.
+---
+— Die Julii, 36' Georgii II Anno Dorn 1729
 
 A TABLE of FEES now and heretofore usually demanded —
-
-— Die Julii, 36' Georgii II Anno Dorn 1729
 
 and also for chamber rent &c.-~according to an Act-intituled an Act for the Relief &c.
 
@@ -9064,11 +9041,7 @@ For every commitment and discharge by a Justice of Peace or in Court —
 
 For every commitment for not finding bail for good behaviour ——
 
-For
-
-Western Circuit.
-
-WILTSHIRE.
+Western Circuit. WILTSHIRE. 363
 
 £ s. D.
 
@@ -10008,7 +9981,7 @@ Number of - Debtors. Felons
 
 l77S> Dec. 7> - 36 - 16,
 
-1776> Dec. 16, 1 <0 1 18.
+1776, Dec. 16, 1 <0 1 18.
 
 CHAPLAIN, Rev. Mr. Easterbrook.
 
@@ -10568,7 +10541,7 @@ Northern Circuit. YORKSHIRE.
 
 409
 
-good rooms in the Keeper's house: but no free ward. For Felons one strong room quite dark; another with a little window. Keeper no Salary; he pays Rent; he is a Bailiff. Fees, Debtors 15 s. 4d. no Tabic: Licence for Beer.
+good rooms in the Keeper's house: but no free ward. For Felons one strong room quite dark; another with a little window. Keeper no Salary; he pays Rent; he is a Bailiff. Fees, Debtors 15s. 4d. no Tabic: Licence for Beer.
 
 17763 Oct. 26, Debtors 2.
 
@@ -11002,7 +10975,7 @@ Remarks,
 
 422
 
-NEW-CjiSTLJ.
+NEWCASTLE.
 
 NEWCASTLE. Northern Circuit.
 
@@ -11020,13 +10993,9 @@ Dr. Rotheram, a Physician in this Town, visits the Prisoners very assiduously wi
 
 As
 
-Northern Circuit.
+Northern Circuit. NEWCASTLE. 423
 
-NEWCASTLE.
-
-423
-
-Am exafl Copy of the RATES and FEES to be from henceforth Received by — the Gaoler or Keeper of his Majesty's Gaol-called Newgate within this Town of Newcastle upon 'Tyne — settled — at the General Quarter Sessions held at Guild-hall in Newcastle aforesaid, on the 15 of July Anno-DonT' 1730. And approved of at the Assize following by Francis Page and John Fortescue A two of his said Majesty's Judges of Assize According to an Act of Parliament lately made
+An exact Copy of the RATES and FEES to be from henceforth Received by — the Gaoler or Keeper of his Majesty's Gaol-called Newgate within this Town of Newcastle upon 'Tyne — settled — at the General Quarter Sessions held at Guild-hall in Newcastle aforesaid, on the 15 of July Anno-DonT' 1730. And approved of at the Assize following by Francis Page and John Fortescue A two of his said Majesty's Judges of Assize According to an Act of Parliament lately made
 
 (viz)
 
@@ -11060,9 +11029,7 @@ Every Person appearing upon a Recognizance at the Assizes~| and afterwards tried
 
 Every
 
-NEW-
-
-CASTLE,
+NEWCASTLE,
 
 NEWCASTLE.
 
@@ -11232,9 +11199,7 @@ There
 
 MORPETH.
 
-428
-
-NORTHUMBERLAND. Northern Circuit.
+428 NORTHUMBERLAND. Northern Circuit.
 
 MORPETH.
 
@@ -11340,7 +11305,7 @@ Garnish, £0: 1: 0.
 
 Number of - Debtors. Felons i
 
-1774> March n~3> 49 " 4>
+1774, March n~3> 49 " 4>
 
 1776, Jan. 20, 29 - 7>
 
@@ -11666,7 +11631,7 @@ forty-five feet by fix are close; eleven feet by eight; eleven steps below the y
 
 LIVERPOOL BOROUGH-GAOL.
 
-Out of repair. Apartments close and dirty. Seven close Dungeons ten steps under ground; each fix feet and a half by five feet nine inches, and fix feet high. Three Prisoners are locked up in each of them at night. There is anodrer Dungeon, larger, but not secure. No Infirmary. The Keeper told me in Nov. 1775, that after I was there last year and said his Prisoners were in danger of the Gaol-Fever, twenty-eight of them had been ill ofit at one time. What led me to think so was, the offensiveness of the Dungeons, and the number of Prisoners. The Prison is surrounded with other buildings, and cannot be made healthy and convenient. — Allowance in common on Sunday, bread 4 s. beef and broth about 6s. Firing from October to May. Gaoler, Rofendale Alien, Sergeant at Mace, pays the Widow of the late Gaoler £20 a year;
+Out of repair. Apartments close and dirty. Seven close Dungeons ten steps under ground; each fix feet and a half by five feet nine inches, and fix feet high. Three Prisoners are locked up in each of them at night. There is anodrer Dungeon, larger, but not secure. No Infirmary. The Keeper told me in Nov. 1775, that after I was there last year and said his Prisoners were in danger of the Gaol-Fever, twenty-eight of them had been ill ofit at one time. What led me to think so was, the offensiveness of the Dungeons, and the number of Prisoners. The Prison is surrounded with other buildings, and cannot be made healthy and convenient. — Allowance in common on Sunday, bread 4s. beef and broth about 6s. Firing from October to May. Gaoler, Rofendale Alien, Sergeant at Mace, pays the Widow of the late Gaoler £20 a year;
 
 LANCASHIRE.
 
@@ -11764,7 +11729,7 @@ CHESTER
 
 CASTLE.
 
-No Infirmary: nostraw: Transports have not the King's allowance of 2 s. 6d. a week. Of the leven Debtors whom I law last, five were imprisoned by Exchequer Writs*'.
+No Infirmary: nostraw: Transports have not the King's allowance of 2s. 6d. a week. Of the leven Debtors whom I law last, five were imprisoned by Exchequer Writs*'.
 
 A TABLE OF FEES
 
@@ -12078,7 +12043,7 @@ CHESHIRE.
 
 Chester Circuit.
 
-glazed; no casements. The Building is flight, and the whole of it ruinous. — Keeper, John Haslehurst, is a Bailiff*; Keeps a Public-heuse; and has a Lease of the whole for sixty years at £13 clear of Taxes. No Salary: Fees 7 s. 6d. no Table.
+glazed; no casements. The Building is flight, and the whole of it ruinous. — Keeper, John Haslehurst, is a Bailiff*; Keeps a Public-heuse; and has a Lease of the whole for sixty years at £13 clear of Taxes. No Salary: Fees 7s. 6d. no Table.
 
 1776, Sep. 15, Debtors 2.
 
@@ -12228,7 +12193,7 @@ PRISONERS,
 
 Allowance, Debtors, none.
 
-Felons, 1 s. 6d. a week.
+Felons, 1s. 6d. a week.
 
 Garnish, Debtors, £0: 2: 6,
 
@@ -12906,7 +12871,7 @@ WESTERN CIRCUIT,
 
 Acquitted including Plea and Discharge — 1 10 8
 
-Ignoramus 13 s. 4d. and Discharge 13 s. 4d. — 1 6 8
+Ignoramus 13s. 4d. and Discharge 13s. 4d. — 1 6 8
 
 Discharge by Proclamation — 13 4
 
