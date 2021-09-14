@@ -702,7 +702,7 @@ WITHOUT a due attention to the oeconomy and government of a prison, it is eviden
 
 The first care must be to find a good man for a gaoler; one that is honest, a<ftive, and humane. Such was Abel Dagge, who was formerly keeper of Bristol Newgate. I regretted his death, and revere his memory. And such is George Smith, keeper of Tothill-fields bridewell.
 
-This officer must be sober himself, that he may, by example, as well as authority, restrain drunkenness, and other vices in his prison. To remove a strong temptation to the contrary, it is highly requilite that no gaoler, turnkey, or other servant be
+This officer must be sober himself, that he may, by example, as well as authority, restrain drunkenness, and other vices in his prison. To remove a strong temptation to the contrary, it is highly requisite that no gaoler, turnkey, or other servant be
 
 The debtors at York, Lincoln, Norwich, Ipswich, Chelmsford, &c. employ themselves in knitting and weaving purses, garters, nets, laces, &c. This is an easy and amusing employment, and might be established in any prison, even among felons. For the art may be learned in a week's time, and no dangerous instruments are necessary. But then they must have proper rooms and courts for their work.
 
@@ -10814,7 +10814,7 @@ Gaol-delivery once a year: three prisoners were confined from eight to ten month
 
 TABLE OF FEES.
 
-City of Norwich and County of the same City. At the General (Quarter Sessions — holden at the Guild Hail — 5th October in 33d year — of George II — and — adjourned to the 16th — of the same October — before Nockold Tompfon Esq. Mayor — Edward Bacon Esq. Recorder — Robert Marsh Esq. See. See. — Justices of — the Peace — It is Ordered by this Court in pursuance of an Act — for Relief of Debtors — That the several Fees — here underwritten, and no other or greater Sums — shall be — taken by any Gaoler or Keeper of any — Prison within the — City of Norwich — (That is to say)
+City of Norwich and County of the same City. At the General (Quarter Sessions — holden at the Guild Hail — 5th October in 33d year — of George II — and — adjourned to the 16th — of the same October — before Nockold Tompson Esq. Mayor — Edward Bacon Esq. Recorder — Robert Marsh Esq. See. See. — Justices of — the Peace — It is Ordered by this Court in pursuance of an Act — for Relief of Debtors — That the several Fees — here underwritten, and no other or greater Sums — shall be — taken by any Gaoler or Keeper of any — Prison within the — City of Norwich — (That is to say)
 
 For the commitment or coming into gaol of any prisoner for debt
 
@@ -10844,7 +10844,7 @@ For the discharge of those upon common precefs -
 
 We his Majesty's Justices of the Peace — for the said City of Norwich have hereunto — set our hands — '
 
-Nockold Tompfon, Mayor Ed. Bacon John Nuthall
+Nockold Tompson, Mayor Ed. Bacon John Nuthall
 
 J. Spurred Peter Colortibine Jcrem Ives
 
@@ -20684,7 +20684,7 @@ TABLE VIII.
 
 Felons delivered from Newgate to be <Transported.
 
-Sessions. London. Middlesex. Hicks's Hall. Westminster. Tower Session. Capital Refpites. Total.
+Sessions. London. Middlesex. Hicks's Hall. Westminster. Tower Session. Capital Respites. Total.
 
 1773. January 10 19 3 6 - 38
 
