@@ -5884,11 +5884,7 @@ Town
 
 Gaol.
 
-Yarmouth
-
-Town
-
-Gaol.
+Yarmouth Town Gaol.
 
 and id. in the Chilling of the prisoners’ earnings. In 1788, I found two persons (committed for bastardy) playing at cards in the gaoler’s kitchen, in the middle of the day. All cards and dice should be JlriSily prohibited in prisons.
 
@@ -5932,7 +5928,7 @@ SUFFOLK.
 
 COUNTY GAOL at IPSWICH.
 
-Thisprison as uiual, was very clean. The house is much quieter since the late AS-, the felons having only small beer: and the magistrates have properly ordered, that no debtor shall have more than one quart of beer in a day; to which order the gaoler and turnkey JlriSly adhere. In consequence of the AS, and similar regulations, I have found in several prisons, fewer debtors. Here the number of insolvent debtors, on an average, was formerly fifteen; of late, not more than nine; and now it is reduced to seven. The gaoler’s salary is now £zoo. The Rev. Mr. Brome is Hill assiduous in his attention to the prisoners; frequently weighing the bread, and making his reports to the magistrates: and he fees that a proper distribution is made of Mr. Pembertons charity. I was pleased with his observation, that he could not attribute the health and regularity of the prisoners in general, and their constant attendance at the chapel with great decency and devotion, to any other cause than to the total abolition of the tap.
+This prison as uiual, was very clean. The house is much quieter since the late AS-, the felons having only small beer: and the magistrates have properly ordered, that no debtor shall have more than one quart of beer in a day; to which order the gaoler and turnkey JlriSly adhere. In consequence of the AS, and similar regulations, I have found in several prisons, fewer debtors. Here the number of insolvent debtors, on an average, was formerly fifteen; of late, not more than nine; and now it is reduced to seven. The gaoler’s salary is now £zoo. The Rev. Mr. Brome is Hill assiduous in his attention to the prisoners; frequently weighing the bread, and making his reports to the magistrates: and he fees that a proper distribution is made of Mr. Pembertons charity. I was pleased with his observation, that he could not attribute the health and regularity of the prisoners in general, and their constant attendance at the chapel with great decency and devotion, to any other cause than to the total abolition of the tap.
 
 1787, Sept. 27, Insolvent Debtors 7. Crown Debtors S. Felons &c. 18.
 
@@ -5964,9 +5960,7 @@ County
 
 Gaol.
 
-Bride-
-
-wells.
+Bridewells.
 
 156
 
@@ -5976,15 +5970,13 @@ Norfolk. Circuit.
 
 County
 
-Bride-
+Bridewells.
 
-wells.
+Bury St. Edmund’s Gaol.
 
-Bu RY St. Edmund’s Gaol.
+Ipswich.
 
-Ip sw ic h.
-
-Bury St. Edmun d’s Rules.
+Bury St. Edmund’s Rules.
 
 WOODBRIDGE. Here are several improvements. Six of the rooms are twelve feet by nine. The staircase now is stone, with iron rails. Keeper’s salary only £17.
 
@@ -5992,7 +5984,7 @@ WOODBRIDGE. Here are several improvements. Six of the rooms are twelve feet by n
 
 BECCLES. Many new rooms are added (twelve feet by leven) in which are bedsteads; but even these rooms were not clean. A good court, with a pump, is enclosed for men; and a smaller one for women. Spinning wheels and blocks are now provided by the magistrates: prisoners have no part of their earnings. Keeper’s salary £35. 1787, Sept. 15, Prisoners 3.
 
-BURY St. EDMUND’S. This County Bridewell is lately built, near the town. There are fifteen rooms for men and seven for women, of a good size (ten feet by seven). The infirmaries are dole; and that for the men is badly situated. The work is not substantial; the wood being not seasoned, the planking on the fides of the rooms, and the floors are shrunk, so as to leave considerable interstices. (All such interstices are peculiarly improper in prisons and hospitals, as they afford a harbour for dirt, and are productive of ill scents). The outer wall is too low; and the prison is not secure. Keeper’s salary ^50.
+BURY St. EDMUND’S. This County Bridewell is lately built, near the town. There are fifteen rooms for men and seven for women, of a good size (ten feet by seven). The infirmaries are dole; and that for the men is badly situated. The work is not substantial; the wood being not seasoned, the planking on the sides of the rooms, and the floors are shrunk, so as to leave considerable interstices. (All such interstices are peculiarly improper in prisons and hospitals, as they afford a harbour for dirt, and are productive of ill scents). The outer wall is too low; and the prison is not secure. Keeper’s salary ^50.
 
 1787, Sept. 28, Prisoners 3.
 
@@ -6060,19 +6052,13 @@ X. That the governor, nor no one under him, shall fell any tiling used in the ho
 
 advantage whatsoever, directly or indirectly, from the sale of any thing, under the penalty of ten pounds, and difmission from his employment; neither shall suffer any wine, ale, spirituous, or other liquors to be brought into the house, unless for a medical purpose, by a written order from the surgeon or apothecary usually attending there. — Vide S. 8. of 22 Geo. III. c. 64.
 
-XI. That clean straw, to lodge upon, shall be allowed to each prisoner weekly, or oftener, if necefiaryj
+XI. That clean straw, to lodge upon, shall be allowed to each prisoner weekly, or oftener, if necefiaryj and the prisoners be obHged to sweep out and clean their rooms every day, and the dust and dirt be conveyed out of the prison daily.
 
-and the prisoners be obHged to sweep out and clean their rooms every day, and the dust and dirt be conveyed out of the prison daily.
-
-XII. That no person, without permission of a visiting justice, or acting magistrate for the division, shall visit
-
-any prisoner; and all the prisoners shall, every night in the year, be locked up, and all lights extinguished at or before the hour of nine, and shall, during rest, be kept entirely separate, if rooms sufficient can be found for that purpose j and, during their labour, as much separate as their employment will admit of.—Vide S. 1.
+XII. That no person, without permission of a visiting justice, or acting magistrate for the division, shall visit any prisoner; and all the prisoners shall, every night in the year, be locked up, and all lights extinguished at or before the hour of nine, and shall, during rest, be kept entirely separate, if rooms sufficient can be found for that purpose j and, during their labour, as much separate as their employment will admit of.—Vide S. 1.
 
 XIII. That the governor may put handcuffs or fetters upon any prisoner who is refractory, or shews adifposition
 
 to break out of prison; but he shall give notice thereof to one of the visiting justices, within forty-eight hours after the prisoner shall be so fettered, and he shall not continue such fettering longer thaa six days, without obtaining an order in writing from one of the visiting jufHces. — Vide S. 11. 22 of Geo. III.
-
-XIV. That
 
 t58
 
@@ -6094,9 +6080,7 @@ County
 
 Gaol.
 
-XIV. That every prisoner be obliged to walh his face and hands once, at leaf!, every day, before his bread
-
-be given to him.
+XIV. That every prisoner be obliged to walh his face and hands once, at leaf!, every day, before his bread be given to him.
 
 XV. That each prisoner be allowed a clean ftiirt once in a week.
 
@@ -6134,7 +6118,7 @@ WARWICKSHIRE.
 
 COUNTY BRIDEWELL.
 
-"WARWICK. A new Prison is finished and occupied. There are separaue apartments, and courts with water, for men and women; and vagrants have, a court and apartments separate from the other prisoners. Allowance, as in the gaol. No coals: no employment at present; but a long room, ten feet and a half wide is provided, v'ith looms, and other materials for work. 1788, Feb. 15, Prisoners 10.
+"WARWICK. A new Prison is finished and occupied. There are separaue apartments, and courts with water, for men and women; and vagrants have, a court and apartments separate from the other prisoners. Allowance, as in the gaol. No coals: no employment at present; but a long room, ten feet and a half wide is provided, with looms, and other materials for work. 1788, Feb. 15, Prisoners 10.
 
 COVENTRY CITY and COUNTY GAOL.
 
@@ -6176,9 +6160,7 @@ Town
 
 Gaol.
 
-Birming-
-
-ham
+Birmingham
 
 Court
 
@@ -6206,7 +6188,7 @@ Leicester The debtors’ free ward is dill a dungeon; their beds are on bedstead
 
 County Gaol. have only the county allowance of mats in their damp dungeons. One small court for debtors and felons. Keeper’s salary £200, out of which he is to give each prisoner three pints of small beer a day. The gaol now clean and quiet. Garnish abolished. I have said, the Castle-hill near the shire hall, is a fine spot for air and water. 1787, Oft. 25, Debtors 15. Felons &c. 14.
 
-County Bride-vv s l l s. COUNTY BRIDEWELLS. LEICESTER. No alteration: very clean as usual. Keeper’s salary £26: 5: 0; he pays land-tax and all other rates. Allowance, as in the county gaol, a fourpenny loaf every odier day (weight 3 lb. 1 oz.). 1787, Oft. 25, Prisoners 9. MELTON-MOWBRAY. Two rooms. No court: no water. Keeper’s salary only £4. 1788, Aug. 7, No prisoners.
+County Bridewells. COUNTY BRIDEWELLS. LEICESTER. No alteration: very clean as usual. Keeper’s salary £26: 5: 0; he pays land-tax and all other rates. Allowance, as in the county gaol, a fourpenny loaf every odier day (weight 3 lb. 1 oz.). 1787, Oft. 25, Prisoners 9. MELTON-MOWBRAY. Two rooms. No court: no water. Keeper’s salary only £4. 1788, Aug. 7, No prisoners.
 
 Town Gaol. LEICESTER Town and County Gaol. No alteration. The felon complained of illness contrafted by lying on the damp brick floor with only a mat. Keeper no salary: the magistrates continue his licence for beer. 1787, Oft. 25, Debtor 1. Felon 1. County Infirmary at Leicester.
 
@@ -6256,9 +6238,7 @@ Derby.
 
 Counts
 
-BRIDE-
-
-WELLS.
+BRIDEWELLS.
 
 DeRBI
 
@@ -6292,7 +6272,7 @@ ham.
 
 County
 
-BrIDEWELL
+BRIDEWELL
 
 Town
 
@@ -6380,7 +6360,7 @@ Castle.
 
 County Bridewell
 
-Cl T Y Gaol.
+City Gaol.
 
 City
 
@@ -6596,13 +6576,7 @@ I ft. That no garnish or other exadions at entrance be permitted to be taken by 
 
 No person to be suffered to go into the night cells at any time, unless to walk or clean them j the doors and windows to be kept open when the prisoners arc let out, except the doors at the foot of each staircase, which are to be kept (hut.
 
-7 th. The
-
-Oxford Circuit.
-
-BERKSHIRE.
-
-167
+Oxford Circuit. BERKSHIRE. 167
 
 7th. The night cells to be cleaned once by one of the prisoners daily, and washed once every week, or oftener if thought necessary. No filth of any kind to be left in the courts, nor any lUcks, llones, or other obstructions thrown down or made in any of the drains or sewers.
 

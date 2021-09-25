@@ -7537,50 +7537,58 @@ Number of - Debtors. Felons &c.
 1775, Dec. 1, 5 ' -
 
 1776, Sep. 10, 4 - o.
-
+---
 CHAPLAIN, None.
 
-SURGEON, Mr. Ilalhvard.
+SURGEON, Mr. Hallward.
 
-Salary, none: lie makes A Bill.
+Salary, none: he makes A Bill.
 
-WORCESTER
+Oxford Circuit. WORCESTERSHIRE. 325
 
 WORCESTER CITY GAOL.
 
-THIS is also the City Bridewell. The Debtors free ward is spacious. — One common yard: another might be taken from the Keeper's large garden. — He pays Window-tax; which he said brought him tinder the disagreeable necessity of flopping up some windows. Rate £3: 5: 0.
+[Remarks.]
 
-City of Worcester. /k TABLE of FEES to be taken by the
+THIS is also the City Bridewell. The Debtors free ward is spacious. — One common yard: another might be taken from the Keeper's large garden. — He pays Window-tax; which he said brought him under the disagreeable necessity of stopping up some windows. Rate £3: 5: 0.
 
-Gaoler of the said City pursuant to a Statute made in the thirty second year of the reign of his late Majesty King George the Second,
+[City of Worcester.]
+
+A TABLE of FEES to be taken by the Gaoler of the said City pursuant to a Statute made in the thirty second year of the reign of his late Majesty King George the Second,
 
 £. S. D,
 
-For the Discharge of every Debtor to the Gaoler and Turnkey 0: 9: 2 The like of every Felon — 0: 5: 0
+For the Discharge of every Debtor to the Gaoler and Turnkey — 0: 9: 2
 
-For the Lodging of every Prisoner in the House per week 0: 2: 6 For the Copy of every Commitment — 0: 1: 0
+The like of every Felon — 0: 5: 0
+
+For the Lodging of every Prisoner in the House per week — 0: 2: 6
+
+For the Copy of every Commitment — 0: 1: 0
 
 On the Delivery of every Declaration — 0: 1: 0
 
 Allowed according to the said Statute by us
 
-Epiphany Sessions 1771 Edw Willincs Mayor
+Epiphany Sessions 1771
 
-W Haden Tho Giles Timy Edwards
+Edw Willings Mayor
 
-At the Lent Assize 1771 Allowed by us
+W Haden
 
-325
+Tho Giles
 
-Remarks.
+Timy Edwards
 
-E. WILLES W: H: ASHURST.
+At the Lent Assize 1771
 
-COUNTY
+Allowed by us
 
-oo
+E. WILLES
 
-STAFFORDSHIRE. Oxford Circuit.
+W: H: ASHURST.
+
+326 STAFFORDSHIRE. Oxford Circuit.
 
 COUNTY GAOL at STAFFORD.
 
@@ -7588,12 +7596,16 @@ GAOLER, William Scott.
 
 Salary, none.
 
-Fees, Debtors, £o: 17: 4, Felons, o: 15: 10.
+Fees, Debtors, £0: 17: 4,
 
-Transports, £6: 0: 0 each. Licence, for Beer and Wine.
+Felons, 0 15: 10.
+
+Transports, £6: 0: 0 each.
+
+Licence, for Beer and Wine.
 
 PRISONERS,
-
+---
 Allowance, Debtors,
 
 Felons
@@ -7608,7 +7620,7 @@ Debtors, Felons,
 
 Number of -
 
-each per week 16 d. bread, and 8d. cheese; and in common 3 Ca7. of coals a week from Michaelmas to May-day.
+each per week 16 d. bread, and 8d. cheese; and in common 3 Cwt. of coals a week from Michaelmas to May-day.
 
 £0: 2: ii, cancelled by the Gaoler.
 
@@ -10448,7 +10460,7 @@ HALIFAX PRISON for debtors.
 
 For the Manor of TJdhf.d.d, dated 1661, is the Property of the Duke of Leeds. For Maker's-fee Debtors, rooms in the Keeper's
 
-public-house. Through this you pals to a court-yard about fourteen yards by seven: a: the further end of which is a Sizeable room on the ground door for Common-ftde Debtors, it is called the Lrrs; Gc: l: over it a chamber (the Zr t? Gad Cscmler) where Prisoners par one shilling a week. — The whole Prison is greatly out of repair: it rained in upon the beds: the rooms at my lall viut were clean.
+public-house. Through this you pals to a court-yard about fourteen yards by seven: a: the further end of which is a Sizeable room on the ground door for Common-side Debtors, it is called the Lrrs; Gc: l: over it a chamber (the Zr t? Gad Cscmler) where Prisoners par one shilling a week. — The whole Prison is greatly out of repair: it rained in upon the beds: the rooms at my lall viut were clean.
 
 Keeps?- no Salary: he pays the Duke /tea year: Fees fee Rssb-zsel7., preceding page.
 
