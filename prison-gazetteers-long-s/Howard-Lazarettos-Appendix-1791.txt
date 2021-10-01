@@ -23,7 +23,9 @@ FROM JOHN HAYGARTH, M. D.
 ADVERTISEMENT.
 
 THE Papers left by Mr. Howard were brought to England by his servant, and by him delivered, with the rest of the effects, to his executors. To the larger memorandum-book, consisting of a fair transcript of his daily notes and observations, the following notice was found prefixed, written upon a blank leaf.
+
 ---
+
 <c Memorandum.
 
 <c If these rough Notes should ever be thought proper to be printed, they should be “ corrected and revised by my friend Dr. Price, or Dr. Aikin; and the latter tf to correct the press.”
