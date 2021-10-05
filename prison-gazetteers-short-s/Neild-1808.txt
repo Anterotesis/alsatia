@@ -13784,7 +13784,7 @@ Mrs. Gastril - 200 0 0
 
 Lady Grant - 735 9 7
 
-John Howard, Esq. .50 0 0 WilliamPooley, Esq. 100 0 0 John Buynard, Esq. 1000 0 0
+John Howard, Esq. .50 0 0 William Pooley, Esq. 100 0 0 John Buynard, Esq. 1000 0 0
 
 George Stainbi idge.
 
@@ -13838,7 +13838,7 @@ JosephGalloway, Esq.94 0 0 Mrs Maitha Fletelierl 8 1G 0 Tho. Binstead, Esq. 18 8
 
 John Walton, Esq . 92 0 (> Mrs. Ann Taylor. .183 0 0
 
-Gen. George Wardel05 1G 0 Benjamin Allen, Esq. 90 0 0 WilliamChiveis/Esq.90 0 O
+Gen. George Wardel05 1G 0 Benjamin Allen, Esq. 90 0 0 William Chiveis/Esq.90 0 O
 
 J. H. Esq - 100 0 0
 
