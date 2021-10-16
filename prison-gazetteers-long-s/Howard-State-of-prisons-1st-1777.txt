@@ -1822,8 +1822,6 @@ The New Chapel is plain and neat. Below are three or four pews for men felons &c
 
 LONDON. 153
 
-
-
 may set a good example and be otherwise useful. The other gallery towards the debtors ward is for them. The stairs to each gallery are on the outside of the Chapel.
 
 I went once to Prayers there. Mr. Villette read them distinctly, and with propriety; the few prisoners who were present, seemed attentive: but we were disturbed by the noise in the yard. Mr. Villette told me “that was always the case, even on Sundays.” Surely they who will not go to Chapel, who are by far the greater number, should not be suffered to hinder the edification of such as are better disposed.
@@ -1863,9 +1861,13 @@ Robt Alsop
 Ino Barnard
 
 Robt Raymond
+
  
+
 R. Eyre
+
  
+
 Thos Pengelly
 
 LONDON. 155
@@ -2205,7 +2207,9 @@ Mr. Thomas Cottle a hind quarter of beef, and a peck of oatmeal value - 1: 0: 0
 Lady Mary North in bread - 3: 0: 0
 
 Mr. William Roaper - 1: 0: 0
+
  
+
 Mr. Thomas Dawson - 0: 9: 0
 
 Mrs. Cooke, Widow of  David Cooke - 0: 5: 0
@@ -2225,7 +2229,9 @@ Mrs. Holligrave, Widow - 0: 5: O
 Mr. Robert Rogers - 1: 0: 0
 
 Carried ever £33: 12: 4
+
  
+
 LONDON. 169
 
 £. S. D.
@@ -3175,7 +3181,9 @@ First, To the Marshal for every Prisoner committed on any civil action — 0: 4:
 [King's Bench.]
 
 £. S. D.
+
 ---
+
 8th. To the Clerk of the Papers for the same 
 
 9th. To the said Deputy Marshal for a surrender in discharge of bail, be there never so many actions
@@ -3184,7 +3192,7 @@ First, To the Marshal for every Prisoner committed on any civil action — 0: 4:
 
 11th. To each of the four Tipstaffs, as. 6d. for each Prisoner's-} Commitment by the Court, and carried to the > King's Bench Prison, in the whole — J
 
-12th. To the Tipftaff that carries any Prisoner committed at } a Judge's chambers to the said Prison — j
+12th. To the Tipstaff that carries any Prisoner committed at } a Judge's chambers to the said Prison — j
 
 13th. To the Marshal for the use of chamber, bed, bedding and sheets for each Prisoner, if provided by the Gaoler at the Prisoner's request, for the first night, in the Common-side of the said Prison —
 
@@ -6207,7 +6215,9 @@ Felons, }
 Garnish, one shilling.
 
 Number of - Debtors. - Felons &c.
+
 ---
+
 1774, Jan. 23, - 0 - 0,
 
 1775, Nov. 10, - 1 - 2,
@@ -6837,7 +6847,9 @@ For the Under Keeper or Turnkey upon discharging of each Prisoner by Supersedeas
 LODGINGS.
 
 £. S. D.
+
 ---
+
 Every Prisoner that lies in the Master's-side of the Gaol in' a bed provided by the Keeper of the Gaol shall pay per week if a bed to himself —
 
 If two Prisoners or more lye together in one bed then
@@ -7061,7 +7073,9 @@ r °: 8: 0
 other crime not being Felony —
 
 But if continued in Gaol three months or upwards then fame Fees to be paid by such persons as above for Ions to be tried at Sessions (<vi %,) — J
+
 ---
+
 N. B. But if any Prisoner be turned over to the House of Correction: then to pay the Gaoler's Fees before discharged.
 
 334 SHROPSHIRE. Oxford Circuit.
