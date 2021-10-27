@@ -11076,7 +11076,7 @@ Total — 159 - 96 - 386 - 293 - 125 - 1059
 
 TABLE III.
 
-An Account of the Number of Prisoners Tried and Acquitted -  of Prisoners Convicted and Sentenced to be Burnt in the Hand and Discharged - of Prisoners Sentenced to be Whipped and Discharged - and of Prisoners Discharged by Proclamation - at the several Assizes and General Gaol-Deliveries held in and for the several Counties and Cities within the OXFORD CIRCUIT for Seven Years ending at Michaelmas 1771.
+An Account of the Number of Prisoners Tried and Acquitted - of Prisoners Convicted and Sentenced to be Burnt in the Hand and Discharged - of Prisoners Sentenced to be Whipped and Discharged - and of Prisoners Discharged by Proclamation - at the several Assizes and General Gaol-Deliveries held in and for the several Counties and Cities within the OXFORD CIRCUIT for Seven Years ending at Michaelmas 1771.
 
 Berkshire - Oxfordshire - Worcestershire - City of Worcester - Gloucestershire - City of Gloucester - Monmouthshire - Herefordshire - Shropshire - Staffordshire.
 
@@ -11200,7 +11200,7 @@ the last of the three Totals above.
 
 TABLE V.
 
-An ACCOUNT of the Number of Criminals Condemned to Death;  Executed.; and Sentenced to Transportation: with their respective Offences: from the Year 1750 to 1772 Inclusive; within the several Counties &c. in the NORFOLK CIRCUIT.
+An ACCOUNT of the Number of Criminals Condemned to Death; Executed.; and Sentenced to Transportation: with their respective Offences: from the Year 1750 to 1772 Inclusive; within the several Counties &c. in the NORFOLK CIRCUIT.
 
 Years. - Petty Treason and Murder. - Burglary and House-breaking. - Robbery in Highway & Dwelling. - Horse Stealing, &c. - Forgery. - Returning from Transportation. - Six other Crimes. - Condemned to Death. - Executed. - Reprieved for Transportation. - Grand Larceny. - Petty Larceny. - Seven other Crimes. - Sentenced to Transportation.
 
@@ -11260,7 +11260,7 @@ An ACCOUNT of the Number of Criminals Condemned to Death; Executed; and Sentence
 
 Years. - Treason. - Murder and Petty Treason. - Robbery. - Burglary. - House-breaking in Day-time. - Stealing Horses and other Cattle. - Forgery. - Returning from Transportation. - Six other Crimes. - Condemned to Death. - Executed. - Transported, viz. Capital Offences reprieved, Offences made transportable, Grand and Petty Larceny.
 
-1750 - 1 - 0 - 6 - 4 - 3 - 16 - 0 - 0 - 2 - 32 - 5  - 50
+1750 - 1 - 0 - 6 - 4 - 3 - 16 - 0 - 0 - 2 - 32 - 5 - 50
 
 1751 - 0 - 1 - 4 - 5 - 0 - 3 - 0 - 0 - 0 - 13 - 3 - 47
 
