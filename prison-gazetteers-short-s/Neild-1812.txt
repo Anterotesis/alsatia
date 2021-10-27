@@ -286,8 +286,6 @@ not be assigned for the benefit of his creditors, the jury might by their verdic
 
 If the principles here humbly laid down were approved of, a Bill, with no more clauses in it than are ordinarily introduced into an Insolvent Act, would furnish all the requisites needful for carrying it into effect. And this, it is imagined, would at once render Insolvent Acts unnecessary; deprive the fraudulent debtor of the means of diverting the Lords’ Act from its humane object, to the worst of purposes; enable the unfortunate debtor to turn his talents to the pursuits of industry, for support of himself and family; and deter the evil-minded from levelling their fraudulent practices against the fair trader. Or, in case these should be found hardy enough to continue their evil courses, it would teach them, by an exemplary and not indiscriminate punishment, to adopt a better plan of life when liberated, and to cease from defrauding their neighbours, under a daringly-pretended sanction of British Law !
 
-()
-
 A TABLE of 'Bailable process! against Debtors, for ONE YEAR, from Michaelmas, 1801, to Michaelmas, 1802*.
 
 DIVIDED INTO FOUR CLASSES.
@@ -1092,7 +1090,7 @@ Cowbridge, Glamorganshire, South Wales,
 
 County Bridewell - 123
 
-Croydon, Surrey, Town Gaol . . . 115
+Croydon, Surrey, Town Gaol . 115
 
 Hartford, Kent, the Bridewell - 150
 
@@ -1226,7 +1224,7 @@ Haver ford- West, Pembrokeshire, South'Wales,
 
 County Gaol - 263
 
----- Town Gaol and Bridewell . . 264
+---- Town Gaol and Bridewell 264
 
 llelston, Cornwall, Town Gaol - 265
 
@@ -1448,7 +1446,7 @@ I Northallerton, Yorkshire, Bridewell - 431
 
 Northampton, County Gaol and Bridewell.. 433
 
----- Town Gaol and Bridewell . . . 45b
+---- Town Gaol and Bridewell . 45b
 
 Northlech, Gloucestershire, House of Correction - 158
 
@@ -5271,8 +5269,6 @@ Duty, Prayers and Sermon every Sunday; and Prayers on Wednesday and Friday.
 Surgeon, Mr. Chandler. Salary, 20l.
 
 Number of Prisoners,
-
-{
 
 1809, July 10th, Felons and Petty Offenders, 2S.
 
@@ -15042,8 +15038,6 @@ of 21/. 185. 10d. S, S. Stock, paid by the Company of Mercers
 
 113 1
 
-(
-
 IN ENGLAND, SCOTLAND, AND WALES.
 
 391
@@ -15750,7 +15744,7 @@ Uelow, w ithin the Gaol, is a horrid Dungeon, of about 22 feet by 12. The descen
 
 No employment. The rooms and staircases very dirty; not having been whitewashed for five years (1805). The only Prisoner, at my visit in 1809, was a Man for Bastardy, who had been here jive months !
 
-$3* Above thirty years ago, my illustrious Predecessor, Mr. Howard was here, and, in consequence of what he saw, uttered the following Ejaculation: “Among the “ various Improvements that are making in this town, 1 hope the Corporation “ trill think of a better Prison.” Whav might he not have said note?
+3* Above thirty years ago, my illustrious Predecessor, Mr. Howard was here, and, in consequence of what he saw, uttered the following Ejaculation: “Among the “ various Improvements that are making in this town, 1 hope the Corporation “ trill think of a better Prison.” Whav might he not have said note?
 
 STATE OF PRISONS
 
@@ -16386,7 +16380,7 @@ Christmas Quarter.
 
 When paid. Donors' Names. By whom paid. Amount.
 
-Yearly . . _ Company of Parish Clerks - . Brought to Prison, Nov. 1 - 1 1 <>
+Yearly _ Company of Parish Clerks - . Brought to Prison, Nov. 1 - 1 1 <>
 
 Ditto _ - Receiver General of 1-and-Tax - Auditor's Office, Palace-Yard - 3 4
 
@@ -16404,7 +16398,7 @@ Ditto _ - Sir Tho. Gresham, Knt. - Chamberlain of London - <2 IO (1
 
 Yearly - . - Fishmongers Extra Bounty - fishmongers Company - 4 I) 1)
 
-Ditto . . Mr Thomas Kncesworth - Ditto -- 1 0 ()
+Ditto Mr Thomas Kncesworth - Ditto -- 1 0 ()
 
 Ditto _, - Mrs. Letitia Smith - Ditto -- o 3 4
 
@@ -19396,7 +19390,7 @@ There is one room up stairs for Women, with two beds. No firing is allowed; nor 
 
 STATE OF PRISONS
 
-$3* The Regulations of this Prison, and its very curious Table of Orders, being exactly similar to those of Halifax Gaol, I must refer the Reader to my Remarks upon them, under that head, in page 258; and which, of course, are equally applicable to the present Gaol of Rothwell. Is it not singular, that the IVest-Riding of the largest County in England should be the only district of that respectable County, or in Great Britain, where a degree of rigour and authority so very peculiar is countenanced and maintained ?
+3* The Regulations of this Prison, and its very curious Table of Orders, being exactly similar to those of Halifax Gaol, I must refer the Reader to my Remarks upon them, under that head, in page 258; and which, of course, are equally applicable to the present Gaol of Rothwell. Is it not singular, that the IVest-Riding of the largest County in England should be the only district of that respectable County, or in Great Britain, where a degree of rigour and authority so very peculiar is countenanced and maintained ?
 
 RUTIIIN. Denbighshire; North Wales. The County Gaol, and Bridewell.
 
@@ -20473,8 +20467,6 @@ In the centre, detached by a neat garden of 30 yards in length by 14, is the Gao
 On the ground floor is the apartment for the visiting Magistrates, the Gaoler’s parlour and office, and a small room, used by the Debtors, to see their families and friends, no one being permitted to go into their day-room, or court-yard.
 
 Rehind the Keeper’s house is the inner court, 6'5 feet by 40, which leads to the Men-Debtors’ day or mess-room, 30 feet by 26, fitted up with two fire-places, coppers, &c. for the purposes of frugal cookery; and on each side are eight small work-rooms, and two small spaces or slips, where, at stated times, the relations and friends of the Prisoners are allowed to sec them. The Men Debtors have a spacious court, of yfi yards by 30, the greater part of which they are allowed to cultivate for their own use; and there are arcades for their accommodation in wet weather. Near this are fifty sleeping-cells, each of , 9 feet by 8 feet 6 inches, with arched roofs, well ventilated, and divided by passages, or lobbies, 6’ feet wide. To each cell
-
-)
 
 IN ENGLAND, SCOTLAND, AND WALES.
 
@@ -21824,8 +21816,6 @@ No water accessible, but as brought in by the Keeper. He informed me that Prison
 
 STATE OF TRIfiONS
 
-«>
-
 WELLS. Somersetshire.
 
 The Totvn Gaol.
@@ -23110,7 +23100,7 @@ The Act for Preservation of Health was not hung up, but the Clauses against the 
 
 I could not help observing to Burnley, the former Keeper, the striking contrast -there was between his face, which appeared as if capable of lighting a caudle, and
 
-$os
+os
 
 STATE OF PRISONS
 
@@ -24504,7 +24494,7 @@ South Wales - 2SS.761 50 23, 384
 
 Middlesex - 818, 129 1/217 ()*J y i i.> -, I r
 
-The Observation which naturally occurs on an Examination of this Account, is the very great Advantage which the Northern Counties appear to possess, both with respect to the small number of Offenders and Paupers, when compared with the rest of England. This observation applies, not only to the Counties within the Northern Circuit, but likewise, so far as relates to I'aupcis generally, to all the more Northern Counties. The Counties of Lincoln, Nottingham, Derby, and Rutland, the most Northern Counties in the Midland Circuit, and those of Staffordshire and Shropshire, the most Northern in the Oxford Circuit, appear to be in this respect, in the same comparatively favourable situation a* the Counties within the Northern Circuit, when compared with the other more Southern Counties of Eng. land; Middlesex, Monmouth, and Cornwall alone excepted.
+The Observation which naturally occurs on an Examination of this Account, is the very great Advantage which the Northern Counties appear to possess, both with respect to the small number of Offenders and Paupers, when compared with the rest of England. This observation applies, not only to the Counties within the Northern Circuit, but likewise, so far as relates to I'aupcis generally, to all the more Northern Counties. The Counties of Lincoln, Nottingham, Derby, and Rutland, the most Northern Counties in the Midland Circuit, and those of Staffordshire and Shropshire, the most Northern in the Oxford Circuit, appear to be in this respect, in the same comparatively favourable situation a* the Counties within the Northern Circuit, when compared with the other more Southern Counties of England; Middlesex, Monmouth, and Cornwall alone excepted.
 
 •i N
 
@@ -24581,8 +24571,6 @@ Do. Concealing Birth of Infants - _ 12 -
 Maliciously Shooting, Stabbing, and Administerii g Poison, with intent to 10 10 -
 
 Attempt to Poison - -
-
-]
 
 Manslaughter - - 3«> -
 

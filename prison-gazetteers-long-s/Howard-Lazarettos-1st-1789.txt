@@ -394,8 +394,6 @@ Health- office. The following account has been, for the nioft part, copied from 
 
 [ ' Many of the windows in these rooms, and also in some- other ancient pell-hotlfes which I have seen, are now bricked up. Tins shews, that in the last century, physicians were fenftble of the importance of fresh air, and a free circulation of it in ftek wards. A different practice, particularly in the small-poi' and the gaol-fever, was afterwards adopted by medical gentlemen; but we seem now to be returning to the ancient and more salutary practice. Formerly also, it seems probable that men did not entertain titofe absurd prejudices against the free life of water in washing thtmselves and their rooms, which are now prevalent; for, in several of the old pefi-houses, I have observed the matks of a greater attention to the means of gaining plenty of water than has been thought necessary in many of the hospitals built within these ftfty years. The
 
-\
-
 «3T:
 
 Sect. I.
@@ -459,8 +457,6 @@ nature of the disease, and any other physician may be called jointly with him; b
 * Adjoining to the prior’s house, there are parlm-s, where these visits are made generally in tile presence of A the pii-r, fab-prior or guardian, and sometimes of all of them.
 
 office,
-
-(
 
 Sect. I.
 
@@ -583,8 +579,6 @@ Sect. I.
 I
 
 I
-
-\
 
 QjJ ARANT1NE of PASSENGERS.
 
@@ -1963,8 +1957,6 @@ Hospital.
 * Patients with coughs should be supplied with such little boxes or basins as are used in Holland, and in Tome churches, as at Malta &c. I would have fnufr and tobacco, strictly prohibited in all hospitals and poor-houses, the use of them being idle, dirty, and expensive,
 
 t 1 was well informed, that feme have hurt their families through the ambition of having their statues placed in this hospital.
-
-\
 
 1
 
@@ -5056,8 +5048,6 @@ t The sashes are hung on pivots, which are on each fide the window; they are in 
 
 | The water closets are constantly supplied with freftt water, from a reservoir; they empty and fill the basin by opening the door. They are so simply constructed that they require little attention, and are not liable to be easily put out of repair. They are free from ill scents. The basin is of earthen or queen’s ware, glazed; and it is always charged with water, being supplied afrelh every time the patient leaves the closet. The door aSs on the cittern by a common lever, and the fame operation discharges all that is left in the basin.
 
-{
-
 town*
 
 >J6
@@ -5124,9 +5114,9 @@ The numbers in 1779 were 545 - - - - 6 - - - - 551’ - - - 281, - - 270.
 
 1782 - - 456 - - - - 6 - - - - 462, - - - 214, - - 248.
 
-1783 . . 510 - - - - 3 - - - - 5*3> - - - 276, - - 237.-
+1783 510 - - - - 3 - - - - 5*3> - - - 276, - - 237.-
 
-1784 . . 549 - - - - 5 - - - - 554' - - - 269, - - 28;.
+1784 549 - - - - 5 - - - - 554' - - - 269, - - 28;.
 
 1785 - - 582 .... 9 - - - - 591, - - - 299, - - 292.
 
@@ -6409,8 +6399,6 @@ It is ordered by this court that the following rates and fees be taken by the ke
 'cr 01 ms
 
 iviajeity s gaol
-
-£•
 
 For lodging every debtor per week -----
 
@@ -7840,7 +7828,7 @@ York YORK City Bridewell. The wall that obstructed the air is removed further fr
 
 City the cejjS) anc[ tw0 new cejjs are Water is laid in from the river Ouse. Employ-
 
-l5R I DEWELL . . J I J
+l5R I DEWELL J I J
 
 ment, pounding tile-fherds, at 31/. a bushel. Keeper’s salary now £30.
 
@@ -10616,7 +10604,7 @@ I7S3 I - - - - Robbeiy.
 
 - - - t - Horse-stealing.
 
-_ a . . _ . . *2 . . Theft.
+_ a _ *2 Theft.
 
 - 1 - - - - Stealing a Child.
 
@@ -10640,7 +10628,7 @@ a _ _ . House-breaking and Theft.
 
 " - - a - Robbery.
 
-a _ _ _ _ _ . . . House-breaking and Theft.
+a _ _ _ _ _ . House-breaking and Theft.
 
 1 - Pocket-picking.
 

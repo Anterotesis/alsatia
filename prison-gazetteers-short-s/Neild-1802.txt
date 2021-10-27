@@ -346,8 +346,6 @@ O J 7
 
 plaintiff seldom reflects, that it is the property of
 
-/
-
 himself and other creditors, which, by this mode
 
 of
@@ -586,8 +584,6 @@ D 3
 
 FORMS
 
-/
-
 (35 y
 
 FORMS
@@ -744,8 +740,6 @@ ACCOUNT OF THK SOCIETY
 
 The foregoing legacies amount to 153/. 125. Ad. per aim. and have not been paid to the poor prisoners for many years past. See a pamphlet, intitled, “ The extraordinary case of William Penrice.”
 
-/
-
 the
 
 FOR RELIEF OF SMALL DEBTS.
@@ -811,8 +805,6 @@ PROVISIONARY ALLOWANCE, Ac,
 DURING CONFIN
 
 AS REPORTED TO THE
-
-/
 
 Society for the Discharge and Relief of
 
@@ -1040,7 +1032,7 @@ This Gaol is also the County Bridewell. It has six rooms on the second story for
 
 The prison is white-washed once in two or three years, but the good effects are destroyed by almost every chimney smoaking. No water but what the Gaoler fills into a square box lined with lead, which holds about twenty-two gallons. It might be laid on at small expence from a spring about a hundred yards distant.
 
-$6 ACCOUNT OF THE VARIOUS PRISONS
+6 ACCOUNT OF THE VARIOUS PRISONS
 
 BEDFORD.
 
@@ -1259,8 +1251,6 @@ Chaplain, none.
 Surgeon, none.
 
 Number of Debtors
-
-{
 
 1801. Sept. 14, ....91802. Feb. 9, ......5
 
@@ -1612,8 +1602,6 @@ Surgeon, Mr. Williams; Salary 20/.
 
 Number of Debtors
 
-{
-
 1800, March 31,
 
 1801, Nov. 21,
@@ -1722,8 +1710,6 @@ Each house attends alternately every third year. Salary, 50/.
 
 Number of Debtors
 
-{
-
 1800, March 27, 1801, Oct. 11, ..
 
 * 7
@@ -1769,8 +1755,6 @@ Duty. Sunday, prayers and sermon; and prayers on Wednesday and Friday.
 Surgeon, Mr. Hughes. Salary 30/.
 
 Number of Debtors
-
-{
 
 1800, March 31, 1802, Jan. 31,
 
@@ -1862,8 +1846,6 @@ Surgeon, Mr. Webb-, Salary 100/. per annum for this prison and house of correcti
 
 Number of Debtors
 
-{
-
 1800, August 1,
 
 1802, Feb. 8,
@@ -1892,11 +1874,11 @@ Chaplajn, none.
 
 Surgeon, Mr. Whit well; makes a bill.
 
-(1800, March 26, . . 2
+(1800, March 26, 2
 
 Number of Debtors^ n T ,
 
-(ibo2, Jan. 26, . . 7
+(ibo2, Jan. 26, 7
 
 Allowance. A four-penny loaf per day each prisoner.
 
@@ -1920,7 +1902,7 @@ Chaplain, none.
 
 Surgeon, Mr. Haden; makes a bill.
 
-Number of Debtors, 1802, Feb. 15, . . 3
+Number of Debtors, 1802, Feb. 15, 3
 
 Allowance. Three shilling per week in bread.
 
@@ -1944,7 +1926,7 @@ Duty; Three days a week, Sermon on Saturday, prayers Monday and Wednesday.
 
 Surgeon, Mr. Fox; Salary 10I.
 
-(1800, Mar. 31, . . 18 '
+(1800, Mar. 31, 18 '
 
 Number of Debtors i 0 T
 
@@ -2052,8 +2034,6 @@ A Task Master, 60/. per ann.
 
 Number of Debtors
 
-{
-
 1800, March 31,
 
 1801, Dec. 29,
@@ -2132,8 +2112,6 @@ L 1802, Jan. 27, .... 2
 
 Allowance, none whatever.
 
-/
-
 REMARKS.
 
 Debtors do not now (as formerly) pay for water. There are three rooms, one r8 feet by 12; the other 13 feet by 11; and the new room 15 feet by 12 feet 6 inches. Each prisoner pays is. 4d. per week for a bed, though two sleep together.
@@ -2162,7 +2140,7 @@ Discharge ...... 6 8
 
 Yeoman porter ...... o 2 6
 
-Clerk of Dover Castle.... . . . o 3 6
+Clerk of Dover Castle.... . o 3 6
 
 274
 
@@ -2486,7 +2464,7 @@ Every prisoner charged with one or more actions (who shall go on the Common Side
 
 Every person entitled to partake of the poor’s box o
 
-Every prisoner to pay for his discharge, . . . . o
+Every prisoner to pay for his discharge, . . o
 
 Every such prisoner on the Master’s Side, who, at his own desire, shall have a bed to himself, to pay for chamber-room, use of bed, bedding, and sheets, to the Warden, per week, ...o
 
@@ -2568,7 +2546,7 @@ Term, ...... 12 o 0
 
 3. From the Court of Exchequer, 6s. 2d. every
 
-Term, ...... . . . . 1 6 S
+Term, ...... . . 1 6 S
 
 4. From the Company of Drapers, annually at
 
@@ -2588,7 +2566,7 @@ Quarter, ...... 0100
 
 8. From the Archbishop of Canterbury, at Christmas 100
 
-9. From St. Bartholomew’s Hospital at ditto, . . 1 13 o
+9. From St. Bartholomew’s Hospital at ditto, 1 13 o
 
 10. From St. Ethelberg’s parish at ditto, ....090
 
@@ -2604,7 +2582,7 @@ Years, ...... 200
 
 stone of Meat, at 29. 8d. per stone, at Christmas, ...... 461
 
-14. Warden of the Fleet, at Christmas, . . . . 1 1 o
+14. Warden of the Fleet, at Christmas, . . 1 1 o
 
 IlS ACCOUNT OF THE VARIOUS PRISONS
 
@@ -2896,7 +2874,7 @@ Per Contra. Cr.
 
 s. d.
 
-By Subscription of J. II. 3 o Ditto, J. W. ...50 Ditto, D. F. . . . 5 o
+By Subscription of J. II. 3 o Ditto, J. W. ...50 Ditto, D. F. . 5 o
 
 kc. Sec. kc.
 
@@ -2918,7 +2896,7 @@ Per Contra. Cr.
 
 s. d.
 
-By Subscription of R. B. 5 o Ditto, \V. D. . . . 5 o
+By Subscription of R. B. 5 o Ditto, \V. D. . 5 o
 
 Ditto of M. Court of Conscience Debtor, ..16 See. &:c. kc.
 
@@ -3030,13 +3008,13 @@ Mr. John Laurd, - 1100
 
 Mr. Edward Corbett, - 2 o o
 
-Mr. Richard Jacob, 2/. deducting land tax, . . 1 12 o
+Mr. Richard Jacob, 2/. deducting land tax, 1 12 o
 
 Sir Robert Martin, - 200
 
 Mr. John Marsh, - 0^0
 
-Sir Robert Martin and Mr. John Marsh, . . . 1 7 1
+Sir Robert Martin and Mr. John Marsh, . 1 7 1
 
 Mrs. Jane Sambach, ...... 100
 
@@ -3172,8 +3150,6 @@ By the police of this prison regarding debtors, it is considered as the best exp
 
 allowance of bread and money to every prisoner
 
-\
-
 who appears clean, and has behaved decently at chapel.
 
 For this account of Gloucester gaol, and for much useful information concerning prisons and prisoners, I beg leave to express my acknowledgement to Sir George Onesiphorus Paul, Bart.
@@ -3248,13 +3224,9 @@ Salary 15/. for criminals only.
 
 Number of Debtors
 
-{
-
 1800, May 4, 1802, Jan. 29,
 
 Allowance. None whatever.
-
-.>
 
 o
 
@@ -3280,7 +3252,7 @@ Chaplain. None.
 
 Surgeon. None; when one is wanted, paid by the Mayor.
 
-f 1800, March 30, . . . 1
+f 1800, March 30, . 1
 
 Number of Debtors) 0 -n ,
 
@@ -3315,8 +3287,6 @@ Salary, 50/.
 Surgeon, Mr. Cam. Salary 42/.
 
 Number of Debtors
-
-{
 
 1800, March 30, . 1802, Jan. 28,
 
@@ -4064,7 +4034,7 @@ jT.s. d.
 
 County-money, paid quarterly, by the Clerk, to the Chief Justice of the Court of King’s Bench, at 13/. per quarter, ...... 60 o o
 
-The Gift of Sir Thomas Gresham, paid by the Chamberlain of London, at 2/. 105. per quarter, . . .1000
+The Gift of Sir Thomas Gresham, paid by the Chamberlain of London, at 2/. 105. per quarter, .1000
 
 Lady Bertie, at Lady-day yearly (deducting Land-Tax) ...... 200
 
@@ -4224,8 +4194,6 @@ tc leave, must pass through six doors; he has only
 
 £< air. That, since he came in, he had a fellow
 
-»<
-
 prisoner,
 
 IN ENGLAND AND WALES.
@@ -4288,7 +4256,7 @@ Surgeon, Mr. Maule.
 
 Salary, none; makes a bill.
 
-C I SOO, 9 . r> . . . (2 *
+C I SOO, 9 . r> . (2 *
 
 Number of Debtors i 0 ,
 
@@ -4397,8 +4365,6 @@ Salary, 30/.
 Surgeon, Mr. Paul Parnell; Salary, 30/.
 
 Number of Debtors
-
-{
 
 1800, March 26, 1 Bor, Nov. 20,
 
@@ -4601,8 +4567,6 @@ Surgeon* Mr. Thomas XlpwooL
 Salary, I05/. for the Gaol and Poor of the parish *
 
 Number of Debtors
-
-{
 
 1 Boo, March 27, 1802, Jan. 28,
 
@@ -4818,7 +4782,7 @@ To the Surgeon or Apothecary, on discharge of every
 
 prisoner, charged with one 01 more actions, o
 
-To the Chaplain, on the like discharge, . . . . o
+To the Chaplain, on the like discharge, . . o
 
 s- <1
 
@@ -4837,8 +4801,6 @@ o
 To the Keeper, for the use of a bed, bedding, and sheets, for every Prisoner, if found by the Gaoler at the Prisoner’s request, for the first
 
 night, on the Master’s side of the said Prison, o 0-5
-
-/
 
 And every night after the first night, .......o o g
 
@@ -5592,8 +5554,6 @@ REMARKS.
 
 No court-yard. No day-room. One large room with straw ticking beds, two blankets, and a rug, furnished by the Corporation. The old prison being in a very ruinous condition, it is taken down, and temporary rooms built at the Mayoralty-house for the purpose, till the Gaol is rebuilt.
 
-/
-
 IN ENGLAND AND WALES.
 
 239
@@ -5834,8 +5794,6 @@ October 21st, 1801, Sessions, Ordered, that the visiting justices be requested t
 
 READING, Town-Gaol.
 
-/
-
 Gaoler, Thomas Moore Davies, Serjeant at Mace..Salary, 9/.
 
 Fees. None.
@@ -5847,8 +5805,6 @@ Allowance. Sixpence a da), a sacking bedstead, flock bed, two blankets, and a ru
 REMARKS.
 
 One room at a public house, no court-yard, no water.
-
-/
 
 IN ENGLAND AND WALES.
 
@@ -5990,7 +5946,7 @@ Surgeon, Mr. Nichols. Salary, 30/.
 
 IS umber of Debtors \ Q T
 
-L 1002, Jan. 30, . v . . 4
+L 1002, Jan. 30, . v 4
 
 Allowance. Three Shillings per week each, to paupers only:
 
@@ -6362,7 +6318,7 @@ Table of Fees.
 
 £. s. d.
 
-For entering tile action wherein each prisoner is brought into custody on any Writ or Process, . . o 10 6
+For entering tile action wherein each prisoner is brought into custody on any Writ or Process, o 10 6
 
 For every second or other action, ........060
 
@@ -6459,8 +6415,6 @@ Surgeons, Messrs. Saumerez and Dixon.
 Salary, 75/. for prisoners of every description in Gaol and House of Correction.
 
 Number of Debtors
-
-{
 
 1800, April 15, 1802, Jan. 16,
 
@@ -6626,8 +6580,6 @@ Surgeon, Mr. Birch; Salary, 25/.
 
 Number of Debtors
 
-{
-
 1800, April 6, .1802, Jan. 28,
 
 32
@@ -6660,7 +6612,7 @@ Surgeon. None.
 
 Number of Debtors^ 1801, Aug. 19, .... 1
 
-\1802, Jan. 27, . . . . o
+\1802, Jan. 27, . . o
 
 Allowance. None whatever.
 
@@ -7432,9 +7384,9 @@ Appleby - 15
 
 Brought up 373
 
-Aylesbury . . 2 Ilchester .... . 27
+Aylesbury 2 Ilchester .... . 27
 
-B iv eon.. . . 11 Ipswich .... 15
+B iv eon.. 11 Ipswich .... 15
 
 Bedford . 6' Kingston upon Hull B3
 
@@ -7444,15 +7396,15 @@ Bury St. Edmunds 5 Leicester County Gaol . 20
 
 Bristol .... 3 Lancaster Castle
 
-Bath .... . 1 Lincoln Castle . . 2
+Bath .... . 1 Lincoln Castle 2
 
-Borough Compter 83 Kenton late Basford . . 1
+Borough Compter 83 Kenton late Basford 1
 
 Carlisle 14 Ludgate .... . 24
 
 Carmarthen.. . 11 Mai l-too'' . 29
 
-Chelmsford 3 Monmouth.. . . 6
+Chelmsford 3 Monmouth.. 6
 
 Coventry.. . 3 Montgomery.. . 2
 
@@ -7460,9 +7412,9 @@ Chester.. . 3 Morpeth .... i
 
 Cambridge.. . 2 Marshalsea 33
 
-Cardiff.. . . 2 Northampton.. . 1 t
+Cardiff.. 2 Northampton.. . 1 t
 
-Cardigan.. . . 1 Norwich .... 1
+Cardigan.. 1 Norwich .... 1
 
 Canterbury.. j Newgate .... 283
 
@@ -7488,9 +7440,9 @@ IFiMierton Anger 5 Richmond 3
 
 Hereford *3 Surrcv 0 >untv Gaol 39
 
-Huntingdon . . 6 To thill Fields.. . 19
+Huntingdon 6 To thill Fields.. . 19
 
-Itor.ham . . 6 Warwick .... . 14
+Itor.ham 6 Warwick .... . 14
 
 Hertford 5 Worcester .... U
 
@@ -7734,8 +7686,6 @@ A Ge n-
 
 0~i
 
-)
-
 A Gentleman, per Treasurer ........ 2
 
 A London Tradesman’s one Year’s Profits, by Messrs. BlandnndCo. 383 Adrian, A. Esquire, by Messrs. Dorrien and
@@ -7829,8 +7779,6 @@ o o
 1 O
 
 2 O
-
-£•
 
 S. (I.
 
@@ -8572,8 +8520,6 @@ e- ro 10 0
 
 CarLer,
 
-/
-
 (33*)
 
 £• s• «•
@@ -8612,7 +8558,7 @@ Benefactions 4 4 0
 
 Char. San 5 5 0
 
-Cockayne, Rev. Dr., . . 2 2 0
+Cockayne, Rev. Dr., 2 2 0
 
 Curtis, Mr. Alderman 10 10 0
 
@@ -9539,8 +9485,6 @@ Hannan, Edward, Esq. 10 10 o
 E
 
 I, B, by Mr. Nelnie 100 00
-
-¥
 
 Jordon,
 
@@ -11740,7 +11684,7 @@ to discharged ami relieved. D d.
 
 1774 ... ..1772 for the Sum of 4622 I
 
-1775 - 996 . . .1724 1 Ii
+1775 - 996 .1724 1 Ii
 
 1776 - 673 ... 1842 J3 3
 

@@ -372,9 +372,9 @@ Drawing Precipe for original
 
 fol. 25 ...... 15 0
 
-Copy for the Cursitor . . 0 12 6
+Copy for the Cursitor 0 12 6
 
-Paid for original . . .05 6
+Paid for original .05 6
 
 Fee thereon - 0 6 8
 
@@ -396,9 +396,9 @@ Hilary Term.
 
 23d April. Motion for a rule to return
 
-the writ . . .034
+the writ .034
 
-Paid for the rule . . 0 6 6
+Paid for the rule 0 6 6
 
 Copy and service . .020
 
@@ -416,19 +416,19 @@ Entering on the roll, and paid
 
 Prothonotary . 1 5 0
 
-Copy declaration on stamps, to deliver to defendant, and duty . . . 0 9 8
+Copy declaration on stamps, to deliver to defendant, and duty . 0 9 8
 
-Attending to deliver same .034 Affidavit of service, duty, and oath . . . .072
+Attending to deliver same .034 Affidavit of service, duty, and oath . .072
 
 Copy declaration to annex to affidavit, and duty . 0 9 8
 
 Copy affidavit and declaration, and stamps .:0 13 4
 
-29th, Paid filing affidavit and declaration ' . . 0 2 0
+29th, Paid filing affidavit and declaration ' 0 2 0
 
 Attending to file same:0 3 4
 
-Term fee, letters and messengers . . . . 0 12 0
+Term fee, letters and messengers . . 0 12 0
 
 11 15 8
 
@@ -504,7 +504,7 @@ The next object to be considered is, At what period of time the prisoner for deb
 
 OBSERVATIONS ON* TllE
 
-$6
+6
 
 debtors services for a long course of years—nityj for ever, without limitation of time in his favour to restore him to liberty. Surely, in like manner, as the less the nature of a mail’s crimes is who offends against the Criminal Law, the lighter is his punishment; so the smaller a man’s debts bona jide contracted are, the shorter should be the period of his confinement. And here it may not be amiss to observe, that, generally speaking, the man who is cast into prison for a debt of 10/. may really be a more useful member of the country, by the due application of his labour, than the prisoner who is confined for 10,000l. A period of three months may reasonably be considered as a sufficient length of confinement to induce a more cautious conduct' in the future dealings of a man, whose debts may not exceed 10/.; and proportionate progressive scales of time and money may be formed to produce the same' good effect with debtors, whose debts are from that sum up to 2000L And after these, perhaps, it might be as well to suffer all debts of a higher amount to be placed in the same scale.
 
@@ -1014,8 +1014,6 @@ Surgeons, Messrs. Poore and Co.; they make a Bill.
 
 Number of Debtor
 
-{
-
 1802, Dec. 28th, . 1 1807, Sept. 25th, . 0 Allowance. Very poor prisoners have sixpence per day; and in extreme cold weather, a fire.
 
 REMARKS.
@@ -1066,15 +1064,15 @@ For the discharge of a debtor . 13 4
 
 For every person committed by a Warrant
 
-of a Justice of the Peace . . .68
+of a Justice of the Peace .68
 
-For a Copy of Commitment, when demanded . . . . . .10
+For a Copy of Commitment, when demanded . .10
 
 For a Certificate of Commitment, in order
 
 to obtain a Writ of Habeas Corpus . 2 6
 
-For signing a Certificate, in order to obtain a Supersedeas, or a Rule or Order of Court . . . 2 6.
+For signing a Certificate, in order to obtain a Supersedeas, or a Rule or Order of Court . 2 6.
 
 For the discharge of a prisoner by Proclamation at the Assizes, or General Quarter Sessions . - - 13 4.”
 
@@ -1302,7 +1300,7 @@ Salary, for Debtors, Felons, and House of Correction, 40/.
 
 Number of Debtors.
 
-1801, August 19th, 5 180G, July 14th, . ll 1802, Jan. 26’th, . . 4 1807, Sept. 1st, ... 4
+1801, August 19th, 5 180G, July 14th, . ll 1802, Jan. 26’th, 4 1807, Sept. 1st, ... 4
 
 Allowance. Debtors, two quartern loaves per week each, sent from the baker’s, which I have always found full weight.
 
@@ -1482,9 +1480,9 @@ From Debtors.
 
 first Class-. I. s.
 
-Every Debtor voluntarily going into the Master s Ward, to pay the Keeper at Entrance . . . 0 3 4
+Every Debtor voluntarily going into the Master s Ward, to pay the Keeper at Entrance . 0 3 4
 
-To the Turnkeys . . Old
+To the Turnkeys Old
 
 To Keeper at Discharge > O 6 8
 
@@ -1544,7 +1542,7 @@ For copy of SherifTsWarrant, if demanded 0 1 0
 
 For registering any Declaration against
 
-a Prisoner . . . < D 1 0
+a Prisoner . < D 1 0
 
 F or
 
@@ -1612,7 +1610,7 @@ Number of Debtors.
 
 1802, Feb. 9th, , 5 1805, Dec. loth, 5
 
-1803, Jan. 2d, . . 8 1806, May 28 th, 7
+1803, Jan. 2d, 8 1806, May 28 th, 7
 
 Allowance to Debtors, a two-penny loaf* per day from the City; and every eight weeks, sixty-five penny loaves, from Mrs. Margaret Symcott's Gift, more commonly known as Eleanor Gwymis Legacy; a memorial whereof is fixed up in the prison. Also twenty shillings every Christmas from tile Archbishop of Canterbury.
 
@@ -1800,11 +1798,11 @@ Table of Fees, established 13th March 1805.
 
 I. s. d.
 
-(c For entering of every fresh Action or Process, whereon a Prisoner shall or ' may be charged . . 0^6
+(c For entering of every fresh Action or Process, whereon a Prisoner shall or ' may be charged 0^6
 
 For the Turnkey, or Under Turnkey, on
 
-each fresh Action . . 0 10
+each fresh Action 0 10
 
 For the entering of the Discharge, or for
 
@@ -2264,8 +2262,6 @@ Surgeon, Air. /Gilliams. Salary 20/.
 
 Number of Debtors,
 
-{
-
 1801, Nov. 21st, - -
 
 1803, (Jet. 2d, - -
@@ -2297,8 +2293,6 @@ Duty; Sunda}rs, and at other times if required.
 Surgeon, Mr. Williams. Salary, lol.; for debtors and felons.
 
 Number of Debtors,
-
-{
 
 1802, Nov. 30th, 18 03, Sept. 2dth,
 
@@ -3426,8 +3420,6 @@ Warden, William Petrie:To whom half a merk
 
 by each debtor.
 
-•/
-
 There were no prisoners at my visit, lGth Sept. 1802.
 
 Allowance. They are alimented as in the Tol-booth.
@@ -4499,8 +4491,6 @@ Gaoler, Robert Hamilton. Salary, yol.
 Fees. Felons, none. Debtors, see Table. Licence. Beer.
 
 Garnish. Prohibited; but see Remarks.
-
-/.
 
 Chaplain. None.
 
@@ -6990,7 +6980,7 @@ Mr. W. Parker -
 
 Mr. John Wooler -
 
-$ Lady Maurice and ?
+ Lady Maurice and ?
 
 (Mr. Bennett £
 
@@ -7240,7 +7230,7 @@ Hugh Offley 5s. John Symonds 4s. Richard Jacob 40*. Lady Carezo 40s. John Jackso
 
 The
 
-$52 ACCOUNT OF PRISONS FOR DEBTORS
+52 ACCOUNT OF PRISONS FOR DEBTORS
 
 The Rules and Orders for the government of tlii£ prison have been made by the several lord mayors and court of aldermen, and sometimes by the sheriffs for the time being, and the execution of them vested in the keeper and eight of the prisoners, under the title and description of “ the Court of Keeper, Steward, and Assistants who are thereby empowered to make such further orders as are necessary for the good governing and quiet behaviour of the prisoners:But such further orders dre never enforced, until they have first been approved by the lord mayor, Or court Of aldermen, or sheriffs, to whom an appeal lies against any improper decision of the court of steward and assistants. The principal Orders at present in force are—against profaners of the Sabbath, and neg-lecters of divine service: for chusing stewards, assistants, chapel-warden, reader, scavenger, and secretary; and to declare the duty of each; and for settling their several salaries: that is to say, Twenty-one pence weekly to the steward, whose business it is to keep good order, and be accountable fcrr what monies are received from casual benefactions, or otherwise; and to divide the same amongst the prisoners: Three pence weekly to
 
@@ -9559,8 +9549,6 @@ Gaoler, William Arney. Salary, 8^. per week. Fees, 13s. 4d. No table.
 Number of
 
 Debtors
-
-•{
 
 1802, Jan. 28th, 1803, Oct. 22d,
 
@@ -12886,7 +12874,7 @@ Distress - 20 o 0
 
 A Friend - 7 o O
 
-Aust, George, Esq. 14 14 O *'*Auberton, P. Esq. . . 27 10
+Aust, George, Esq. 14 14 O *'*Auberton, P. Esq. 27 10
 
 Askew, Adam, Esq. 18 18 0 Askew, Arden, Esq. 8 3 0
 
@@ -13110,7 +13098,7 @@ Chatfield, Mrs. Al. .. 8 SO Charlett, Rich.Bourne
 
 Esq - 0 GO
 
-Charleson, Mr. Luwr. 1 l o Calvert, Peter, Esq. 10 10 0 Calvert, Miss Maria . . 5 5 0
+Charleson, Mr. Luwr. 1 l o Calvert, Peter, Esq. 10 10 0 Calvert, Miss Maria 5 5 0
 
 Chatteris, Wm. Esq. S SO Cator, John-Augustus, Esq - 4 4 0
 
@@ -13132,7 +13120,7 @@ Crawford, Mrs. Robt . 5 5 0
 
 Cruttenden, Captain 5 0 0
 
-Cruttendcn, J. Esq, . . 5 5 0
+Cruttendcn, J. Esq, 5 5 0
 
 C. B. R 50 0 0
 
@@ -13140,7 +13128,7 @@ C. S. E 15 15 0
 
 Clifford, Henry, Esq . 1 1 0
 
-Coape, ----, Esq. . . 2 2 0
+Coape, ----, Esq. 2 2 0
 
 Cadby, William, Esq. 2 2 0 Claridge, John-Fellows
 
@@ -13216,7 +13204,7 @@ Thomas’s 7 GO 0 0
 
 * Edmonston, Sir- Ar-
 
-chibald, Bart. . . 21 0 0
+chibald, Bart. 21 0 0
 
 Eiliston, Rev. Dr. dee. 42 0 0
 
@@ -13244,7 +13232,7 @@ Enderby, Charles, Esq.4 4 0
 
 Enderby, George, Esq. 4 -4 0
 
-*Evton, Rev. John . . 21 0 -0
+*Evton, Rev. John 21 0 -0
 
 Elv, Lord Bishop of 20 0 0
 
@@ -13298,7 +13286,7 @@ Fawcett, Rev.Thomas 2 2 0
 
 * x Preach, George, Esq. 23 O 0
 
-Foxton, Wm. Esq. . . 1 Forbes, Sir Win. Bart. 1 0
+Foxton, Wm. Esq. 1 Forbes, Sir Win. Bart. 1 0
 
 dec 10 10 0
 
@@ -13384,7 +13372,7 @@ Godwin, George, Esq. 15 0 O
 
 s*Grcgg, FnincLs, Esq. 21 0 (>
 
-Gambier, J. Esq. . . 10 0 0
+Gambier, J. Esq. 10 0 0
 
 * Gambier, Viee-Adm. 35 0 o
 
@@ -13396,9 +13384,9 @@ Leeds 21 0 0
 
 Glvnn, Lady Carr - 4 4 0
 
-Grant, Henry, Esq. . . 2 O. o
+Grant, Henry, Esq. 2 O. o
 
-Gay, Nicholas Esq. . . 2 o, (>-
+Gay, Nicholas Esq. 2 o, (>-
 
 Gage, lloiTble Mrs. 1 Goldney, Mr. Thomas 2 i O-
 
@@ -13410,7 +13398,7 @@ Rev. Sydney Smith25 5 O’ *Gorc^on, Alex. Esq. 31 10.O
 
 Gooch, Mr. T. S.....1> 0 O
 
-* xGoldsniid, A. Esq. . . 21 0 O
+* xGoldsniid, A. Esq. 21 0 O
 
 Gavin, Mr - 1. 1 O
 
@@ -13446,7 +13434,7 @@ Hume, Alexander, E-q.2 ‘2 0
 
 Hamilton, Sir 11. dec. 23 2 0
 
-Hamilton, Lady. . . . 5G 14 0 *Hoare, Henry, Esq. and
+Hamilton, Lady. . 5G 14 0 *Hoare, Henry, Esq. and
 
 Co - ‘25 7 0
 
@@ -13468,7 +13456,7 @@ Hardcastle, Jos. Esq. 10 10 0 Hammer-dey, T. Esq. '20 0 0 Hunter, Robert, E^q 8 
 
 Hyde, Mrs. dec. . 11‘2 H) 0
 
-Holder, Airs. Bath . . 8 SO *Holner, Ja. Hooper,
+Holder, Airs. Bath 8 SO *Holner, Ja. Hooper,
 
 Esq - 31 10 0
 
@@ -13510,7 +13498,7 @@ H. G ...... 20 0 o
 
 -*Hopeton, M. C. Esq. 30 o o I fart, W. Ne\ il, Esq. 2 2 O
 
-' Hughes, Rev. Dr. . . G G 0
+' Hughes, Rev. Dr. G G 0
 
 Herbert, Mr 10 0 0
 
@@ -13528,7 +13516,7 @@ I iarboi'd. Lady Cai'ol. 20 O 0
 
 Hodgkinson, E. Esq. 10 10 0
 
-ilooinan. Miss, S. . . 3 8 0
+ilooinan. Miss, S. 3 8 0
 
 1. and J.
 
@@ -13546,7 +13534,7 @@ I.I.perMcs.-.rs.HoaresGO O 0 Jellery, George, Esq. 15 10 0
 
 Joyce, Mrs - 80 0 O
 
-Jeiferys, Nath. Esq. 18 IS 0 Jcnner, Rev. Dr. . . 14 14 O
+Jeiferys, Nath. Esq. 18 IS 0 Jcnner, Rev. Dr. 14 14 O
 
 l.X ...... 100 0 0
 
@@ -13582,13 +13570,13 @@ Johnston, Miss - <? O 0
 
 J. J 50 0 0
 
-Jones, Mrs. A. . . . . 4 1 0
+Jones, Mrs. A. . . 4 1 0
 
-Jones, Mr . . 1 1 0
+Jones, Mr 1 1 0
 
-Jones, IMr.C. P. .. . . 12 12 0
+Jones, IMr.C. P. .. 12 12 0
 
-Jones, Mr . . 5 0 0
+Jones, Mr 5 0 0
 
 I. K. per Hoaves .. 100 0 0
 
@@ -13756,15 +13744,15 @@ John. Cale, Esq.. . 200 O 0
 
 A Lady - 50 0 0
 
-Mr. John Bispham. .50 0 0 Mr. B, pbeit Clee.. . 50 O O Mis. Marv Bourne. 100 0 0 Lady Cath.Noel. ... 10 O 0 W. Congreve, Esq.1000 0 0 Mrs. Ann Campbell. 10 0 0 Mrs. Mary Wylde . . 100 0 0
+Mr. John Bispham. .50 0 0 Mr. B, pbeit Clee.. . 50 O O Mis. Marv Bourne. 100 0 0 Lady Cath.Noel. ... 10 O 0 W. Congreve, Esq.1000 0 0 Mrs. Ann Campbell. 10 0 0 Mrs. Mary Wylde 100 0 0
 
-Mrs. Eliz. Cumyns. 100 0 0 Wra. Crewe, Esq. . . 74 1G 0 John Darker, Esq. 50 0 0
+Mrs. Eliz. Cumyns. 100 0 0 Wra. Crewe, Esq. 74 1G 0 John Darker, Esq. 50 0 0
 
 Mrs. Cutts - 37 0 0
 
 Rev. Isaac Cooper. .50 0 0
 
-John Barnard, Esq.300 0 0 L. D. Nelme, Esq. . . 10 0 0 Tho. TolsonJ Esq. 200 0 0
+John Barnard, Esq.300 0 0 L. D. Nelme, Esq. 10 0 0 Tho. TolsonJ Esq. 200 0 0
 
 John Boldero, Esq. 50 0 0 James Harley, Esq.200 0 O
 
@@ -13814,7 +13802,7 @@ Wilson Pears*>n, Esq. 47 0 0
 
 William Fuller, Esq. 117 o 0
 
-John Peto Debell . . 10 0 o
+John Peto Debell 10 0 o
 
 Mis. Ann Oswald. . 259 17 G
 
@@ -14000,7 +13988,7 @@ Alontague Baril, Esq.l 1 0
 
 Alestaers, J. F. Esq. . 2 o 0
 
-Alontague, G. Esq. . . 2 o 0
+Alontague, G. Esq. 2 o 0
 
 Alendham, John, Esq.l 1 0
 
@@ -14090,7 +14078,7 @@ Puscy, Lady Lucy’. .47 5 0
 
 * Plumer, Tho. Esq. 21 0 O
 
-Pearce, W. Esq. . . . 12 12 O *Pepperell, Sir Win.
+Pearce, W. Esq. . 12 12 O *Pepperell, Sir Win.
 
 • Bart - 27 GO
 
@@ -14132,11 +14120,11 @@ Pitt, Win. Morton,
 
 10 o o o 12 0 10 O
 
-Esq. M. P. . . . . 12 12 0
+Esq. M. P. . . 12 12 0
 
 Paton, George Esq. 5 5 0
 
-xxPackwoocl, yji . . . . 2G 5 0
+xxPackwoocl, yji . . 2G 5 0
 
 Persse, P. Esq G G 0
 
@@ -14190,7 +14178,7 @@ St. Vincent, Rt. Hon.
 
 Countess of - IS IS 0
 
-Smith, Sir John, Bart. 15 15 O *Stanhope, C. Esq. . .SO GO Sykes, Rev. Sir Martin, Bart. dec. . . 170 0 O *Smith, Mr. Joint. .240 0 0
+Smith, Sir John, Bart. 15 15 O *Stanhope, C. Esq. . .SO GO Sykes, Rev. Sir Martin, Bart. dec. 170 0 O *Smith, Mr. Joint. .240 0 0
 
 Smart, Richard, Esq. 8 8 O
 
@@ -14228,7 +14216,7 @@ Stevenson, Rob. Esq. 10 Sturges-Bourne, Win.
 
 Esq. M. P.........2
 
-Swiney, Vice-Admiral Snow, Robert, Esq. . 5 Sansoni, Ph. Esq. ... 8 Soltau, Win. Esq. . . . G Soltau, George, Esq. 6
+Swiney, Vice-Admiral Snow, Robert, Esq. . 5 Sansoni, Ph. Esq. ... 8 Soltau, Win. Esq. . G Soltau, George, Esq. 6
 
 Soltau, Mrs - 3
 
@@ -14236,7 +14224,7 @@ Sauniarez, Sir James,
 
 Vice-Admiral - 2
 
-Saumarez, R. Esq. . . 4 Sykes, Rev. R. West-
+Saumarez, R. Esq. 4 Sykes, Rev. R. West-
 
 Ella - 20
 
@@ -14262,7 +14250,7 @@ dec - 15G
 
 Esq - 37
 
-Tvvol .adies, fi'oni Man-chester-square. . . 49 Two Ladies of Dorsetshire - 5
+Tvvol .adies, fi'oni Man-chester-square. 49 Two Ladies of Dorsetshire - 5
 
 * Tamez, James, Esq. of Moscow - 45
 
@@ -14308,15 +14296,15 @@ Till, Mr. Henry 2 o 0
 
 Trevelyan, John, Esq. 10 10 0
 
-Trevelyan, Mis. . . 10 It) 0
+Trevelyan, Mis. 10 It) 0
 
 Trevelyan, W\ 15. Esq. 7 i 0
 
-Toplis, John, Esq . . 5 0 0
+Toplis, John, Esq 5 0 0
 
 15 0 Tagg, Mr 2 o 0
 
-Thomas, W7 Em|. . . . G 0 0
+Thomas, W7 Em|. . G 0 0
 
 0 0 Tavlor, Mr. and Mrs. S 0 0
 
@@ -14428,7 +14416,7 @@ Warren, Aug. Esq. . 6 6 0
 
 Hams, Esq 36 15 0
 
-Woods, John, Esq . . 3 3 0
+Woods, John, Esq 3 3 0
 
 M ad, Wm. Esq. ... 10 0 0
 
@@ -14556,7 +14544,7 @@ discharged and relieved. £. S. d.
 
 Brought over S79I 19, 370 17 11
 
-1780 . . 339 715 8 9
+1780 339 715 8 9
 
 1787 .. 343 . ... 719 9 10
 
@@ -14566,9 +14554,9 @@ Brought over S79I 19, 370 17 11
 
 1790 .. 798 2303 9 34
 
-1791 . . 666 1777 0 6
+1791 666 1777 0 6
 
-1792 . . 460 1297 14 7
+1792 460 1297 14 7
 
 1793 .. 568 1870 1 5
 
@@ -14578,9 +14566,9 @@ Brought over S79I 19, 370 17 11
 
 1796 - 481 0 5
 
-1797 . . 490 1606 15 0
+1797 490 1606 15 0
 
-1798 . . 645 2001 13 6
+1798 645 2001 13 6
 
 1799 - 578 14 5
 
