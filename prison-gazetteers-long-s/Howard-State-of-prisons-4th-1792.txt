@@ -2716,7 +2716,7 @@ The third dafs (dressed in grey) enter it at eleven or twelve years of age. They
 
 The fourth class (drefied in white) enter it at fourteen or fifteen years of age. They are taught tambour-work, house-keeping, the management of a family, &c. and initiated into history, geography and natural philosophy. In order to acquire a just elocution, and to exercise themselves in politeness, and vocal and instrumental music, they occasionally give balls and little operas to company from Petersburg.
 
-The children of the nobility are distinguistied from the children of commoners, only by wearing a finer camlet of the colours appropriated to the different classes; and as far as diet, exercise, regimen, &c. are concerned, the method of managing them is the fame; but the instrueftion given the latter, is confined to needle-work, reacting, house-keeping and such other occupations and improvements as are suitable to the humbler walks of life, for which they are intended.
+The children of the nobility are distinguished from the children of commoners, only by wearing a finer camlet of the colours appropriated to the different classes; and as far as diet, exercise, regimen, &c. are concerned, the method of managing them is the fame; but the instrueftion given the latter, is confined to needle-work, reacting, house-keeping and such other occupations and improvements as are suitable to the humbler walks of life, for which they are intended.
 
 The children on this foundation enjoy, as might be expected, an uncommon degree of health. — Of fifty-one children of nobility admitted in 1764, and fifty admitted in 1767, and fifty-two in 1770, none had died in 1781; and of fifty admitted at different times, by the particular order of the Empress, between 1764 and 1780, only two had died in 1781. — Of sixty children also of commoners admitted in 1767, and seventy in 1770, only seven had. died in 1781. But of sixty admitted in 1764, thirteen had died; in consequence, it is supposed, of having been lodged in a part of the buildings which had been just erected, and therefore was not sufficiently dry.
 
@@ -2884,7 +2884,7 @@ On conrerfing with the physician, concef'S the treatment of the lick when the pl
 
 In this ancient capital of Rq»*f°und n0 traces of any such prisons or dungeons as were common, formerly in the cattles of Engla/and in several foreign countries (fee Burn's JuJUce, under gaol and gaoler, gvo ecgt j-go vol 11 p % That cruel mode of confinement in many of our prisons, has been, and still is a principal cause of the/1*fever: no symptoms of which fever did I fee in Moscow, or in any part
 
-of R u ffia. Paulowjki
+of Russia. Paulowjki
 
 Plate X.
 
@@ -3746,13 +3746,15 @@ i?9
 
 GERMANY.
 
-From Switzerland I returned to Germany in 1778, in order to vi'fit some prisons which I had not seen in my former journies, particularly those in the free or Imperial Cities.
+From Switzerland I returned to Germany in 1778, in order to visit some prisons which I had not seen in my former journies, particularly those in the free or Imperial Cities.
 
-At Augsburg, the prison is on the side of a hill, at the back of the tovvn-house. Aucsburc. It consists of many cachots or small rooms, on three different floors. There is one for examination, and two for the engines of torture. There are also two dark dungeons for such as have been convicted of witchcraft: but they are in a very ruinous condition, and seem to have been a long time without inhabitants. — The condemned are brought three days before their execution into two light rooms, which open into a Roman catholic chapel; where, however, if a prisoner be a Protestant, a Lutheran minister is permitted to attend him.
+[Augsburg.]
 
-The Hotife of Correction consists of buildings on two fides of a spacious court; one side for those of the Roman catholic religion, and the other for Protestants, with a chapel for each. The rooms were all clean, and are white-washed every year.
+At Augsburg, the prison is on the side of a hill, at the back of the town-house. It consists of many cachots or small rooms, on three different floors. There is one for examination, and two for the engines of torture. There are also two dark dungeons for such as have been convicted of witchcraft: but they are in a very ruinous condition, and seem to have been a long time without inhabitants. — The condemned are brought three days before their execution into two light rooms, which open into a Roman catholic chapel; where, however, if a prisoner be a Protestant, a Lutheran minister is permitted to attend him.
 
-Opposite to the front windows in most of the rooms, were high windows, of a ferni-circular form, which were designed for promoting a circulation of air.
+The House of Correction consists of buildings on two sides of a spacious court; one side for those of the Roman catholic religion, and the other for Protestants, with a chapel for each. The rooms were all clean, and are white-washed every year.
+
+Opposite to the front windows in most of the rooms, were high windows, of a semi-circular form, which were designed for promoting a circulation of air.
 
 At Munich or Munchen, there are two prisons for criminals. One, in the Mu nice, tovvn-house, had in it fix men and two women prisoners *. In a dark damp dungeon down seventeen steps, were the instruments of torture.
 
@@ -3836,15 +3838,11 @@ BURC.
 
 House of Correction.
 
-Schwa-
-
-bach.
+Schwabach.
 
 S32
 
-Schwa-
-
-bach.
+Schwabach.
 
 Bay-
 
@@ -3858,15 +3856,13 @@ In a large House of Correction near Bayreuth, in Franconia, the men were all wor
 
 My ingenious friend and colleague, the late Dr. Fothergill, proposed a scheme of this kind for the employment of our convicts, and pointed out many of the advantages which might attend the execution. It was printed in the Gazetteer, Sept. 30, 1776.
 
-Regulations of the daily hot provisions for those prisoners who are fct to hard labour in the house of
+Regulations of the daily hot provisions for those prisoners who are set to hard labour in the house of correction at Schwabach.
 
-correction at Schwabach.
-
-Sunday:. In the summer months, half a pound of beef with half a pint of greens.
+Sunday: In the summer months, half a pound of beef with half a pint of greens.
 
 And in the evening, a pint of soup with eight ounces of bread.
 
-In the winter months, half a pound of meat with a pint of four krout.-And in the evening, a pint of soup with eight ounces of bread.
+In the winter months, half a pound of meat with a pint of four krout. And in the evening, a pint of soup with eight ounces of bread.
 
 Mondays. In summer, dumplings of wheaten flour.
 
@@ -4760,13 +4756,9 @@ Y
 
 x6i
 
-Valla-
+Valladolid
 
-dolid
-
-Inquisi-
-
-tion.
+Inquisition.
 
 Hospital.
 
@@ -4956,9 +4948,7 @@ where several of those confined had worn their linen for many months, and infc&e
 
 Besides this, there is scarce a prison in the city that has not a patroness -f; a lady of character, who voluntarily takes care that those in the infirmaries be properly
 
-attended; supplies them with fuel, and linen , does many kind offices to the pri-
-
-foners in general; and by soliciting the charity of others, procures not only the relief and comforts mentioned already, but soup twice a week, and meat once a fortnight.
+attended; supplies them with fuel, and linen , does many kind offices to the prisoners in general; and by soliciting the charity of others, procures not only the relief and comforts mentioned already, but soup twice a week, and meat once a fortnight.
 
 There is also annually at each prison somewhat like our charity sermons; public service in the chapel, -and a collection. On these occasions the patroness attends; as I saw at Christmas 1778, and soon after found the prisoners supplied with clothes.
 
@@ -5098,11 +5088,9 @@ DE LA
 
 Force.
 
+Saint-Martin.
+
 Saint-
-
-Ma RT1N.
-
-SaJ NT-
 
 Eloi.
 
@@ -5488,13 +5476,13 @@ The Situation of an infirmary or Hospital should be on elevated ground, near a s
 
 (c) Burgos, Bordeaux.
 
-(d) Newport in the lfle of Wight.
+(d) Newport in the Isle of Wight.
 
 (e) Bologna.-
 
 (f) Great hospital at Madrid, Lyons.
 
-(g) Toledo, B dr go's.
+(g) Toledo, Burgos.
 
 (h) Petersburg, Moscow.
 
@@ -5948,7 +5936,7 @@ SCOTLAND.
 
 195
 
-section vr:
+Section VI.
 
 SCOTCH and IRISH PRISONS.
 
@@ -16536,8 +16524,6 @@ A Table of Fees Town Clerk Bristol. Discharge of prisoners from the highell felo
 
 This was written before November 1776, when Mr. Rouquet died in the forty-seventh year of his age. The general sorrow, and the sermons preached and printed on that occasion, more than justify what I have said concerning the zeal of this pious divine.
 
-3 F 2
-
 Remarks.
 
 BRISTOL
@@ -22484,7 +22470,7 @@ Newgate 213
 
 Newport, Essex 262
 
-JJle of Wight 372
+Isle of Wight 372
 
 Monmouthshire 361 Newport Pagnel 282
 
@@ -22558,7 +22544,15 @@ Perjury uncommon 127, 195 Perth 193
 
 Pest-house at Hat/iburg 75 Leyden 54 Rotterdam 50 Utrecht 63 Peterborough gaol 336
 
-bridewell 336 Petersburg 86 Petty, Sir William, quoted 55 Pet worth 272 Peverel, honour of 325 Physician Should be appointed to Newgate9Pitt, Moses, his Cry of the opprefed 313 Placarts painted on boards to deter offenders 73 Plague, medical treatment of 94 Plot's Hifory quoted9Plymouth 389 Poland 96
+bridewell 336
+
+Petersburg 86
+
+Petty, Sir William, quoted 55 Pet worth 272
+
+Peverel, honour of 325 Physician Should be appointed to Newgate9Pitt, Moses, his Cry of the opprefed 313 Placarts painted on boards to deter offenders 73 Plague, medical treatment of 94 Plot's Hifory quoted9
+
+Plymouth 389 Poland 96
 
 Police, good, at Berlin 101 Pontefract, liberty of the honour 416
 
@@ -22690,7 +22684,7 @@ Russia 83
 
 Rutlandshire 333
 
-Hu thin 449
+Ruthin 449
 
 Rye town gaol 273
 
@@ -22858,7 +22852,7 @@ Toledo 135
 
 Torture abolished 82, 99
 
-by weights 128 horrid 67, 70, 72, 125, 138 refltridled 124 room, dismal 129, 130 Tothill-Yields bridewell 241 Tower 212
+by weights 128 horrid 67, 70, 72, 125, 138 restridled 124 room, dismal 129, 130 Tothill-Fields bridewell 241 Tower 212
 
 Tower-Hamlets gaol 239
 
