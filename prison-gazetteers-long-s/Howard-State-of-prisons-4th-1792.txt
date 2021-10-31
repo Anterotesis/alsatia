@@ -686,7 +686,7 @@ comfortable
 
 Sect. III. PROPOSED IMPROVEMENTS.
 
-comfortable support. In some few gaols they have this privilege, as at Exeter, Norwich, Ipfvvich, &c*.
+comfortable support. In some few gaols they have this privilege, as at Exeter, Norwich, Ipswich, &c*.
 
 I had said in my first edition, that Women-deb tors should have a ward, a court, a pump, &c. to themselves; and no communication should be allowed between the two sexes: but observing. that there are so few women-debtors in prison (the number of whom may be seen in the table) I leave it to the consideration of the justices, whether a room or two in the gaoler's house may not be as convenient as a separate ward.
 
@@ -2604,7 +2604,7 @@ In the instructions for a new Code of laws by the present Empress, however, a ve
 
 There is no capital punishment for any crime but treason: but the common punishment of the knoot is often dreaded more than death, and sometimes a criminal has endeavoured to bribe the executioner to kill him. This punishment seldom causes immediate death, but death is often the consequence of it.
 
-The governor of the police at Petersburg was so kind as to fix a time for fhevving me all the instruments commonly used for punishment — the axe and block — the machine (now out of use) for breaking the arms and legs — the instrument for flitting or lacerating the nostrils — and that for marking criminals, (which is done by pundluation, and then rubbing a black powder on the wounds) — the knoot whip — and another called the cat, which consists of a number of thongs from two to ten. The Knoot whip, is fixed to a wooden handle a foot long, and consists of several thongs about two feet in length twilled together, to the end of which is fattened a single tough thong of a foot and half, tapering towards a point, and capable of being changed by the executioner, when two much fbftened by the blood of the criminal.
+The governor of the police at Petersburg was so kind as to fix a time for shewing me all the instruments commonly used for punishment — the axe and block — the machine (now out of use) for breaking the arms and legs — the instrument for flitting or lacerating the nostrils — and that for marking criminals, (which is done by pundluation, and then rubbing a black powder on the wounds) — the knoot whip — and another called the cat, which consists of a number of thongs from two to ten. The Knoot whip, is fixed to a wooden handle a foot long, and consists of several thongs about two feet in length twilled together, to the end of which is fattened a single tough thong of a foot and half, tapering towards a point, and capable of being changed by the executioner, when two much fbftened by the blood of the criminal.
 
 August 10, 1781, I saw two criminals, a man and a woman, suffer the punishment of the knoot. They were conducted from prison by about fifteen hussars and ten soldiers. When they arrived at the place of punishment, the hussars formed themselves into a ring round the whipping-post, the drum beat a minute or two, and then some prayers were repeated, the populace taking off their hats. The woman was taken first; and after being roughly stript to the waist, her hands and feet were bound with cords to a post made for the purpose, a man Handing before the poll to keep the cords tight. A servant attended the executioner, and both were flout men. The servant first marked his ground, and struck the woman five times on the back. Every stroke seemed to penetrate deep into her flesh. But his master thinking him too gentle, pushed him aside, took his place, and gave all the remaining strokes himself, which were evidently more severe. The woman received twenty-five, and the man sixty:I pressed through the hussars, and counted the number as they were chalked on a board. Both seemed but just alive, especially the man, who yet had strength enough to receive a small donation with some signs of gratitude. They were conducted back to prison in a little waggon. I saw the woman in a very weak condition some days after, but could not find the man any more.
 
@@ -6068,7 +6068,7 @@ Scots. £ S. D. 012 o 060
 
 1 10 a
 
-And the council statues and declares, that if any fees shall be demanded or exacted in time coming, by the jailor or clerk of their Tolbooth, other than these above set down, they shall incur the deprivation of their respective offices; and ordain their presents to be printed and pubJished, that none may pretend ignorance.
+And the council statues and declares, that if any fees shall be demanded or exacted in time coming, by the jailor or clerk of their Tolbooth, other than these above set down, they shall incur the deprivation of their respective offices; and ordain their presents to be printed and published, that none may pretend ignorance.
 
 And the council hereby ordains James Cleland principal jailor and his successors in office, to affix a copy hereof in the Tolbooth-ball, and in-his own office, under the penalty of £5 Scots, toties quoties.
 
@@ -7264,7 +7264,7 @@ LONDON,
 
 POULTRY COMPTER,
 
-A Table of Fees taken by the Warden, Gaoler, or Keeper of die Poultry [Compter within the City of London for any Prisoner or Prisoners Commitment or coming into Gaol, or Chamber- Rent there, or Discharge from thence, in any Civil Action settled and established the 15th January, in the 3d year of the Reign of King George II. and in the Year of our Lord 1729 pursuant to an Act of Parliament lately made, entitled “ An Act for the Relief of Debtors with Respect to the Imprisonment of their Persons.”
+A Table of Fees taken by the Warden, Gaoler, or Keeper of die Poultry [Compter within the City of London for any Prisoner or Prisoners Commitment or coming into Gaol, or Chamber- Rent there, or Discharge from thence, in any Civil Action settled and established the 15th January, in the 3d year of the Reign of King George II. and in the Year of our Lord 1729 pursuant to an Act of Parliament lately made, entitled “An Act for the Relief of Debtors with Respect to the Imprisonment of their Persons.”
 
 Every prisoner who at his own desire shall go into the bell ward on the master-side shall pay to the keeper for his entrance fee -
 
@@ -8862,11 +8862,11 @@ hung up. — The debtors from the court of requests (debts under 40$.) are confi
 
 1776, March 1, No prisoners.
 
--.....Nov. 3, Debtors 2. Felons &c. 2.
+1776, Nov. 3, Debtors 2. Felons &c. 2.
 
-1779, April 24, - - o. - - - o. Deserter 1.
+1779, April 24, - 0. - 0. Deserter 1.
 
-1782, May 7, - - 1. - - - 1.
+1782, May 7, - 1. - 1.
 
 THE LIBERTY GAOL, for twenty-two parishes, is the property of lord SaliJBury.. For debtors, two spacious day-rooms, and three lodging-rOoms. — For felons, three offensive rooms. When there are men and women, they cannot be properly separated. — One of the windows is towards the road, through which tools were lately conveyedy which facilitated the escape of an atrocious criminal. — No draw: no court. Salary, £16. Licence for beer. Clauses against spirituous liquors not.hung up. Fees, 13 s. 4 d. no table.
 
@@ -8874,15 +8874,17 @@ THE LIBERTY GAOL, for twenty-two parishes, is the property of lord SaliJBury.. F
 
 --- Nov. 3, Debtor 1.
 
-1779, April 24, - - o. Felon &c. 1. Deserters 2.
+1779, April 24, - 0. Felon &c. 1. Deserters 2.
 
-1782, May 7, - - o. - - - o.
+1782, May 7, - 0. - 0.
 
 THE BRIDEWELL for the Liberty, and for the Borough, joins to the Liberty gaol. One large work-room, and two lodging-rooms; all up stairs, and airy. No court: no water: no allowance: no straw. Prisoners have their earnings. Clauses against spirituous liquors not hung up. Keeper's salary for the liberty, ^28; for the borough, £2: no fees. In 1779, I found a girl, who was sentenced for a year's imprisonment, locked up all the day with two soldiers in the work-room: and at my last visit, a girl and a boy were confined together.
 
-1776, March 1, Prisoners 2. 1779» April 24, Prisoners 3.
+1776, March 1, Prisoners 2. 1779, April 24, Prisoners 3.
 
--- Nov. 2, - - o. 1782., May 7, - 2.
+-- Nov. 2, - 0.
+
+1782., May 7, - 2.
 
 ESSEX,
 
@@ -8938,11 +8940,7 @@ It gave me pain to be informed in 1775, that there had been no divine service fo
 
 The new gaol exceeds the old one in ilrength and convenience as much as in splendour. The county, to their honour, have spared no cost. The prison was
 
-L I z finished
-
-Chelms-
-
-ford.
+Chelmsford.
 
 Remarks.
 
@@ -8950,9 +8948,7 @@ Home Circuit*
 
 260
 
-Chelms-
-
-ford
+Chelmsford
 
 County
 
@@ -11568,7 +11564,7 @@ Sami. yale, Mayor. 7°hn Minster.
 
 John Clark. ThoK L. Smith.
 
-20 March 1778. I have reviewed the above Table of Fees, and do hereby eltabliih and confirm-the fame
+20 March 1778. I have reviewed the above Table of Fees, and do hereby establiih and confirm-the fame
 
 W. H. Ashurst.
 
@@ -13556,7 +13552,7 @@ Salary, none: he makes a bill.
 
 THIS is also the city bridewell. The debtors free ward Is spacious. Only one day-room for criminals, over which there is now a work-room. One common court: another might be taken from the keeper's large garden. At my former visits he paid window-tax; which he said brought him under the disagreeable necessity of Hopping up some windows. Clauses against spirituous liquors not hung up.
 
-City of Wcrcejlcr. A Table of Fees to be taken by the Gaoler of the said City pursuant to a Statute made in the thirty-second year of the reign of his late Majesty King George the Second.
+City of Wcrcesler. A Table of Fees to be taken by the Gaoler of the said City pursuant to a Statute made in the thirty-second year of the reign of his late Majesty King George the Second.
 
 £. S. D.
 
