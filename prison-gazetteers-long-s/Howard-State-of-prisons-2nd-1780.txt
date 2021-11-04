@@ -4178,7 +4178,7 @@ The re hardly sufficient space for a bed from one arcade to another. The window'
 
 44 Aim oft all the other rooms (of the towers) are oftagons, about twenty teet in diameter, and from fourteen to fifteen high. T hey are very cold and damp. Each is fumished with a bed of gretn l'crge See. All the chambers are numbered. The prisoners are called by the name of their tower joined to the number of their room.
 
-44 A surgeon and three chaplains reside in the castle. If prisoners of note are dangerously ill, they are generally removed, that they may not die in this prison. — The prisoners who die there are buried in the parish of St. Paul, under the name of domcftics.
+44 A surgeon and three chaplains reside in the castle. If prisoners of note are dangerously ill, they are generally removed, that they may not die in this prison. — The prisoners who die there are buried in the parish of St. Paul, under the name of domestics.
 
 44 A library was founded by a prisoner who was a foreigner, and died in the the beginning of the present century.
 
@@ -6618,7 +6618,7 @@ For- the admission of every prisoner for felony trespass assault or other misdem
 
 For every night's lodging - - - -006
 
-To the turnkey for the difmission of every such prisoner - 010
+To the turnkey for the dismission of every such prisoner - 010
 
 for every prisoner brought by a peace officer for safe custody ontill hearing can be had before a magistrate - - o a o
 
@@ -7906,7 +7906,7 @@ Huntingdonshire. A Table of the ancient accustomed Fees demanded taken and recei
 
 As to Civil Prisoners,
 
-For the difmission fee for each debtor. - to the keeper £'S.D. - 6 10 0
+For the dismission fee for each debtor. - to the keeper £'S.D. - 6 10 0
 
 For the like. - to the turnkey O ft 6
 
