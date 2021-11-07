@@ -424,8 +424,6 @@ Between the outer and inner-gate one of the guards at night commands the middle 
 
 C rooms.
 
-Dig. zed by
-
 Malta.
 
 Zant*.
@@ -6430,8 +6428,6 @@ At the entrance is this inferipdon on a board, “ No ale, nor any sort of liquo
 
 Y used
 
-Dig 2d by
-
 l6l
 
 Derby.
@@ -8101,8 +8097,6 @@ Dinner. Sunday. Mutton and broth, bread and beer.
 Minday. Rice milk, bread and beer.
 
 Dinner*
-
-Dig 'zed by
 
 Northern Circuit.
 
