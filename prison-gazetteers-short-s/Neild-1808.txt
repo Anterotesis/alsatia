@@ -908,7 +908,7 @@ PRESIDENT,
 
 The Right IIon. the EARL of ROMNEY j
 
-VICE PRESIDENTS, TheMostNoble the MARQUIS ofI IERTFORD, Right Hon. EARL RADNOR,
+VICE PRESIDENTS, TheMostNoble the MARQUIS of I IERTFORD, Right Hon. EARL RADNOR,
 
 The Right Hon. LORD BARHAM,
 
@@ -5888,7 +5888,7 @@ for
 
 300 ACCOUNT OF PRISONS FOR DEBTORS
 
-for the like ofFcncc, to be excluded, not longer than a fortnight, from all profits, except share of the baskets.
+for the like of Fcncc, to be excluded, not longer than a fortnight, from all profits, except share of the baskets.
 
 3. Doors of the great garden to be shut at dark: doors of the wards at nine.
 
@@ -9434,7 +9434,7 @@ This
 
 IN ENGLAND, SCOTLAND, AND WALES. 439
 
-This wretched prison (which is in the stable-yard of a public-house) is 13 feet by 10 feet 5 inches, and 6 feet high, with an offensive sewer at one corner. The floor is very damp, paved with pebble-stones like the street, and without a fire-place; and the only light or ventilation it receives, is from an iron-grated aperture, two feet square, without casement or glass to keep out the cold. No court-yard. No water. In December 1801 two debtors, Nicholas Basset and Thomas Nicholas (a carpenter aged 70), were released from this miserable gaol by the Society for relief of persons confined for Small Debts, after suffering twelve months imprisonment. Their letter of thanks I have preserved. The number of debtors committed to this prison is about 10 or 12 in the year. The last pitiable inhabitant was Thomas Hoshin, farmer, of Mardon parish, aged 64. He was committed the 25th of March 1803, for a debt of 201, or thereabouts, and released the 6th of May following. Here is no allowance, even of bread; so that if his friends and some neighbours had not been charitable, he must have perished with hunger. He never but once was let out for fresh air, and then only for half an hour, to speak with his children. The Gaoler lives half a mile ofF; and in case of sudden illness, or fire, he might have perished before relief could come. His provisions were given to him through the centre bars of the
+This wretched prison (which is in the stable-yard of a public-house) is 13 feet by 10 feet 5 inches, and 6 feet high, with an offensive sewer at one corner. The floor is very damp, paved with pebble-stones like the street, and without a fire-place; and the only light or ventilation it receives, is from an iron-grated aperture, two feet square, without casement or glass to keep out the cold. No court-yard. No water. In December 1801 two debtors, Nicholas Basset and Thomas Nicholas (a carpenter aged 70), were released from this miserable gaol by the Society for relief of persons confined for Small Debts, after suffering twelve months imprisonment. Their letter of thanks I have preserved. The number of debtors committed to this prison is about 10 or 12 in the year. The last pitiable inhabitant was Thomas Hoshin, farmer, of Mardon parish, aged 64. He was committed the 25th of March 1803, for a debt of 201, or thereabouts, and released the 6th of May following. Here is no allowance, even of bread; so that if his friends and some neighbours had not been charitable, he must have perished with hunger. He never but once was let out for fresh air, and then only for half an hour, to speak with his children. The Gaoler lives half a mile of F; and in case of sudden illness, or fire, he might have perished before relief could come. His provisions were given to him through the centre bars of the
 
 small
 
@@ -11674,7 +11674,7 @@ ACCOUNT OF IMllSONS FOR DEBTORS
 
 The worthy keeper is humane, intelligent, and attentive; and the prison remarkably clean.
 
-Through the exertions of that active and excellent Magistrate, Sir Henry St.John Mildmay *, *
+Through the exertions of that active and excellent Magistrate, Sir Henry St. John Mildmay *, *
 
 Bart. M. P. for the County, a fund has been established here, for the relief of those poor debtors, who are unable to sue for their sixpences, supersedeas, &.c. and likewise for giving them the pecuniary assistance before-mentioned, to enable them to return to their respective homes.
 

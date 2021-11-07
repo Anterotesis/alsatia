@@ -2448,7 +2448,7 @@ Orphan-
 
 house.
 
-St.John's
+St. John's
 
 Hospital.
 
@@ -5350,7 +5350,7 @@ Prisons.
 
 Hospital.
 
-St.Omer's.
+St. Omer's.
 
 Dunkirk.
 
