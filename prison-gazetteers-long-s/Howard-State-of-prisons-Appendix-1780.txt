@@ -1904,7 +1904,7 @@ House
 
 OF
 
-Cop. recti 0 r;.
+Cap. recti 0 r;.
 
 keeper
 
