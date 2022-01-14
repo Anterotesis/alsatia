@@ -764,7 +764,7 @@ In coming from Smyrna in a Venetian ship with a foul bill, we first anchored at 
 
 rity; but soon learnt that he was the guard for our ship, appointed by the officer who resided at the health-office. At the isle of Molita, near the coast of Dalmatia we anchored again, and the captain and two of the passengers went directly ashore. Three days were spent here in trading with the inhabitants, and the opportunity of a fine wind was loft, to gratify the avarice of the captain.
 
-Such occurrences convinced me of the justnefs of a remark, which was made by a Greek merchant who had considerable property on board this ship; that all captains and crews of Levant ships should be strictly prohibited from trading in their voyages. In consequence of this practice, the goods are often detained so long as to lose a market; and the passengers and crews are exposed to more danger, should there be any infection in the ship. But above all; it exposes the inhabitants of the islands and coasts of the Mediterranean to perpetual danger of the importation of the plague. This was dreadfully verified in Dalmatia a few years ago; and I was informed that lately, in a hamlet belonging to the Ragufian state, all the inhabitants died of the plague thus imported, except two or three, who were themselves shot, by the order of the magistrates to die surrounding guard.
+Such occurrences convinced me of the justness of a remark, which was made by a Greek merchant who had considerable property on board this ship; that all captains and crews of Levant ships should be strictly prohibited from trading in their voyages. In consequence of this practice, the goods are often detained so long as to lose a market; and the passengers and crews are exposed to more danger, should there be any infection in the ship. But above all; it exposes the inhabitants of the islands and coasts of the Mediterranean to perpetual danger of the importation of the plague. This was dreadfully verified in Dalmatia a few years ago; and I was informed that lately, in a hamlet belonging to the Ragufian state, all the inhabitants died of the plague thus imported, except two or three, who were themselves shot, by the order of the magistrates to die surrounding guard.
 
 • A few dnys after leaving Modon, we had a smart skirmish with a Tunifian privateer. In this ftirmilh one of our cannon charged with spike-nails, &c. having accidentally done great execution, the privateer immediately, to our great joy, hoisted its fails and made off. This interposition of Providence saved us from a dreadful fate; for I understood afterwards, that our captain, expedling that either our immediate death, or perpetual slavery at Tunis would be the consequence of being taken, had determined to blow up the ship rather than surrender.
 
@@ -3444,7 +3444,7 @@ Enniskillen Hospital for the County of Fermanagh. The house not built for that p
 
 COUNTY of TYRONE. OMAGH County Gaol. The four dungeons for felons open into a passage fix feet wide; have all two doors, one iron-grated. These, with four rooms over them for debtors, were clean, and white-washed, and not offensive. No court; —no infirmary. The county intends to build a gaol. Some of the gendemen have fixed on the site of the ruinous county hospital for that purpose; but others, more judiciously, prefer a fine healthy spot, near the river, where the old castle flood. Here is an attentive inspector, and a good gaoler. Salary only £20 a year. * 1787, July 13, Debtors 16. Felons &c. 19.
 
-Omagh Hojpttal for the County of Tyrone. An old ruinous house:—very dirty. — Patients lay on straw on the floors:—one of them a man eighty years of age. —No sheets: — hardly a blanket to cover them. On application to the vice treasurer, he replied, “ They may find their own straw and blankets.” A very sickly boy had not his clothes taken off for a fortnight. —Two lay in the bathing-tub; which was five feet nine inches by three feet fix. — No water: — no vaults. Patients, eight men and four women. The felons in the gaol were better accommodated as to cleanliness and bedding, and their cells were less offensive.
+Omagh Hospital for the County of Tyrone. An old ruinous house:—very dirty. — Patients lay on straw on the floors:—one of them a man eighty years of age. —No sheets: — hardly a blanket to cover them. On application to the vice treasurer, he replied, “ They may find their own straw and blankets.” A very sickly boy had not his clothes taken off for a fortnight. —Two lay in the bathing-tub; which was five feet nine inches by three feet fix. — No water: — no vaults. Patients, eight men and four women. The felons in the gaol were better accommodated as to cleanliness and bedding, and their cells were less offensive.
 
 COUNTY of DONEGAL. LIFFORD County Gaol. The five dungeons (or vaults, as they are properly called) are under the county hall, in a passage five feet wide,— windows towards the street,—one of them is quite dark. —No proper separation of the sexes. —Allowance, 10 lb.of oatmeal a week, f
 
@@ -4764,7 +4764,7 @@ Of the Men in 1788, 3 were Court of Conscience Debtors, and 23 Fines. Of the Wom
 
 WHITECHAPEL PRISON.
 
-The keeper’s house fitted up and the court latticed over. Keeper, a (heriff’s officer for the county of Middlesex, and in 1788 had two county prisoners in custody.
+The keeper’s house fitted up and the court latticed over. Keeper, a sheriff’s officer for the county of Middlesex, and in 1788 had two county prisoners in custody.
 
 1787, April 4, Debtors 2. 1788, Sept. 15, Debtors none.
 
@@ -8298,7 +8298,7 @@ For a copy of every commitment, if demanded -
 
 For every certificate of commitment in order to a habeas corpus -
 
-For the copy of every (heriff’s warrant, if demanded -
+For the copy of every sheriff’s warrant, if demanded -
 
 For signing every certificate in order to obtain a supersedeas, or a rule or order of court
 
