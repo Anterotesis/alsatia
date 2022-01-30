@@ -6618,7 +6618,7 @@ c< You prisoners who are within “ Who for wickedness and fin,
 
 “ after many mercies shewn you, are now appointed to die tomorrow in the forenoon, “ give ear and understand that tomorrow morning the greatest bell of St. Sepulchre's “ shall toll for you in form and manner of a passing bell as used to be tolled for “ those that are at the point of death, to the end that all godly people may pray, “ &c. &c
 
-> Here I cannot forbear mentioning a practice which probably had its origin from the ancient mode of torture, though now it seems only a matter of form. When prisoners capitally convicted at the Old Bailey are brought up to receive sentence, and the judge alks, “ What have you to lay why judgment of death and execution should not be awarded against you,” the executioner flips a whipcord noose about their thumbs. — This custom ought to be abolished.
+Here I cannot forbear mentioning a practice which probably had its origin from the ancient mode of torture, though now it seems only a matter of form. When prisoners capitally convicted at the Old Bailey are brought up to receive sentence, and the judge alks, “ What have you to lay why judgment of death and execution should not be awarded against you,” the executioner flips a whipcord noose about their thumbs. — This custom ought to be abolished.
 
 At my viflt in 1779, l^e ga°l was clean, and free from of Tenfive scents. On the felons side, there were only three sick, in one of the upper wards. — An infirmary was building near the condemned cells. Of the 141 felons &c. there were 91 convicts and fines, who had only the prison allowance of a penny loaf a day: Mr. Aizerman generously contributed towards their relief. In the felons court, the table of fees painted on a board was hung up.
 
@@ -12050,7 +12050,7 @@ Number, Debtors. Felons &c. Debtors. Felons Sec.
 
 1773, Nov. 17, 4> 12. 1776, Sep. 25, 4, IO.
 
-1774, April 3, 12, 2. . *779> l9> 12, 5.
+1774, April 3, 12, 2. *779> l9> 12, 5.
 
 1775, Jan. 4, 10, I. 1782, Jan. 21, 11, 6.
 
@@ -13170,9 +13170,9 @@ Thomas Horde, who was confined here for some offence against government, built t
 
 There is another legacy to prisoners of both forts; 8 s. 8 d. paid quarterly from Magdalen college. From which also in Lent there- is about forty shillings, commonly called forfeit-money. Debtors have in common every Saturday six pounds of mutton; sent by a gentleman of Christ church college. From two other colleges they have in bread about is. a week. Christ church and New college fend them broth; generally three times in a fortnight: the prisoners pay four pence to the man who brings it.
 
-It is very probable, that the rooms in this castle are the same as the prisoners occupied at the time of the Black Aftize. The wards, passages and staircases are close and offer.five; so that if crowded, I should not greatly wonder to hear of another fatal sfifvze at Oxford *. — At my last visit some of the debtors rooms were white-waftied.
+It is very probable, that the rooms in this castle are the same as the prisoners occupied at the time of the Black Assize. The wards, passages and staircases are close and offer.five; so that if crowded, I should not greatly wonder to hear of another fatal sfifvze at Oxford *. — At my last visit some of the debtors rooms were white-waftied.
 
-Mr. Wisdom (the gaoler) told me (that some years ago, wanting to build a little hovel, and digging up Hones for the purpose, from the ruins of the court, which was formerly in the castle, he found under them a complete lkeleton with light chains on the legs; the links very small. These were, probably, the bones of a malefattor who died in court of the distemper at the Black Aftize mentioned }age 9.
+Mr. Wisdom (the gaoler) told me (that some years ago, wanting to build a little hovel, and digging up Hones for the purpose, from the ruins of the court, which was formerly in the castle, he found under them a complete lkeleton with light chains on the legs; the links very small. These were, probably, the bones of a malefattor who died in court of the distemper at the Black Assize mentioned }age 9.
 
 At several of my visits to this city, I walked over the County Ho/piiah, and as it is a modern Ihewy building, and may perhaps be taken as a model for others of the same kind, I hope to be excused in making a few remarks upon it. The stories are too low; the height of the lpftieft wards not being above fifteen feet. From this fault, and the closeness of the windows, which I always found (hut, the wards, especially the men's, are offensive beyond conception. The sewers are not sufficiently attended to — the beds, improperly, have tellers — and the kitchen is not well placed. The fan-lights over the doors of the wards, in this, as in many other hospitals, are glazed. Were they open, it would greatly tend to purify ^jie air; or, at least, the noxious effluvia would become so sensible through the rest of the house, as. might induce the matron, and the gentlemen who only attend in the committee-room, to infijl upon effectual rtreans being used for a proper ventilation of the wards.
 
@@ -16316,7 +16316,7 @@ To the turnkey . - . - -010
 
 For the prisoners bed and bedding weekly if found by the keeper if single — if double each
 
-pay only one half - - . . o
+pay only one half - - . o
 
 1
 
@@ -19882,7 +19882,7 @@ Jnfpeflors. By whom appointed — their duty — time of continuance in office �
 
 Gaoler. His duty — inspection of — complaints against admitted — obliged to constant residence — allowed no profit in provisions, liquor, &c. — salary of — manner of choosing him — no rent or taxes to pay — jio fees, or private emoluments from prisoners.
 
-Matron. . Salary of — duty.
+Matron. Salary of — duty.
 
 Turnkeys, number of — by whom appointed — salary — their office.
 
@@ -20618,7 +20618,7 @@ Peace 1749 61 44 17
 
 428 — 306 — 122
 
-> 1756 30 *3 *7
+1756 30 *3 *7
 
 777zr J
 
@@ -20966,7 +20966,7 @@ Durham 12 2 22
 
 Petty Debtors. Felons Petty
 
-Offenders. Men. . Worn. &c. Offenders.
+Offenders. Men. Worn. &c. Offenders.
 
 O - - O 0 O I
 
@@ -21266,7 +21266,7 @@ Town I 0 0 0
 
 3 R
 
-E S. . 489
+E S. 489
 
 1782.
 

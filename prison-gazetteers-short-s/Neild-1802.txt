@@ -2090,7 +2090,7 @@ Discharge ...... 6 8
 
 Yeoman porter ...... o 2 6
 
-Clerk of Dover Castle.... . o 3 6
+Clerk of Dover Castle.... o 3 6
 
 274
 
@@ -2414,7 +2414,7 @@ Every prisoner charged with one or more actions (who shall go on the Common Side
 
 Every person entitled to partake of the poor’s box o
 
-Every prisoner to pay for his discharge, . . o
+Every prisoner to pay for his discharge, . o
 
 Every such prisoner on the Master’s Side, who, at his own desire, shall have a bed to himself, to pay for chamber-room, use of bed, bedding, and sheets, to the Warden, per week, ...o
 
@@ -2496,7 +2496,7 @@ Term, ...... 12 o 0
 
 3. From the Court of Exchequer, 6s. 2d. every
 
-Term, ...... . . 1 6 S
+Term, ...... . 1 6 S
 
 4. From the Company of Drapers, annually at
 
@@ -2532,7 +2532,7 @@ Years, ...... 200
 
 stone of Meat, at 29. 8d. per stone, at Christmas, ...... 461
 
-14. Warden of the Fleet, at Christmas, . . 1 1 o
+14. Warden of the Fleet, at Christmas, . 1 1 o
 
 IlS ACCOUNT OF THE VARIOUS PRISONS
 
@@ -2824,7 +2824,7 @@ Per Contra. Cr.
 
 s. d.
 
-By Subscription of J. II. 3 o Ditto, J. W. ...50 Ditto, D. F. . 5 o
+By Subscription of J. II. 3 o Ditto, J. W. ...50 Ditto, D. F. 5 o
 
 kc. Sec. kc.
 
@@ -2846,7 +2846,7 @@ Per Contra. Cr.
 
 s. d.
 
-By Subscription of R. B. 5 o Ditto, \V. D. . 5 o
+By Subscription of R. B. 5 o Ditto, \V. D. 5 o
 
 Ditto of M. Court of Conscience Debtor, ..16 See. &:c. kc.
 
@@ -4732,7 +4732,7 @@ To the Surgeon or Apothecary, on discharge of every
 
 prisoner, charged with one 01 more actions, o
 
-To the Chaplain, on the like discharge, . . o
+To the Chaplain, on the like discharge, . o
 
 s- <1
 
@@ -4974,7 +4974,7 @@ Date of Warrants. Defendants Names. Debts. Costs.
 
 February 7.. John Allen s. 3 d. 5 s... 8 d. 8
 
-May 11.. 'William. Gough.. . 3 10 . ..8 TO
+May 11.. 'William. Gough.. 3 10 . ..8 TO
 
 October 15.. Thomas Blackburn.. 2 ..6 IO
 
@@ -4988,7 +4988,7 @@ April 12.. Charles Burnet .... 3 10 . *.8 IO
 
 September 20.. Thomas Blackburn.. 2 6 . ..8 10
 
-November 9.. Elizabeth Irvine.. . 3 9 ..8 3
+November 9.. Elizabeth Irvine.. 3 9 ..8 3
 
 1799 *
 
@@ -4998,7 +4998,7 @@ August 15.. Caleb Only 3 9 ..8 10
 
 September 1.. John Hyder 3 10 . ..8 8
 
-October 1.. Susannah Evans.. . 2 2 . ..8 8
+October 1.. Susannah Evans.. 2 2 . ..8 8
 
 17.. William Owen .... 3 0 . ..8 8
 
@@ -5824,7 +5824,7 @@ O ' i
 
 Salary, none; makes a bill.
 
-Number of Dcbtors {l8R°3’Nril21’--
+Number of Debtors {l8R°3’Nril21’--
 
 e 1 bo 1, Sept. 20, .. Number of Felons, 1801, Sept. 20, ..
 
@@ -6412,7 +6412,7 @@ A gift of the Archbishop of Canterbury, to be ap- £• S. d.
 
 plied for e\ rery Christmas, 1 O 0
 
-Thomas Dawson, a legacy every Christmas, .. . 0 9 0
+Thomas Dawson, a legacy every Christmas, .. 0 9 0
 
 Arthur Mouse, ditto, ditto, 0 4
 
@@ -6562,7 +6562,7 @@ Surgeon. None.
 
 Number of Debtors^ 1801, Aug. 19, .... 1
 
-\1802, Jan. 27, . . o
+\1802, Jan. 27, . o
 
 Allowance. None whatever.
 
@@ -6742,9 +6742,9 @@ Number of Debtors i 0 -n i o
 
 L 1803, reb. 8, ..
 
-. . 8
+. 8
 
-. . 1
+. 1
 
 Allowance. None,
 
@@ -7334,7 +7334,7 @@ Appleby - 15
 
 Brought up 373
 
-Aylesbury 2 Ilchester .... . 27
+Aylesbury 2 Ilchester .... 27
 
 B iv eon.. 11 Ipswich .... 15
 
@@ -7346,23 +7346,23 @@ Bury St. Edmunds 5 Leicester County Gaol . 20
 
 Bristol .... 3 Lancaster Castle
 
-Bath .... . 1 Lincoln Castle 2
+Bath .... 1 Lincoln Castle 2
 
 Borough Compter 83 Kenton late Basford 1
 
-Carlisle 14 Ludgate .... . 24
+Carlisle 14 Ludgate .... 24
 
-Carmarthen.. . 11 Mai l-too'' . 29
+Carmarthen.. 11 Mai l-too'' . 29
 
 Chelmsford 3 Monmouth.. 6
 
-Coventry.. . 3 Montgomery.. . 2
+Coventry.. 3 Montgomery.. 2
 
-Chester.. . 3 Morpeth .... i
+Chester.. 3 Morpeth .... i
 
-Cambridge.. . 2 Marshalsea 33
+Cambridge.. 2 Marshalsea 33
 
-Cardiff.. 2 Northampton.. . 1 t
+Cardiff.. 2 Northampton.. 1 t
 
 Cardigan.. 1 Norwich .... 1
 
@@ -7370,29 +7370,29 @@ Canterbury.. j Newgate .... 283
 
 Cold Bath Fields 7 Oxford Castle7
 
-Dolgelly.. . 7 Ousebridge . X
+Dolgelly.. 7 Ousebridge . X
 
-Dorchester.. 5 Presteign .... . 1
+Dorchester.. 5 Presteign .... 1
 
-Derby .... 3 Poultry .... . 69
+Derby .... 3 Poultry .... 69
 
-Durham.. . ✓ . 2 Reading .... . 26
+Durham.. ✓ . 2 Reading .... 26
 
-[Dover .... . 1 Rothwell .... . 6
+[Dover .... 1 Rothwell .... 6
 
 i Exeter . 20 llutJieii .... 0* A
 
 IFiMierton Anger 5 Richmond 3
 
-1 Fleet .... 73 Stafford .... . \%
+1 Fleet .... 73 Stafford .... \%
 
 .GiMpur Street Compter 44 SYcwsbury 0
 
 Hereford *3 Surrcv 0 >untv Gaol 39
 
-Huntingdon 6 To thill Fields.. . 19
+Huntingdon 6 To thill Fields.. 19
 
-Itor.ham 6 Warwick .... . 14
+Itor.ham 6 Warwick .... 14
 
 Hertford 5 Worcester .... U
 
@@ -7620,7 +7620,7 @@ A young Lady unknown 30 00
 
 14 Benefactions .... 29 20
 
-A Lady, per ditto ... . 2 20
+A Lady, per ditto ... 2 20
 
 A.FL S. for Relief of poor Debtors, per Biddulph
 
@@ -8004,7 +8004,7 @@ Briggs, Mr. Samuel, six
 
 Benefactions .... 12 120
 
-Bacon, the Rev. E... . 3 30
+Bacon, the Rev. E... 3 30
 
 Barker, Thomas, Esq. of
 
@@ -8246,7 +8246,7 @@ Bellow, C. K. Esq. two
 
 Benefactions..... 2 20
 
-Biner, William, Esq. .. . 2 20
+Biner, William, Esq. .. 2 20
 
 Rird, Mr. Thomas.... 1 10
 
@@ -8542,7 +8542,7 @@ Cotton, Charles 1 1 0
 
 Cox, Mrs 1 1 0
 
-Cox, Mrs. Elizabeth.. . 2 2 0
+Cox, Mrs. Elizabeth.. 2 2 0
 
 Code, Mrs. Eleanor, two
 
@@ -8636,7 +8636,7 @@ Crouch, Mrs. of Drury-
 
 lane Theatre 10 O O
 
-Card Money, by W... . 1 I O
+Card Money, by W... 1 I O
 
 * Cumming, George, Esq.
 
@@ -8726,7 +8726,7 @@ four Benefactions ... 4 40
 
 Dimsdale, Thomas, Esq.
 
-seven Benefactions .. . -4 3 0
+seven Benefactions .. -4 3 0
 
 D. E. Hon 2 2 0
 
@@ -8818,7 +8818,7 @@ A a Denne,
 
 Dennr, Cornelius, Esq.
 
-three Benefactions.. . 15 15 0
+three Benefactions.. 15 15 0
 
 Drinkwater, Lieut.-Col. 2 n 0
 
@@ -8828,9 +8828,9 @@ Sir Robert Rich 10 IO 0
 
 * Dennison, Win. Esq. 20 O 0
 
-Down, Richard, Esq... . 5 5 0
+Down, Richard, Esq... 5 5 0
 
-Diana, per Treasurer.. . JO 0 0
+Diana, per Treasurer.. JO 0 0
 
 £. s. d.
 
@@ -8944,7 +8944,7 @@ neral Purposes U 17 0
 
 Fletcher, Walter, Esq.
 
-11 0 two Benefactions.. . 10 10 0
+11 0 two Benefactions.. 10 10 0
 
 Foster, John, Esq. three
 
@@ -9248,7 +9248,7 @@ Benefactions.....to 10 o
 
 Hockley, Miss ..... 5 50
 
-Hawkins, Laac, Esq.deceased, 18 Benef... . 180 00
+Hawkins, Laac, Esq.deceased, 18 Benef... 180 00
 
 H. M.........20 00
 
@@ -9282,7 +9282,7 @@ Baxter, dec. 6 Belief. 430 0 0
 
 H'gymon, Wm. Esq.
 
-four Belief; .. Lions.. . 8 8 0
+four Belief; .. Lions.. 8 8 0
 
 IIi gilisoi , Edmend, Esq.
 
@@ -9418,7 +9418,7 @@ Hnggitt, l<ev. John, per Treasurer....... 1 xo
 
 * Holland, Richard, Esq.
 
-three Benefactions.. . 6 60
+three Benefactions.. 6 60
 
 Hcftkeih, 1-atly Harriet,
 
@@ -9426,7 +9426,7 @@ three Benefactions .., 6 60
 
 Ham moil d /I'll oma s, Esq.
 
-per Treasurer, dec. .. . 1 10
+per Treasurer, dec. .. 1 10
 
 H, S ...... 12 10 6
 
@@ -9488,7 +9488,7 @@ Jeffery, George, Esq. 5 5 0
 
 of Peterborough .... 0 .1 3 0
 
-Joyce, Mrs. 4 Benef. .. . 80 0 0
+Joyce, Mrs. 4 Benef. .. 80 0 0
 
 Jefterys and Jones, Mess nine Benefactions
 
@@ -9786,11 +9786,11 @@ Esq 2 2 0
 
 Lownds, Thomas, Esq.
 
-two Benefactions.. . L5 5 0
+two Benefactions.. L5 5 0
 
 Lowndes, Richard, Esq.
 
-three Benefactions.. . 15 0 0
+three Benefactions.. 15 0 0
 
 Lownds, Milnes, Esq. 5 0 0
 
@@ -9818,7 +9818,7 @@ Leicester, Ralph, Esq. 5 5 0
 
 Lewis, Thomas, Esq. Luck hurst, Mr. J. twenty- 2 2 0
 
-five Benefactions.. . 2 10 0
+five Benefactions.. 2 10 0
 
 Lillington, Mr 1 1 0
 
@@ -9840,7 +9840,7 @@ Tv.l(* v (; (.-v., 208 o o
 
 Ml. D .'A 14:/ ...... ICO o O
 
-Yir. . a Marta Tomlinson ...... 0 0
+Yir. a Marta Tomlinson ...... 0 0
 
 John E, q ...... io° 0 0
 
@@ -9986,7 +9986,7 @@ AI.
 
 £. s. d.
 
-* AIiddleton, SirCharles,
+* AIiddleton, Sir Charles,
 
 Bart. Vice-President,
 
@@ -10010,7 +10010,7 @@ Marsham, Hon. Airs.
 
 23 Benefactions 74 11 0
 
-Marlin, James, Esq... . 5 5 0
+Marlin, James, Esq... 5 5 0
 
 Alauger, Joshua, Esq.
 
@@ -10022,7 +10022,7 @@ four Benefactions.... 8 8
 
 Alicklewaite, J. E«q.... 10 0 0
 
-Michie, John, Esq... . 1 1 0
+Michie, John, Esq... 1 1 0
 
 Manship, John, Esq. 1 1 0
 
@@ -10404,7 +10404,7 @@ Pnlteney, Hon. Mrs. six
 
 Benefactions .....30 10 o
 
-Pulteney, SirJames, Bart. 5 5 o
+Pulteney, Sir James, Bart. 5 5 o
 
 Parish, Mrs....... 7 70
 
@@ -10532,7 +10532,7 @@ Duke of....... 1 1 o
 
 Rich, Sir Robert, Bart.
 
-deceased, two Benef. 200 o o Radnor, Countess of.. . 5 50
+deceased, two Benef. 200 o o Radnor, Countess of.. 5 50
 
 * Rainier, Vice-Admiral, eight Benef....80 90
 
@@ -10960,7 +10960,7 @@ Trecothick, Mr. Alderman, deceased.....10 10 6
 
 Ten of the Exchequer
 
-Jurors, by M. 1)... . 3 30
+Jurors, by M. 1)... 3 30
 
 Two Middlesex Juries 8 00
 
@@ -11012,9 +11012,9 @@ T.X 100 0 0
 
 Thellusson, Peter, Esq.
 
-deceased, - 3 Benef... . 3 too
+deceased, - 3 Benef... 3 too
 
-Turton, , Esq... . 2 2 0
+Turton, , Esq... 2 2 0
 
 T, Messrs, and Mrs. G.
 
@@ -11032,7 +11032,7 @@ Taylor, Captain John, of
 
 Madras 5 5 0
 
-Thomson, Seth, Esq... . 1 10
+Thomson, Seth, Esq... 1 10
 
 Tomlinson, Captain N.
 
@@ -11200,7 +11200,7 @@ deceased, 5 Benef....26 5 o
 
 Esq. 14 Benef....73 10 o
 
-Willis, Rev. Sherlock .. . 3 50
+Willis, Rev. Sherlock .. 3 50
 
 Williamson, Mr. Tho.
 
@@ -11704,7 +11704,7 @@ and 3aS7i Children j benefited tor 49302/.
 
 At an Annual General Court held the 7th of April, 1802, this Account was examined, agreed to, and signed by the President, Vice-President, and Members present.
 
-SirH. St. J.Mildmay, Earl. M. William Wiibcrfor.'c, Esq. INI. "W Moitoii T'iu, Esq. M.F. James Buller, Esq. _\i.P. ColoncI SvecMland.
+Sir H. St. J.Mildmay, Earl. M. William Wiibcrfor.'c, Esq. INI. "W Moitoii T'iu, Esq. M.F. James Buller, Esq. _\i.P. ColoncI SvecMland.
 
 Thomas Smith, Esq.
 

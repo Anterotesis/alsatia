@@ -428,7 +428,7 @@ Copy affidavit and declaration, and stamps .:0 13 4
 
 Attending to file same:0 3 4
 
-Term fee, letters and messengers . . 0 12 0
+Term fee, letters and messengers . 0 12 0
 
 11 15 8
 
@@ -1470,7 +1470,7 @@ IN ENGLAND, SCOTLAND, AND WALES,
 
 I) I
 
-> The Chapel is in the centre-building, Po feet, by 20:the criminal prisoners seated below, where the women are out of sight of the men. The debtors and gaoler s family occupy the galleries:all are required to attend divine service:their behaviour at my several visits was orderly and devout, and the duty impressively performed by the worthy Chaplain. Their intelligent Keeper furnishes employment to all who are willing to work, by which many have been enabled to send relief to their families; and others, by learning to saw timber and stone, have created a new source for their industry, when discharged. The Surgeon is humane, and attentive in the discharge of his duty. The prison is frequently visited by the Magistrates, and very clean. It is worthy of remark, that there have been but fifteen deaths in 27 years, out of 3877 prisoners; .strong proofs of a healthy situation, and good government.
+The Chapel is in the centre-building, Po feet, by 20:the criminal prisoners seated below, where the women are out of sight of the men. The debtors and gaoler s family occupy the galleries:all are required to attend divine service:their behaviour at my several visits was orderly and devout, and the duty impressively performed by the worthy Chaplain. Their intelligent Keeper furnishes employment to all who are willing to work, by which many have been enabled to send relief to their families; and others, by learning to saw timber and stone, have created a new source for their industry, when discharged. The Surgeon is humane, and attentive in the discharge of his duty. The prison is frequently visited by the Magistrates, and very clean. It is worthy of remark, that there have been but fifteen deaths in 27 years, out of 3877 prisoners; .strong proofs of a healthy situation, and good government.
 
 Table of Fees and Rates to he taken by the Gaoler and Turnkeys at BODMIN.
 
@@ -3812,7 +3812,7 @@ The following’ Table of Fees is correct, and hung lip in the prison.
 
 ‘‘ ATaijle or Fees, to be taken by the Warden of the Prison of the Fleet, for any prisoner or prisoners’ commitment, or coming into Gaol, or Chamber-rent there., or discharge from thence, in any Civil Action; settled ayid established the 19th day of January, in the third year of the reign of his Majesty King George the Second, A. IX 1^29, pursuant to an Act lately made, intituled, “An Act for the Relief of Debtors, in respect to the Imprisonment of their Persons.”
 
-iji. . l/.
+iji. l/.
 
 Every prisoner charged with 011c or more actions, who, al his own desire, shall go on the Master’s Side, to pay to the Warden, for a commitment-fee, - - - 1 G S
 
@@ -4506,7 +4506,7 @@ floor.
 
 234 account of prisons for debtors .
 
-floor. The second flat has one room for criminals, and two for debtors, about eight feet square; and the tap-room, which is about sixteen feet square, with a fire-place and window. The third flat has five rooms for debtors, eight feet square, and a larger one sixteen feet square. . The fourth flat has five rooms for women., i Debtors* find their own beds; but felons are allowed a mattress, two blankets, and a rug. Though my second visit to this prison was before ten o’clock in the morning, the tap-room was filled with men and women drinking.
+floor. The second flat has one room for criminals, and two for debtors, about eight feet square; and the tap-room, which is about sixteen feet square, with a fire-place and window. The third flat has five rooms for debtors, eight feet square, and a larger one sixteen feet square. The fourth flat has five rooms for women., i Debtors* find their own beds; but felons are allowed a mattress, two blankets, and a rug. Though my second visit to this prison was before ten o’clock in the morning, the tap-room was filled with men and women drinking.
 
 The Keeper’s salary is only *joL but his payments are as follows:
 
@@ -5344,7 +5344,7 @@ ACCOUNT OF PRISONS FOR DEBTORS
 
 272
 
-therefore prohibited the use of it. The ground-floor of the gaol is occupied by the keeper, except one room for women-convicts, which looks to the garden, where they can see and converse with the debtors. Here is one spacious court, 60 yards by 20, for male and female debtors; and a day-room, 22 feet 8 inches by 14 feet 4, with many conveniences for working. Rooms are provided for the manufactory of garters, laces, &c. for those who are of no trades, but willing to work. Master’s-side debtors have three rooms on the second, and three on the third story; and pay Is. 6d. a week for a single bed, or if two sleep together, Is. %cl. each. Common-side debtors have a room on the third story, for which they pay 6d. a week, and find their own bedding. In the depth of winter the magistrates humanely order a bushel and half of coals per week to every room which has a fireplace. In the centre of the building is a square room (too small) with a reading-desk in one corner, used as a Chapel, where all prisoners indiscriminately mix when divine service is performed. . Both Act and Clauses are conspicuously hung up. Water at all times accessible. The prison is well ventilated, healthy, and clean. From the quantity of Junk I saw in this busy maritime town, it is evident that constant employ in picking oakum might be furnished for every prisoner, if convenient work-rooms were built, which may easily be done.
+therefore prohibited the use of it. The ground-floor of the gaol is occupied by the keeper, except one room for women-convicts, which looks to the garden, where they can see and converse with the debtors. Here is one spacious court, 60 yards by 20, for male and female debtors; and a day-room, 22 feet 8 inches by 14 feet 4, with many conveniences for working. Rooms are provided for the manufactory of garters, laces, &c. for those who are of no trades, but willing to work. Master’s-side debtors have three rooms on the second, and three on the third story; and pay Is. 6d. a week for a single bed, or if two sleep together, Is. %cl. each. Common-side debtors have a room on the third story, for which they pay 6d. a week, and find their own bedding. In the depth of winter the magistrates humanely order a bushel and half of coals per week to every room which has a fireplace. In the centre of the building is a square room (too small) with a reading-desk in one corner, used as a Chapel, where all prisoners indiscriminately mix when divine service is performed. Both Act and Clauses are conspicuously hung up. Water at all times accessible. The prison is well ventilated, healthy, and clean. From the quantity of Junk I saw in this busy maritime town, it is evident that constant employ in picking oakum might be furnished for every prisoner, if convenient work-rooms were built, which may easily be done.
 
 IN ENGLAND, SCOTLAND, AND WALES. 2/$
 
@@ -5540,7 +5540,7 @@ REMARKS.
 
 The boundary-wall encloses about an acre and half of ground:the Turnkey’s lodge is in front; his sitting-room is on the ground-floor; and there is also a warm and cold bath, with an oven to piirify infected clothes. Upstairs are two reception-cells, where prisoners are confined till examined by the Surgeon; a room where their clothes are ticketed, hung up, and the county-clothing put on; and the Turnkey’s sleeping-room. The lead roof above is the place for execution of criminals; After passing through the lodge, an avenue, $6 feet by IS, leads to the Keepers house, in the centre of the prison; and from which the several court-yards are completely inspected.
 
-The prison consists of four wings, to which are attached eight spacious and airy courts, of 75 feet by 45; and three smaller ones, about feet square in one of which is the engine-house. Men debtor have the use of two of the larger court-yards, and on the ground-floor, a day-room, 22 feet by \4, with a fire-place, and utensils for frugal cookery, a pantry for provisions, and four work-rooms. One of the small courts, and two cells, 8 feet by 6, and 10 feet high, on the ground-floor, are appropriated to refractory debtors. The first and second story have each eleven sleeping-cells. . Women debtors have separate court-yard, and a day-room, 14 feet by 8
+The prison consists of four wings, to which are attached eight spacious and airy courts, of 75 feet by 45; and three smaller ones, about feet square in one of which is the engine-house. Men debtor have the use of two of the larger court-yards, and on the ground-floor, a day-room, 22 feet by \4, with a fire-place, and utensils for frugal cookery, a pantry for provisions, and four work-rooms. One of the small courts, and two cells, 8 feet by 6, and 10 feet high, on the ground-floor, are appropriated to refractory debtors. The first and second story have each eleven sleeping-cells. Women debtors have separate court-yard, and a day-room, 14 feet by 8
 
 feet
 
@@ -6972,7 +6972,7 @@ Sir Thos. Gresham, Knt.
 
 Mr. Middleton -
 
-Sir John Kendric k, Knt. SirW. Peacock, Knt. ..
+Sir John Kendric k, Knt. Sir W. Peacock, Knt. ..
 
 Mr. W. Parker -
 
@@ -12806,7 +12806,7 @@ Anonymous:including Donations of less than Ten Guineas, long since sent in, eith
 
 which they were respectively received - 10, 592 7 5
 
-Anonymous:P. by Isaac and John Walker, Esq. . .. 1, 575 O 0 •*'*'The Trustees of Bishop Andrews’s Charity - 2/72G O O .
+Anonymous:P. by Isaac and John Walker, Esq. .. 1, 575 O 0 •*'*'The Trustees of Bishop Andrews’s Charity - 2/72G O O .
 
 Atwick.
 
@@ -12824,7 +12824,7 @@ Trotter - 21 0 0
 
 A Lady, by Rev, Anthony Natt - 4G 18 0
 
-* Acland, Rev. John. . 25 15 0 '*'*Angerstein, J.J. Ksq. 42 O 0 *Antrobus, Kdm. Ksq. 21 O O A. B’ by Treasurer SOO 0 0 A. B.byDorrienACo.50 0 0 A. B. by Biddulph and
+* Acland, Rev. John. 25 15 0 '*'*Angerstein, J.J. Ksq. 42 O 0 *Antrobus, Kdm. Ksq. 21 O O A. B’ by Treasurer SOO 0 0 A. B.byDorrienACo.50 0 0 A. B. by Biddulph and
 
 Co - 100 0 O
 
@@ -12992,9 +12992,9 @@ Brickwood, L. Lsq . 5 5 0
 
 Brodie, A. Esq. M.P. 5 0 0
 
-Bowness, Major .. . 5 5 0
+Bowness, Major .. 5 5 0
 
-Blackstone, Rev. C. . 1 1 0
+Blackstone, Rev. C. 1 1 0
 
 Barrow, Mr . i 1 0
 
@@ -13054,7 +13054,7 @@ Carlisle, lit. Hon. Earl
 
 of - 20 0 0
 
-Cuitis, SirWm. Bait. 10 10 O *Curtis, Thomas, Esq. 35 0 O Caldwell, Wm. Esq.. . 5 5 0
+Cuitis, Sir Wm. Bait. 10 10 O *Curtis, Thomas, Esq. 35 0 O Caldwell, Wm. Esq.. 5 5 0
 
 Caldwell, George, Esq. 2 2 O Gddwell, Andrew, Esq .2 2 O *Charle\vood, Rev.C.B.57 16 0 *Chamness, Jas. Esq. 107 15 O
 
@@ -13104,7 +13104,7 @@ Cooper, R. B. Esq. 0 0 0
 
 Clarke, Tho. T. Esq. 10 10 0
 
-Cotton, John, Esq. . 2 0 0
+Cotton, John, Esq. 2 0 0
 
 ^ Campbell, Capt. Pa-
 
@@ -13430,7 +13430,7 @@ Hume, Alexander, E-q.2 ‘2 0
 
 Hamilton, Sir 11. dec. 23 2 0
 
-Hamilton, Lady. . 5G 14 0 *Hoare, Henry, Esq. and
+Hamilton, Lady. 5G 14 0 *Hoare, Henry, Esq. and
 
 Co - ‘25 7 0
 
@@ -13450,7 +13450,7 @@ Harman, Mrs - 10 0 0
 
 Hardcastle, Jos. Esq. 10 10 0 Hammer-dey, T. Esq. '20 0 0 Hunter, Robert, E^q 8 8 0
 
-Hyde, Mrs. dec. . 11‘2 H) 0
+Hyde, Mrs. dec. 11‘2 H) 0
 
 Holder, Airs. Bath 8 SO *Holner, Ja. Hooper,
 
@@ -13464,7 +13464,7 @@ Harrison, Mrs - 3 3 0
 
 Hodgkimon, Rev. H 5 5 0
 
-Hallifax, Savi’lle, Esq.10 0 0 Harper, R. I. Esq.. . 13 13 O Horton, Eusebiu=, Esq. 3 3 0
+Hallifax, Savi’lle, Esq.10 0 0 Harper, R. I. Esq.. 13 13 O Horton, Eusebiu=, Esq. 3 3 0
 
 •*rIorton, S. Esq - 25 5 O
 
@@ -13480,7 +13480,7 @@ Holland, Edu. Esq 1,) o o I hr.don, W illiam, jun.9; o
 
 Haulon, Miss - l l o
 
-Huggcrston, J. E-iq.. . G G o Harvey, Mr. Richard, 1 () ()
+Huggcrston, J. E-iq.. G G o Harvey, Mr. Richard, 1 () ()
 
 Her\|’y, \\'. AritMuny 2 () ()
 
@@ -13542,7 +13542,7 @@ James, lloughton, Esq.5 5 O J ark-, . 10, James an’r! Co.
 
 Mogadore, ........5 5 0
 
-Jackson, J. G. E?q. . 9 9 0 *"Jostgmnnl, M. Esq. 100 O O I. D. for W. G. . .13 G 8
+Jackson, J. G. E?q. 9 9 0 *"Jostgmnnl, M. Esq. 100 O O I. D. for W. G. .13 G 8
 
 1 r'Jenkins.
 
@@ -13566,7 +13566,7 @@ Johnston, Miss - <? O 0
 
 J. J 50 0 0
 
-Jones, Mrs. A. . . 4 1 0
+Jones, Mrs. A. . 4 1 0
 
 Jones, Mr 1 1 0
 
@@ -13582,7 +13582,7 @@ Chatteris . 20 0 0
 
 Idle, Messrs . 10 10 0
 
-“ Jack gives this”. . 10 0 0
+“ Jack gives this”. 10 0 0
 
 K.
 
@@ -13604,7 +13604,7 @@ Kneller, Mrs 1 1 0
 
 Kerr, VV. Ksq.Edinbur. 3 3 0
 
-Keppel, Hon. Mrs.. . 19 19 0
+Keppel, Hon. Mrs.. 19 19 0
 
 Keate, Mi's 2 2 ()
 
@@ -13660,7 +13660,7 @@ LowncLs, Rich. Esq. 20 0 0
 
 Lownds, Millies, Esq. 5 0 0
 
-* Lind, F. Esq - j.. . 74 10
+* Lind, F. Esq - j.. 74 10
 
 Lane, Mr. Thomas 2 7 6 0
 
@@ -13736,11 +13736,11 @@ Lady Osborne.. .. 20S 0 0 Mr. Daniel llemy. .100 0 0 Mrs. Henrietta-Maria
 
 Tomlinson - 405 0 0
 
-John. Cale, Esq.. . 200 O 0
+John. Cale, Esq.. 200 O 0
 
 A Lady - 50 0 0
 
-Mr. John Bispham. .50 0 0 Mr. B, pbeit Clee.. . 50 O O Mis. Marv Bourne. 100 0 0 Lady Cath.Noel. ... 10 O 0 W. Congreve, Esq.1000 0 0 Mrs. Ann Campbell. 10 0 0 Mrs. Mary Wylde 100 0 0
+Mr. John Bispham. .50 0 0 Mr. B, pbeit Clee.. 50 O O Mis. Marv Bourne. 100 0 0 Lady Cath.Noel. ... 10 O 0 W. Congreve, Esq.1000 0 0 Mrs. Ann Campbell. 10 0 0 Mrs. Mary Wylde 100 0 0
 
 Mrs. Eliz. Cumyns. 100 0 0 Wra. Crewe, Esq. 74 1G 0 John Darker, Esq. 50 0 0
 
@@ -13752,9 +13752,9 @@ John Barnard, Esq.300 0 0 L. D. Nelme, Esq. 10 0 0 Tho. TolsonJ Esq. 200 0 0
 
 John Boldero, Esq. 50 0 0 James Harley, Esq.200 0 O
 
-John Corbyn, Esq. . 52 7 0 Mrs. Mary Wilson,
+John Corbyn, Esq. 52 7 0 Mrs. Mary Wilson,
 
-10001. Consols. . G31 5 0
+10001. Consols. G31 5 0
 
 Charlewood Lawton
 
@@ -13774,7 +13774,7 @@ George Stainbi idge.
 
 Esq - 182 10
 
-John Sweet, Esq.. . 30 0 0
+John Sweet, Esq.. 30 0 0
 
 Nathaniel George Petit. Esq - 21 0 0
 
@@ -13800,7 +13800,7 @@ William Fuller, Esq. 117 o 0
 
 John Peto Debell 10 0 o
 
-Mis. Ann Oswald. . 259 17 G
+Mis. Ann Oswald. 259 17 G
 
 Thomas Fuller, Esq.47 o o
 
@@ -13826,7 +13826,7 @@ Gen. George Wardel05 1G 0 Benjamin Allen, Esq. 90 0 0 William Chiveis/Esq.90 0 O
 
 J. H. Esq - 100 0 0
 
-Ja. Preston, Esq. .4170 2 6 Mr. Cha. Tomlinson 4G O 0 Mrs. Kath. Hyde.. . 45 0 0
+Ja. Preston, Esq. .4170 2 6 Mr. Cha. Tomlinson 4G O 0 Mrs. Kath. Hyde.. 45 0 0
 
 Mrs. Whetham - 180 0 0 Thos.-Edwards Freeman, Esq - 100 0 0
 
@@ -13850,7 +13850,7 @@ M.
 
 * Marsham, Rt. Hon.
 
-Lord Viscount.. . 20 5 0
+Lord Viscount.. 20 5 0
 
 Marshani, Hon. Mrs. 74 11 0
 
@@ -13878,7 +13878,7 @@ Morland, Francis, Es(j. 2 2 0
 
 Miller, Lady, per Treasurer 37 10 0
 
-Marrissal, N. Esq. . 20 0 0
+Marrissal, N. Esq. 20 0 0
 
 * Alavor, John, Esq.. 01 10 0
 
@@ -13900,7 +13900,7 @@ Aiello, Arnold, Esq.. 5 5 0
 
 Malkin, T. Esq - 12 12 0
 
-Malkin, Wm. Esq. . 10 10 0
+Malkin, Wm. Esq. 10 10 0
 
 Middleton, Nath. Esq.5 5 0
 
@@ -13956,13 +13956,13 @@ Aiartin, Alatthew, Esq.2 o 0
 
 Bart 70 0 0
 
-Miller, John, Esq. . 35 0 0
+Miller, John, Esq. 35 0 0
 
 AI. E. Y. per Biddulph
 
 and Co 10 10 0 *
 
-•*Mildmay, SirHcnry St.
+•*Mildmay, Sir Hcnry St.
 
 John, Bart. AI. P. 25 5 0
 
@@ -13982,7 +13982,7 @@ Maxwell, Capt 4 4 o
 
 Alontague Baril, Esq.l 1 0
 
-Alestaers, J. F. Esq. . 2 o 0
+Alestaers, J. F. Esq. 2 o 0
 
 Alontague, G. Esq. 2 o 0
 
@@ -14028,7 +14028,7 @@ Nixon, Mr. Nicholas 18 18 0
 
 Neale, Mr IO 0 0
 
-Nunn, Win. Esq. .. . 7 7 0
+Nunn, Win. Esq. .. 7 7 0
 
 Newman, Win. l^cwi s.
 
@@ -14074,7 +14074,7 @@ Puscy, Lady Lucy’. .47 5 0
 
 * Plumer, Tho. Esq. 21 0 O
 
-Pearce, W. Esq. . 12 12 O *Pepperell, Sir Win.
+Pearce, W. Esq. 12 12 O *Pepperell, Sir Win.
 
 • Bart - 27 GO
 
@@ -14096,7 +14096,7 @@ Pott, John, Esq. «Zt<:.40 Phillipps, T. March,
 
 ‘>q - -
 
-Phillipps, Mr*. March 7 Parks, Richard, Esq. 57 Pitt, Thomas, Esq. 12 1\arson, W ikon, Jvq Pell, James, Esq. da. 80 Platt, Thom is, Esq. . 20 Pinnock, James, Esq. 17 *Pigoil, Robe rt, Esq.GO Polhill, Charles, Esq.
+Phillipps, Mr*. March 7 Parks, Richard, Esq. 57 Pitt, Thomas, Esq. 12 1\arson, W ikon, Jvq Pell, James, Esq. da. 80 Platt, Thom is, Esq. 20 Pinnock, James, Esq. 17 *Pigoil, Robe rt, Esq.GO Polhill, Charles, Esq.
 
 dec - 12 12 O
 
@@ -14116,25 +14116,25 @@ Pitt, Win. Morton,
 
 10 o o o 12 0 10 O
 
-Esq. M. P. . . 12 12 0
+Esq. M. P. . 12 12 0
 
 Paton, George Esq. 5 5 0
 
-xxPackwoocl, yji . . 2G 5 0
+xxPackwoocl, yji . 2G 5 0
 
 Persse, P. Esq G G 0
 
-Persse, Mi's.. . 5 0
+Persse, Mi's.. 5 0
 
 Precious, Robert, Esq.G G 0
 
 Penyn, Rev. Richard 2 O 0
 
-Pote, Edward, Esq. . 13 1 1 G
+Pote, Edward, Esq. 13 1 1 G
 
 Plumptrc, Rev. James,
 
-Clare-hall. . 3 O D 0
+Clare-hall. 3 O D 0
 
 0 0
 
@@ -14174,7 +14174,7 @@ St. Vincent, Rt. Hon.
 
 Countess of - IS IS 0
 
-Smith, Sir John, Bart. 15 15 O *Stanhope, C. Esq. . .SO GO Sykes, Rev. Sir Martin, Bart. dec. 170 0 O *Smith, Mr. Joint. .240 0 0
+Smith, Sir John, Bart. 15 15 O *Stanhope, C. Esq. .SO GO Sykes, Rev. Sir Martin, Bart. dec. 170 0 O *Smith, Mr. Joint. .240 0 0
 
 Smart, Richard, Esq. 8 8 O
 
@@ -14212,7 +14212,7 @@ Stevenson, Rob. Esq. 10 Sturges-Bourne, Win.
 
 Esq. M. P.........2
 
-Swiney, Vice-Admiral Snow, Robert, Esq. . 5 Sansoni, Ph. Esq. ... 8 Soltau, Win. Esq. . G Soltau, George, Esq. 6
+Swiney, Vice-Admiral Snow, Robert, Esq. 5 Sansoni, Ph. Esq. ... 8 Soltau, Win. Esq. G Soltau, George, Esq. 6
 
 Soltau, Mrs - 3
 
@@ -14300,7 +14300,7 @@ Toplis, John, Esq 5 0 0
 
 15 0 Tagg, Mr 2 o 0
 
-Thomas, W7 Em|. . G 0 0
+Thomas, W7 Em|. G 0 0
 
 0 0 Tavlor, Mr. and Mrs. S 0 0
 
@@ -14360,7 +14360,7 @@ Willoughby de Broke,
 
 Lord - 330 15 0
 
-* \Vatson, Mr. IV.. . 76 GO *\\ ilberforce. Win.Esq.
+* \Vatson, Mr. IV.. 76 GO *\\ ilberforce. Win.Esq.
 
 M. P ...... 99 15 0
 
@@ -14406,7 +14406,7 @@ Mare, James, Esq.. 14 14 0 v M right, Wm, Esq. .21 0 0
 
 Watts, D. P. Esq . 42 0 0
 
-Warren, Aug. Esq. . 6 6 0
+Warren, Aug. Esq. 6 6 0
 
 * W\ line, Cha. W. Wil-
 
@@ -14424,9 +14424,9 @@ Worrall, Mis 2 2 0
 
 Winslow, Mr 2 0 0
 
-M'orninek, Rev. Dr. . 2 o 0
+M'orninek, Rev. Dr. 2 o 0
 
-* VVarre, Thos. Esq. . 25 0 0
+* VVarre, Thos. Esq. 25 0 0
 
 M ilson, Lady 50 0 0
 
@@ -14466,7 +14466,7 @@ Yorke, Hon. Mr - 20 10 0 Young, Hon.Dowager
 
 Lady - 40 0 0
 
-Yonge, Rev. Duke. . 10 10 O Yonge, Rev. James. .3 3 0
+Yonge, Rev. Duke. 10 10 O Yonge, Rev. James. .3 3 0
 
 Y.Z.perMess.Hoares50 O 0
 

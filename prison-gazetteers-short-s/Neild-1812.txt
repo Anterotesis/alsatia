@@ -950,7 +950,7 @@ Bath, Somersetshire, City Gaol - 28
 
 Battel, Sussex, Town Gaol - 32
 
-Beaumaris, Isle of Anglesea, County Gaol. . 30
+Beaumaris, Isle of Anglesea, County Gaol. 30
 
 Beaumaris, Isle of Anglesea, Town Gaol - 32
 
@@ -1848,9 +1848,9 @@ Near to the above Stock-Room, a small door opens into another horrid place, call
 
 I visited this Gaol at mid-day, but it was necessary to have lighted candles for inspecting it in every part. The turret staircases, of stone, are so very narrow, that two persons cannot pass each other except at the. landing-place; and, to prevent falling down, you must have firm hold of the iron rail.
 
-Debtors, Felons, and Petty Ofienders here mix indiscriminately in the day-time; nor can it be otherwise whilst there are no court-yards for separation.
+Debtors, Felons, and Petty Offenders here mix indiscriminately in the day-time; nor can it be otherwise whilst there are no court-yards for separation.
 
-No sewers* are provided; and the tubs substituted to supply their use are most extremely ofiensive. Water, none, except what is fetched by the Keeper from the town-well.
+No sewers* are provided; and the tubs substituted to supply their use are most extremely offensive. Water, none, except what is fetched by the Keeper from the town-well.
 
 The whole Prison is filthy to a degree, that cannot be described but by an eyewitness. In a word, it is hardly possible to form an idea, of this dreary recess of human wretchedness, or to conceive how it should be tolerated in a civilized country.
 
@@ -7120,7 +7120,7 @@ IN ENGLAND, SCOTLAND, AND WALES.
 
 They* are not here, as in many Coimtv Gaols, confined amongst other Debtors; they ought not therefore to be sent to Ilrhlnrells; biu, so long as this system of Imprisonment for Driblets of Debt, is cruelly permitted, they should be sent either to the County Gaols, or to one purposuly built, with an allowance of proper society, food, and bedding. But here, there is no separate ward, nor a court-yard for Debtors; who therefore must associate (if at all) with Felons, and other criminal Offenders.
 
-At my visit in October 1806 ', several, in the Women's ward, appeared to be of the most lewd, profligate, and abandoned sort: yet, confined to such association, 1 found a poor hard-working IVomun-Dcbtor, and a Man who had been committed hither from the Court of Bequests, both living in common with the Criminals*.
+At my visit in October 1806 ', several, in the Women's ward, appeared to be of the most lewd, profligate, and abandoned sort: yet, confined to such association, 1 found a poor hard-working IVomun-Debtor, and a Man who had been committed hither from the Court of Bequests, both living in common with the Criminals*.
 
 In this Prison are six court-yards. The principal, or Felons’, is 38 feet by 30: Their dav-room, I 8 feet by 17, and 7 feet high, lighted by one iron-grated window. Over this their sl< eping-room, of the same size, 7 feet fi inches high, with a chimney and ventilator; and good beds and bedding are furnished by the Keeper, at 2*'. and l.y. (if/, each per week.
 
@@ -8658,7 +8658,7 @@ Number of Prisoners,
 
 1802, Feb. 1st, 28. 1803, Oct. 6th, 32. 1806, Sept. 26th, 31.
 
-Allowance, twenty-two ounces of bread per day, in loaves from the baker. I think it but justice to mention, that I found many of the loaves weighing 23 ounces. Convicts under sentence of Transportation (see Remarks,) have not the County bread, but the King’s allowanceof 2s. 6d. per week for their support.
+Allowance, twenty-two ounces of bread per day, in loaves from the baker. I think it but justice to mention, that I found many of the loaves weighing 23 ounces. Convicts under sentence of Transportation (see Remarks,) have not the County bread, but the King’s allowance of 2s. 6d. per week for their support.
 
 REMARKS.
 
@@ -9536,7 +9536,7 @@ The Prisoners are divided into four classes: viz. Debtors, Felons, Misdemeanors 
 
 2d. The Master’s-Side, North-yard, 30 feet by IS, is similar to the South in its construction and accommodations, but contains only five rooms with fire-places, (exclusive of another Turnkey’s room on the ground-floor; ) and is at present occupied by persons under commitment for assaults, or trivial offences; as also, occasionally, by the better sort of night-charges.
 
-3d. The Common-Side, Men-Dcbtors’ Yard, 75 feet by 18, contains two pumps, the one supplying spring-water from a well in this yard, and the other affording soft water from the river Thames. It has a room at each end; one of them occupied
+3d. The Common-Side, Men-Debtors’ Yard, 75 feet by 18, contains two pumps, the one supplying spring-water from a well in this yard, and the other affording soft water from the river Thames. It has a room at each end; one of them occupied
 
 IN ENGLAND, SCOTLAND, AND WALES.
 
@@ -10092,7 +10092,7 @@ For entering and discharging every second or other action, upon
 
 Process, Capias, Latitat, or Execution - 0 13 4
 
-For the Certificate of the Want of a Declaration, in order to sue out a Writ of Supersedeas -N.B. The above dcmandable of the Prisoner.
+For the Certificate of the Want of a Declaration, in order to sue out a Writ of Supersedeas -N.B. The above demandable of the Prisoner.
 
 O 0 3
 
@@ -14148,7 +14148,7 @@ S\y Stephen Peacock, Knt. by his Will, dated 3d November 1535, gave the Haberdas
 
 Lady North gave yearly, in bread, thirteen pence every Friday for ever, out of the King’s Head Tavern, near Newgate; and twelve loaves every quarter. This is sent from the bakers, in threepenny loaves, every fortnight.
 
-Airs. Margaret Dane, widow, gave yearly for ever eighteen stone of beef, and five dozen of bread, value one pound, by the Ironmongers’ Company, to be paid at Allhaliows-tide, Michaelmas quarter.
+Airs. Margaret Dane, widow, gave yearly for ever eighteen stone of beef, and five dozen of bread, value one pound, by the Ironmongers’ Company, to be paid at Allhallows-tide, Michaelmas quarter.
 
 Air. Robert Rogers, Leatherseller, gave yearly, by the Leathersellers’ Company, twenty shillings, to be paid quarterly in bread.
 
@@ -15452,7 +15452,7 @@ At my visit in Sept. lSo.}, I was informed that the Gaoler was dead. The Magistr
 
 MONTROSE. Scotland.
 
-Gaolers, The four Town’s-ofHcers; who officiate weekly in turn, but have no Salary as Gaolers.
+Gaolers, The four Town’s-officers; who officiate weekly in turn, but have no Salary as Gaolers.
 
 Fees; for Felons, none. Debtors pay fourpence a night.
 
@@ -16552,7 +16552,7 @@ IN ENGLAND, SCOTLAND, AND WALES.
 
 other wards, called the Common-Side, one of which is 36 feet; six others, about 23 feet; and the one other lS feet in length; all of these are about 15 feet wide, and together capable of containing about 90 persons.
 
-No. 2. The Women-Dcbtors’ court-yard, about 49 feet long by 16 feet wide, leads to two Wards; one of which is 36 feet long by If, feet wide, and the other lS feet long by If, wide; and these are calculated to contain about 22 persons.
+No. 2. The Women-Debtors’ court-yard, about 49 feet long by 16 feet wide, leads to two Wards; one of which is 36 feet long by If, feet wide, and the other lS feet long by If, wide; and these are calculated to contain about 22 persons.
 
 All the before-mentioned Wards are about 11 feet high. These yards are separated from each other by a stone wall If, feet high, and both well supplied with water. The Debtors, who are enabled, all find their own beds and bedding; but the poor, as well Debtors as Criminals, are sometimes supplied with rugs by the City.
 
@@ -17086,7 +17086,7 @@ a wooden bedstead and hangings, bed, bolster, pillows, a regular change of linen
 
 There seems to be no proper store-room in the whole of this Prison.
 
-The general employment here consists of Taylor’s work and Shocniaking: cutting of pegs and skewers, and making various sorts of nets. Debtors are allowed to work, if they can procure the means from without, and they have all they can earn. Criminal Prisoners have nine-pence in the shilling of their earnings; and the Keeper has the other three-pence, for furnishing them with implements and mnleii.il*.
+The general employment here consists of Taylor’s work and Shoemaking: cutting of pegs and skewers, and making various sorts of nets. Debtors are allowed to work, if they can procure the means from without, and they have all they can earn. Criminal Prisoners have nine-pence in the shilling of their earnings; and the Keeper has the other three-pence, for furnishing them with implements and mnleii.il*.
 
 .Many are the comforts here allbrded by the considerate Magistrates, to alleviate the burthen, and soothe the sorrows of imprisonment. A nurse, or matron, is constantly retained, and paid six shillings per week by the County: Her duty is to attend the sick daily, whether Criminals or poorer Debtors, and to provide for them broth, gruel, milk-pottage, wine, extra diet, &c. by order of their Surgeon; of whose professional abilities, humanity, and assiduous attentions, the Hospital and Prison books bear ample record.
 
@@ -20790,7 +20790,7 @@ Th is is a miserable place, for the imprisonment of inferior delinquents, or for
 
 It consists of two rooms on the ground floor, about 13 feet square, fronting the Street; having each a fire-place, and iron gratings, through which to breathe, and beg the casual charity of passengers.
 
-Of these rooms, one, called “ The Toll," has a wooden bedstead, raised about 12 inches from the floor, with loose straw to sleep on. The other, which has also an iron grating towards the Street, contains two sleeping-cel Is, of about9 feet by 6, with straw only on the floor; and, as a glaring instanceof filthy negligence, a bar of wood laid across one corner of each room, with a little straw underneath it, is the vile substitute for a privy!
+Of these rooms, one, called “ The Toll," has a wooden bedstead, raised about 12 inches from the floor, with loose straw to sleep on. The other, which has also an iron grating towards the Street, contains two sleeping-cel Is, of about9 feet by 6, with straw only on the floor; and, as a glaring instance of filthy negligence, a bar of wood laid across one corner of each room, with a little straw underneath it, is the vile substitute for a privy!
 
 For Women, here is one wretched room, above stairs, equally destitute of furniture, and in a very dilapidated state. They are sometimes, however, indulged by the Keeper with the use of a small court-yard, leading toward his bake-house;
 
@@ -23360,7 +23360,7 @@ JS. s. d.
 
 ft I 7
 
-Doctor Pliineas Hodgson; whose before-mentioned Legacy of 5l per annum, is weekly distributed, at 2$. per week, to all those Prisoners who attend Sermons in the Gaol -- - - 5 0 0
+Doctor Phineas Hodgson; whose before-mentioned Legacy of 5l per annum, is weekly distributed, at 2$. per week, to all those Prisoners who attend Sermons in the Gaol -- - - 5 0 0
 
 Mr. Alderman \\ lute’s Gift of 265. a year, and Mr. Howes’s of 20.5. a year, in bread, have long been discontinued.”
 
