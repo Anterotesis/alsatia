@@ -6028,7 +6028,7 @@ Aylesbury 6 O 12 O Birmingham O O 0 8
 
 — Bridewell O O O 3 Bodmin O O 0 is
 
-Ayljham O O O 4 — — Sheriff’s Ward I 2 1 0 O
+Aylsham O O O 4 — — Sheriff’s Ward I 2 1 0 O
 
 Barking O O O 1 Boson O O 2, O
 
