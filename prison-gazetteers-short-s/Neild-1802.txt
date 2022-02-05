@@ -4096,8 +4096,6 @@ Salary, none; makes a Bill.
 
 Number of Debtors, 1802, Feb. 27, .... o
 
-* \
-
 Allowance. None but what they can get by begging at the window.
 
 REMARKS.
@@ -6827,8 +6825,6 @@ The County finds no employment for any of them. They fix upon their own work, in
 POSTSCRIPT.
 
 1 HAT approbation with which my first account of debtors was honoured by the publick, and the benefit which some of them have received by County allowances in consequence, has induced me to present to it a second statement; which, I am sorry to say, contains a very faint picture of the great misery, and still greater corruption and depravity, which exists in Bridewells, and Houses of
-
-# *
 
 Correction, and which I was led by accident to make a part of my plan of inspection into prisons; but which I shall esteem particularly fortunate, if the result of it shall call the attention of the Magistrates of our country to the amelioration of the miseries of my fellow-creatures in those situations; and if it shall tend to the correction of those vices which their characters exhibit, vices which have not only a ruinous tendency to the real interests and welfare of our country, but which must, if they do not meet with some salutary correction, necessarily operate, with other causes, to its decline and fall.
 

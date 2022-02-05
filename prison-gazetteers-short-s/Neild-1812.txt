@@ -1392,7 +1392,7 @@ Marshalsea, Southwark, London - 39G
 
 ---- New Prison - 393
 
-Melton Mowbray, Ixiccstershire, Bridewell. 393 Middlcwich, Cheshire, County House of Correction - 394
+Melton Mowbray, Leicestershire, Bridewell. 393 Middlewich, Cheshire, County House of Correction - 394
 
 Monmouth, Town Gaol - 39G
 
@@ -1402,7 +1402,7 @@ Montgomery, North Wales, County Gaol - 400
 
 ---- House of Correction - 405
 
-Montrose, Scotland, the Tow n Gaol - 399
+Montrose, Scotland, the Town Gaol - 399
 
 Morpeth, Northumberland, County Gaol .. 403
 
@@ -1468,7 +1468,7 @@ Oakham, Rutlandshire, County Bridewell,
 
 and Town Gaol - 4bl
 
-Odihatn, Hampshire, Biidcwell - 465
+Odihatn, Hampshire, Bridewell - 465
 
 Okehampton, Devonshire, Town Gaol - 402 Orfortl, Sutfolk, Borough Gaol and Bridewell 402 Oxford, Castle Gaol, and County Bridewell.4G3
 
@@ -1546,7 +1546,7 @@ Ttipon, Canon-Fee Court Gaol, and House
 
 of Correction - 501
 
-Rochester, Kent, City Gaol and Bridewell505
+Rochester, Kent, City Gaol and Bridewell - 505
 
 Romney, Kent, Town Gaol - 506
 
@@ -1564,11 +1564,11 @@ Bridewell - 511
 
 Saint Alban's, Hertfordshire, Borough Gaol 511
 
----- Liberty Gaol - 51*2
+---- Liberty Gaol - 512
 
-- — - House of Correction - 513
+---- House of Correction - 513
 
-Saint DriaveFs, Gloucestershire, for Debtors
+Saint Briavel*s, Gloucestershire, for Debtors
 
 only - 514
 
@@ -1616,7 +1616,7 @@ Stirling, Scotland, Town Gaol -
 
 Stockport. Cheshire, Town Gaol -
 
-Sudbury, SuHolk, Borough Gaol and Bridewell -
+Sudbury, Suffolk, Borough Gaol and Bridewell -
 
 523
 
@@ -1656,7 +1656,7 @@ Taunton, Somersetshire, County Bridewell.
 
 Thames, Hulks -
 
-Thctford, Norfolk, Town Gaol -
+Thetford, Norfolk, Town Gaol -
 
 Tideswell, Derbyshire, House of Correction
 
@@ -1668,7 +1668,7 @@ Tothill-Fields, Westminster, Bridewell -
 
 The Tower, London -
 
-Tower Hamlets, Welle!oso Square Gaol -
+Tower Hamlets, Wellclose Square Gaol -
 
 Truro, Cornwall, Town Gaol -
 
@@ -1960,7 +1960,7 @@ Surgeon, when wanted, sent by the Mayor.
 
 Number of Prisoners,
 
-1Sth Aug. 1803, Two Criminals. 31st Aug. 180G, One. 22d Aug. 1S11, Two.
+1Sth Aug. 1803, Two Criminals. 31st Aug. 1806, One. 22d Aug. 1S11, Two.
 
 I have not found one Debtor here at my several visits.
 
@@ -2606,7 +2606,7 @@ Duty, Sermon on Sundays. There tffling no Chapel, Divine Service is performed in
 
 Surgeon, Mr. Ireland. Salary 15/.
 
-Number of Prisoners, 180G, June 21st, - 14
+Number of Prisoners, 1806, June 21st, - 14
 
 1808, Aug. 26th, - 5
 
@@ -2624,7 +2624,7 @@ On the other side of the Keeper’s house is the Men’s working room, 14 feet b
 
 The Women’s Court-yard is 28 feet by 8 feet9 inches; and their work-room 15 feet by 14, and 10 feet high; with a fire-place and glazed window'. They have also a Lying-in Room, 9 feet by 8, with bedsteads and bedding, like those for the Men.
 
-Above stairs is a room for the sick, 17 feet square, with fire-place, and opposite windows. But this room, at my visit in 180G, was filled with breeding cages, and a variety of birds; and in 1808, w as used as a cutting shop, and filled up with leather.
+Above stairs is a room for the sick, 17 feet square, with fire-place, and opposite windows. But this room, at my visit in 1806, was filled with breeding cages, and a variety of birds; and in 1808, w as used as a cutting shop, and filled up with leather.
 
 The Prisoners have County clothes, and a bathing tub supplied them: Clean linen once a week; and when discharged, which is always in the morning, they have money given them, according to their respective distances from home.
 
@@ -3334,7 +3334,7 @@ Allowance, Twopenny-worths of Bread, with a slice of Cheese, to each.
 
 REMARKS.
 
-This New Gaol was first inhabited in September, 180G, and is situated in Moor-Street, at the back of the Publick Olhce.
+This New Gaol was first inhabited in September, 1806, and is situated in Moor-Street, at the back of the Publick Olhce.
 
 Here is only one court-yard for all descriptions of Prisoners, 59 feet by 30, enclosed by a wall 26 feet high, on the top of which is a chevaux de J'rise, for better security against escape. Attached to it are two day-rooms, or kitchens, fourteen feet square, which open into it; one for Men, the other for Women, with a pump of excellent water.
 
@@ -3458,7 +3458,7 @@ Gaoler, Samuel Brevitt, now SamuelSlocomb: He is a Sergeant at Maee.
 
 Salary, none. Fees, both Debtors and Felons, 3s. 4d.
 
-N° of Prisoners, 1803, Oct. f, th, Debtors, none. Felons and Petty Offenders, One, 180G, Sept. 2d, - none. -- - One.
+N° of Prisoners, 1803, Oct. f, th, Debtors, none. Felons and Petty Offenders, One, 1806, Sept. 2d, - none. -- - One.
 
 Allowance to Debtors, none. Felons and other Criminal Prisoners, fourpence half-penny, or sixpence per day, as bread is cheap or dear.
 
@@ -3660,7 +3660,7 @@ Deaths -- 2 - 5 - 8 - 15
 
 Prisoners are always discharged from hence in a morning-, and, if necessitous, money is given them, according to their respective distance from home.
 
-Whenever, to benefit the living, we honour the dead, it becomes no less a pleasing than a bounden duty. I cannot here omit this last opportunity of paying a tribute of great respect to the memory of my learned friend, Dr. Hall, the much lamented Physician of Bodmin. At my first visit to the Prison, I found this excellent Man visiting, and gratuitously prescribing for the sick, which I was informed had been his constant practice. Its singularity inspired me with the highest veneration. I had seldom, nay hardly ever, seen an instance of the kind during my walk through our Gaols, in any place, except the Metropolis; It was exemplary, and worthy of a more extensive imitation; and with Dr. Hall it continued until September, 180G, when a fatal accident deprived society of one of its most useful members.
+Whenever, to benefit the living, we honour the dead, it becomes no less a pleasing than a bounden duty. I cannot here omit this last opportunity of paying a tribute of great respect to the memory of my learned friend, Dr. Hall, the much lamented Physician of Bodmin. At my first visit to the Prison, I found this excellent Man visiting, and gratuitously prescribing for the sick, which I was informed had been his constant practice. Its singularity inspired me with the highest veneration. I had seldom, nay hardly ever, seen an instance of the kind during my walk through our Gaols, in any place, except the Metropolis; It was exemplary, and worthy of a more extensive imitation; and with Dr. Hall it continued until September, 1806, when a fatal accident deprived society of one of its most useful members.
 
 ---
 
@@ -3710,7 +3710,7 @@ Allowance, To each Debtor, a twopenny loaf per day *, from the City; and every e
 
 REMARKS.
 
-The Borough Compter, vulgarly called “The Clink," is under the Jurisdiction of the Bailiff of Southwark, controulable, however, by the City of London; and extends its influence over five Parishes. But, in August, 180G, the powers of the Court were still farther extended to Norwood, about seven miles distant; the num-
+The Borough Compter, vulgarly called “The Clink," is under the Jurisdiction of the Bailiff of Southwark, controulable, however, by the City of London; and extends its influence over five Parishes. But, in August, 1806, the powers of the Court were still farther extended to Norwood, about seven miles distant; the num-
 
 * The weight of this leaf, on the 10th of March, 1801, was sir ounces. In August, 1*83, the twopenny loaf weighed twenty-one ounces. The allowance of bread, every where, and at all times, should he in weight, and never according to its casual value in money; because of the frequent variation of 2nice in an article of such important consequence.
 
@@ -3894,9 +3894,7 @@ which the debtor must pay, or be forty days imprisoned with felons.
 
 * See my Remark on “ Thomas Dobson, ” under the article Newgate.
 
-I NT ENGLAND, SCOTLAND, AND WALES.
-
-/* r»
+IN ENGLAND, SCOTLAND, AND WALES.
 
 v
 
@@ -3910,7 +3908,7 @@ In August 1 SoG, an Act passed, extending the limits of jurisdiction beyond the 
 
 By the above Statute it was enacted, That the several Fees and sums of money following, and no other, should be taken by the Bailiff, Clerks, and Officers of the
 
-.STATE OF PRISONS
+STATE OF PRISONS
 
 fi4
 
@@ -4068,7 +4066,7 @@ S. tl. s. (1.
 
 6 O
 
-1NT ENGLAND, SCOTLAND, AND W'ALF.fj
+IN ENGLAND, SCOTLAND, AND WALES.
 
 The foregoing Tallies of Fees were ordered to be conspicuously hung up in the Court-house, or where the Commissioners meet, that all concerned may see and peruse them at all'times.
 
@@ -4204,19 +4202,19 @@ The Schedule of Laws for governing Houses of Correction (22d G. III. c. 64.) and
 
 Their employment is the spinning of wool; half their earnings from which are paid them at the time of their discharge. All of them are allowed clean linen once a week; and coals, mops, brushes, brooms, soap, towels, and vinegar, are here considerately allowed, for personal coinfort and prison cleanliness.
 
-BRADFORD, Forkshire. See page 45-
+BRADFORD, Yorkshire. See page 45-
 
-BRECON. South IVuIes.
+BRECON. South Wales.
 
 The County Gaol, and Bridewell.
 
-Gaoler, I Falter I Fa thins; Salary, 52l. los.: Now Thomas Git tins; Salary, 105l. and half of the Prisoners’ earnings; out of which he provides a Turnkey. Fees, Debtors, as per Table. Felons, when discharged in Court by proclamation, lls. 4d. which is paid by the County Treasurer. For Conveyance of Transports, the expence attending it.
+Gaoler, I Falter I Fa thins; Salary, 52l. los.: Now Thomas Gittins; Salary, 105l. and half of the Prisoners’ earnings; out of which he provides a Turnkey. Fees, Debtors, as per Table. Felons, when discharged in Court by proclamation, lls. 4d. which is paid by the County Treasurer. For Conveyance of Transports, the expence attending it.
 
 Garnish, abolished.
 
 Chaplain, Rev. John Jones. Salary, 20l.
 
-Duty, Pr< lyers on Sunday and Thursday; and Sermon once a month.
+Duty, Prayers on Sunday and Thursday; and Sermon once a month.
 
 Surgeon, Mr. IFilliams. Salary, for Felons only, 261. 5s.
 
@@ -4248,7 +4246,7 @@ Men Felons have a court, about 35 feet by 25, into which opens one sleeping-cell
 
 The court, day-room, and sleeping-cells for Women Felons, are similar to those for the Men, but on the opposite side of the Gaol. The Bridewell House of Correction is under the same roof, but separated from the Gaol by the Chapel. The
 
-* At the Lent Assizes for Thctford, in 17S2, Lord Loughborough laid a fine of twenty pounds on the Gaoler of Norwich Castle, ‘‘ for putting irons on a Woman.'’ The lesson is exemplary, and it is hoped may ever he felt as a caution.
+* At the Lent Assizes for Thetford, in 17S2, Lord Loughborough laid a fine of twenty pounds on the Gaoler of Norwich Castle, ‘‘ for putting irons on a Woman.'’ The lesson is exemplary, and it is hoped may ever he felt as a caution.
 
 t A Welch Writer has volunteered in the cause, and attempted to vindicate this very tinworthy i\Ian, by saying, that “ One of the Women thus ironed was young, and stout, and refused tamely to submit to be double-ironed; in consequence whereof, the Gaoler was obliged to get assistance to effect it.’1 He ridicules the idea of giving money to a Prisoner on discharge, and lie even compliments the Gaoler for his humanity! Noscilur a sociis ! Who has not beard of the famous Onen Glen doner? He, too, was a Gentleman of Wales, and very apt to assert what few could easily believe: And to him, it is said, the gallant Hotspur addressed that never-to-be-forgotten precept of sound morality,
 
@@ -4264,7 +4262,7 @@ There are also two reception-cells for Prisoners when first brought in; each of 
 
 Mops, brooms, and soap are supplied for cleansing the Prison, — which is kept very clean, — but neither pails nor towels are allowed. The employment of weaving has lately been introduced; and the Prisoners are to have one-third of their earnings, the Gaoler and County the other two.
 
-Here are books provided for the Visiting Magistrates, the Chaplain, and the Surgeon, to enter their Reports. The two former are very regular; from the latter, none since the 14th August (180G.) No money is here given to Prisoners, when discharged, to prevent a recurrence to former sufferings.
+Here are books provided for the Visiting Magistrates, the Chaplain, and the Surgeon, to enter their Reports. The two former are very regular; from the latter, none since the 14th August (1806.) No money is here given to Prisoners, when discharged, to prevent a recurrence to former sufferings.
 
 No Rules and Orders. No County clothing. The Act for Preserving Health not hung up, nor the Clauses against Spirituous Liquors.
 
@@ -4340,7 +4338,7 @@ IN ENGLAND, SCOTLAND, AND WALES.
 
 73
 
-BIUDEWELL. London.
+BRIDEWELL. London.
 
 The House of Correction.
 
@@ -4520,7 +4518,7 @@ The “ Condemned-room, ” as they term it, is 18 feet by 23, and 9 feet high, 
 
 When 'Turnkeys aie thus affected, by only opening the doors, what must the pitiable wretches suffer, confined, through the whole night, in such fetid hot-beds of disease 1*There are many narrow passages about this Prison, so that the utmost attention seems requisite to keep it healthy; and yet, at my several visits, I
 
-* It has very judiciously been remarked, that a Gaol, considered as a place for safe custody of the disturbers of peace and property, rarely attracts our attention as an object of pity and benevolence. Gratified with the first idea, of its power to relain a daring' murderer, how often do we overlook'that most lamentable gronpe, which it so dreadfully oppresses! — 1 mean the victims of mere •misfortune; — the feeble and nnrcsistless sacrifices to false and groundless accusation ! Volumes might be crowded, on this head of ligal suj/eimg.
+* It has very judiciously been remarked, that a Gaol, considered as a place for safe custody of the disturbers of peace and property, rarely attracts our attention as an object of pity and benevolence. Gratified with the first idea, of its power to relain a daring' murderer, how often do we overlook'that most lamentable gronpe, which it so dreadfully oppresses! — 1 mean the victims of mere misfortune; — the feeble and nnrcsistless sacrifices to false and groundless accusation ! Volumes might be crowded, on this head of ligal suj/eimg.
 
 IN ENGLAND, SCOTLAND, AND WALES.
 
@@ -4536,7 +4534,7 @@ Mr. Freeman left Four Founds Nine Shillings to be laid out in bread and beef, an
 
 T he Churchwardens have, for many years past, paid four Founds two Shillings for the use of the prisoners; two-thirds of which are given to the debtors, and one-third to the Felons. This I apprehend to be the Legacy of Mrs. slhlsicortli, who is mentioned by Air. Howard. But no memorial appears in the (Jaol of any legacy.
 
-The Act for preservation of Health is hung up in the Chapel, which, though large, is not properly partitioned to separate the classes. T he attendance of Debtors on Divine worship is optional, and I was sorry to observe only nine present, in 180G, out of thirty-three. Neither were the Criminal Prisoners so attentive as one might have expected from the devout and serious manner in which the duty was performed by their pious Chaplain. So little regard, indeed, was paid to the Chapel, as a place of worship, that 1 have repeatedly seen the prisoners drinking, smoking, and chewing tobacco in the gallery.
+The Act for preservation of Health is hung up in the Chapel, which, though large, is not properly partitioned to separate the classes. T he attendance of Debtors on Divine worship is optional, and I was sorry to observe only nine present, in 1806, out of thirty-three. Neither were the Criminal Prisoners so attentive as one might have expected from the devout and serious manner in which the duty was performed by their pious Chaplain. So little regard, indeed, was paid to the Chapel, as a place of worship, that 1 have repeatedly seen the prisoners drinking, smoking, and chewing tobacco in the gallery.
 
 ' Flic Clauses against strong Liquors are hung up at the entrance of the Gaol. No employment: and such is the confined situation of the Prison, as to preclude the possibility of work ! No T able of Gaoler’s Fees.
 
@@ -4560,7 +4558,7 @@ Chaplain, none; nor any religious attention paid to the Prisoners.
 
 Surgeon, Mr. Sajford, who makes a Bill.
 
-N° of Prisoners, 1 SO 1, Dec. 17th, S. 1803, Oct. 4th, 16. 180G, Sept. 20th, 5.
+N° of Prisoners, 1 SO 1, Dec. 17th, S. 1803, Oct. 4th, 16. 1806, Sept. 20th, 5.
 
 Allowance, a threepenny loaf of household bread, which I weighed, — 1 lb. 5 oz.
 
@@ -4570,7 +4568,7 @@ This Prison was built in 1721. Part of it is in the Keeper’s house, on one sid
 
 The Common-Side, (the Bridewell) over the way, consists of two parts, separated by a court 50 feet by 15, in which there are a pump and cistern for hard and soft water, which is laid on by a pipe from the quay. The first part has, on the right hand, two cells for Vagrants on the ground-floor, each lGy feet by Gy feet, an iron-grated window facing the court, and a most offensive sewer in one corner: The sleeping-room above is large and airy, but the straw upon the floor was short, dirty, and almost worn to dust. On the left hand is a room for Jines, 22 feet by 17, and 10 feet high, with an iron-grated window to the court; and the room is not rendered offensive. Above stairs is an apartment of the same size.
 
-The second part of the Common-Side has upon the ground-floor, on the right-hand, two cells, l6y feet by Gy, and 9 feet high to the crown of the arch; with an aperture 12 inches square, to admit light and ventilation, and an iron-grating over-each door. The sewers, being near the river, are not very offensive; but on my visit in 1803, they were so terribly infested by rats, that a cat was kept in each cell, to prevent their gnawing the prisoners’ feet. On my next call, however, in 180G, and the appointment of a new Keeper, I found the rats prevented from such annoyance. The floors were mended, cells white-washed, and the whole Prison very cleam
+The second part of the Common-Side has upon the ground-floor, on the right-hand, two cells, l6y feet by Gy, and 9 feet high to the crown of the arch; with an aperture 12 inches square, to admit light and ventilation, and an iron-grating over-each door. The sewers, being near the river, are not very offensive; but on my visit in 1803, they were so terribly infested by rats, that a cat was kept in each cell, to prevent their gnawing the prisoners’ feet. On my next call, however, in 1806, and the appointment of a new Keeper, I found the rats prevented from such annoyance. The floors were mended, cells white-washed, and the whole Prison very cleam
 
 Over the cells is the Infirmary, 22 feet by 17, and 10 feet high, with a fire-place and glazed window. On the left-hand is the Female Vagrants’ day-room, 18 feet by lG, and 10 feet high, with an iron-grated window toward the court; and over this a sleeping-room of the same size. The court itself being quite out of sight from the Keeper’s house, he does not permit prisoners to use it, nor the pump there, except three times a week, in the middle of the day; yet some offenders are confined here for three years together, and, during that time, kept in irons.
 
@@ -4904,7 +4902,7 @@ As the County Gaol and House of Correction receive the Prisoners properly belong
 
 Beneath this Prison are a Guard-House for the Military, the Town-Cage, and a room for the Fire-Engine. A Town-clock has been lately placed on the top.
 
-CAERMARTHEN CASTLE. South-JJales.
+CAERMARTHEN CASTLE. South-Wales.
 
 The County Gaol and Bridewell.
 
@@ -5032,17 +5030,17 @@ STATE OF PRISONS
 
 REMARKS.
 
-T1 iis Prison is a square building, surrounded by a boundary-wall, fifteen feet high, and about five feet distant from the Bridewell. It stands in the bach yard of the Keeper's house, which was originally bought and endowed for the encouragement of wool-combers and spinners of this town.
+This Prison is a square building, surrounded by a boundary-wall, fifteen feet high, and about five feet distant from the Bridewell. It stands in the bach yard of the Keeper's house, which was originally bought and endowed for the encouragement of wool-combers and spinners of this town.
 
 The basis of the institution was a Legacy of the famous and justly celebrated “ University Carrier, ” Thomas Hobson of the Town His will is dated on Christ-mas-Eve, 16’30, O. S. and on New-Year’s Hay, 1st January l6‘30, (the very day on which he died,) he added to it the following codicil:
 
-“ Item, I give unto the Mayor, Bayliffs, and Burgesses of the Town of Cambridge, “ the sum of One Hundred Pounds; to the intent, that they shall, within as convenient time as they may, purchase lands or tenements therewith; and the rents “ thereof yearly arising to be employed and bestowed towards the maintenance of the House of Correction and /f ork-house within the town of Cambridge, and of the poor which shall be set on work there for ever.”
+“ Item, I give unto the Mayor, Bayliffs, and Burgesses of the Town of Cambridge, “ the sum of One Hundred Pounds; to the intent, that they shall, within as convenient time as they may, purchase lands or tenements therewith; and the rents “ thereof yearly arising to be employed and bestowed towards the maintenance of the House of Correction and Work-house within the town of Cambridge, and of the poor which shall be set on work there for ever.”
 
 To answer, as far as might be, the liberal intention of the Testator, the Keeper of this House of Correction and Work-house was required to be a Wool-Comber; who should employ, not only several hands upon the foundation of the Charity, but many others; and amongst them the Prisoners under his charge. At my visit, however, in 1807, I found the old Keeper almost superannuated, and very little work done; which is now totally discontinued, and the pious intentions of the Donor frustrated.
 
 The Men Prisoners here have three cells at the entrance of the building, of9 feet each by 7 feet 6, and nearly 8 feet high, with straw, laid on the floor; and each also supplied with a mattress, two blankets, and a rug for bedding.
 
-For the Women Prisoners there are ten cells of the same size as the former, and four eourt-yards, rendered offensive by the sewer in each. \\ ithin the eells a tub is made to serve the purpose; and for ventilation they have an iron-grating over each door, through which is an aperture of six inches square. The floors have all, except one, been repaired since my visit in 1807.
+For the Women Prisoners there are ten cells of the same size as the former, and four eourt-yards, rendered offensive by the sewer in each. Within the eells a tub is made to serve the purpose; and for ventilation they have an iron-grating over each door, through which is an aperture of six inches square. The floors have all, except one, been repaired since my visit in 1807.
 
 Soap and coals are allowed, yet the whole Prison is very dirty. There is indeed but one pump in it; and those confined have not the option, given by good Hobson to his customers, of “ that or none."
 
@@ -5092,7 +5090,7 @@ The Turnkey’s lodge is in front of the building, and occupies a space of about
 
 On the right-hand, at the entrance, are two reception-rooms, for the examination of the Prisoners, in point of health, previous to their being admitted to the' interior;
 
-* It may hr proper here to remark, that Debtors from the Isle of Ely are generally sent to this Castle Gaol of Cambridge.
+* It may be proper here to remark, that Debtors from the Isle of Ely are generally sent to this Castle Gaol of Cambridge.
 
 STATE OF PRISONS
 
@@ -5160,9 +5158,9 @@ At Christmas, in each year, a Collection is sometimes suffered to be publicly ma
 
 0 O
 
-for each poor Debtor: but, as to sanction this Application the Signature of the Vice-Chancellor is held necessary, (which cannot always be obtained,) I understand that a new Collection was not made till Christmas in the year 1804; and the last in 180G, which to nine poor Debtors produced 3*. <)d. a piece.
+for each poor Debtor: but, as to sanction this Application the Signature of the Vice-Chancellor is held necessary, (which cannot always be obtained,) I understand that a new Collection was not made till Christmas in the year 1804; and the last in 1806, which to nine poor Debtors produced 3*. <)d. a piece.
 
-About sixteen shillings, as a Donation, or Legacy, are also made payable, in some sort, from an Estate at Croxlon, in the County of Cambridge; but no memorial oj if is recorded in the Gaol.
+About sixteen shillings, as a Donation, or Legacy, are also made payable, in some sort, from an Estate at Croxlon, in the County of Cambridge; but no memorial of it is recorded in the Gaol.
 
 IN ENGLAND, SCOTLAND, AND WALES.
 
@@ -5172,7 +5170,7 @@ IN ENGLAND, SCOTLAND, AND WALES.
 
 Prisoners belonging to this Gaol are tried at the T own Hall, which is half a mile distant; and they walk thither, — digito prcctereuntium monstrari, et dicier Ilic csf !
 
-T he Contents, or various departments of this Prison, may best be shewn by the following enumeration of the different rooms, and how they are applied.
+The Contents, or various departments of this Prison, may best be shewn by the following enumeration of the different rooms, and how they are applied.
 
 ltooms.
 
@@ -5222,11 +5220,11 @@ Number of Prisoners, Debtors. Criminals.
 
 1801, Aug. 20th, -- 1 -- g
 
-1802, Aug. 7 th, -- - 0 -- 2
+1802, Aug. 7th, -- - 0 -- 2
 
 1807, Aug. 30th, -- 0 5
 
-1810, Sept. 2d, ...... 0 ...... 3
+1810, Sept. 2d, - 0 - 3
 
 Allowance, to Debtors, none statedly: But see Remarks.
 
@@ -5236,7 +5234,7 @@ REMARKS.
 
 Formerly here was a room below, for Criminals, 21 feet by 7, called The Hole; and above it another, termed The Cage. On a visit, in August 1800, I had the pleasure to find that The Cage had fallen into The Hole, and both formed a heap of ruins. The Prisoners were destitute of court-yard, water, and allowance.
 
-The present Gaol, erected in 178S, has a small court-yard, about lS feet square, with a pump and sewer in it, for Prisoners of every description. There are five cells below for Criminals, each about9 feet by 6, and 7 feet 6 inches high. Above are two rooms for Men and Women Debtors, and a day-room, 24 feet by 15. They pay weekly two shillings for a single bed each; and if two sleep together, each pays one shilling and three-pence. The Town allows straw and blankets to Criminals.
+The present Gaol, erected in 178S, has a small court-yard, about lS feet square, with a pump and sewer in it, for Prisoners of every description. There are five cells below for Criminals, each about 9 feet by 6, and 7 feet 6 inches high. Above are two rooms for Men and Women Debtors, and a day-room, 24 feet by 15. They pay weekly two shillings for a single bed each; and if two sleep together, each pays one shilling and three-pence. The Town allows straw and blankets to Criminals.
 
 The cells are ventilated by an iron-grating over each door, in which is made an aperture, about 6 inches square. There is one dark, solitary cell, with a double
 
@@ -5484,7 +5482,7 @@ Number of Prisoners, Debtors. Felons. Bridewell.
 
 1801, Nov. 30th, - 6 - 5 - 2.
 
-1803. Sept. 26'th, - ~ 3 - 1 - 0.
+1803. Sept. 26th, - 3 - 1 - 0.
 
 Allowance, to Debtors, none whatever. If the Debtor be poor, he must apply to his parish for relief. To the Gaoler, for !lie maintenance of Felons and other Criminal Prisoners, 4?. Sd. each per week.
 
@@ -5496,13 +5494,13 @@ IN ENGLAND, SCOTLAND, AND WALES.
 
 (0!)
 
-Oil one side of the entrance is the Gaolers kitchen, and, on the other side, his office; beyond which, and in the centre of the building, is the Great-Hull, or I ns flection- Room, , 38 feet by 30, of a circular shape: It has a flag-stone floor, with ttco fire-places, and four w indows, commanding a view of the four dill'crent courts, each of which is 20 yards by lb.
+Oil one side of the entrance is the Gaolers kitchen, and, on the other side, his office; beyond which, and in the centre of the building, is the Great-Hull, or I ns flection- Room, , 38 feet by 30, of a circular shape: It has a flag-stone floor, with ttco fire-places, and four w indows, commanding a view of the four different courts, each of which is 20 yards by lb.
 
-Were the Gaoler to live in the Great-Hall, he would then have a full and complete view of the whole l’rison, from a point the most eligible for effectual inspection: But, at my last v isit, in September 181)3, !Jound it filled trif/t corn, and tiro lUeit were absolutely threshing it out The six passages, which lead to the Criminals’ sleeping-cells, open into this room.
+Were the Gaoler to live in the Great-Hall, he would then have a full and complete view of the whole Prison, from a point the most eligible for effectual inspection: But, at my last visit, in September 181)3, !Jound it filled trif/t corn, and tiro lUeit were absolutely threshing it out The six passages, which lead to the Criminals’ sleeping-cells, open into this room.
 
 For Debtors here are four rooms on the ground-floor, and four above stairs, each 13 feet by 11, an i\ f urnished with Jirc-pluccs; but no fuel allowed, which had rather a tantalizing appearance. Straw is the only bedding supplied by the County for Prisoners of every description.
 
-' I’lie entrance to the Felons’ ward is at the lower end of the Great-Hall, and forms a detached wing of the Gaol. They have four sleeping-cells below, and four above stairs, each 10 feet 6 inches by y feet, and 10 feet (1 inches high. To this wing are attached two small courts, 15 feet each by 11; but, as being out of the Gaolers view, the Prisoners seldom hare the use of them.
+The entrance to the Felons’ ward is at the lower end of the Great-Hall, and forms a detached wing of the Gaol. They have four sleeping-cells below, and four above stairs, each 10 feet 6 inches by y feet, and 10 feet (1 inches high. To this wing are attached two small courts, 15 feet each by 11; but, as being out of the Gaolers view, the Prisoners seldom hare the use of them.
 
 The Bridewell part of the Prison comprizes twelve rooms and sleeping-cells, about 10 feet each by S, with loose straw in them to sleep on.
 
@@ -5714,9 +5712,9 @@ CROYDON. Surry.
 
 Town Gaol.
 
-Keeper, a Turnkey, who has eharge of the Prisoners in Assize Time.
+Keeper, a Turnkey, who has charge of the Prisoners in Assize Time.
 
-Prisoners, 16th June, 180G, and 23d June, 1S10, none.
+Prisoners, 16th June, 1806, and 23d June, 1810, none.
 
 Allowance, none to the Debtors from the Court of Requests: But to other Prisoners, one pound and a half of bread per day.
 
@@ -5864,7 +5862,7 @@ pmplary in his whole deportment; and the Prisoners, at my several visits, evince
 
 In the County Gaol of Chelmsford, every criminal, at his entrance, is stripped and washed. His own clothes are taken from him; and, being purified in a bath or oven, the County cloathing is put on, which has cither a sleeve or collar so coloured, as to discriminate the nature of his offence. Caps, also, like the forage caps of soldiers, are worn by them.
 
-The Felons here are employed in a manufactory of ropes, and other cordage. Old junk, from the King’s Yards, is purchased and plucked in pieces. The best of it is knotted together by them, and made into what is called twice-laid rope; the refuse of the junk is then sent to the several Houses of Correction, and picked into oakum. New rope is also spun and made up; and the articles so fabricated are disposed of at reduced prices, for various purposes in the shipping and farming lines, See. I am informed that the nett profit of this work to the Count)' Stock, from 1st April, lSoo, to 1st January, 1803, was 223/. Sx. gd. and has produced, upon an average of the years 1805 — 6 — 7 — S, 130/. per annum.
+The Felons here are employed in a manufactory of ropes, and other cordage. Old junk, from the King’s Yards, is purchased and plucked in pieces. The best of it is knotted together by them, and made into what is called twice-laid rope; the refuse of the junk is then sent to the several Houses of Correction, and picked into oakum. New rope is also spun and made up; and the articles so fabricated are disposed of at reduced prices, for various purposes in the shipping and farming lines, See. I am informed that the nett profit of this work to the Count)' Stock, from 1st April, 1800, to 1st January, 1803, was 223/. Sx. gd. and has produced, upon an average of the years 1805 — 6 — 7 — S, 130/. per annum.
 
 Some years since, Mrs. J/erris gave certain lands in trust to the Incumbent of the parish of Chelmsford; out of the rents whereof five pounds are distributed annually, at Christmas Eve, in equal proportions to the Debtors here confined. A Memorial of this Donation is hung up in the Gaol.
 
@@ -6088,7 +6086,7 @@ A book is here kept for the purpose of entering all donations, and the manner of
 
 In the method of treating Prisoners left for execution, there is a singularity which merits attention. They are delivered by the Constable, or his Deputy, at a stone called “ Glover's Stone, a little way distant from the Gaol, into the hands of the Sheriffs of the City; who receive them at that stone, (as being the extreme limit of the Castle-Precinets,) and from thence convey them to the place of execution, of which, also, they have the charge.
 
-Th is Prison is kept remarkably clean. The County Magistrates have evinced great liberality, in providing every comfort which can attend the privation of Liberty, and in shewing pity to the misery of even the most guilty. In the choice of a Gaoler, the qualities of the Man seem to have been particularly attended to. Mild of temper, patient in manners, humane and firm in conduct, he is much respected by all, and satisfaction is visibly displayed in the countenance of every 1 ri-
+This Prison is kept remarkably clean. The County Magistrates have evinced great liberality, in providing every comfort which can attend the privation of Liberty, and in shewing pity to the misery of even the most guilty. In the choice of a Gaoler, the qualities of the Man seem to have been particularly attended to. Mild of temper, patient in manners, humane and firm in conduct, he is much respected by all, and satisfaction is visibly displayed in the countenance of every 1 ri-
 
 soner.
 
@@ -6290,7 +6288,7 @@ Surgeon, Mr. IVebb. Salary, 300l. for this Prison, and the House of Correction i
 
 Number of Prisoners, Felons, &e.
 
-1800, April 15th, - 144 180G, May 2sith, - 73
+1800, April 15th, - 144 1806, May 2sith, - 73
 
 1801, Dec. 8th, - 48 1807, Dec. 18th, - 55
 
@@ -6544,7 +6542,7 @@ REMARKS.
 
 This extensive Gaol, which comprises also the County Bridewell, or House of Correction, is encircled by a boundary wall, enclosing nearly four acres of land; and to it are committed Debtors from the Court of Conscience for the Tower Hamlets.
 
-From the best accounts I could collect out of the books, it appears, that in the course of eleven years, from the llth of June lSoo, to the 21st of May 1810, the whole number of Debtors sent hither has been seven hundred and fifty; viz.
+From the best accounts I could collect out of the books, it appears, that in the course of eleven years, from the llth of June 1800, to the 21st of May 1810, the whole number of Debtors sent hither has been seven hundred and fifty; viz.
 
 Detained their full term of Imprisonment - 332
 
@@ -6578,7 +6576,7 @@ The former gate is where the friends of Prisoners are admitted who come to visit
 
 Another court-yard, of 45 feet by 42, leads from the last-mentioned lodge, and extends to the front of the Turnkey's office. The office itself, If, feet by 14 feet 6, has two rooms above it: one of them is for the Gaol Committee; and over it is the Store-keeper’s apartment, 17 feet by 16.
 
-A passage of f> feet9 inches wide, reaches from the court-yard just noticed, to the kitchen. The Chapel, which is above the passage, and in the centre of the whole building, is so constructed as to receive all the six classes of Prisoners, male and female; and contains, also, a pew for the Magistrates, the Communion Table, and seats for the Keeper and Turnkeys. On the 19th of June, 1808, I attended L> ivine Service here, when all the Prisoners were cleanly in their persons, and decently attentive to a very suitable discourse.
+A passage of f> feet9 inches wide, reaches from the court-yard just noticed, to the kitchen. The Chapel, which is above the passage, and in the centre of the whole building, is so constructed as to receive all the six classes of Prisoners, male and female; and contains, also, a pew for the Magistrates, the Communion Table, and seats for the Keeper and Turnkeys. On the 19th of June, 1808, I attended Divine Service here, when all the Prisoners were cleanly in their persons, and decently attentive to a very suitable discourse.
 
 The kitchen, 33 feet by 32, is furnished with two cast-iron boilers, for the use of the Prisoners.
 
@@ -6594,7 +6592,7 @@ A spacious garden is thrown round the whole Prison, and extends to the boundary-
 
 On the left of the Main-Gate is the working-yard, containing sheds for coals, and a large one for the drying of oakum; under which last is sunk a. capacious saw-pit, and nearly adjoining, on the lelt of the Inner Turnkey’s lodge, are placed an oven for fumigating clothes, with various shops for shoe-makers, taylors, blacksmiths, and other handicraft Prisoners.
 
-' J'lie garden is cultivated, sown, and planted with different kinds of vegetables for the use of the Prisoners, and the labour of it is done by themselves, under the Gaoler's direction. The Gaol is white-washed at least twice a year, which is also performed by the Prisoners; and it is supplied with water plentifully from a well on the East-side, which is carried to different parts of the buildi by means of an engine occasionally set to work by two of the Prisoners. Here is also a large workroom at the top over the well, of 27 feet 10 inches by 2, p feet 3 inches wide.
+The garden is cultivated, sown, and planted with different kinds of vegetables for the use of the Prisoners, and the labour of it is done by themselves, under the Gaoler's direction. The Gaol is white-washed at least twice a year, which is also performed by the Prisoners; and it is supplied with water plentifully from a well on the East-side, which is carried to different parts of the buildi by means of an engine occasionally set to work by two of the Prisoners. Here is also a large workroom at the top over the well, of 27 feet 10 inches by 2, p feet 3 inches wide.
 
 The Debtors here have, on the Eastern-side of the Prison, a court-yard, 35 feet by 20; a day-room about 12 feet square; and two sleeping-cells, 7 feet by f, feet 6 inches on the first story, furnished with wooden bedsteads, a straw-in-ticking bed, one blanket in Summer, two in Winter, and a rug each. The County humanely allows them a peck of coals per day.
 
@@ -6858,7 +6856,7 @@ DEAL. Kent.
 
 Gaoler, Thomas Langlei/, Sergeant at Mace. Fees, 2s.
 
-Prisoners, 24th Sept. 1804, One Woman, for shop-listing; the first who lrd been 10th Aug. 180G, None. [committed here
+Prisoners, 24th Sept. 1804, One Woman, for shop-listing; the first who lrd been 10th Aug. 1806, None. [committed here
 
 Allowance, Sixpence a day.
 
@@ -7868,9 +7866,9 @@ The Rev. Mr. Nesfield, an active Magistrate of this County, (Seep. lS2, )told me
 
 * “ That Oubliettes were constructed (savs my inestimable friend. Dr. Lettsom) for the final exclusion of Rian from light and society, is fully confirmed by History. There were several of these in Europe, and particularly in Franee, in which persons were shut up, who had been condemned to perpetual imprisonment. Bonfons, in his Antiquites de 1’uris, speaking of Hugues Aubriot, Prevost of the City, who was assigned this punishment, says, “ qu’il fut preehti et mitre piibliquement au parvis Notre-Dame; et qu’ apres cela, il futeondamnd a ft re en I'oubliette, an pain et 1’eau."
 
-f Ot such a one, to be for ever forgotten is a benefit. It is a far more grateful task, for me especially, to make known the following Letter, which 1 find in the Gentleman's Magazine for 180G, p. 115.
+f Ot such a one, to be for ever forgotten is a benefit. It is a far more grateful task, for me especially, to make known the following Letter, which 1 find in the Gentleman's Magazine for 1806, p. 115.
 
-“ Mr. Urban. Jan. 11th, 180G.
+“ Mr. Urban. Jan. 11th, 1806.
 
 “ I shuddered at Rlr. Neild's account of the oubliette in Durham Castle (Vol. lxxv. p. 9S9); and earnestly hope that the worthy Bishop, whose property it is, will lose no time in having it filled up. The present Gaoler may be trusted; but such a horrible dungeon should not remain. Let it not be said that there is one oubliette in British ground. RIelanctiiom.”
 
@@ -9904,7 +9902,7 @@ from persons newly incarcerated, on any pretence whatsoever.
 
 3. The Jaylor, every morning and evening, at the opening of, and before shutting up the Prison, shall personally visit every room and place therein, carefully inspect the windows, ehiinnies, and walls thereof, in order to prevent and discover all attempts to cut the iron stanchers, or to break through the stone walls, joists, and floors of the Prison; and he shall take particular care that no instruments be conveyed to, or be in the possession
 
-IX bXGl.AXl), SCOTLAND, AND WAHLS.
+IN ENGLAND, SCOTLAND, AND WALES.
 
 j y i
 
@@ -9976,7 +9974,7 @@ On the ground-floor are 20 cells, of y feet 6 inches each, by 7 feet, with arche
 
 These cells are used for Convicts under Sentence of Transportation, and are called “ The Legal Prison.' ’
 
-1\T T'.XGI..WDj SCOTLAND, AND \VAl.t>.
+IN ENGLAND, SCOTLAND, AND WALES.
 
 213
 
@@ -10024,7 +10022,7 @@ Number of Prisoners, Debtors. Felons, ami Criminals.
 
 1802, Nov. 2Rth, ... - 29 - 50
 
-180G, Sept. 3d, -- . 28 -- 47
+1806, Sept. 3d, -- . 28 -- 47
 
 And Two French Captives.
 
@@ -10040,7 +10038,7 @@ REMARKS.
 
 The situation of this Prison is judiciously chosen, a little way out of the Town. "Fhe boundary wall encloses nearly three acres of ground; and the buildings consist of the Gaol, and the Penitentiary House, calculated for separate and distinct purposes.
 
-I\T ENGLAND, SCOTLAND, AND WALL*.
+IN ENGLAND, SCOTLAND, AND WALES.
 
 24 5
 
@@ -10174,9 +10172,9 @@ IN ENGLAND, SCOTLAND, AND WALES.
 
 240
 
-At my visit in November lSl)2, I copied the following Remarks:
+At my visit in November 1802, I copied the following Remarks:
 
-“From the time the County Gaol was opened, in July 17, 01, until lSoo, Prisoners committed, about one thousand three hundred ! and constantly confined in it, on an average, one hundred. In the nine years deaths thirteen: of these, four sunk under the effects of disease, brought into Prison with them. The night-cells, built with brick, rest on an arch, and are arched over; so that no air can enter them, but through the opening near the crown of the arch provided for it; and by the sides of the wooden-shutter being imperfectly fitted, they are necessarily dry, as air is constantly passing immediately under and round them on every side. Fahrenheit’s Thermometer, placed in the middle region of one of these cells, where a Prisoner was sleeping, has never, in the severest night, been observed to be below 33; and no complaint, of old or young, male or female, has been made, of suffering by cold in them.”
+“From the time the County Gaol was opened, in July 17, 01, until 1800, Prisoners committed, about one thousand three hundred ! and constantly confined in it, on an average, one hundred. In the nine years deaths thirteen: of these, four sunk under the effects of disease, brought into Prison with them. The night-cells, built with brick, rest on an arch, and are arched over; so that no air can enter them, but through the opening near the crown of the arch provided for it; and by the sides of the wooden-shutter being imperfectly fitted, they are necessarily dry, as air is constantly passing immediately under and round them on every side. Fahrenheit’s Thermometer, placed in the middle region of one of these cells, where a Prisoner was sleeping, has never, in the severest night, been observed to be below 33; and no complaint, of old or young, male or female, has been made, of suffering by cold in them.”
 
 The power delegated to the Magistrates, for public benefit in the police of Prisons, appears to have been exercised here with great care and discernment. The qualities of each Man concerned in the internal management of these conjoint Prisons, from the Head Gaoler to the lowest officer, seem to have fitted him for the situation in which he is placed. The excellent Rales, Orders, and Regulations are literally obeyed; and deservedly so, as they are worthy of the Magistrate*who formed them, and whose zeal for public good is fully equalled by his powers of judgment in execution. Silence and obedience reign throughout the whole; Regularity and decorum pervade every department: livery comfort is secured which can attend the privation of liberty; and satisfaction is visibly demonstrated in the countenance of every Prisoner. In a word, these Prisons exhibit the highest pitch of perfection in polity I ever witnessed. To humane treatment, in the articles of food, lodging, &c. are joined strict provisions to prevent dissipation and riotous amusement. Confinement, sufficiently irksome to the idle and profligate, is here destructive neither to health nor morals.
 
@@ -10206,7 +10204,7 @@ Number of Prisoners, Debtors, Felons, be.
 
 1802, Nov. 20th, -- 3 -- _o
 
-180G, Sept. 3d, ._-- - 3 - l Woman Convict.
+1806, Sept. 3d, ._-- - 3 - l Woman Convict.
 
 A1 so a Boy, for leaving his work.
 
@@ -11100,7 +11098,7 @@ Number of Prisoners, Debtors. Felons &<\ Lunaticks.
 
 1502, Feb. 4th, -- - 5 - 23 - 1.
 
-180G, July l<)th, - 2S -- -14 ____ 1.
+1806, July l<)th, - 2S -- -14 ____ 1.
 
 1807, May 24th, -- -10 - 2; -- - 1.
 
@@ -11242,13 +11240,13 @@ Number of Prisoners. Debtors
 
 1802, Aug. 2f, th, - 0
 
-lSoy, Sept. 7 th, - 2
+180y, Sept. 7th, - 2
 
 Allowance. Fourpence per day each.
 
 REMARKS.
 
-To th is Prison there is no court-yard; which, however, might easily he made from the adjoining waste ground.
+To this Prison there is no court-yard; which, however, might easily he made from the adjoining waste ground.
 
 By the Act 2 Geo. III. Cap. 38. Debtors, from the Court of Conscience are sent hither, or to the common Gaol, for three calendar months.
 
@@ -12602,7 +12600,7 @@ A flagged lobby, or passage, 53 yards long and S feet wide, runs from the Women'
 
 Here is no C/ntpcl; but the Sessions House, a very handsome building, under the same roof, is appropriated for Divine Service. Prisoners are supplied with religious books, and the Surgeon has a discretionary power to order them a change of diet, in case of sickness.
 
-The Prisoners are employed in combing and spinning wool, and the portion which they receive of their earnings varies according to their deportment. In 1803, the amount of them was 261. Os. Gil. of which sum the Prisoners had one third, and the County the other two. An alteration in the working system then took place. In 1804, the earnings were22/. 16s. Gd. in 1805, 31 /. 2s. 6d. in 180G, 4Gl. lSs. 3d. in 1807, 43/- 10>\ During this period, the Prisoners received no part of their earnings, except in clothes given them occasionally by the Magistrates.
+The Prisoners are employed in combing and spinning wool, and the portion which they receive of their earnings varies according to their deportment. In 1803, the amount of them was 261. Os. Gil. of which sum the Prisoners had one third, and the County the other two. An alteration in the working system then took place. In 1804, the earnings were22/. 16s. Gd. in 1805, 31 /. 2s. 6d. in 1806, 4Gl. lSs. 3d. in 1807, 43/- 10>\ During this period, the Prisoners received no part of their earnings, except in clothes given them occasionally by the Magistrates.
 
 At an adjourned Session, held Sth June, 180S, it was ordered, That every well-behaved Prisoner should receive one half of his earnings on discharge; and the earnings up to Epiphany Sessions, 1809, amounted to 51 /. ~s. l^d.
 
@@ -12646,7 +12644,7 @@ KNARESBOROUGH.
 
 The Prison for Town Debtors.
 
-Th is Prison is vulgarly called Nine Holes, from as many spaces betwixt the nine bars in the window, which give it all the light it can receive.
+This Prison is vulgarly called Nine Holes, from as many spaces betwixt the nine bars in the window, which give it all the light it can receive.
 
 It stands under the Town Hall, and consists of one wretched room, 12 feet square,
 
@@ -12700,7 +12698,7 @@ Number of Prisoners, Debtors. Felons, &c. Lunaticks
 
 1805, Oct. 24th, - 74 - 1 1 in GO 1 1 - 4
 
-1809, Nov. 7 th, - 116 - - 97 - - 5-
+1809, Nov. 7th, - 116 - - 97 - - 5-
 
 Allowance, to Debtors, one shilling per week in bread, and ten pounds of potatoes. To Felons, &c. six pounds of good wheaten bread, ten pounds of potatoes, 2-i- pounds of oatmeal per week, and one pennyworth of butter daily. On Sunday, half a pound of boiled beef, and a quart of broth.
 
@@ -12880,7 +12878,7 @@ LANCASTER. The Town Gaol.
 
 Keeper, the Town Sergeant.
 
-There were no Prisoners at my visits, 22d Sept. 1802, Oct. 24th, lS05> ami Nov. 7 th, 1809.
+There were no Prisoners at my visits, 22d Sept. 1802, Oct. 24th, lS05> ami Nov. 7th, 1809.
 
 REMARKS.
 
@@ -13820,7 +13818,7 @@ Gaol for Debtors.
 
 Keeper, Barnard IFestlake; now Jfilliam Blewitt, Blacksmith, and Town Sergeant. Salary, none. Fees, 13s. 4d. No Table.
 
-Prisoners, 1803, Oct. 9U1, 0. 180G, Sept. 29th 0. Allowance, None.
+Prisoners, 1803, Oct. 9U1, 0. 1806, Sept. 29th 0. Allowance, None.
 
 REMARKS.
 
@@ -13948,7 +13946,7 @@ Number of Debtors.
 
 1804, Sept. f>th, - 9
 
-1805, Nov. 13th, - 26 180G, May 23d, - 26 1807, Feb. 16th, - 23
+1805, Nov. 13th, - 26 1806, May 23d, - 26 1807, Feb. 16th, - 23
 
 1808, June 28th, - 26 1809, May 22d, - 30
 
@@ -14374,7 +14372,7 @@ l801, Sept. 22d, - so - 70 180S, July 14th, '’51 - 57
 
 1804, Sept. 2Gth, - 23 - 35 1809, July 19th, - 39 --.50
 
-180G, Aug. 14th, - 26 - 54 1810, Aug. 22d, - 23 - 53
+1806, Aug. 14th, - 26 - 54 1810, Aug. 22d, - 23 - 53
 
 1807, Sept. 8th, - 2 9 GO CO 1 1 l8ll, May 23d, - 51 - 50.
 
@@ -15276,7 +15274,7 @@ There were no Prisoners at my visit in 1805, Sept. 28th.
 
 STATE OF PRISONS
 
-MIDDLEWICII. Cheshire.
+MIDDLEWICH. Cheshire.
 
 ' lhe County House of Correction.
 
@@ -15390,7 +15388,7 @@ Number of Prisoners, Debtors. Felons, &c. Debtors. Felons, &«..
 
 1501, Nov. 11th, - 7 - 6' 1803, Sept.; ', th, - 1 - 12
 
-1502, Nov. 15th, - 3 - 11 180G, Sept, llth, - 3 - 12.
+1502, Nov. 15th, - 3 - 11 1806, Sept, llth, - 3 - 12.
 
 Lunatick, 1.
 
@@ -15522,7 +15520,7 @@ The third maniac, Aaron By water, kept walking quickly about, backwards and forw
 
 In my late visit to Scotland 1 was informed that a Woman Lunatick in the Gaol at Banff, had formerly murdered one of her own Children; but afterwards recovering her senses, was permitted to return home to her husband. After living twelve years with him, she became again insane, and destroyed another of her progeny; for which she was then in confinement.
 
-Another instance 1 met with at York Castle, in lS()2, of a gentleman of very large fortune, (W. Mcdlmrst, esq.) who in a fit of phrenzy murdered his wife. He was tried at York in July lSoo, and found Insane. Soon after I saw him at the Castle in lSo2: The Gaoler had removed him to Brooke House, Upper Clapton, under the care of Dr. Monro, where 1 believe he now remains, in 1S11.
+Another instance 1 met with at York Castle, in 1802, of a gentleman of very large fortune, (W. Mcdlmrst, esq.) who in a fit of phrenzy murdered his wife. He was tried at York in July 1800, and found Insane. Soon after I saw him at the Castle in lSo2: The Gaoler had removed him to Brooke House, Upper Clapton, under the care of Dr. Monro, where 1 believe he now remains, in 1S11.
 
 I have dwelt the more fully on the circumstance of liywater, from a clear conviction of the absurdity, the danger, and the cruelty, of admitting such unhappy objects into the association of a Gaol. It is hazardous to all, and capable of being made very injurious to the poor frantick wretch, exposed, as he or she must be, to various inconveniencies. I sincerely hope this narrative may tend to do away entirely the sad Practice — I might call it justly the inhuman Custom, of sending Maniacs to common Gaols; where they have the worst chance of becoming, not
 
@@ -15638,7 +15636,7 @@ Allowance, four-pence a day. At my visit, in 1802, those who were committed to h
 
 REMARKS.
 
-Th is Prison, near the South-end of the Bridge, is at the back of the Keeper’s -house; and a covered passage, 1(> yards long, and 6 feet 3 inches wide, leads to the Bridewell, which has twelve sleeping-cells on the ground-floor, divided by a passage 0 feet wide.
+This Prison, near the South-end of the Bridge, is at the back of the Keeper’s -house; and a covered passage, 1(> yards long, and 6 feet 3 inches wide, leads to the Bridewell, which has twelve sleeping-cells on the ground-floor, divided by a passage 0 feet wide.
 
 Each cell is 8 feet by (>, and 8 feet high, to the erown of the arch, and fitted up with crib-bedsteads for a single person, loose straw, and 3 blankets or coverlets; a stool to sit on, and lighted and ventilated by an iron-grated and glazed window, 17 inches by If, . A small tub, used as a sewer, is emptied every morning. An inspecting wicket in each cell door, about 3 inches square.
 
@@ -15768,7 +15766,7 @@ Keeper, Frederick Arrowsmith; now William Hudson.
 
 Salary, as Keeper of the Bridewell, none; but for the Workhouse which adjoins it, 2~>l. No Fees.
 
-Prisoners, 180i, Dec. 13th, One. 180G, Oct. lGth, Two.
+Prisoners, 180i, Dec. 13th, One. 1806, Oct. lGth, Two.
 
 Allowance, as at the Workhouse.
 
@@ -16958,7 +16956,7 @@ Surgeon, Mr. Thomas Child. Salary, 10l. lie visits the Prisoners twice a week; a
 
 Number of Prisoners,
 
-1802, 22d Nov. Five. 180G, 31st Aug. Four.
+1802, 22d Nov. Five. 1806, 31st Aug. Four.
 
 Allowance, one pound and half of bread per day, and a quart of pease soup for dinner on Mondays and Fridays.
 
@@ -17302,7 +17300,7 @@ Allowance, three penny worth of bread per day.
 
 REMARKS.
 
-This Prison belongs to the Dean and Chapter of Norwich. It consists of two rooms at the top of the Keeper’s house, each about 13 feet square, and 9 feet high, separated by a wooden-grated door. Prisoners are committed hither for all offences within the precincts, and have straw to lie upon. I was informed that none had been sent here since 180G.
+This Prison belongs to the Dean and Chapter of Norwich. It consists of two rooms at the top of the Keeper’s house, each about 13 feet square, and 9 feet high, separated by a wooden-grated door. Prisoners are committed hither for all offences within the precincts, and have straw to lie upon. I was informed that none had been sent here since 1806.
 
 No Court. No sewer. No water accessible to Prisoners.
 
@@ -17908,7 +17906,7 @@ Allowance, Debtors as alimented; generally Is-, per day. Criminals, 6d. a day.
 
 REMARKS.
 
-Th is Prison is in the centre of the Town, and the Court-House forms part of the building. On the first floor are the Gaoler’s two tap-rooms.
+This Prison is in the centre of the Town, and the Court-House forms part of the building. On the first floor are the Gaoler’s two tap-rooms.
 
 The first story has two small rooms for Criminals, with grated and glazed windows opening to the Street, and stone floors. The Prisoners sleep upon boards raised from the floor about 6 inches, furnished with two blankets each, and a coverlet. No fire-places.
 
@@ -18272,7 +18270,7 @@ STATE OF PRISONS
 
 REMARKS.
 
-Th is Prison is under a room where the Petty Sessions are held, and adjoins the Poor-House. It has four cells on the ground-floor, 10 feet S by g feet 6 each, with arched roofs: two of them have crib-bedsteads with straw, and open into a passage feet 6 inches wide; the other two have straw on the floor only to sleep on, and open into a passage, 6‘ feet 10 inches wide. The only light or ventilation they receive is through a wicket in the door, g inches by 7« No court. No sewer. Water not accessible.
+This Prison is under a room where the Petty Sessions are held, and adjoins the Poor-House. It has four cells on the ground-floor, 10 feet S by g feet 6 each, with arched roofs: two of them have crib-bedsteads with straw, and open into a passage feet 6 inches wide; the other two have straw on the floor only to sleep on, and open into a passage, 6‘ feet 10 inches wide. The only light or ventilation they receive is through a wicket in the door, g inches by 7« No court. No sewer. Water not accessible.
 
 PONTEFRACT. Yorkshire.
 
@@ -18290,7 +18288,7 @@ Allowance: Debtors have none. Felons and Criminal Prisoners, eight-pence a day.
 
 REMARKS.
 
-Th is Prison is under the Town-Hall. The passage to the Felons cells is 33 feet long by 12 wide, with a fire-place at one end; but no firing allowed. It is lighted and ventilated by three very small iron-grated windows, nearly at the top of the lofty roof: And this is called “ The Room for Debtors'."
+This Prison is under the Town-Hall. The passage to the Felons cells is 33 feet long by 12 wide, with a fire-place at one end; but no firing allowed. It is lighted and ventilated by three very small iron-grated windows, nearly at the top of the lofty roof: And this is called “ The Room for Debtors'."
 
 The single Debtor 1 found here in 1802, was a shoe-maker. The debt for which he suffered confinement was of his Son’s contracting, for whom he had been a surety. H is case was much commiserated in the town. He had constant employment; and the Corporation humanely allowed him to work in one corner of the Town-Hall, the stone-passage below being too dark.
 
@@ -18526,7 +18524,7 @@ IN ENGLAND, SCOTLAND, AND WALES.
 
 "• Prisoners here in custody, to the Giltspur Street Compter, or to such other safe, secure, and convenient place within the City, as should he approved ol by the Lord “ M ayor, Aldermen, and Commons thereof, in Common Council assembled." It was also ordained to “ he lawful for the Sheriffs, from time to time, and until the c‘ Poultry Compter shall have been rebuilt, or made secure, and ///, and commodious “for the reception of Prisoners, or another Compter shall he provided, to receive, “ keep, and detain them in such place of intended removal." This took place in consequence without delay, and Prisoners continued to he received in Gdt-spur Street Compter till the 50th May 1805; w hen the very crowded state of that temporary receptacle occasioned a necessity of sending all the night-charges to their old place of destination in the Poultry.
 
-Xor was this step sufficiently adequate; for in August 180G, the Cilt-spur Street Compter not being found large enough to contain the Criminal Prisoners of both Gaols, they likewise were re-consigned to the Poultry. This ruinous and tottering pile, therefore, (so long before deemed hardly tenable) has now, for above eighteen months, been made the only place of confinement for Criminals of the two Compters; and the Chapel of the present, being turned into a sleeping room, for w ant of space, no Divine Service is performed there.
+Xor was this step sufficiently adequate; for in August 1806, the Cilt-spur Street Compter not being found large enough to contain the Criminal Prisoners of both Gaols, they likewise were re-consigned to the Poultry. This ruinous and tottering pile, therefore, (so long before deemed hardly tenable) has now, for above eighteen months, been made the only place of confinement for Criminals of the two Compters; and the Chapel of the present, being turned into a sleeping room, for w ant of space, no Divine Service is performed there.
 
 The result is, that Giltspur Street Compter is now wholly appropriated to the confinement of the Debtors only belonging to both prisons, until a new Poultry Compter shall be provided, or the old one rendered “ saj'e," for we can hardly say, “ Jit, and commodious for the reception of Prisoners.”
 
@@ -18708,7 +18706,7 @@ The Public House within the passage leading to this Prison, is rented from the C
 
 STATE OF PRISONS
 
-On my examining the books it appears, that from the first of January lSoo, to the 1st of January, 1807, there were Four hundred and twenty-jive Debtors committed to this Prison from the Court of Conscience; and yet, the Number of Creditors who received Debt and Costs, in consequence of such Imprisonment, was no more than seventy-eight. Scanty fuel this, for the Spirit of Litigation!
+On my examining the books it appears, that from the first of January 1800, to the 1st of January, 1807, there were Four hundred and twenty-jive Debtors committed to this Prison from the Court of Conscience; and yet, the Number of Creditors who received Debt and Costs, in consequence of such Imprisonment, was no more than seventy-eight. Scanty fuel this, for the Spirit of Litigation!
 
 PRESTEIGN. Radnorshire, South If "ales.
 
@@ -18800,7 +18798,7 @@ lS()2, Oct. 1st, ........11', ........4.1
 
 lSo.l, Oct. 24th, - 42 - 70
 
-180G, Sept. 2d, - _ 42 - 4S
+1806, Sept. 2d, - _ 42 - 4S
 
 1809, Nov. 9th, ........4G - 20.
 
@@ -19000,7 +18998,7 @@ The Gaoler’s house commanding a view of but a small part of this ample Prison,
 
 Men-Felons are clean shirted and shaved every week. Convicts under sentence of transportation have not here the King’s allowance of 2s. 6d. weekly, but the Pri son allowance continued to them instead of it. Every Prisoner who has behaved well, is decently clothed at the time of discharge, and also receives a sum of money, not exceeding ten shillings, according to the distance from home.
 
-Petty Offenders, in this Gaol, beat hemp, cut pegs, &c.: the Women spin. But t-lie most productive branch of employment is the sawing of timber, by which means the Prisoner gains a new source of support, when discharged from custody. The earnings, from Michaelmas Sessions 1805, to Michaelmas 180G, amounted to about two hundred pounds.
+Petty Offenders, in this Gaol, beat hemp, cut pegs, &c.: the Women spin. But t-lie most productive branch of employment is the sawing of timber, by which means the Prisoner gains a new source of support, when discharged from custody. The earnings, from Michaelmas Sessions 1805, to Michaelmas 1806, amounted to about two hundred pounds.
 
 Statement of the various Divisions into which the Prison is distributed.
 
@@ -19328,7 +19326,7 @@ The Town Gaol.
 
 Gaoler, Adam Hammond; Sergeant at Mace. No Salary. Fees, 6s. Sd. No Table.
 
-Prisoners, 1804, Sept, 24th, none. 180G, Aug. yth, none. 1807, Aug. 24th, none.
+Prisoners, 1804, Sept, 24th, none. 1806, Aug. yth, none. 1807, Aug. 24th, none.
 
 1808, July lsith, one Felon.
 
@@ -19636,7 +19634,7 @@ Forest of Dean; Gloucestershire.
 
 Gaoler, William Closs. No Salary. No Fees.
 
-Number of Debtors, 1804, Oct. 21st, One. 180G, Sept, pth, Two.
+Number of Debtors, 1804, Oct. 21st, One. 1806, Sept, pth, Two.
 
 Allowance, none whatever.
 
@@ -19864,7 +19862,7 @@ It was burnt to the ground in 13S1, by the rebellious insurgents of Kent and Ess
 
 The Palace in question had often been destroyed by fire, and undergone many changes, as may be seen more at large in our City Historians, and oilier respectable \\ rriters-j-. The Hospital was at length suppressed; and its revenues, in Queen Elizabeth's time, were finally given to the Metropolis, in aid of the hospitals of Bridewell, Christ Church, and St. Thomas. The Chapel has since been constituted a rectorial parish church for the Precinct; and is reckoned, in the Bills of Mortality, as one of the seven parishes of the City and Liberty of Westminster, by the name of Saint Mary le Savoy.
 
-Th is Prison, for the Military, now consists chiefly of the old buildings, as distinguishably composed, in the antient style, of free-stone and flints. It has a spacious court-yard, paved with flag-stones, and is well supplied with water. A large day-room opens into it, which is furnished with tables, benches, and a fire-place; and coals are allowed for it throughout the year. One small room is set apart for
+This Prison, for the Military, now consists chiefly of the old buildings, as distinguishably composed, in the antient style, of free-stone and flints. It has a spacious court-yard, paved with flag-stones, and is well supplied with water. A large day-room opens into it, which is furnished with tables, benches, and a fire-place; and coals are allowed for it throughout the year. One small room is set apart for
 
 * This memorable event adonis a most striking Lesson for Princes. The Terms of the Treaty between the conqueror, Edward lit., and the Court of France, were indeed rigorous and severe; but John possessed such Fidelity and Honour, as determined him, at all hazards, to execute them on his part, in spite of every personal inconvenience. His Council endeavoured to dissuade him from so rash a design as his coming back to England; Hut John's replj (too glorious ever to become trite) imposed silence on every hearer; nor could they resist the unanswerable argument which lie advanced on that tning occasion: “ Although good Faith," said he, “ were banished from the rest of the earth, yet she ought still to retain her habitation in the breasts of Kings."
 
@@ -20732,7 +20730,7 @@ Allowance, Debtors, as alimented; generally eight pence a day. Felons, three pen
 
 REMARKS.
 
-Th is Prison, newly built, is on the South side of the Criminal Court in Broad-street. Under the arches on which it is constructed, there are six sleeping-cells; three of which are 16 feet by 10, and the other three, 12 feet by 8, with flag-stone floors, fire-places, and large grated and glazed sash-windows, which turn on a pivot.
+This Prison, newly built, is on the South side of the Criminal Court in Broad-street. Under the arches on which it is constructed, there are six sleeping-cells; three of which are 16 feet by 10, and the other three, 12 feet by 8, with flag-stone floors, fire-places, and large grated and glazed sash-windows, which turn on a pivot.
 
 The Main Gaol has on the ground floor five rooms for Criminals, each about 18 feet by 15; with vaulted roofs, and large grated and glazed sash-windows, flagstone floors, and fire-places.
 
@@ -20850,7 +20848,7 @@ Number of Prisoners, JXbtoi-s. Felons, &c. Bridewell.
 
 1805, Jan. 28th, - 32 - 9 ', - 36.
 
-180G, May 27th, - 49 - 75 - 1.9-
+1806, May 27th, - 49 - 75 - 1.9-
 
 1807, Oet. 2d, - 38 - G9 - 26.
 
@@ -21072,7 +21070,7 @@ Deduct Superintendant’s Third -- 23 18 1
 
 Nett Profit -- - ^.47 16 4
 
-Ditto, from Michaelmas 1805 to Michaelmas 180G 81 19 4
+Ditto, from Michaelmas 1805 to Michaelmas 1806 81 19 4
 
 Expences -- 151I 8
 
@@ -21082,7 +21080,7 @@ Deduct Superintendant’s Third -- 22 2 6
 
 Nett Profit -- - 'jP. 44 5 2
 
-Ditto, Michaelmas 180G to Michaelmas 1807 100 9 11
+Ditto, Michaelmas 1806 to Michaelmas 1807 100 9 11
 
 Expences -- 1516' 8
 
@@ -21754,7 +21752,7 @@ Allowance, to Debtors and Felons, twopence per day.
 
 REMARKS.
 
-Th is Prison consists of two rooms under the Town-Hall: that for Debtors has a fire-place: it is down five steps, and has an iron-grated window to the Street, but not being glazed, and having no inside shutters, it is extremely cold; and there is straw only, on the damp brick floor, to sleep upon. A door opens out of this room into a dark Dungeon for Felons, about9 feet square.
+This Prison consists of two rooms under the Town-Hall: that for Debtors has a fire-place: it is down five steps, and has an iron-grated window to the Street, but not being glazed, and having no inside shutters, it is extremely cold; and there is straw only, on the damp brick floor, to sleep upon. A door opens out of this room into a dark Dungeon for Felons, about9 feet square.
 
 Adjoining to the Debtors’ room is one for Felons, with an iron-grated window towards the Street, and two dark Dungeons, with straw to sleep on.
 
@@ -21790,11 +21788,11 @@ The whole Prison is well ventilated, and very clean. Act and Clauses not hung up
 
 No Pules and Orders. No Employment for the Prisoners.
 
-W A R RIN GTON. La ncashi re.
+WARRINGTON. Lancashire.
 
 The Town Bridewell.
 
-Keejjer, J. Boardman, who is also Master of the Workhouse.
+Keeper, J. Boardman, who is also Master of the Workhouse.
 
 Number of Prisoners,
 
@@ -21810,7 +21808,7 @@ No water accessible, but as brought in by the Keeper. He informed me that Prison
 
 573
 
-STATE OF TRIfiONS
+STATE OF PRISONS
 
 WELLS. Somersetshire.
 
@@ -21824,7 +21822,7 @@ The Assizes are held at Wells every other year. My visit was the 21st Sept. lSo6
 
 WARWICK.
 
-The Count[1/ Bridewell.
+The County Bridewell.
 
 Keeper, Joseph Chaplin. Salary, 80l. No Fees.
 
@@ -21866,19 +21864,19 @@ The centre-building, on the basement story, has a warm and cold hath, an oven an
 
 Over these is the Chamber story; in which are the Chapel, three sleeping-cells, and a sleeping-room, about lj feet square: And on the same floor, two other lodging-rooms for Women, of about 1(7 feet by 14, and two cells, 7 feet square, I he Gaoler supplies those Prisoners who pay l.y. 67/. per week with a bed, sheets, blankets, and a rug.
 
-' Lhe attick-story, on the Mens-Side, has a sleeping-room, of 30 feet by 1(7, with partitions on the floor; and a sick room, 1(7 feet by 1J-, furnished with wooden turn-up bedsteads, chaff-beds, and two rugs each. Adjoining to the latter room is a small one, about 7 feet square, with a fire-place, to prepare and warm their victuals.
+The attick-story, on the Mens-Side, has a sleeping-room, of 30 feet by 1(7, with partitions on the floor; and a sick room, 1(7 feet by 1J-, furnished with wooden turn-up bedsteads, chaff-beds, and two rugs each. Adjoining to the latter room is a small one, about 7 feet square, with a fire-place, to prepare and warm their victuals.
 
 The Woinen’s-Side contains two rooms, of 1(7 feet by 14 each; and a smaller, like that for the Men, 7 feet square.
 
 The Chapel is partitioned off for the Sexes, but is too small for so populous, and sometimes crowded, a Prison. The Prisoners are all required to attend Divine Service, unless prevented by sickness.
 
-' Phe County allows to each Prisoner a chaff bed, or sacking filled with straw, changed every quarter, and two rugs.
+The County allows to each Prisoner a chaff bed, or sacking filled with straw, changed every quarter, and two rugs.
 
 The Men have their Barber weekly, and clean linen once a week, which is washed and mended by W omen Prisoners. The County supplies soap and tAwels for all. In sickness the Surgeon orders whatever is proper, at the County expence.
 
-' Phe Women are generally supplied with clothing from the Prison Manufactures; which is given to them when discharged.
+The Women are generally supplied with clothing from the Prison Manufactures; which is given to them when discharged.
 
-' Phe following Documents are worthy of record, and highly exemplary.
+The following Documents are worthy of record, and highly exemplary.
 
 “ Various Articles manufactured in the House oj' Correction at ffunvick.
 
@@ -21908,7 +21906,7 @@ Rewards -- - 37 7 6
 
 Nett Benefit - £. 176 10 5
 
-Earnings, Jan. 1st, 1805 to 180G - 255 15 9
+Earnings, Jan. 1st, 1805 to 1806 - 255 15 9
 
 Rewards -- - 42 18
 
@@ -22494,7 +22492,7 @@ Allowance, seven pounds and a half of best wheaten bread, one pound of cheese, a
 
 REMARKS.
 
-“ This Prison, ” as we learn from Mr. Howard, “ was once so greatly out of repair, and so insecure, that Prisoners, even for the slightest offences, were kept in irons.” It was rebuilt in lSoo. The Men Prisoners have a small flagged court-yard, about 33 feet by lS, furnished with a pump and sewer. Here is a day-room, with a fireplace; a work-room, and two solitary cells.
+“ This Prison, ” as we learn from Mr. Howard, “ was once so greatly out of repair, and so insecure, that Prisoners, even for the slightest offences, were kept in irons.” It was rebuilt in 1800. The Men Prisoners have a small flagged court-yard, about 33 feet by lS, furnished with a pump and sewer. Here is a day-room, with a fireplace; a work-room, and two solitary cells.
 
 Up stairs are ten sleeping-cells, and an Infirmary room, with a fire-place. The W omen Prisoners have also a day and working-room below stairs; a small courtyard, 27 feet by lS, with water laid on, and a sewer provided. Above stairs three sleeping-cells, and a sick-room with a fire-place; each cell 8 feet by 6, and fitted up with a rush mattress on the floor, two blankets, and a coverlet. The two rooms set apart for the sick have wooden bedsteads. The passage, or lobby, that separates the sleeping-cells from the court-yard, 4 feet 5 inches wide.
 
@@ -22652,13 +22650,13 @@ Number of Prisoners, Debtors. l-'elons. Bridewell.
 
 1803, Aug. 26‘th, - ... s - lG - 31.
 
-180G, Sept, loth, - 1 1 1 1 1 1 - 10 - 21.
+1806, Sept, loth, - 1 1 1 1 1 1 - 10 - 21.
 
 180S, Jan.14th, - 17 - 24 - 2 G.
 
 180y, Nov. 21st, - 8 - 23 - 27.
 
-Allowance, to Debtors, none, except the Debtor, being very poor, applies to the Visiting Magistrates, and swears to his or her latest settlement; then, if the Parish be within the County of Worcester, they will make an order to allow the Prisoner a weekly sum: but if it be out of the Magistrates’ jurisdiction, they cannot make an order. The utmost that the Keeper remembered to have been given in consequence, was 2s. 6d. per week; and that only to one Man: But, since my visit in 180G, he informs me that the considerate Magistrates have ordered an Allowance to every Debtor having no property; and the Bill thus incurred is to be laid before them at every Quarter Sessions.
+Allowance, to Debtors, none, except the Debtor, being very poor, applies to the Visiting Magistrates, and swears to his or her latest settlement; then, if the Parish be within the County of Worcester, they will make an order to allow the Prisoner a weekly sum: but if it be out of the Magistrates’ jurisdiction, they cannot make an order. The utmost that the Keeper remembered to have been given in consequence, was 2s. 6d. per week; and that only to one Man: But, since my visit in 1806, he informs me that the considerate Magistrates have ordered an Allowance to every Debtor having no property; and the Bill thus incurred is to be laid before them at every Quarter Sessions.
 
 To Felons, and other Criminal Prisoners, one pound of bread daily, and a quart of oatmeal gruel for every day’s Breakfast.
 
@@ -22760,7 +22758,7 @@ Female Felons have a separate court, of 31 feet by ip, and a day-room 19 feet by
 
 Here is no separate place of confnement for such persons as are intended to be examined on behalf of the Prosecution of any indictment for Felony; or for Children or Youths committed for Misdemeanors or Felonies; but such of the latter sort, whether Witnesses or Youths, are confined in the day-time with the Tratisports or other Criminals, convicted and unconvicted; “ forming, ” as Sir George Paul acutely and too justly observes, “one profligate Society; where the most ignorant may be initiated, and the novice ascend to the higher mysteries of infamy and vice.”
 
-Prisoners under Sentence of Death are here most uncomfortably provided for. They sleep in their cells at night; and in the morning they retire into the Debtors’ cooking-room, formerly a Dungeon, but which has now a large glazed window, with a fire-place in it, and is a part of the Keeper’s house. What a retirement ! where the minds, and the devotions, (if possible,) of these hapless Beings, are in a state of coutinual disturbance and distraction; occasioned by the necessary and frequent passing of the Debtors and other Prisoners, close to the door of the room in which such Unfortunates are confined.
+Prisoners under Sentence of Death are here most uncomfortably provided for. They sleep in their cells at night; and in the morning they retire into the Debtors’ cooking-room, formerly a Dungeon, but which has now a large glazed window, with a fire-place in it, and is a part of the Keeper’s house. What a retirement ! where the minds, and the devotions, (if possible,) of these hapless Beings, are in a state of continual disturbance and distraction; occasioned by the necessary and frequent passing of the Debtors and other Prisoners, close to the door of the room in which such Unfortunates are confined.
 
 The Men and Female Felons are kept separate; but Male and Female Debtors, and Male and Female Bridewell Prisoners sit together. The indiscriminate mixture of such various and discordant elements seems surely to call aloud for some different modes of arrangement. According to the opinion of that excellent Magistrate before quoted, and in which I most cordially join, the Separations indispensably necessary to preserve any idea of order and regularity, are these:
 
@@ -24212,7 +24210,7 @@ No. III.
 
 An ACCOUNT of the Number of Criminal Offenders, committed to the several Gaols of England and Wales for Trial, in the Years 1805 and 1806, together with the Result of their Commitments.
 
-COMMITTED in the Years - 1805 180G SENTENCES, &e. in the Years - 1805 1806
+COMMITTED in the Years - 1805 1806 SENTENCES, &e. in the Years - 1805 1806
 
 Vi/.. Males -- - 3267 3120 Death 350 325
 
