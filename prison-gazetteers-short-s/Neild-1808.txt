@@ -8198,7 +8198,7 @@ of. 4 18 8
 
 * And eight dozen of Bread. f And five dozen of Bread.
 
-X And eight dozen of Bread.
+X. And eight dozen of Bread.
 
 B B 2
 
