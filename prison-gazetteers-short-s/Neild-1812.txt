@@ -304,7 +304,7 @@ PRISONERS remaining for Want of Bail 823 12.345 OQ1 3315 30S 4G20 3G 540
 
 Note, The disproportion against the lirst and lowest class, on a comparison with the second, is two to one; on a comparison with the third, is increased; and on a comparison with the fourth elasi, is twenty to one.
 
-Middlesex is reckoned only at one fifteenth of the whole kingdom.
+ Middlesex is reckoned only at one fifteenth of the whole kingdom.
 
 The number of Debtors, consisting of the capital Merchants and Traders to all parts of the world, is reckoned greatly to exceed the number of those, whoso credit is limited to the sums of Thirty Pounds: the disproportion is therefore much greater against the lowest class than is apparent.
 
@@ -422,7 +422,7 @@ The plaintiff may have many miles to go, to swear to his debt, and obtain a summ
 
 COURTS OF CONSCIENCE
 
-VXVll
+VXVII
 
 Officer of the Court endeavours to arrest the Defendant; but Ins natural apprehension of the loss of liberty occasions him to forsake his house, and skulk about as a fugitive vagrant, until at length he is taken by surprize, and carried to prison.
 
@@ -6348,7 +6348,7 @@ A Table of tiik Fees
 
 “To be taken by the Keeper of IVetc Prison, at Clerkenwell, in the County of
 
-Middlesex.
+ Middlesex.
 
 £. s. d.
 
@@ -24272,7 +24272,7 @@ Bedford - 17 - 3 - 15 - 5.
 
 Merioneth - 0 - 0 - 1 - 0.
 
-Middlesex - 732 185 7<M) 132
+ Middlesex - 732 185 7<M) 132
 
 Berks - 50 12 29 13 Monmouth - 14 G 12 5
 
@@ -24454,7 +24454,7 @@ North Wales - 252, 785 2.8 28, 131 }
 
 South Wales - 2SS.761 50 23, 384
 
-Middlesex - 818, 129 1/217 ()*J y i i.> -, I r
+ Middlesex - 818, 129 1/217 ()*J y i i.> -, I r
 
 The Observation which naturally occurs on an Examination of this Account, is the very great Advantage which the Northern Counties appear to possess, both with respect to the small number of Offenders and Paupers, when compared with the rest of England. This observation applies, not only to the Counties within the Northern Circuit, but likewise, so far as relates to I'aupcis generally, to all the more Northern Counties. The Counties of Lincoln, Nottingham, Derby, and Rutland, the most Northern Counties in the Midland Circuit, and those of Staffordshire and Shropshire, the most Northern in the Oxford Circuit, appear to be in this respect, in the same comparatively favourable situation a* the Counties within the Northern Circuit, when compared with the other more Southern Counties of England; Middlesex, Monmouth, and Cornwall alone excepted.
 
