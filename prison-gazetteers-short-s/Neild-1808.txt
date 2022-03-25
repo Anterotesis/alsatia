@@ -804,7 +804,7 @@ street, in the parish of for §
 
 H Attorney is Mr.
 
-who hath proceeded against your petitioner in the Court of ||
+who hath proceeded against your petitioner in the Court of |
 
 That it may require I. s. d. to pay for and
 
@@ -3426,7 +3426,7 @@ REMARKS.
 
 This aritient Royal Palace, once an Abbey, contains in it both a Prison, and an Asylum.
 
-One room above-stairs, with a fire-place in it, arid a window looking into the court-yard, is set apart for confining those who contract debts within the Abbey.
+One room above-stairs, with a fire-place in it, and a window looking into the court-yard, is set apart for confining those who contract debts within the Abbey.
 
 It has also the privilege of exempting from arrest all who flee hither for protection, from any part of the kingdom, on first applying to the Recorder, and paying fifteen shillings each for the registry of their names.
 
@@ -3842,7 +3842,7 @@ ACCOUNT OF PRISONS FOR DEBTORS
 
 If the prisoner finds his own bed, bedding, and sheets (which the Warden is in no sort to hinder him of), then he shall pay for chamber-room to the Warden per week, 0 I 3
 
-If there be two prisoners in one bed, finding their own bed, bedding, and sheets, then each of them to pay to the Warden per week, - - 0 0 7|
+If there be two prisoners in one bed, finding their own bed, bedding, and sheets, then each of them to pay to the Warden per week, - - 0 0 7
 
 Every prisoner not being entitled to partake of the poor's box, to pay to the porter and gaoler, now called Turnkeys, on his commitment, - - 020
 
@@ -4252,7 +4252,7 @@ year in Beefy j .. at Christmas.)1 Annually Nov. 5.
 
 Quarterly, Lea________
 
-Ey«ry eight weeks, |
+Ey«ry eight weeks, 
 
 r, ^, C Regularly paid b\- Church-
 
@@ -7378,7 +7378,7 @@ Prison fees O 10 0—12 5 11
 
 Committed to Macclesfield Caol, 21st Nov. 1307.
 
-So that the three Debts together were 2 4 10 Costs, arid Prison Fees, ditto - - 34 14 1
+So that the three Debts together were 2 4 10 Costs, and Prison Fees, ditto - - 34 14 1
 
 Total, £. 36 IS 11.
 
@@ -9800,7 +9800,7 @@ Ditto.
 
 Ditto -
 
-Half-Yearly..,
+Half-Yearly.
 
 Yearly -
 

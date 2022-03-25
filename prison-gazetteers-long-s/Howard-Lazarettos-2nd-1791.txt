@@ -1000,7 +1000,7 @@ An Account of Goods exported from London to Turkey in the Year 1786.
 
 221 Bags Ginger, 250 cut. - — 2 0 0 500 0 0
 
-12 Calks Cochineal, 2400/^, - — 0 16 0 . 1920 0 0
+12 Calks Cochineal, 2400/^, — 0 16 0 . 1920 0 0
 
 83 Calks Indigo, 25000 - — 0 6 0 7500 0 0
 
@@ -1052,7 +1052,7 @@ With regard to the danger of the introduction of the plague from Holland, the fo
 
 The employment offeamen is a point of importance to the public; for great numbers of those who were discharged at the conclusion of the late war, having been improvident and C.not readily finding employment, fell into vices which terminated in their ruin. Of this I was convinced by my late visits to the prisons.
 
-* “peftilence.
+* “pestilence.
 
 THE PLAGUE,
 
@@ -1102,7 +1102,7 @@ Morandi, Physician, Venice. Contact is one of the mod powerful and dangerous mea
 
 Verdoni, Physician, Trieste. It is moll; frequently communicated by the touch. It has been given by a flower held and smelt at, first by two persons who remained free, then by a third, who was seized and died in twenty-four hours.
 
-A Jew Physician ^Smyrna. The infection is in reality communicated by the touch alone j for all who keep from contact of infected persons or things remain free. To the effect of contact, however, a certain disposition of the air is necessary; for we often fee infected persons arrive from other countries, yet the disease does not ipread. But what this dilpofldon is, can scarcely be conceived. Commonly, in this climate, the disease appears at the end of lpring, and continues to the middle of summer, with this particularity, that in cloudy weather, and during the firocco wind, the attacks are more frequent. Also, in the fame diathefls of the air, some receive the infection, while others exposed to the fame dangers escape it. From observation it appears, that cacheCtic persons, and those of constitutions abounding in acid, do not readily take it. The contagious miafms may lie dormant in the body for some time without doing the least harm, till set in motion by sodden fear, or the excessive heat of a bath.
+A Jew Physician ^Smyrna. The infection is in reality communicated by the touch alone j for all who keep from contact of infected persons or things remain free. To the effect of contact, however, a certain disposition of the air is necessary; for we often fee infected persons arrive from other countries, yet the disease does not ipread. But what this dilpofldon is, can scarcely be conceived. Commonly, in this climate, the disease appears at the end of lpring, and continues to the middle of summer, with this particularity, that in cloudy weather, and during the firocco wind, the attacks are more frequent. Also, in the fame diathefls of the air, some receive the infection, while others exposed to the same dangers escape it. From observation it appears, that cacheCtic persons, and those of constitutions abounding in acid, do not readily take it. The contagious miafms may lie dormant in the body for some time without doing the least harm, till set in motion by sodden fear, or the excessive heat of a bath.
 
 Fra. Luigi di Pavia, Prior of the Hof pital of San Antonio at Smyrna. The plague is communicated by contact, according to all the observations I have been able to make for eighteen years.
 
@@ -1718,7 +1718,7 @@ ao. It is understood that their Jynagogueis Ihut, and all their functions suspen
 
 22. The canons, priests, and deputies of visitation of die respective districts, every morning after they have performed their visit, shall report to the commissioners and to the college all the incidents and discoveries that they have met with, in writing, and Ipecifying the district, name and surname of the families infected or suspected, and the number of which each family consists.
 
-23. Every death which happens shall immediately be returned to the commissioners and die college, with injunction to die physicians, surgeons, and deputies of inspection to bring the attestation of die circumstances of the case, and examination of the body to the fame commissioners and office of health widiout delay.
+23. Every death which happens shall immediately be returned to the commissioners and die college, with injunction to die physicians, surgeons, and deputies of inspection to bring the attestation of die circumstances of the case, and examination of the body to the same commissioners and office of health widiout delay.
 
 24. All the respective deputations that shall have particular inspection committed to them by the college concerning the events of the contagion, prevention of the fame, or other business, shall every day report to the commissioners and college what has happened with relation to their inspection, in order that all events of every kind may be always
 
@@ -2516,7 +2516,7 @@ politely accompanying me to the poor-house; and in their readiness to make any a
 
 fellow creatures. Yet, as several of the girls here, and at the poor-house in Glasgow, were employed in tambour
 
-work.; I {hall beg leave to observe, that the employment of poor children in ornamental work ought never to be the
+work.; I shall beg leave to observe, that the employment of poor children in ornamental work ought never to be the
 
 general mode; since if they are afterwards to come out into the world as common servants, or the wives of the
 
@@ -2672,13 +2672,13 @@ On the men’s fide, several boys, from nine to twelve years of age, were confin
 
 1787, May 29, Debtor 1. Felons &c. 190.
 
-1788, March 20, - - o. - - - 220.
+1788, March 20, - o. - - - 220.
 
 Bridewell. An old house. —No proper sewers:—no materials for work. At one of my visits, I found that a person, lately committed, had several of his idle companions let in, who were playing with him at tennis. J
 
 1787, May 28,. Prisoners 6.
 
-1788, March 20, - - 12.
+1788, March 20, - 12.
 
 Police Prison. An old house repairing for a prison, according to the Act of 26th of Geo. III. Chap. xxiv. The night-rooms are dungeons seven steps under ground.
 
@@ -2686,7 +2686,7 @@ Though in Sect. xxiv. dueling-stools are mentioned, and a large bath in the midd
 
 1787, June 27, Petty offenders 32.
 
-1788, March 24, - - - 12..
+1788, March 24, - - 12..
 
 * His first report was very full, and laid open many seenes of exadtion, abuse and cruelty, which were partly owing to the magistrates’ negligence and inattention to their duty.
 
@@ -2732,7 +2732,7 @@ All are without furniture. The rooms are crowded with wives (or reputed wives) c
 
 1787, May 29, Debtors 150.
 
-1788, March 21, - - - 180.
+1788, March 21, - - 180.
 
 CITY MARSHALSEA Prison. An old building, dirty, and not white-washed. Here also there had been a seene of confusion and riot the night before, which had brought hither the sheriff, with the city guard, who conveyed three of the prisoners to Newgate. The wives and children of the debtors, living with them, bring in spirits, and this makes mod of the lower rooms gin {hops: J to which may be added, that the prisoners themselves are quite idle and unemployed. The garnish is two botdes of whilkey. Here were persons confined who had large families, whose debts and costs were under ten
 
@@ -2830,7 +2830,7 @@ In the Foundling Hospital children are received at all times. * A noble institut
 
 * the foregoing narratives.’*
 
-* Foundling Hospitals may be considered in two lights; one as charities for the maintenance and education of poor deserted children, who otherwise might fall victims to ill treatment and neglect. The other, as means to prevent child-murder, by providing a refuge against the shame and disgrace attending the discovery of* illegitimate pregnancy. For both these purposes it is requisite that admiifion into such hospitals should be easy; but, particularly for the latter, it is essential that it may be obtained without any form, or delay, and in perfect furecy. It is another question whether such institutions may not do more harm than good, by encouraging licen-tioufnefs; but certainly they cannot prevent the murder of children unless the mothers can get rid of the charge without discovery. Those hospitals, therefore, in which admission is made very difficult, and only to be obtained by powerful interest and recommendation, seem to me absolutely useless, and only to serve as a provision for the boards of gentlemen, or of such as by their connections have no need of public relief!
+* Foundling Hospitals may be considered in two lights; one as charities for the maintenance and education of poor deserted children, who otherwise might fall victims to ill treatment and neglect. The other, as means to prevent child-murder, by providing a refuge against the shame and disgrace attending the discovery of* illegitimate pregnancy. For both these purposes it is requisite that admission into such hospitals should be easy; but, particularly for the latter, it is essential that it may be obtained without any form, or delay, and in perfect furecy. It is another question whether such institutions may not do more harm than good, by encouraging licen-tioufnefs; but certainly they cannot prevent the murder of children unless the mothers can get rid of the charge without discovery. Those hospitals, therefore, in which admission is made very difficult, and only to be obtained by powerful interest and recommendation, seem to me absolutely useless, and only to serve as a provision for the boards of gentlemen, or of such as by their connections have no need of public relief!
 
 There
 
@@ -2866,7 +2866,7 @@ DUBLIN County Gaol. At Kilmainham, the four dungeons (called towers)" Kilmain-we
 
 Herb is no court,' and no access to water. —A new prison in a fine situation, is now building. 1787, May 28, Debtors 7. Felons &c. 27.
 
-1788, March 12, - - 8. - - - 47.
+1788, March 12, - 8. - - - 47.
 
 *4
 
@@ -3028,7 +3028,7 @@ MARYBOROUGH County Gaol. A court having been lately enclosed, and several rooms 
 
 1787, June 25, Debtors 2. Felons &c. 11.
 
-^788, April 16, - - 1. - - - 7.
+^788, April 16, - 1. - - - 7.
 
 The Infirmary at Maryborough for Queen's County is an old house in which are four rooms for patients. The floor of the room below was dirt, and the walls were black and filthy: it had in it three patients. In two of the rooms above there were thirteen beds and fifteen patients. In a room called the , two patients, and a little dirty hay on the floor, on which they said the nurse lay. This room was very dirty, the cieling covered with cobwebs, and in several places open to die Iky. Here I saw one naked, pale object, who was under the necessicy of tearing his shirt for bandages for his fractured diigh. No iheets in the house, — and the blankets were very dirty. No vault: no water. —The diet is a.dircepenny loaf and two pints of milk; or rather, if my
 
@@ -3056,7 +3056,7 @@ A new county gaol, too splendid, and built on a bad plan, is not yet occupied.
 
 1787, June 10, Debtors 2. Felons &c. 6.
 
-1788, May 4, - - 2. - - - 4.
+1788, May 4, - 2. - - - 4.
 
 Waterford City Gaol was dirty. In this, and in most other gaols, there was no table of fees or regulations. Here I found the county gaoler, who told me he was committed
 
@@ -3086,7 +3086,7 @@ Water- mitted and fined ^5, for sinking a saucy boy, who would deliver spirituou
 
 1787, Jan. 10, Debtors 13. Felons &c. 7.
 
-1788, May 4, - - 4. - - - 7.
+1788, May 4, - 4. - - - 7.
 
 House Waterford House of Indujlry. This is a clean well regulated house, and does great
 
@@ -3104,7 +3104,7 @@ Clonmell. CLONMELL County Gaol. The fix dungeons very dirty. — A large dunghil
 
 1787, June 12, Debtors 10. Felons &c. 51.
 
-1788, May 5, - - 19. - - - 62.
+1788, May 5, - 19. - - - 62.
 
 Hospital. In the County Infirmary at Cashel, there are four good wards, the governors duly attend, and great care seems to be taken of the patients. When their funds were low, they reduced the surgeon’s salary to £ 50, but on their increasing, they raised it again in November 1787 to the former sum of £ 80. By a late act this hospital has a presentment from the county of £ 200 a year. The drugs for the patients are bought in Dublin, and paid for by the treasurer of the hospital. I would just submit to the attention of these gentlemen, whether removing the wood tellers of the beds, and making windows in the wards, for producing a better circulation of air, opposite to those with which they are already furnished, would not render this infirmary more favourable to the health of the patients. April 13th, 1788, 15 Patients.
 
@@ -3116,7 +3116,7 @@ CORK County Gaol. No court. —I saw spirituous liquors conveyed to the prisoner
 
 1787, June 13, Debtors 31. Felons &c. 64.
 
-1788, May 14, - - 23. - - - 73.
+1788, May 14, - 23. - - - 73.
 
 Cork City Gaol. No court: no water on the felons’ fide: the prison very dirty City
 
@@ -3128,13 +3128,13 @@ for distributing the prisoners’ bread. Keeper’s salary £ 25, and £ 10 in l
 
 1787, June 13, Debtors 67. Felons &c. 45.
 
-1788, May 14, - - 76.f - - - 49.
+1788, May 14, - 76.f - - - 49.
 
 Cork City Bridewell:—quite out of repair:—no court:—no water :—no straw:—no ma- Bridewell terials for work.
 
 1787, Jtine 14, Debtors 2. Criminals 7.
 
-1788, May 14, - - 4. - 5.
+1788, May 14, - 4. - 5.
 
 Cork House of Indufiry. Some of the rooms were clean; but many of the beds were House
 
@@ -3210,9 +3210,9 @@ LIMERICK County and City Gaol are one prison, but the debtors and felons of each
 
 On the county side, 1787, June 22, Debtors 6. Felons &c. 19.
 
-On the city side, - 12. - 26,
+On the city side, 12. - 26,
 
-1788, April 6, - 7. - 10.
+1788, April 6, 7. - 10.
 
 A new gaol is proposed. The county had sent for the ingenious architect Mr. Black?
 
@@ -3350,7 +3350,7 @@ F. N N 1S County Infir- mary. The County Infirmary at Ennis, built about fifteen
 
 Mullin- gar. ULSTER North-Weft CIRCUIT. MULLINGAR County Goal. Allowance 3d.a day in good household bread, (weight in 1787 three pounds and a half) with plenty of turf for fuel: and the countenances of the prisoners shewed that a humane and proper attention is paid tQ them, jf 1100 was paid to the clergyman for bread, fire and candles for the prisoners, the three years preceding my first visit, and he made affidavits to his accounts. This was a shameful fraud, and it was detected by Baron Hamilton. The prison is now supplied by Mr. Tyrrell, and he said that the account for the year 1787 would not exceed £ 90, though the number of prisoners was greater than usual. His account of the winter half year, from August 1786 to March 1787, amounted only to £46: 11: 5I. The county is building a new gaol on a fine spot, and a stream runs through the court; yet I fear it is on too small a scale for solitary confinement at night; as the gaoler said, that the last assize he had forty-two criminals. And I have a much greater difiike to the confinement of two in a cell, than to the crowding of many into one room.
 
-* 1787, July 10, Debtors 2. Felons &c. 24. 1788, April 24, - r 1. - - 19.
+* 1787, July 10, Debtors 2. Felons &c. 24. 1788, April 24, r 1. - - 19.
 
 County Infi r-MARY. The County Infirmary at Mullingar is a fioufe rented at 20 a year. The rpofj and the floor of one room were falling in. There are three rooms for the patients, and in each four beds. No fuel—court not enclosed—pump ufelefs—!-no vault. April 24th, 1788, 8 Patients, f
 
@@ -3370,7 +3370,7 @@ river, clear of mod buildings, near the sessions house, and adjoining to the bar
 
 1787, July 9, Debtors 8. Felons &c. 8.
 
-1788, April 24, - - 12. - - - 20.
+1788, April 24, - 12. - - - 20.
 
 Longford County Infirmary is in the barrack yard. The wards were full of fmoke— beds crowded—bedding worn out—no water. The surgeon is paid the £ 100 per am. from the king’s letter; the governors now buy the drugs in Dublin j and, though they have double the number of beds, the-expense is not half so great as when they paid an' apothecary. April 24th, 1788, 16 Patients.
 
@@ -3572,7 +3572,7 @@ Eleven criminals who were left untried at the last assize, having got off* their
 
 1788, April 25, Debtors 5. Felons &c. 25. J
 
-* I visited the poor-hoofe at Self aft, which is finely situated, but many of the lodging-room* are down ten steps, arid a wall only ten feet diitant, is level [with the top of the windows. Might not the spacious hall, and rooms adjoining be used for a better purpose than the oecafional diversion* of young persons in the town i The front court is quite open. Alt such houses should be enclosed, to prevent the poor from wandering about, and carrying out or introducing any thing improper. July 24, 1787,54 Men, 53 Women, 31 Boys, 21 Girls. The Belfkft Charitable Society for the support of this house, was incorporated by an Act of the 14th of III.
+* I visited the poor-hoofe at Self aft, which is finely situated, but many of the lodging-room* are down ten steps, and a wall only ten feet diitant, is level [with the top of the windows. Might not the spacious hall, and rooms adjoining be used for a better purpose than the oecafional diversion* of young persons in the town i The front court is quite open. Alt such houses should be enclosed, to prevent the poor from wandering about, and carrying out or introducing any thing improper. July 24, 1787,54 Men, 53 Women, 31 Boys, 21 Girls. The Belfkft Charitable Society for the support of this house, was incorporated by an Act of the 14th of III.
 
 f When the salaries of gaolers are so small, persons of credit will hardly accept of the trull; and others will be too ready to make cruel exactions from the prisoners. I here give this hint more willingly, because I know the great generality of the Lord Primate; and that he is ready to encourage every thing that is liberal and humane.
 
@@ -3908,7 +3908,7 @@ Geo. Gordon*
 
 44 We requeil the committee will order the children’s yearly clothing as soon as possible, as they are in great 44 need of them. We think that the intention of the committee to raise the mailer’s rent to sixteen pounds yearly 44 is oppressive, and more than he can pay; however he is willing to submit the rent to the determination of 44 two farmers, who shall on oath declare what the land is worth. We inclose the doctor’s bill, which we request 44 may for this time be paid. Should the committee think his charges too high, they may difeondnue him.
 
-44 July 6th, 1787, being duly and timely warned. — (Signed by four clergymen and one gendeman.) We 44 think that the charter school farm, which we have this day carefully examined, is too dear at sixteen {hillings 44 per acre, nor ought it to be set for more than twelve shillings to the mailer of the school; as he cannot make 44 any permanent improvements on it, on account of the uncertainty of his term.”—The land was raifedfrom £6 to £ 16. —44 At a committee of fifteen of the Incorporated Society &c. held on Wednesday the nth of 44 October 1786, James Ford, Esq. in the chair.
+44 July 6th, 1787, being duly and timely warned. — (Signed by four clergymen and one gendeman.) We 44 think that the charter school farm, which we have this day carefully examined, is too dear at sixteen {hillings 44 per acre, nor ought it to be set for more than twelve shillings to the mailer of the school; as he cannot make 44 any permanent improvements on it, on account of the uncertainty of his term.”—The land was raised from £6 to £ 16. —44 At a committee of fifteen of the Incorporated Society &c. held on Wednesday the nth of 44 October 1786, James Ford, Esq. in the chair.
 
 Ray School report of the 27th,
 
@@ -4074,7 +4074,7 @@ Ardbraccan School, -j- April 25th, 1788, forty-three boys crowded into one room 
 
 I No.I. ARDBRACCAN, County or MEATH.
 
-u This school, wherein are fifty children, was endowed by the Right Rev. Dr. MauU. former Lord Bishop of Meath, deeded, with two acres of land, plantation measure, rent-free in perpetuity, belonging to the See, on part whereof the school-house ia built i Hia Lord ship also granted to the society a lease of eighteen acres more, contiguous to the fame, at 5 r. per acre per annumt for which be took no rent during his incumbency, and always renewed without fine, and his Lordship gave £ 10 and collected £m6 i towards the building.'*
+u This school, wherein are fifty children, was endowed by the Right Rev. Dr. MauU. former Lord Bishop of Meath, deeded, with two acres of land, plantation measure, rent-free in perpetuity, belonging to the See, on part whereof the school-house ia built i Hia Lord ship also granted to the society a lease of eighteen acres more, contiguous to the same, at 5 r. per acre per annumt for which be took no rent during his incumbency, and always renewed without fine, and his Lordship gave £ 10 and collected £m6 i towards the building.'*
 
 u The Right Reverend and Honourable Dr. Henry Maxwell, Lord Bishop of Meath, upon the society’s application for further aid, m bad been pleased to propose cither to grant a renewal of the present lease, without fine, or to grant a new lease upon such term* a* u his Lordih^p is empowered to do by a clause in the act of parliament, passed in the eighth year of his present Majesty’s reign, for * licensing hawkers and pedlars, and for the encouragement of En^lilb protestant schools, which latter proposal the foeiety did agree •* woft thankfully to accept And his Lordship hat in consequence, granted a lease for lives renewable for ever, of said lands to €» the society* N. B* The nufter pays the society ixj. per acre for the lands*"
 
@@ -4388,7 +4388,7 @@ This to be done with a proper degree of applause, addressing them in such a mann
 
 The committee of fifteen should pay the greatest attention to the remarks of a local committee.
 
-Some of these remarks were made in my former publication, but being more folly convinced of their importance, they are now repeated. The alterations proposed may be thought too expensive j but I am persuaded that the penurioufnefs of the society in providing diet, clothing &c. which has been long observed by those who visit the children, or fee them at church, has considerably reduced the subseripdons: and these improvements would probably recover and increase them. They would at least retrieve the credit of the society, and do honour to the protestant cause.
+Some of these remarks were made in my former publication, but being more folly convinced of their importance, they are now repeated. The alterations proposed may be thought too expensive j but I am persuaded that the penuriousness of the society in providing diet, clothing &c. which has been long observed by those who visit the children, or fee them at church, has considerably reduced the subseripdons: and these improvements would probably recover and increase them. They would at least retrieve the credit of the society, and do honour to the protestant cause.
 
 I cannot forbear here expressing a wish that the benefits of education were more generally extended over Ireland, than they are by theje schools. If free-schools were infti-tuted in every parish for instructing in the lower parts of learning, and the rality, children of each sex, and of all perfuafms •,it would perhaps more than any thing tend to
 
@@ -4438,7 +4438,7 @@ city of Chester, where, to an ancient establishment of an hospital for poor , a 
 
 “ Of late years, the whole income of this charity has been expended in the maintenance * and education of thirty boys, whom we now call in-scholars. The annual expense of “ each in-scholar has been about £ 13, and the education of each boy for four years has coll <c £52. Such large charitable benefactions being bellowed on a few, a much larger * number of boys, equally destitute, have been suffered to grow up to men unemployed “ and uninstructed.
 
-“ In 1781, when the income of the hospital was augmented, it was proposed to educate “ sixty more boys, as out-scholars, to be taught reading, writing, and some arithmetic; “ but not to be clothed, maintained, or lodged in the house. This proposal was not “ accomplished till the autumn of 1783. The improvement of the sixty new scholars “ in reading, writing, and behaviour, was so remarkable, and so pleating, that, in * December 1784 a proposal was made to double the number, which was unanimously “ approved by a full and respeClable meeting of the trustees. Two mailers now teach “ one hundred and twenty out-scholars. The salary of the first mailer is £. 40, and of “ the second £25, a year. Hence the expense of each out-scholar is 10 s.
+“ In 1781, when the income of the hospital was augmented, it was proposed to educate “ sixty more boys, as out-scholars, to be taught reading, writing, and some arithmetic; “ but not to be clothed, maintained, or lodged in the house. This proposal was not “ accomplished till the autumn of 1783. The improvement of the sixty new scholars “ in reading, writing, and behaviour, was so remarkable, and so pleating, that, in * December 1784 a proposal was made to double the number, which was unanimously “ approved by a full and respectable meeting of the trustees. Two mailers now teach “ one hundred and twenty out-scholars. The salary of the first mailer is £. 40, and of “ the second £25, a year. Hence the expense of each out-scholar is 10 s.
 
 “ a year to the mailer. The annual expense of each boy in books is is. and “ in coals 4 \d.A green cap, which colls 1 s. 6d. is given to each scholar every “ year. Hence it appears that the whole annual expense of each out-scholar is 14 r. “ Consequently, more money is bellowed on one in-scholar, than would educate eighteen “ out-scholars.
 
@@ -4480,7 +4480,7 @@ u That the schools, during the summer season, open at half after fix o’clock i
 
 others from the commission of the like offence.
 
-“ That they fit down with the children and family on ift day (Sunday) evening, read-«* ing to them, or causing them to read suitable portions of the holy scriptures, and other *c religious books, the treasurer and principal matter feleCting such parts and subjects as are '* most instructive, and best adapted to their understandings.
+“ That they fit down with the children and family on ift day (Sunday) evening, read-«* ing to them, or causing them to read suitable portions of the holy scriptures, and other *c religious books, the treasurer and principal matter felecting such parts and subjects as are '* most instructive, and best adapted to their understandings.
 
 “ That they in particular endeavour, by divine assistance, to impress upon the minds of * the children the necessity of a ftriCl adherence to truth, and abhorrence to falfehoodj as * well as a remembrance of their Creator in the days cf their youth; having the fear of the Lord before their eyes, which will preserve under the various temptations to which they
 
@@ -4584,7 +4584,7 @@ waftied. Keeper’s salary £450 in lieu of the tap. I found some of the debtors
 
 1787, March 18, Debtors 140. Felons &c. 350.
 
-1788, Aug. 26, - - 114. - - - 499. viz.
+1788, Aug. 26, - 114. - - - 499. viz.
 
 Men Debtors 96, Women 12; County Court Debtors 5; Excise Debtor 1; Capital Convitft, 10 Men and 1 Woman; f Capital Convidls respited, 63 Men and 19 Women; Transports, 183 Men and 103 Women; Fines, 40 Men and 4 Women; for Trial, 57 Men and 19 Women.
 
@@ -4598,7 +4598,7 @@ In the House• In the Rubs,
 
 1787, April 2, Debtors 121. - 74.
 
-1788, Oft. 6, - - 132. - 80. viz.
+1788, Oft. 6, - 132. - 80. viz.
 
 Men within the Walls 125; Women 7. Men in the Rules 79; Woman i.
 
@@ -4648,7 +4648,7 @@ Clean, and white-washed in 1787. Some casements are wanted: in the prince’s wa
 
 1788, Aug 26, Debt. M. Side 6. C. Side, Men 26. Worn. 4. Fel. &c. 18. For Examination 5.
 
-- - oa. 3, - - - - 7. - - - as, - - 3. - - 7. - --- 12.
+- - oa. 3, - - - 7. - - - as, - 3. - - 7. - --- 12.
 
 WOOD-STREET COMPTER.
 
@@ -4660,7 +4660,7 @@ in the purchase of liquors. Mr. Sheriff Bloxam has lately released sixteen debto
 
 1788, Aug. 26, Debt. M. Side, Men 17, Worn. 5. C. Side 16. Felons &c. 19. For Examin. 11.
 
-- - Oct. 1, - - 13, - - 5. - - 26. - - - xo. - - - 38.
+- - Oct. 1, - 13, - 5. - - 26. - - - xo. - - - 38.
 
 * One advantage that was expected from the abolition of the tap in gaols, was preventing the comrades of criminals from associating with them, which gave an opportunity of plotting further mischief, and tended to suppress impeachments, through the false hopes with which their companions encouraged them before their trials; but, by the unrestrained visits of their friends, and the permission of beer, wine &c. to be brought to them from certain public houses, this intended advantage is in a great measure frustrated.
 
@@ -4796,7 +4796,7 @@ This Prison, adjoining to the bridewell in Tothill-fields, the property of the d
 
 TOTHILL-FIELDS BRIDEWELL.
 
-No alteration in tins prison. The men associating together in one part, and the women in another j all without employment, - except three or four debtors who were shoe-makers. At night, some men come to a room in the women’s court, and some women go to, a room on the men’s fide, which is called the ,from the use made of it by the late worthy keeper. Several prisoners were drinking in a room used by the turnkey for his ihop. Here is also a room for the deposit of bonnets and other articles of clothing, which may be a convenient security for the keeper’s fees; one woman, however, I turned out, who had remained four days after the expiration of her term, and had no share in the property contained in this room. In some county gaols the salaries to the gaolers are in lieu of all fees j whereby the hardship of forcing poor creatures to part with some of their scanty clothing, in order to purchase their discharge, is prevented. No bedding here, which is the case in all the London prisons, except that in the city called bridewell* where they have a litde loose straw, and beds for the few who can pay a high price for them. Surgeon Mr. Hanbury. Salary £30. No infirmary.*
+No alteration in tins prison. The men associating together in one part, and the women in another j all without employment, except three or four debtors who were shoe-makers. At night, some men come to a room in the women’s court, and some women go to, a room on the men’s fide, which is called the ,from the use made of it by the late worthy keeper. Several prisoners were drinking in a room used by the turnkey for his ihop. Here is also a room for the deposit of bonnets and other articles of clothing, which may be a convenient security for the keeper’s fees; one woman, however, I turned out, who had remained four days after the expiration of her term, and had no share in the property contained in this room. In some county gaols the salaries to the gaolers are in lieu of all fees j whereby the hardship of forcing poor creatures to part with some of their scanty clothing, in order to purchase their discharge, is prevented. No bedding here, which is the case in all the London prisons, except that in the city called bridewell* where they have a litde loose straw, and beds for the few who can pay a high price for them. Surgeon Mr. Hanbury. Salary £30. No infirmary.*
 
 1787, March 23, Court of Conscience Debtors 1. Criminals, Men 79. Women 56.
 
@@ -4836,9 +4836,9 @@ No aKerdrion. Liquors fold in did feme manner as before the- act of 24th of III.
 
 Ik tbt Hcufc. Ik tb# Rubs*
 
-1787, April 2, Debtors 370, - 60.
+1787, April 2, Debtors 370, 60.
 
-1788, Odt. 9, - * 340. - 104.
+1788, Odt. 9, * 340. - 104.
 
 Men within the Walli about 320j Womtn about 26. Men Within tb* Rales abduf gf; Women about 9.
 
@@ -5128,19 +5128,19 @@ Here are eight wards, seventeen feet wide, which open into passages fix feet wid
 
 1771, when there were 489 Women delivered; 4 had twins. Total born 493, 'viz. Males 230, Females 263.
 
-The numbers in 1779 were 545 - - - 6 - - - - ss«. - - - 28l, - - 270.
+The numbers in 1779 were 545 - - - 6 - - - - ss«. - - - 28l, - 270.
 
-1780- -4JI - - - - 4 - - - - 45 5» - - - 220, - * 23S*
+1780- -4JI - - - - 4 - - - - 45 5» - - - 220, * 23S*
 
-1781 - -4S3 - - - - J - - - 45s. * - - 223, - - 2 33-
+1781 - -4S3 - - - - J - - - 45s. * - - 223, - 2 33-
 
-1782 - - 456 - - - 6 - - - - 462, - - - 2I4, * * 248.
+1782 - - 456 - - - 6 - - - - 462, - - 2I4, * * 248.
 
-1783 - - $10 - - - - 3 - - - * 5i3. * - - 276, - - 237.
+1783 - - $10 - - - - 3 - - - * 5i3. * - - 276, - 237.
 
-1784 - - 549 - - 5 - - - - 554. - - - 269, - - 285.
+1784 - - 549 - - 5 - - - - 554. - - - 269, - 285.
 
-1785 - - 582 - - - - 9 - - - - 591. * - - 299, - - 292.
+1785 - - 582 - - - - 9 - - - - 591. * - - 299, - 292.
 
 1786 . - $86 - - - - 12 - T - - 595. * - - 310. - 285. Qppofite
 
@@ -5228,19 +5228,19 @@ The City of London Lying-in Hospital in the City Road, for Married Women.
 
 Here are eight wards, seventeen feet wide, which open into passages fix feet wide; Londok fix only are occupied, each containing eight beds. The wards and beds were clean, Howit*" and over the door of each ward was a circular aperture of about a foot diameter. Here there is a chapel. The house wants white-washing. —The women continue three weeks after delivery, and in particular cases longer; if they choose it, their children are baptized in the house. The annual account is published; and in the hall, lifts of the donors’ names are painted on boards; also the hospital lift of women and children, which commenced in 1771, when there were 489 Women delivered; 4 had twins. Total born 493, *viz. Males 230, Females 263.
 
-The numbers in 1779 were 545 - - - 6 - - - - 5Si> - - - 281, - - 270.
+The numbers in 1779 were 545 - - - 6 - - - - 5Si> - - - 281, - 270.
 
-1780- -4J1 - - - - 4 - * 1 »A tA I - 220, - - 235.
+1780- -4J1 - - - - 4 - * 1 »A tA I - 220, - 235.
 
-1781 - -4S3 - - - - s - - - 45s. - - - 223, - * 233.
+1781 - -4S3 - - - - s - - - 45s. - - - 223, * 233.
 
 1782 - - 456 - - - 6 - - - 214, . * 248.
 
 00 U* 1 1 vn 0 1 - - - 3 - - - * 5I3» - - - *76. - - 237.
 
-1784 - - 549 - ... 5 - - 554> - - - 269, - - 2%.
+1784 - - 549 - ... 5 - - 554> - - - 269, - 2%.
 
-1 N 00 1 1 IA 00 . 9 - 59i> - - 299, - - 292.
+1 N 00 1 1 IA 00 . 9 - 59i> - - 299, - 292.
 
 1786 . - 586 - - 12 - * 59S* - - - 3«o» - - 285.
 
@@ -5594,9 +5594,9 @@ No alteration. Gaoler’s salary £ 200 in lieu of the tap. The allowance in bre
 
 1787, March 28, Debtors 32. Felons &c. 98.
 
-— Nov. 4, - - 28. - - - 63.*
+— Nov. 4, - 28. - - - 63.*
 
-1788, Aug. 26, - - 26. - - - 55.
+1788, Aug. 26, - 26. - - - 55.
 
 Master’s-Side Debtors 14, Common-Side, Men 10. Women 2. Felons Sec. for Assize 8, for Quarter
 
@@ -5608,13 +5608,13 @@ St. GEORGE’S FIELDS. No alteration; but some loads of gravel or dirt brought b
 
 1787, March 28, Men 24. Women 15.
 
-1788, Aug. 26, - - 27. - - 7.
+1788, Aug. 26, - 27. - - 7.
 
 KINGSTON upon Thames. The prison very dirty: not white-washed. Fowls in
 
 the courts. No employment, but an order similar to that at the bridewell in St. George’s Fields, for those prisoners that are committed to hard labour. Allowance, a three halfpenny loaf a day to each prisoner (weight 140Z.J. Though there were only twenty-four prisoners, yet the baker assured me he had delivered thirty-three loaves that day, and on every day in the preceding week. — Some of the prisoners had bedding orftraw: several of them paid 9//. others is. for the straw on which they
 
-• Fifty of the felons in 1787 were conviXs for transportation, sentenced in 1783 and the following years. These poor wretches lay almost perishing in the gaol, and had only the allowance of a day in bread, and the precarious charity of a little meat, broth Sec. collected from the neighbours who knew their distress. Many had worn out their shoes, (lockings and (hirts, and had hardly clothes to cover them; and by being forced to live in idleness, and aifociating together, were driven to acts of desperation. Such dreadful nyrieries have been a principal cause of the increased number of crimes, and- the lhocking destruction of our fellow creatures. X am persuaded this would have been in a great measure( prevented, if penitentiary houses had been both on the salutary /pot at Islington fixed on by Dr. Father gill and myself: die gentlemen whose continual opposition defeated the design, and adopted the expensive, dangerous and destructive scheme of transportt*tion to Botany Bay, I leave to their own reflexions upon their conduX.
+• Fifty of the felons in 1787 were conviXs for transportation, sentenced in 1783 and the following years. These poor wretches lay almost perishing in the gaol, and had only the allowance of a day in bread, and the precarious charity of a little meat, broth Sec. collected from the neighbours who knew their distress. Many had worn out their shoes, (lockings and (hirts, and had hardly clothes to cover them; and by being forced to live in idleness, and associating together, were driven to acts of desperation. Such dreadful nyrieries have been a principal cause of the increased number of crimes, and- the lhocking destruction of our fellow creatures. X am persuaded this would have been in a great measure( prevented, if penitentiary houses had been both on the salutary /pot at Islington fixed on by Dr. Father gill and myself: die gentlemen whose continual opposition defeated the design, and adopted the expensive, dangerous and destructive scheme of transportt*tion to Botany Bay, I leave to their own reflexions upon their conduX.
 
 U 2 lay i
 
@@ -5774,7 +5774,7 @@ No alteration in this prison. The men and women felons associate together; their
 
 1787, Nov. jo. Debtors 6. Felons &c. 6.
 
-1788, Aug. 9, - - 6. - - - 7.
+1788, Aug. 9, - 6. - - - 7.
 
 COUNTY BRIDEWELL.
 
@@ -5806,7 +5806,7 @@ At my last visit, the hemp-dresser’s house at the back of the prison was taken
 
 1787, Dec. 3, Debtors 5. Felons &c. 11. Petty offenders 7.
 
-1788. Aug. 8, - - 4. - - - 9.
+1788. Aug. 8, - 4. - - - 9.
 
 COUNTY BRIDEWELL.
 
@@ -5886,7 +5886,7 @@ The gaoler’s salary is £120 in lieu of the tap. All the apartments were clean
 
 1787, Sept. 18, Debtors 19. Felons &c. 26,
 
-1788, Sept. 11, - - 20. - - - 20.
+1788, Sept. 11, - 20. - - - 20.
 
 COUNTY BRIDEWELL.
 
@@ -5928,7 +5928,7 @@ Surely there will be no denial to the justice and humanity of this petition. A c
 
 1787, Sept. 19, Debtors 8. Felons &c. oo.
 
-1788, Sept. 11, - - 16. - - - 10. -
+1788, Sept. 11, - 16. - - - 10. -
 
 9
 
@@ -5994,7 +5994,7 @@ YARMOUTH Town Gaol. The draw-room is made into four cabins (eight feet by fix) f
 
 1787, Sept. 21, Debtors 2. Felons &c. 14.
 
-1788, Sept. 9, - - 1. - - - 9.
+1788, Sept. 9, - 1. - - - 9.
 
 • A similar institution was lately established by the Provost’s LaJj at Dunbar. There I saw about forty children, clean and neat, and cheerfully (pinning with both hands.
 
@@ -6112,7 +6112,7 @@ in the County of Suffolk.
 
 I. That the several persons committed to the house of correction, to be kept to hard labour, shall be employed (unless prevented by ill health) every day, (except Sundays, Christmas-Day, and Good-Friday) for so many hours as the day-light in the different seasons of the year will admit, not exceeding twelve hours, being allowed thereout to rest half an hour at breakfast, an hour at dinner, and half an hour at supper, and that* the intervals shall be noticed by the ringing of a bell. Fide Rules prtscribed by the att 22 Geo. III. c. 64.
 
-IL That the governor of the house of correction shall adapt the various employments directed by the justices, at their quarter sections, to each person, in such manner as shall be suited to his or her strength and ability, regard being had to age and lex*—Fide act above cited*
+IL That the governor of the house of correction shall adapt the various employments directed by the justices, at their quarter sessions, to each person, in such manner as shall be suited to his or her strength and ability, regard being had to age and lex*—Fide act above cited*
 
 III. That
 
@@ -6432,7 +6432,7 @@ yfed for a chapel was too dpi};, thpugh when I was there* only one debtor attend
 
 1787, Oft. 23, Debtors 9. Felons &c. 21.
 
-1788, Aug. 6, - - 12. - - - 19.
+1788, Aug. 6, - 12. - - - 19.
 
 Committed Ijy a Bi&op’s Writ two neat wpmen. One cannot but wtfh. that the or Resolution,
 
@@ -6450,7 +6450,7 @@ NOTTINGHAM Town and County Gaol. No alteration. The building is too flight for a
 
 1787, Oft. 23, Debtors 5, Petty Offender 1.
 
-1788, Aug. 6, - - 5.
+1788, Aug. 6, - 5.
 
 NOTTINGHAM Town Bridewell. Four rooms are added; and a court is enclosed, to which the prisoners seldom havt access. They were all locked up and unemployed. Allowance, a threepenny, loaf every other, day. Keeper’s falqry. aolyfcJ£8. In 1788, there was a new keeper, and the prison much cleaner. Here is a mill for grinding beans, and on the outer-door was written* “ Beans ground at a quarter.”
 
@@ -6668,7 +6668,7 @@ The following Memorial is hung up for the inspection of the felons. —“ As a 
 
 BERKSHIRE.
 
-The following Orders, Rules, and Regulations have bee* made at the General Quarter SeJJsons of the Peace9 held for the County of Berks, on the several Days mentioned in the Margin, and are published for the Information of the acting Jufices of the Peace for the said County, and for the Direction of all others whom they may concern*
+The following Orders, Rules, and Regulations have bee* made at the General Quarter Sessions of the Peace9 held for the County of Berks, on the several Days mentioned in the Margin, and are published for the Information of the acting Jufices of the Peace for the said County, and for the Direction of all others whom they may concern*
 
 Ordered, That a Book be provided by the Treasurer, and all contingent hills belonging to the gaol* and the two Houses of Correction, entered therein for six years pad, to be produced by him at the several quarter sessions, and the current bills entered therein, to be ready at all times for the inspection of the justices; and that the expences attending the fame be paid by the county.
 
@@ -6724,11 +6724,11 @@ confined in the said Gaol, of the*
 
 FIRST CLASS.
 
-Every debtor voluntarily going into the master’s ward,-*-to pay the keeper at entrance, -And to the turnkey, - - * -
+Every debtor voluntarily going into the master’s ward,-*-to pay the keeper at entrance, -And to the turnkey, - * -
 
 To the keeper at the discharge of every debtor, (except insolvent debtors)
 
-And to the turnkey, - -
+And to the turnkey, -
 
 Every debtor lodging in the mailer's ward, and having a bed to himself, per week,
 
@@ -6844,7 +6844,7 @@ In order to prevent impositions or irregularities in the charges made by constab
 
 For the Constable . - O s. % D. 0 fer day.
 
-Guard, if necessary, - . - - O 1 6 ditto.
+Guard, if necessary, . - - O 1 6 ditto.
 
 Subsistence for the prisoner - O I 0 ditto.
 
@@ -7310,7 +7310,7 @@ Winch ester County Gaol,
 
 in his late visit, very humanely left £ 300 for the relief of the debtors, and gave £ 50 to the infirmary. 1787, Nov. 24, Debtors 20. Felons &c. 31. Fines 23.
 
-1788, Jan. 30, - - 24. - - - 37. * - 20.
+1788, Jan. 30, - 24. - - - 37. * - 20.
 
 COUNTY BRIDEWELL.
 
@@ -7444,7 +7444,7 @@ Some of the principal offices, such as the dispensary, water-works, wash-house, 
 
 • Dr. Lind long ftnee informed me, that he had the fafh windows on the staircases nailed up in summer, to prevent their being (hut.
 
-Th«|
+Th«
 
 i
 
@@ -7598,7 +7598,7 @@ Mr. Robert Still; salary now £ 21. Gaoler’s salary only £ 50. Often have I w
 
 1787, Nov. 16, Debtors 18. Felons &c. 21. -
 
-1788, July 3, - - 13. - - - 17-
+1788, July 3, - 13. - - - 17-
 
 COUNTY BRIDEWELL and TOWN GAOL.
 
@@ -7746,7 +7746,7 @@ The fame close, bad prison. Windows towards the street: no court: no water.
 
 1787, Nov. 13. Debtors 3. Felons &c. 2.
 
-1788, June 29, - - 2. - - - 11.
+1788, June 29, - 2. - - - 11.
 
 , By the kindness of Mr. Alderman Walker, the prisoners’ allowance now is of
 
@@ -7932,7 +7932,7 @@ to the prisoners. Here, and in the bridewell, were several dogs of visiters and 
 
 1787, Nov. 19 and 22, Debtors 21. Felons &c. 25.
 
-1788, May 27, - - 24. - - - 25. Transports 18.
+1788, May 27, - 24. - - - 25. Transports 18.
 
 BRISTOL City Bridewell. No alteration, but much cleaner than at any of my former visits; and at my last visit every room was perfedUy clean. The prisoners now are not defrauded in their bread allowance: (twopenny loaf in 1787 1 7 Clauses
 
@@ -7964,9 +7964,9 @@ YORKSHIRE.
 
 NORTHERN CIRCUIT. COUNTY GAOL, YORK CASTLE.
 
-The felons’ cells are now floored with unseasoned oak. Their court is properly paved with broad stones, and the drain is carried through the vault, so that the passage is not offensive: there are also iron palisades in the castle yard, to prevent access within ten feet of the court. Water is laid in, but there is no bath. Here I found the present bread-inspector, Mr., Wation, who has a salary of twenty guineas a year; and I have often wished there were such a person to inspebl, , and deliver the bread to prisoners in London. No rules or orders relative to the admiiflon of liquors. Gaoler’s salary 300 in lieu of the tap. 1787, Aug. 23, Debtors 65. Felons &c. 38.
+The felons’ cells are now floored with unseasoned oak. Their court is properly paved with broad stones, and the drain is carried through the vault, so that the passage is not offensive: there are also iron palisades in the castle yard, to prevent access within ten feet of the court. Water is laid in, but there is no bath. Here I found the present bread-inspector, Mr., Wation, who has a salary of twenty guineas a year; and I have often wished there were such a person to inspebl, , and deliver the bread to prisoners in London. No rules or orders relative to the admission of liquors. Gaoler’s salary 300 in lieu of the tap. 1787, Aug. 23, Debtors 65. Felons &c. 38.
 
-1788, Jan. 11, - - 50. - - - 51.*
+1788, Jan. 11, - 50. - - - 51.*
 
 Yore
 
@@ -7986,7 +7986,7 @@ There are four cells for the felons, down sixteen steps; only one day-room, in w
 
 1787, Aug. 23, Debtors 4. Felons &c. 3.
 
-1788, Jan. n, - - 10. - - - 6.
+1788, Jan. n, - 10. - - - 6.
 
 • Both debtors and felons are here employed, as at Lincoln castle, Norwich castle, Ipswich, and some few other
 
@@ -8554,7 +8554,7 @@ LANCASHIRE,
 
 - which punishments the gaoler is hereby authorized and required to inflidl for the above'offences, or other acts of disobedience to these rules and orders; but not to continue any of the above punishments for more than /even days, without a written order from one or more justice or justices of the peace for the county of Lancaster.
 
-If, The gaoler shall provide and keep one or more books, in which he shal! Write down the name of every prisoner who shall in any wise behave ill, or be refractory and disobedient, specifying his offence, and the nature and term of his punishment; and he shall also insert the names of such prisoners who shall observe these rules, regularly attend public worship, and behave in a peaceable, orderly manner. And he shall regularly produce these books to the visiting justices, and at the assizes and quarter sections.
+If, The gaoler shall provide and keep one or more books, in which he shal! Write down the name of every prisoner who shall in any wise behave ill, or be refractory and disobedient, specifying his offence, and the nature and term of his punishment; and he shall also insert the names of such prisoners who shall observe these rules, regularly attend public worship, and behave in a peaceable, orderly manner. And he shall regularly produce these books to the visiting justices, and at the assizes and quarter sessions.
 
 IIL The gaoler shall not, on any account or pretence whatsoever, demand or take from any prisoner in his custody, or any other person, any money or other matter, for fees, gamilh money, chamber rents, &c. or for and at the entrance or discharge of any prisoner.
 
@@ -8572,7 +8572,7 @@ liquor measures, legally stamped, for the free use of all the prisoners.
 
 VII. The gaoler shall provide coals, soap, vinegar, blankets, straw, mops, sand, brushes, befoms, pails, walh-
 
-ing bowls, towels, wiikets, and coal boxes, for the necessary use of the prisoners, so that their persons and all parts of the prison may be preferred (as much as is possible) in a state of cleanliness and health; and he shall deliver in an account of the fame, and of the expences incurred, at each court of quarter sections; who are hereby empowered to examine and allow the fame, and to order the county treasurer to pay the amount to the gaoler.
+ing bowls, towels, wiikets, and coal boxes, for the necessary use of the prisoners, so that their persons and all parts of the prison may be preferred (as much as is possible) in a state of cleanliness and health; and he shall deliver in an account of the fame, and of the expences incurred, at each court of quarter sessions; who are hereby empowered to examine and allow the fame, and to order the county treasurer to pay the amount to the gaoler.
 
 VIII. Every person committed for felony, and every convict on being brought to the gaol, shall have all his
 
@@ -8762,7 +8762,7 @@ Here are made, three good cells, eleven feet fix inches by fix feet two, and twe
 
 1787, Dec. 21, Debtors 21. Felons &c. 28.
 
-1788, March 2, - - 19. - - - 30. Convicts 7.
+1788, March 2, - 19. - - - 30. Convicts 7.
 
 • Criminals of a certain* description are entitled, by two acts of parliament, in his present Majesty's reign, to one half of the neat profits which they shall have earned, at the time of their discharge, and not before, These earnings I could wilh to be given them at the end of every week, on the gro/s profits; which would take off alt suspicion from their minds, as to the certainty of receiving them; and consequently, would afford greater encouragement to diligence, I would have them limited however by the magistrates (as is the case fa many foreign houses of correction) with respect to the articles they should be allowed to purchase with their earnings, an account of which should be hung up in the prisons; such as milk, tea, coffee, cocoa, bread, butter, vegetables, meat Sec.
 
@@ -9324,19 +9324,19 @@ I think it will be admitted that the mode of confinement and labour in the hulks
 
 The Number of Convilis in the Hulks at the times they were visited in 1788.
 
-At Woolwich, July 16th, in the Justitia, - - 265.
+At Woolwich, July 16th, in the Justitia, - 265.
 
-... - - - Censor, - 248.
+... - - - Censor, 248.
 
-... - - - Staniilaus, - 228.
+... - - - Staniilaus, 228.
 
-At Plymouth, June N OO r in the Dunkirk, - 366.
+At Plymouth, June N OO r in the Dunkirk, 366.
 
-Gosport, July 7th, - - Lion - 273.
+Gosport, July 7th, - Lion - 273.
 
-Langflon Harbour, July 8th, in the Fortunee, - 338-
+Langflon Harbour, July 8th, in the Fortunee, 338-
 
-- - - - Ceres, - 119— -Total 1937.
+- - - - Ceres, 119— -Total 1937.
 
 • The great mortality that has happened among the canvi&s from the time they were first put on board
 
@@ -10204,7 +10204,7 @@ I i 2 Gosport
 
 TABLES
 
-Gosport Debtors, - O Felons &c. O Petty 'Offenders• 2
+Gosport Debtors, O Felons &c. O Petty 'Offenders• 2
 
 Guildford - O O 8
 
@@ -10866,7 +10866,7 @@ HOME CIRCUIT. NORFOLK CIRCUIT.
 
 Gaol Deliveries S^ttarter Total of Yearly Gaol Deliveries and Quarter Total of Yuriy
 
-Great Sessions* Sejicns, both. A jet age* Great Sessions* SejJions* both* * Average
+Great Sessions* Sejicns, both. A jet age* Great Sessions* Sessions* both* * Average
 
 E flex - 106 10 Il6 18 Bedfordftiiie 40 O 40 7
 
@@ -10934,7 +10934,7 @@ TABLES
 
 Gaol Deliveries Quarter Total of Yearly Gaol Deliver let Quarter Total of Yearly
 
-ana Great ScJJxons• Sejions, * both* Average, Great Sejfiont. Sessionu both• Average•
+ana Great ScJJxons• Sessions, * both* Average, Great Sejfiont. Sessionu both• Average•
 
 WESTERN CIRCUIT.
 
@@ -11554,7 +11554,7 @@ Dec. *779 to Dec. 0 00 I - 2 - 24 I l9 3 S®
 
 Dec. NI 00 0 to Dec. 1781. I - I - 33 5 - 40
 
-Dec. 1781 to Dec. 1782, - - - - 44 1 - 4S
+Dec. 1781 to Dec. 1782, - - - 44 1 - 4S
 
 Dec. * 00 to Dec. OO N - - 6 - 52 1 - 59
 
@@ -11700,7 +11700,7 @@ August 3°» 10 - - - - 2 7 - 1 10
 
 October 3l> 10 1 - - 1 6 4 - - 11
 
-December 14, - 1 - - X 1
+December 14, 1 - - X 1
 
 27* 3 - - 2 1 “ 3
 
@@ -12416,7 +12416,7 @@ Stafford county gaol, 173
 
 bridewell, 174 infirmary, 174 Staircase, remarkably cafy one, &i St. Albans prisons, 143 St. Briavelt’s gaol, 178 St. Catherine's gaol, 128 St. George's fields bridewell, 147 Stoll, Dr. censure of his opinion that the plague is not contagious, 42 Suffolk, 155
 
-Sunday school at Londonderry, 97 Surrey, 147 Sussex, 146 Swanfey, 215
+Sunday school at Londonderry, 97 Surrey, 147 Sussex, 146 Swansey, 215
 
 T.
 
@@ -12566,7 +12566,7 @@ demand parliamentary inquiry, 101
 
 Charter schools in Ireland, mailers pay 15 /. a year for the work of each child, 102 allowance increased, 104 the rent being advanced gives discontent, 107 allowance for soap too small 108 hints for their improvement, 118 remarks on 118
 
-penurioufncfs of the society prevent#
+penuriousness of the society prevent#
 
 subscriptions, 119
 
@@ -13078,7 +13078,7 @@ w FREDERICK KING OF PRUSSIA, Sec. &c* &C.
 
 " The inclosed copy of a privy order, dated 3d indant, (hows more circumdandally, in how far it is our will to have the torture in criminal cases abolidied.
 
-u In consequence hereof, you will conform yourselves mod dutifully to the fame, and act accordingly where it will be required.
+u In consequence hereof, you will conform yourselves mod dutifully to the same, and act accordingly where it will be required.
 
 u Berlin, (Was signed).
 

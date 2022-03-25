@@ -408,13 +408,13 @@ Although acquitted prisoners are by the late act in their favour* cleared of gao
 
 The Clerk of the Peace in one county demands as follows:
 
-For larceny, and acquitted, - £1 7 0
+For larceny, and acquitted, £1 7 0
 
-Petty larceny, - 1 8 4
+Petty larceny, 1 8 4
 
-Whipped publicly, - £1 3 4
+Whipped publicly, £1 3 4
 
-Bastardy, - 0 17 4
+Bastardy, 0 17 4
 
 16 BAD CUSTOMS.
 
@@ -452,13 +452,13 @@ In the spring 1776, I summed up carefully the total number of prisoners in the s
 
 i. In Middlesex, i. e. London and Westminster; together with three prisons in Southwark, viz. the King's Debtors. Felons, &c. Petty Offenders. Total»
 
-Bench, Marshalsea, and Borough-compter, - I274 228 194 1696
+Bench, Marshalsea, and Borough-compter, I274 228 194 1696
 
-2. In the other thirty-nine counties of England, - - 752 617 459 1828
+2. In the other thirty-nine counties of England, - 752 617 459 1828
 
-3. In the twelve counties of Wales, - - - 67 27 — 94
+3. In the twelve counties of Wales, - - 67 27 — 94
 
-4. In city and town-gaols, - - - - 344 122 — 4 66
+4. In city and town-gaols, - - - 344 122 — 4 66
 
 2437 994 653 4084
 
@@ -498,21 +498,21 @@ In the third column, under petty offenders are included a few felons occasionall
 
 I have found by carefully examining sundry gaols, that, upon an average, two dependants (by which I mean wives and children *) may be assigned to each man in prison. My computation is confirmed by the account which we have from the benevolent society at the Thatched-house, March 27, 1782, as follows. Since their institution in 1772,
 
-Discharged debtors, - 7196
+Discharged debtors, 7196
 
-who had wives, - - 4328
+who had wives, - 4328
 
-and children, - 13126
+and children, 13126
 
-Persons immediately benesited, - 24650.
+Persons immediately benesited, 24650.
 
 We have farther confirmation by the account from the Bristol society; who in their lift published May 31, 1775, have
 
-Persons discharged, - 73
+Persons discharged, 73
 
-who had wives, - *45
+who had wives, *45
 
-and children, - 120
+and children, 120
 
 Total 238.
 
@@ -532,9 +532,9 @@ PROPOSED IMPROVEMENTS.
 
 19
 
-If then to the total number in England and Wales, that is, 4084 You add twice that number of dependants, - 8168
+If then to the total number in England and Wales, that is, 4084 You add twice that number of dependants, 8168
 
-The number of the distressed is, - 1225a.
+The number of the distressed is, 1225a.
 
 It appears from the foregoing table of prisoners, that theit number has been greatly magnified by conjectural computations; but surely the real numbers, with those partaking of their distress, is an object worthy the farther attention of the legislature.
 
@@ -1248,11 +1248,11 @@ The condant Jupper, on week-days, for all, is buttermilk boiled with barley or g
 
 Cans.
 
-Each man has, during the three summer months, daily, of beer, - z\
+Each man has, during the three summer months, daily, of beer, z\
 
 and during the three winter months, ——
 
-and during the remaining six months, - 2
+and during the remaining six months, 2
 
 Boys, women and half-talked, for the three summer months, each, daily, ij
 
@@ -1460,11 +1460,11 @@ When I was there in June 1778,
 
 The First week, died 121. In November 1781, The First week, died 272.
 
-Second week, - 138. Second week, - 284.
+Second week, 138. Second week, 284.
 
-fune 1781, The First week. 176. In June 1783, The First week, - 168.
+fune 1781, The First week. 176. In June 1783, The First week, 168.
 
-Second week. 159. Second week, - 193.
+Second week. 159. Second week, 193.
 
 William Petty in his Trails, p. 186. gives for the year 1683 the number of burials in Amsterdam
 
@@ -5030,7 +5030,7 @@ On straw. - Men 99 — 126
 
 Women 22 — 0
 
-In the Infirmary, - Men *3 — 18
+In the Infirmary, Men *3 — 18
 
 Women *4 — 0
 
@@ -5044,13 +5044,13 @@ Some pay in this prison forty five livres a month for a room; forae twenty-two a
 
 t The number of prisoners May 16, 1783, in tht Grani-Chatekt.
 
-In rooms, - - 47.
+In rooms, - 47.
 
-On straw, - - 209.
+On straw, - 209.
 
-In dungeons, - 16.
+In dungeons, 16.
 
-In infirmaries, - 33.
+In infirmaries, 33.
 
 Total 305.
 
@@ -5774,9 +5774,9 @@ The Number of Prisoners,
 
 From Sept, ir, 1778, to Feb. 10, 1783, French 2669, Died 37*
 
-July 12, 1779, - - Spanish 185, 5.
+July 12, 1779, - Spanish 185, 5.
 
-Jan. 3, 178 x, - - Dutch 302, 6.
+Jan. 3, 178 x, - Dutch 302, 6.
 
 Total 3156 48.
 
@@ -6538,11 +6538,11 @@ Licence,
 
 Richard Akerman. lioo.
 
-Debtors, - £0: 8: 10.
+Debtors, £0: 8: 10.
 
-Felons, - - o: 18: 10.
+Felons, - o: 18: 10.
 
-Misdemeanors or Fines, o:14:10. Transports, - o: 14: 10.
+Misdemeanors or Fines, o:14:10. Transports, o: 14: 10.
 
 Beer and Wine.
 
@@ -6974,11 +6974,11 @@ I always found this prison clean. The tap is shut at ten every night. On Sunday,
 
 1774, April 27, Prisoners 29. 1779, Aug. 12, Prisoners 15.
 
-1776, March 7, - - - 31. 1782, Dec. 14, - - - 20.
+1776, March 7, - - 31. 1782, Dec. 14, - - 20.
 
--- May 15, - - - 29. 1783, Aug. 28, - - - 15.
+-- May 15, - - 29. 1783, Aug. 28, - - 15.
 
--- Dec. 26, - . - 13.
+-- Dec. 26, . - 13.
 
 A TABLE
 
@@ -7110,7 +7110,7 @@ of beef, and a peck of oatmeal. Mr. James Hodgson 0 10 0
 
 value I 0 0 Mr. John Kendrick I 10 0
 
-Lady M. North in bread , - 3 0 0 Lady Mary Carew - - 2 0 0
+Lady M. North in bread , 3 0 0 Lady Mary Carew - - 2 0 0
 
 Mr. William Roaper - I 0 0 Mr. John Jackson I 0 0
 
@@ -7502,13 +7502,13 @@ In the year 1772, Prisoners 1709
 
 In the year 1778, Prisoners 1027.
 
-1773> - - - 777. 1779, - - - 681.
+1773> - - - 777. 1779, - - 681.
 
-1774, - - - 808. I 1 O CO N 459*
+1774, - - 808. I 1 O CO N 459*
 
-177 5> - - - 1084. 1781, - - - 484.
+177 5> - - - 1084. 1781, - - 484.
 
-1776> - - -983- 1782, - - - 659.
+1776> - - -983- 1782, - - 659.
 
 1777> - - - 544-
 
@@ -7516,9 +7516,9 @@ In the year 1778, Prisoners 1027.
 
 1776, March ] Prisoners 20. 1782, Dec. 18, Prisoners 32*
 
-1, ... 7. 1783, Aug. 26, - - - 3».
+1, ... 7. 1783, Aug. 26, - - 3».
 
-3> I Oft. 31, - - - 41.
+3> I Oft. 31, - - 41.
 
 1779> Aug- 12> - - - 13.
 
@@ -7832,11 +7832,11 @@ Stepney and Hackney, 8cc.” imprisonment is fixed “ for a time not exceeding 
 
 1774, April 27, Prisoners 25. 1782, April 10, Prisoners 0.
 
-1776, May 7, - - - 23. Dec. 13, - - - 0.
+1776, May 7, - - 23. Dec. 13, - - 0.
 
-Nov. 13, - - - 20. Aug. 25, - - - 0.
+Nov. 13, - - 20. Aug. 25, - - 0.
 
-1777, Jan. 8, I 1 I to Oft. 16, - - - 0.
+1777, Jan. 8, I 1 I to Oft. 16, - - 0.
 
 1779> Aug. 11, ... 5.
 
@@ -7854,9 +7854,9 @@ This prison is at a public house, kept by an honest Swede, who is gaoler. There 
 
 1774, April 29, Prisoner 1. 1779, Aug. io, Prisoner o.
 
-1776, March 9, - - - o. 1782, Dec. 13, - - - o.
+1776, March 9, - - o. 1782, Dec. 13, - - o.
 
---- May 17, - - - 1.
+--- May 17, - - 1.
 
 St. CATHARINE'S GAOL.
 
@@ -8006,11 +8006,11 @@ Garnish, £0: 2: O.
 
 Number.,) In the House . In the Rules. In the House. In the Rules.
 
-1774, April 26, 324, - IOO. 177 9> oa. 26, 438, ~ 60.
+1774, April 26, 324, IOO. 177 9> oa. 26, 438, ~ 60.
 
 1776, Jan. 28, 364, 80. 1782, Jan. 2, 45°, ~ 7-
 
-— May 28, 395> (See Remarks.) — Dec. 28, 485, - 3°-
+— May 28, 395> (See Remarks.) — Dec. 28, 485, 3°-
 
 U79> Aug. II, 5 - 75- 178 3> Aug. 23, 532> " 5°.
 
@@ -8576,7 +8576,7 @@ Fees, Debtors, £0: 7:0.
 
 Felons, o:11:4.
 
-Transports, - o:10:6 from the contractor.
+Transports, o:10:6 from the contractor.
 
 Licence, Beer and Wine.
 
@@ -8590,11 +8590,11 @@ Number,
 
 1774, 1776,
 
-May 4t Debtors. Felons See. 37> " 4- 1779, Aug. 10, Debtors. Felons l6, - 2.
+May 4t Debtors. Felons See. 37> " 4- 1779, Aug. 10, Debtors. Felons l6, 2.
 
-March 10, - 3- 1782, Jan. 2, 14, - 4.
+March 10, 3- 1782, Jan. 2, 14, 4.
 
-May 2, 18, - 2. Dec. 15, i5> - 3*
+May 2, 18, 2. Dec. 15, i5> - 3*
 
 Nov. 13> 15> *783, Aug. 25, 25,*2.
 
@@ -8780,15 +8780,15 @@ HERTFORDSHIRE.
 
 each prisoner daily with a pound of bread. Fees, ^0:4: 6. Debtors fees, as at the county gaol. Clauses against spirituous liquors not hung up.
 
-1774, Dec. 14, Prisoners 4. 1776, Feb. 14, - - 7.
+1774, Dec. 14, Prisoners 4. 1776, Feb. 14, - 7.
 
--- Nov. 22, - - 4.
+-- Nov. 22, - 4.
 
 1779, Sep. 27, Prisoners 1.
 
-1782, April 9, - - 4. one a Debtor.
+1782, April 9, - 4. one a Debtor.
 
-1783, Oft. 23, - - 7.
+1783, Oft. 23, - 7.
 
 BRIDE-
 
@@ -8798,19 +8798,19 @@ HITCHIN. In the work-house yard, a room for men 20~ feet by 104.; and over it tw
 
 1776, Feb. 14, Prisoners 2. 1782, April 9, Prisoners 1.
 
-*779, Oft. 21, - - o. ..... Dec. 2, - -3.
+*779, Oft. 21, - o. ..... Dec. 2, -3.
 
 BERKHAMSTEAD. A ward for men, and another for women. A dungeon down9Reps, 13 feet by 94, and 6 feet 3 inches high: earth floor, very damp, no window: no chimney: no bedsteads: no straw. Keeper's salary, £20: no fees: has the profit of the prisoners work. They are sometimes employed in chopping rags. Allowance, a pound of bread a day.
 
-1776, Nov. 2, Prisoners o. 1779, April23, - - 1.
+1776, Nov. 2, Prisoners o. 1779, April23, - 1.
 
-1782, Oft. 31, - - o.
+1782, Oft. 31, - o.
 
 BUNTINGFORD. Two rooms; one for men, 19 feet by 8'; the other a new one for women, 13 feet by 10. No fire-place. Offensive fewer. No court: no water. The keeper has a large garden. Salary,:1.: 4.
 
 1779,- Sep. 27, Prisoner 1.
 
-1782, May 6, - - 1.
+1782, May 6, - 1.
 
 At St.. ALBAN'S are,
 
@@ -8834,9 +8834,9 @@ hung up. — The debtors from the court of requests (debts under 40$.) are confi
 
 1776, Nov. 3, Debtors 2. Felons &c. 2.
 
-1779, April 24, - 0. - 0. Deserter 1.
+1779, April 24, 0. - 0. Deserter 1.
 
-1782, May 7, - 1. - 1.
+1782, May 7, 1. - 1.
 
 THE LIBERTY GAOL, for twenty-two parishes, is the property of lord SaliJBury.. For debtors, two spacious day-rooms, and three lodging-rOoms. — For felons, three offensive rooms. When there are men and women, they cannot be properly separated. — One of the windows is towards the road, through which tools were lately conveyedy which facilitated the escape of an atrocious criminal. — No draw: no court. Salary, £16. Licence for beer. Clauses against spirituous liquors not.hung up. Fees, 13 s. 4 d. no table.
 
@@ -8844,17 +8844,17 @@ THE LIBERTY GAOL, for twenty-two parishes, is the property of lord SaliJBury.. F
 
 --- Nov. 3, Debtor 1.
 
-1779, April 24, - 0. Felon &c. 1. Deserters 2.
+1779, April 24, 0. Felon &c. 1. Deserters 2.
 
-1782, May 7, - 0. - 0.
+1782, May 7, 0. - 0.
 
 THE BRIDEWELL for the Liberty, and for the Borough, joins to the Liberty gaol. One large work-room, and two lodging-rooms; all up stairs, and airy. No court: no water: no allowance: no straw. Prisoners have their earnings. Clauses against spirituous liquors not hung up. Keeper's salary for the liberty, ^28; for the borough, £2: no fees. In 1779, I found a girl, who was sentenced for a year's imprisonment, locked up all the day with two soldiers in the work-room: and at my last visit, a girl and a boy were confined together.
 
 1776, March 1, Prisoners 2. 1779, April 24, Prisoners 3.
 
--- Nov. 2, - 0.
+-- Nov. 2, 0.
 
-1782., May 7, - 2.
+1782., May 7, 2.
 
 ESSEX,
 
@@ -8966,9 +8966,9 @@ CHELMSFORD. On the ground-floor a large work-room, a kitchen, and a lodging-room
 
 1774, Dec. 6, Prisoners 18. 1779, April 7, Prisoners 27,
 
-1775, Oft. 19i - - - 15. 1782, July 12, - - - 28.
+1775, Oft. 19i - - - 15. 1782, July 12, - - 28.
 
-1776, Nov.20, - - -21. 1783, Oft* - - - 31*.
+1776, Nov.20, - -21. 1783, Oft* - - - 31*.
 
 COLCHESTER. The. castle,.the property of the late~ Charles Gray, Esq. was
 
@@ -8998,13 +8998,13 @@ but it has been lately arched over. Little or no employment: the wards are dark,
 
 1774, Fe.b. 14, Prisoners 1. 1779, April 7, Prisoners 1.
 
-1776, Nov. 19, - - - 3. 1782, July 11, - - - 3.
+1776, Nov. 19, - - 3. 1782, July 11, - - 3.
 
 NEWPORT. Built in 1775. The front is elegant, yet plain: in it are the keeper's apartments; and a room for the justices. Behind is the men's court; in the middle of which is a pump. On the farther side, a large work-room on the ground-floor with a fire-place (the only one in the prison), and a smaller workroom over it: so that too many need not work together. There is a lodging-room even with the upper work-room. On the left side of the court are two lodging-rooms on the ground-floor, and two above. In all these lodging-rooms are boarded bedsteads: the sewers are offensive. The keeper has a view of this court from two of his back windows. — Women have a small room on the ground-floor; and one over it, io^- feet square. These, though they join to the last-mentioned rooms for men, have no communication with them: you go to them through one of the keeper's rooms: the court quite separate. But the rooms being too small for the number of women, at my three last: visits I found them in the men's ward. If lwo of the men's rooms were added to the women's, there might always be an entire separation. No infirmary. Allowance now, two pounds of bread each. Straw, £2 a year. Firing in winter, two guineas. Keeper's salary, .£25: now; C32:n0 fees- Clauses against spirituous liquors not hung up. — If a latticed partition and door were made in the court, about fix feet from the keeper's door, it would prevent the prisoners from ruffling out.
 
 1776, Dec. 6, Prisoners 3. 1782, May 5, Prisoners 10.
 
-1779, Sep. 26, - - - 9. ----- July 12, - - - 13.
+1779, Sep. 26, - - 9. ----- July 12, - - 13.
 
 HALSTED. This ho.use was rented of the trustees of Martins charity. Men and women had a separate work-room, and a separate lodging-room. There was a room for the sick. All out of repair. A court which men used one part of the day, women another. No water. Keeper's salary, ^32: no fees.
 
@@ -9016,7 +9016,7 @@ prisoners did spin, but were not allowed any part of what they earned. — This 
 
 3779, April 6> - - - 5- Impressed Men 2.
 
-3782, July 11, - - - o.
+3782, July 11, - - o.
 
 BARKING.
 
@@ -9028,9 +9028,9 @@ BARKING. A room for men, the fore-gaol; 15 feet by iot; 7 feet high; two windows
 
 1776, Nov. 28, Prisoners 1.
 
-1779, April 8, - - 1. Impressed Men 5.
+1779, April 8, - 1. Impressed Men 5.
 
-1782, Dec. 27, - - 3.
+1782, Dec. 27, - 3.
 
 COLCHESTER TOWN GAOL and BRIDEWELL.
 
@@ -9052,9 +9052,9 @@ Two rooms towards the street; no chimneys:a back room called the dark gaol, and 
 
 KEN T.
 
-1776, Nov. 19, Debtors 2. Felons &c. 1779, April 7, - - o. -
+1776, Nov. 19, Debtors 2. Felons &c. 1779, April 7, - o. -
 
-1782, July 11, - - 1. -
+1782, July 11, - 1. -
 
 Bridewells.
 
@@ -9078,7 +9078,7 @@ Fees, Debtors, £0:12:4.
 
 Felons, o:15 .*4.
 
-Transports, - o:15:o each, and the fees. Licence, now wine. See Salary.
+Transports, o:15:o each, and the fees. Licence, now wine. See Salary.
 
 PRISONERS,
 
@@ -9222,7 +9222,7 @@ No table; but printed rules, orders and regulations established under the acts o
 
 1779> APril l6> ' -
 
-1782, Dec. 4, - - 15. Deserter r.
+1782, Dec. 4, - 15. Deserter r.
 
 CANTERBURY. Men and'women separate. The latter have the back court in which is their ward. The men have a hall or kitchen to the street, and three wards or night-rooms 15 feet by 13, which open into a passage near feet wide. No court. Out of the keeper's garden or yard might be taken a court for the men. There is no water within reach of the men; yet I found the prison clean, and regularly white-washed. An alarm-bell is lately put up. County allowance, two pennyworth of bread a day (weight Dec. 5, 1782, 18 oz.). No employment. In 1776, the justices abolished the fees 13 s. 4d. and raised the salary from £25
 
@@ -9236,7 +9236,7 @@ to £40. Licence for beer. Surgeon, Mr. Le'grand. This prison is unhealthy from 
 
 1774, April 13, Prisoners 8. 1779, April 16, Prisoners 4.
 
-1776, Feb. 17, - - 13. 1782, Dec. 5, 11.
+1776, Feb. 17, - 13. 1782, Dec. 5, 11.
 
 --- May 25, 6.
 
@@ -9252,7 +9252,7 @@ Here are three dungeons (12 feet by 5), damp, and not secure. The floors Should 
 
 1779, ----- -----' 5.
 
-1782, Dec. 3, - - 5.
+1782, Dec. 3, - 5.
 
 CANTERBURY CITY GAOL,
 
@@ -9304,7 +9304,7 @@ Offensive sewers: no court; one might be made from the keeper's garden: no water
 
 1776, Feb. 17, Prisoners 4.
 
-1779, April 17, - - 3.
+1779, April 17, - 3.
 
 1782, Dec. 6, 2.;
 
@@ -9352,7 +9352,7 @@ Salary, £120 of late 5 in lieu of all fees: now £ i00. (See Remarks.) Fees, De
 
 Felons, IO'
 
-Transports, - 2:2:0 each.
+Transports, 2:2:0 each.
 
 Licence, Wine,
 
@@ -9478,9 +9478,9 @@ LEWES. Here men and women have similar but separate apartments; a kitchen, five 
 
 1776, Feb. 21, Prisoners 5.
 
-1779, April 19, - - 8.
+1779, April 19, - 8.
 
-1782, Dec. 7, - - 7.
+1782, Dec. 7, - 7.
 
 PETWORTH. This bridewell has two rooms: one 17 feet by 10, the other 18 by 9, 6 feet high: too small for the general number of prisoners. No chimney: no glass or shutters to the windows: no court: no water: no employment. Allowance w, a two-pound loaf every day, to be weighed by the keeper with scales and weights ordered to the house by the justices and which should be kept for that purpose only. Keeper's salary lately augmented from £ 12 to £20. Fees, 6 s. 8 d. no table. But now the keeper's salary is augmented to ^30 in lieu of all fees.
 
@@ -9492,7 +9492,7 @@ SUSSEX;
 
 1774, Sept. 28, Prisoners 4. 1779, March 8, Prisoners 2.
 
-1776, Feb. 23, - - 8. 1782, Nov. 7, - - o.
+1776, Feb. 23, - 8. 1782, Nov. 7, - o.
 
 273
 
@@ -9502,7 +9502,7 @@ BATTEL. Two rooms 14 feet by 124; in one of which is a chimney: in the other, th
 
 1779, April 18, Prisoners o.
 
-1782, Dec. 7, - - o.
+1782, Dec. 7, - o.
 
 CHICHESTER CITY GAOL and BRIDEWELL,
 
@@ -9518,7 +9518,7 @@ RYE Town Gaol. An old tower called Tpres-fort. One of the three lower rooms is a
 
 1779, April 18, Prisoners o.
 
-1782, Dec. 6, - - o.
+1782, Dec. 6, - o.
 
 EAST-GRINSTEAD Prison*. Under the court, a room 6 feet 8 inches fcpiare, and 5 feet 8 inches high. The constable is keeper.
 
@@ -9694,7 +9694,7 @@ St. GEORGE'S FIELDS. Built 1772. Separate wards and courts for men and women. In
 
 1776, March 14, Prisoners 25. 1776, Dec. 25, Prisoners 29.
 
-.. April 30, - - 24. 1779, Aug. 9, - - 44*
+.. April 30, - 24. 1779, Aug. 9, - 44*
 
 .Of
 
@@ -9722,9 +9722,9 @@ This prison was burnt by the rioters in 1780, and (as appears by the inscription
 
 1782, Dec. 16, Prisoners 17.
 
-1783, Aug.22, - - 32.
+1783, Aug.22, - 32.
 
------ Oft. 29, - - 37.
+----- Oft. 29, - 37.
 
 KINGSTON upon Thames. This bridewell, built in 1775, has a house for the keeper; and separate wards for men and women; with separate courts, work-shops, pumps, &c. Each ward has two lower rooms, three steps above the
 
@@ -9760,7 +9760,7 @@ Quarter sessions are held Lady-Day at Ryegate, Midsummer at Guildford, Michaelma
 
 1776, April 26, Prisoners 4. 1782, Nov. 9, Prisoners 17. Deserter 1.
 
-1779, March 11, - - 6. 1783, Oft. 21, - - 12/
+1779, March 11, - 6. 1783, Oft. 21, - 12/
 
 GUILDFORD
 
@@ -9772,7 +9772,7 @@ GUILDFORD BRIDEWELL, in 1776, had four rooms, besides the infirmary (lately a li
 
 1773, Dec. 17, Prisoners 6. 1779, March 9, Prisoners 3.
 
-1776, Feb. 24, - - 6. 1782, Nov. 8, - - 3. Deserter 1.
+1776, Feb. 24, - 6. 1782, Nov. 8, - 3. Deserter 1.
 
 KINGSTON TOWN GAOL.
 
@@ -9920,9 +9920,9 @@ AYLESBURY. The two work-rooms, and the lodging-rooms, are small: one of the latt
 
 j774jNov. 12, Prisoners 2. 1779, Feb. 25, Prisoners 3.
 
-177^a Jan* 3> "3* 1782, April 29, - - 2.
+177^a Jan* 3> "3* 1782, April 29, - 2.
 
-.. Nov. 2, - 1.
+.. Nov. 2, 1.
 
 O o
 
@@ -9946,11 +9946,11 @@ NEWPORT PAGNEL. Two cells in the back court of a public house, 7 feet by 64, and
 
 1779, March 24, Prisoners o.
 
---061. 13, - - o.
+--061. 13, - o.
 
-1782, July 15, - - o.
+1782, July 15, - o.
 
-r Nov. 28, - o.
+r Nov. 28, o.
 
 WEST-WYCOMB. This prison was lately removed from High-Wycomb, and the keeper was dismissed at the Michaelmas sessions 1778 for inattention. It confifh of two garrets in the present keeper's house. The windows are almost closed up by strong planks nailed across for security: his salary, ^20. — In 1782 I found this prison again removed to High-Wycomb. It consists of two small rooms in the back court of the keeper's public house, about 7 feet by 3, and 6 feet high: apertures in the doors: a court about 10 feet by fix: no water. Prisoners are here committed to hard labour.
 
@@ -10148,9 +10148,9 @@ Consists of three rooms about 134- feet by 114, on the ground-floor; no fire-pla
 
 1776, Feb. 13, Prisoners 3.
 
-1779, Oft. 16, - - 2.
+1779, Oft. 16, - 2.
 
-1782, JuJyi?, - - 4.
+1782, JuJyi?, - 4.
 
 BEDFORD TOWN GAOL.
 
@@ -10158,7 +10158,7 @@ Two new rooms with fire-places. No apartment for the gaoler. No court: no water.
 
 1779, Oft. 16, Prisoner o.
 
-1782, July 17, - - 1.
+1782, July 17, - 1.
 
 Bedford
 
@@ -10200,17 +10200,17 @@ Garnish, Debtors, 0:2:6.
 
 Number, Debtors. Felons &c.
 
-1773, Nov. 5, - 7, - 4. 
+1773, Nov. 5, 7, 4. 
 
-1774, Jan. 29, - 7, - 3. 
+1774, Jan. 29, 7, 3. 
 
-1775, Nov. 9, - 4, - 5.
+1775, Nov. 9, 4, 5.
 
-1776, Sep. 27, - 3, - 6.
+1776, Sep. 27, 3, 6.
 
-1779, Sep. 22, - 11, - 14. Deserters 4.
+1779, Sep. 22, 11, 14. Deserters 4.
 
-1782, May 4, - 7, - 6.
+1782, May 4, 7, 6.
 
 CHAPLAIN, Rev. Mr. Brock. Now no Chaplain. (See Remarks.)
 
@@ -10360,9 +10360,9 @@ Is in the cattle-yard; and joins to the gaoler's house. It consists of two work-
 
 1774, Dec. 13, Prisoners 4. 1779, Sep. 23, Prisoners 7.
 
-1776, Feb. 9, - - 6. 1782, Feb. 6, - ~ 8.
+1776, Feb. 9, - 6. 1782, Feb. 6, ~ 8.
 
--- Sep. 27, - 1.
+-- Sep. 27, 1.
 
 There are Jfo at CAMBRIDGE the
 
@@ -10416,7 +10416,7 @@ The bridewell Hands in the back yard of the keeper's house; which was bought and
 
 1774, Dec. 13, Prisoners 3. 1779, Sep. 23, Prisoners 6, and one lunatic.
 
-1776, Ser. 28, - - 7. 1782, Feb. 7, - - 3.
+1776, Ser. 28, - 7. 1782, Feb. 7, - 3.
 
 ELY
 
@@ -10490,9 +10490,9 @@ ELY. This prison (built 1651) consists of one 'room below for men (16 feet by 15
 
 1774, Dec. 13, Prisoners 2. 1779, Sep. 23, Prisoners 2.
 
-1776, Feb. 9, - - 3. 1782, Feb- 6, - - 3.
+1776, Feb. 9, - 3. 1782, Feb- 6, - 3.
 
---- Sep. 28, - 1.
+--- Sep. 28, 1.
 
 WISBECH. This is also a gaol. There is a descent to it of 5 Heps. Two rooms below (the work-room 15 feet by 12), and two above. No court: no water accessible to prisoners. Allowance, a penny a day: straw, twenty shillings a year. Clauses of act again!! spirituous liquors, and the act for preserving the health of prisoners not hung up. Keeper's salary, £16: no fees. — This prison might be improved on the keeper's garden.
 
@@ -10500,9 +10500,9 @@ WISBECH. This is also a gaol. There is a descent to it of 5 Heps. Two rooms belo
 
 1779, March 29, Debtors 2. ImprefiTed Men 3.
 
---- Oft. 10, - - 1. Felon &c. - 1.
+--- Oft. 10, - 1. Felon &c. - 1.
 
-1782, Feb. 4, - 1. Deserter - 1. Lunatic 1.
+1782, Feb. 4, 1. Deserter - 1. Lunatic 1.
 
 An unhappy debtor may be an honest man; but, “ Evil communications corrupt good manners.
 
@@ -10524,7 +10524,7 @@ Salary, none: he pays the under-sheriff £31:10:o per annum. Fees, Debtors, £0:
 
 Felons, o:13:4.
 
-Transports, - 5: 15:6 each.
+Transports, 5: 15:6 each.
 
 Licence, Beer and Wine.
 
@@ -10656,19 +10656,19 @@ SWAFFHAM. Three rooms below; one of which, a lodging-room for men, is too close 
 
 1774, Dec. 11, Prisoners 7.
 
-1776, Feb. 3, - - 5, with a lunatic.
+1776, Feb. 3, - 5, with a lunatic.
 
-I7, March 29, - -».7incIudi ngthelunatic.
+I7, March 29, -».7incIudi ngthelunatic.
 
-1782, Feb. 5, - - 5,i 0
+1782, Feb. 5, - 5,i 0
 
 WYMUNDHAM. A day-room; with three closets on one side of it, for night-rooms, about 6 feet by 4. A prisoner complained to me of being obliged to lie in one of these closets, with two boys who had a cutaneous disorder. There is another room for women, in which, at my visit in 1779, there were four dirty and sickly objects at work with padlocks on their legs, though they are never out in the court except on Sundays. The very small quantity of straw on the floor was worn almost to dull. There is a dungeon down eight steps with the flocks in it. It is 15^ feet by 8, and 6 feet high 5 now arched with brick; a dirt floor; has two apertures at the top, of a foot diameter. The justices seem to have overlooked a clause in a late act of parliament (14th Geo. III. Chap. XLIII.) “ to prevent the prisoners from being kept under ground, whenever they can do it conveniently,” as there is abundant room on the premises. Neither the rooms nor the spacious court secure. Prisoners in this bridewell are not only confined within doors, but generally in irons. Keeper's salary, /16: no fees. Allowance to those suspected of felony, four pence a day. Straw, £1:1; o a year. Clauses against spirituous liquors not hung up.
 
 1776, Nov. 17, Prisoners 5.
 
-1779, March 30, - - 5.
+1779, March 30, - 5.
 
-1782, July 6, - - 9.
+1782, July 6, - 9.
 
 AYLSHAM. In the floor of the work (or day) room is a trap-door into a dungeon, which is 9! feet by 6. Above stairs are three rooms, not secure. No fire-place: no straw: court not secure; prisoners in it only on Sundays: no water: no sewer: no implements for work: no allowance, but two pennyworth of bread a day to vagrants. Keeper's salary, £13:6:8.
 
@@ -10706,7 +10706,7 @@ Fees, Debtors, £0: 6:8.
 
 Felons, o:13:4.
 
-Transports, - 5:5:0 each.
+Transports, 5:5:0 each.
 
 Licence, Beer and Wine.
 
@@ -10802,7 +10802,7 @@ of the prisoners are women.-Keeper's salary,
 
 1774, Dec. 10, Prisoners 3.
 
-1776, Feb. 5, - - 5-
+1776, Feb. 5, - 5-
 
 1779, March 31, Prisoners 7.
 
@@ -10820,7 +10820,7 @@ enlarged in the mayoralty of William Holmes, Esq. 1781.” The new part consists
 
 1774, Dec. 9, Prisoner 1. 1779, Sept. 24, Prisoner 1.
 
-1776, Nov. 18, - - o. *782, July 6, - - o.
+1776, Nov. 18, - o. *782, July 6, - o.
 
 Thetford. A Table of Fees to be taken in this Gaol.
 
@@ -10874,9 +10874,9 @@ YARMOUTH Town Gaol. Besides the gaoler's house, in which are four rooms for mast
 
 1776, Feb. 6, Debtors 6, Felons &c. 14.
 
-1779, April 3, - - 4, - - - 4.
+1779, April 3, - 4, - - 4.
 
-1782, July 8, - - 4, - - - 2.
+1782, July 8, - 4, - - 2.
 
 Great Yarmouth. A Ta elk of Fees to be taken by the Gaoler of this Burgh pursuant to an Order of
 
@@ -10952,7 +10952,7 @@ YARMOUTH Town Bridewell. In the work-house yard. Four rooms; a fire-place in one
 
 1776, Feb. 6, Prisoners o.
 
-1779, April 3, - - o.
+1779, April 3, - o.
 
 1782, July 8, Debtor 1, Petty Offender 1.
 
@@ -11094,7 +11094,7 @@ The above was the state of the prison in 1776, but at my visit in 1779, I found 
 
 1774, Dec. 8, Prisoners 1. 1779, April 5, Prisoners o.
 
-1776, Feb. 7, - - 3. 1782, July 9, - - 2.
+1776, Feb. 7, - 3. 1782, July 9, - 2.
 
 ..... Nov. 18,
 
@@ -11108,9 +11108,9 @@ WOODBRIDGE. Two rooms, lately enlarged, 28 feet by 16: in these are beds -and be
 
 1776, Feb. 7, Prisoners 9.
 
-1779» April 4, - - 1.
+1779» April 4, - 1.
 
-1782, July 9, - - 4-
+1782, July 9, - 4-
 
 BECCLES. A room on the ground-floor, called the ward, a chamber for women, called the upper ward, a day-room with a fire-place; and a dungeon 7 steps under ground. In the ward is a window to the street which is highly improper, as I have always seen numbers of idle persons crowding about it. No proper separation of the men and women. Only one court. The keeper has a large garden. — Salary,^11:10:o. Licence for beer (a riotous alehouse). Clauses against spirituous liquors not hung up. Fees, 6s. Bd. Allowance, a two-penny loaf a day (weight,.July 9, 1782, 2002.). Thirty shillings a year for straw. ^5 a year for coals. When prisoners work they have half the profit.
 
@@ -11210,11 +11210,11 @@ LAVENHAM. A work-room below:a chamber for men; only one room for women: none of 
 
 1776, Nov. 18, Prisoners 2.
 
-1779, April 6, - - 3. Impressed Men 15.
+1779, April 6, - 3. Impressed Men 15.
 
---- Sep. 25, - - 3.
+--- Sep. 25, - 3.
 
-1782, July 10, - - 1.
+1782, July 10, - 1.
 
 CLARE. A work-room. Two lodging-rooms with boarded bedsteads. No chimneys. The work-room close glazed, and made offensive by a closet in it. No court. Prisoners have no access to the well of fine water. The prison is
 
@@ -11226,9 +11226,9 @@ thatched, the walls are clay, but the men's lodging-room boarded; and the whole 
 
 1779, April 6, " 3-
 
-... Sep. 25, - - 1.
+... Sep. 25, - 1.
 
-1782, July 10, - - o.
+1782, July 10, - o.
 
 Impressed Men 2.
 
@@ -11284,7 +11284,7 @@ place; and two little rooms for them to lodge in, about 7 feet by 5 each. A room
 
 1776, Dec. 6, Prisoners o.
 
-1779, Sep. 25, - - o.
+1779, Sep. 25, - o.
 
 WARWICK,
 
@@ -11434,15 +11434,15 @@ At my last visit, the prisoners were all at work; beating hemp, spinning flax or
 
 C- S. D.
 
-And from July 10, 1780, to 0*51. 2, - 5:8:0.
+And from July 10, 1780, to 0*51. 2, 5:8:0.
 
-Jan. 9, 1781, to April 24, - 4 16:o,
+Jan. 9, 1781, to April 24, 4 16:o,
 
 Odt. 3, — to Jan. 15, 1782, 9: 1:2.
 
-1774, Nov. to, Prisoners r. 1776, Jan. 6, - - 5. -- Oft. 30, - - 12.
+1774, Nov. to, Prisoners r. 1776, Jan. 6, - 5. -- Oft. 30, - 12.
 
-1779, March 26, Prisoners 12. 1782, May 1, - - 10-
+1779, March 26, Prisoners 12. 1782, May 1, - 10-
 
 3°9
 
@@ -11560,9 +11560,9 @@ This was the state in 1776; but now the old town-hall adjoining is made into a w
 
 1776, Jan* 7» Prisoners 6. 1770, Nov. 25, Prisoners j.
 
-... Oct. 30, 3. 1782, May 1, - - 4.
+... Oct. 30, 3. 1782, May 1, - 4.
 
-1779, March 26, - - 1.
+1779, March 26, - 1.
 
 Coventry City Gaol.
 
@@ -11592,13 +11592,13 @@ preserving the health of prisoners, are hung up.
 
 1774, Nov. 10, Debtors 7, Offenders 2.
 
-1776, Sep. 11, - - 7, - - 5-
+1776, Sep. 11, - 7, - 5-
 
-1779, AuS- 23, - 0, - - 8.
+1779, AuS- 23, 0, - 8.
 
-1782, June 24, - - 0, 0. Deserter 1.
+1782, June 24, - 0, 0. Deserter 1.
 
-Nov. 26, - 0. - - 3' - - 1.
+Nov. 26, 0. - - 3' - - 1.
 
 BIRMINGHAM Court Prison for Debtors. Two rooms below: and two above with beds, for which each prisoner pays is. 6d. per week. Only one day-room for men and women: a court 13 feet 10 inches by 13 feet: no water. Court of conscience debtors are here confined, who by 25th Geo. II. are discharged in forty days. Fees, 5 s. Clauses against spirituous liquors not hung up. The prisoners are not permitted to work. The keeper informed me that he was obliged to pay a (hoe-maker's debt of sixteen or seventeen shillings and costs, for permitting him to finish a piece of work which he had begun before his confinement.
 
@@ -11746,7 +11746,7 @@ Committed from Easter Sessions 177910 1780, prisoners forty-four — from 1780 t
 
 1775, Jan. 3, Prisoners 3. 1779, Mar. 27, Prisoners 8.
 
-1776, Oft. 29, 2. 1782, May 2, - - 2.
+1776, Oft. 29, 2. 1782, May 2, - 2.
 
 MELTON-MOWBRAY. Two rooms about eleven feet by nine: no chimney. Keeper's salary, £4. He formerly paid rent for a cottage, but the county has lately built him a little dwelling of three rooms. — No court, nor any room for one. No water.
 
@@ -11864,9 +11864,9 @@ Is in the town gaol; down five steps, two small rooms for men, and two for women
 
 3776, Odt. 29, Prisoners o.
 
-1779, March 27, - - o.
+1779, March 27, - o.
 
-3782,. May 2, - o.
+3782,. May 2, o.
 
 DERBYSHIRE.
 
@@ -11994,7 +11994,7 @@ Chester-
 
 1776, Jan. 10, Prisoners 2. 1779, May 14, Prisoner 1. Impressed 3. Defr. 1,
 
-..... 061.28, 1. 1782, Jan. 24, - 3. Deserter I *.
+..... 061.28, 1. 1782, Jan. 24, 3. Deserter I *.
 
 DERBY — T OWN GAOL
 
@@ -12002,15 +12002,15 @@ Is also the bridewell. Two rooms for debtors; one for felons; three for petty of
 
 1776, 061; . 29, Debtors 2. Felons See. 2.
 
-1779, May 14, - - o. - o.
+1779, May 14, - o. - o.
 
-1782, Jan. 23, - - 4. - - 2.
+1782, Jan. 23, - 4. - - 2.
 
 CHESTERFIELD Gaol, For the hundred of Scarsdale, is the property of the duke of Portland; to whom, or to his steward, the gaoler pays ^18:12:o a year. Only one room with a cellar under it; to which the prisoners occasionally defeend through a hole in the floor. The cellar had not been cleaned for many months. The prison-door had not been opened for several weeks, when I was there first. There were four prisoners, who told me they were almost starved: one of them said, with tears in his eyes, “ he had not eaten a morsel that day; ” it was afternoon. Their meagre sickly countenances confirmed what they said. They had borrowed a book of Dr. Minton's; one of them was reading it to the rest. Each of them had a wife; and they had in the whole thirteen children, cast on their respective parishes. Two had their groats from the creditors; and out of that pittance they relieved the other two. No allowance: no straw: no firing: water a halfpenny for about three galions, put in (as other things are) at the window. Gaoler a bailiff, lives distant. I found in this prison a strong bedstead, which had been compassionately left by a poor prisoner, that it might be some relief to his unhappy successoi s.
 
 1776, Jan. 10, Debtors 4. 1779, May 14, Debtors o.
 
---- Odt. 28, - - 1. 1782, Jan. 24, - o.
+--- Odt. 28, - 1. 1782, Jan. 24, o.
 
 This deserter had been before confined here for desertion, his brother was in another prison for the same offence; they followed the example of their father, who was a deserter, and was afterwards transported; and their grandfather was a dragoon, who deserted with his horse and accoutrements, and was never taken. The keeper's mother, who was a near neighbour to the grandfather, was my informant.
 
@@ -12200,7 +12200,7 @@ keeper's. Here was committed a shoemaker for twelve months, with an order (highl
 
 1775, Jan* 4> Prisoners 9. 1779, Sep. 20, Prisoners 17.
 
-1776, Sep. 24, - - 13. 1782, Nov. 17, - - 9.
+1776, Sep. 24, - 13. 1782, Nov. 17, - 9.
 
 NOTTINGHAM TOWN and COUNTY GAOL.
 
@@ -12214,7 +12214,7 @@ o:14:8 if from any court in London.
 
 Felons, o: 14: 8.
 
-Transports, - 7: 17: 6 each.
+Transports, 7: 17: 6 each.
 
 Licence, See County Gaol.
 
@@ -12302,19 +12302,19 @@ Felons, each weekly 8 lb. of bread, and 2 d. for beef: in common yearly £2, for
 
 Garnish, £0: 2: 6.
 
-Number, - Debtors. - Felons &c.
+Number, Debtors. - Felons &c.
 
-1774, Jan. 27, - 22 - 11.
+1774, Jan. 27, 22 - 11.
 
-1774, Oct. 29, - 14 - 9.
+1774, Oct. 29, 14 - 9.
 
-1776, Jan. 31, - 23 - 18.
+1776, Jan. 31, 23 - 18.
 
-1776, Sep. 23, - 12 - 3.
+1776, Sep. 23, 12 - 3.
 
-1779, May 6, - 22 - 14.
+1779, May 6, 22 - 14.
 
-1782, Feb. 1, - 30 - 3.
+1782, Feb. 1, 30 - 3.
 
 Dutch prisoners of war 7*.
 
@@ -12482,9 +12482,9 @@ GAINSBOROUGH. Two lodging-rooms*, and a day-room below, and two rooms up (lairs:
 
 *776* Jan. 30, Prisoners 3.
 
-1779, May 6, - - 5. Lunatics 3.
+1779, May 6, - 5. Lunatics 3.
 
-1782, Jan. 31, - - 4. - - 2.
+1782, Jan. 31, - 4. - - 2.
 
 FOLKINGHAM. In this prison under the keeper's house are five damp rooms, two of which were used for a lunatic, who was confined here some years. The men's lodging-room (18 feet by 9 feet 9 inches and 6 feet 9 inches high), has only an aperture in the door a foot square into the work-room. The women's room is 13 feet by 8, and 6 feet 2 inches high. — In another room 204 feet by 12 (called the old gaol), you go down by a trap-door in the floor seven steps into a horrid dungeon (i0 feet square, 54 feet high). No chimney: finall court: no pump: no sewer. Yet a woman with a child at her bread was sent hither
 
@@ -12516,13 +12516,13 @@ pennyworth of bread a week. Fees, 9s. 4 d. no table.
 
 1774, Oft. 28, Prisoners 4. 1782, Feb. 2, Prisoners 2.
 
-1779, May 5, - - 2. Lun. 1.
+1779, May 5, - 2. Lun. 1.
 
 SPALDING. This prison, lately built, has several sizeable airy rooms 13 feet by 10: chimneys in two of them. A work-room 28 feet by 94. The underrooms vaulted, 124 feet by 94, and 7 feet high: the entrance is by a trap-door from the upper rooms. There is a pump now in the court, which not being secure, the prisoners have no access to it. Allowance, three pence a day. When they work they have three fourths of the profit; turnkey, the remainder. Clauses against: spirituous liquors hung up: as also is the late act for preserving the health of prisoners, neatly painted on a small board. Keeper's salary, £38: fees, 5$. no table. Surgeon's salary, £12. In the twelve years preceding 1782, there were 473 prisoners, of whom 41 were debtors. — By the act for the court of requests for the hundred of Elias, in this county, the debtors shall remain in confinement three months.
 
 1776, Feb. 2, Prisoners 4. 177^ °d- ll> Prisoners 2*
 
-1779, Mar. 29, ~ - 13 1782? Feb. 3, - - 4.
+1779, Mar. 29, ~ - 13 1782? Feb. 3, - 4.
 
 LINCOLN CITY and COUNTY GAOL.
 
@@ -12628,7 +12628,7 @@ BOSTON Town Gaol. This is also the bridewell. Two damp offensive rooms about 14 
 
 1779, 0&* 11> Debtors o, Felons &c. 2.
 
-1782, Feb. 2, - - o, - - - o.
+1782, Feb. 2, - o, - - o.
 
 STAMFORD Town Gaol. The gate which was the old prison is taken
 
@@ -12876,9 +12876,9 @@ OUNDLE. Separate work-rooms, lodging-rooms, and courts for men and women; the wh
 
 1779, Sep. 22, Prisoners o.
 
-.. Odt. 12, - - o.
+.. Odt. 12, - o.
 
-1782, May 4, - - 1.
+1782, May 4, - 1.
 
 NORTHAMPTON TOWN GAOL.
 
@@ -12886,7 +12886,7 @@ Two rooms and a court for felons and petty offenders, and a room and a court for
 
 1776, Jan. 5> Debtors 2. 1779, Nov. 24, Debtor 1. Deserter 1.
 
-1779, Mar. 25, - - 1. 1782, July 15, - - o. - - 4.
+1779, Mar. 25, - 1. 1782, July 15, - o. - - 4.
 
 PETERBOROUGH Gaol, For the liberty called the Soke, which contains thirty-two towns, is the property of Lord Exeter. It is now also the prison of the dean and chapter of the cathedral church of the Borough of St. Peter otherwise Peterborough.
 
@@ -12896,9 +12896,9 @@ Two good rooms for debtors, and down 3 steps a room called the Gaol; near which 
 
 1776, Sep. 26, 3. Deserter 1.
 
-1779, SeP- 21, - - 1. - - o.
+1779, SeP- 21, - 1. - - o.
 
-1782, May 3, - - 1. - - 3*
+1782, May 3, - 1. - - 3*
 
 PETERBOROUGH Bridewell. For the Soke, as above, has on the ground-floor a large workshop, and a room lately divided into a part for men, and another for women: no chimney. Up stairs, two rooms or hemp-warehouses: the keeper a hemp-dresser. A small court (9 feet inches wide), not secure: prisoners always
 
@@ -12912,7 +12912,7 @@ within doors. No water. Clauses against spirituous. liquors not hung up. Keeper'
 
 1774, Oft. 28, Prisoner 1. 1779, Sep. 21, Prisoner 1.
 
-1776, Sep. 26, - - 1. 1782, May 3, - - o.
+1776, Sep. 26, - 1. 1782, May 3, - o.
 
 DAVENTRY Gaol. A room 3 feet under ground called the dungeon, 17\ feet by 11. No fire-place: no court: no water. The constables are keepers.
 
@@ -12930,7 +12930,7 @@ Fees, Debtors, £0:15: 10.
 
 Felons, o:14: 4.
 
-Transports, - 2 .2: o each.
+Transports, 2 .2: o each.
 
 Licence, Beer.
 
@@ -13026,7 +13026,7 @@ READING. This is also the town bridewell. It was formerly a church, and is a spa
 
 1776, Jan. 1, Prisoners 6. x779> April 21, Prisoners 7.
 
---- Nov. 1, - - 6. 17 82, March 5, - - 13.
+--- Nov. 1, - 6. 17 82, March 5, - 13.
 
 ABINGDON. Two dirty day-rooms; and three offensive night-rooms: that for men 8 feet square: one of the women's,9by 8; the other 4! feet square: the straw, worn to dust, swarmed with vermin: no court: no water accessible to prisoners. The petty offenders were in irons: at my last visit, eight were women. Allowance, if felons, three pence a day. Keeper's salary, ^18: fees, 4 s. 4 d. notable. At all my visits the prisoners had no employment.
 
@@ -13114,23 +13114,23 @@ Felons. County, 16d. each per week in bread; City, 1s. (See Remarks.)
 
 Garnish, cancelled.
 
-Number, - Debtors. - Felons &c.
+Number, Debtors. - Felons &c.
 
-1773, Nov. 26, - 14, - 13.
+1773, Nov. 26, 14, 13.
 
-1774, July 4, - 11, - 17.
+1774, July 4, 11, 17.
 
-1776, Jan. 2, - 13, - 10.
+1776, Jan. 2, 13, 10.
 
-1776, Oct. 31, - 7, - 14.
+1776, Oct. 31, 7, 14.
 
-1779, Feb. 25, - 12, - 15.
+1779, Feb. 25, 12, 15.
 
-1779, July 29, - 13, - 4.
+1779, July 29, 13, 4.
 
-1782, April 28, - 16, - 10.
+1782, April 28, 16, 10.
 
-1782, Dec. 25, - 25, - 31.
+1782, Dec. 25, 25, 31.
 
 CHAPLAIN, Rev. Mr. Swinton, now Rev. Mr. Cotton,
 
@@ -13272,9 +13272,9 @@ At my two first visits the keeper farmed the work-house and the rest of the poor
 
 1776, Jan. 3, Prisoners 2. 1779, Odt. 20, Prisoners o.
 
---- Nov. 2, - 3. 1782, April 28, - o.
+--- Nov. 2, 3. 1782, April 28, o.
 
-1779, Feb. 25, - - .4. -- 0<ft. 26j - 1*
+1779, Feb. 25, - .4. -- 0<ft. 26j - 1*
 
 WITNEY. One day-ropm (16 feet inches by 14 feet 4) for men and women: two night-rooms adjoining (9 feet 2 inches by 6 feet 7, and 6\ feet high); with only a grate of9inches square in each door. The prison is not secure. No allowance but to the sick, who have six-pence a day and medicines. No chimney: no straw: no water. Clauses against spirituous liquors not hung up. Keeper's salary, £20: fees, 4s. id. no table.
 
@@ -13298,9 +13298,9 @@ To this prison were committed.
 
 In the year 1773, Prisoners 49. In 1779, Prisoners 51.
 
-1774> .*-44- 1780, - - 36.
+1774> .*-44- 1780, - 36.
 
-1775> -73-To 0<5l. 31,1776, - - 67. 1781, - - 3»-
+1775> -73-To 0<5l. 31,1776, - 67. 1781, - 3»-
 
 The most at any one time iS.
 
@@ -13308,7 +13308,7 @@ When I was there in 1776, Oft. 31, Prisoners 6.
 
 1779, Feb. 26, ' - 7-
 
-1782, Od. 26, - 2.
+1782, Od. 26, 2.
 
 Witney
 
@@ -13466,9 +13466,9 @@ If there were a chapel in the county gaol (the castle), these prisoners might (a
 
 1775, Dec. 1, Prisoners 3. 1782, April 25, Prisoners 3.
 
-1776, Sep. 10, - - 18. 1783, Sep. 28, - - 23.
+1776, Sep. 10, - 18. 1783, Sep. 28, - 23.
 
-1779, May 18, - - 6.
+1779, May 18, - 6.
 
 WORCESTER
 
@@ -13704,9 +13704,9 @@ She appoints a man, who, for living rent free, looks after the prisoners.
 
 j 775, Nov. 15, Prisoners 4.
 
-1779, May 15, - - 9.
+1779, May 15, - 9.
 
-1782, Nov. 24, - 6.
+1782, Nov. 24, 6.
 
 WOLVERHAMPTON. Only two rooms about 12 feet square, viz. a common day-room on the ground-floor; and a night-room above, for men: women sleep in the day-room. The prison dirty, and most of the draw worn to dust. The court not secure: no water: no employment. Weekly allowance supplied by the keeper, in bread, fourteen pence: cheese, seven pence: draw, three pence. Keeper's salary, JT25: licence for beer: fees, is. Clauses against spirituous liquors not hung up.
 
@@ -13724,7 +13724,7 @@ Two close cells 6-4 feet by 54, and 8 feet high. To these are added two new ones
 
 1773, Nov. 20, Prisoners 2. 1779» Nov. 26, Debtors 3. Felons &c. 1.
 
-1776, Jan. 8, - - 1. 1782, ...25, - - 2. - - - 2.
+1776, Jan. 8, - 1. 1782, ...25, - 2. - - - 2.
 
 Water might be laid into the court at a small expence, as it is in a house adjoining: for rf Heflor “ Bean, gentleman, gave by feoffment to eight feoffees lands and tenements within the county of “ Stafford, of the yearly value of £100 and upwards to support and maintain the publick conduits, “ citterns and pipes, belonging to this city for ever.” This I copied from an inscription in St. Mary's church in Lichfield.
 
@@ -13936,9 +13936,9 @@ gaol courts, these prisoners have a privilege (which few in bridewells enjoy) of
 
 1774, Mar. 31, Prisoners 4. 1779, May 15, Prisoners 6.
 
-1775, Nov. 27> - 5- Aug. 24, - - 8.
+1775, Nov. 27> - 5- Aug. 24, - 8.
 
-1776, Sep. 12, - - 11. 1782, June 23, - - 16.
+1776, Sep. 12, - 11. 1782, June 23, - 16.
 
 SHREWSBURY TOWN GAOL and BRIDEWELL.
 
@@ -13954,7 +13954,7 @@ LUDLOW Town Gaol, called Gaolford's Tower, was an ancient prison, but was rebuil
 
 ^ 1774, July 1, Prisoners o. 1779, July 27, Prisoners 2.
 
-1779, May 16, - - o. Deserter 1. 1782, Sep. 27, - o.
+1779, May 16, - o. Deserter 1. 1782, Sep. 27, o.
 
 LUDLOW Town Bridjewell. One room at the back of the work-house (14 feet by 6-|), with a bedstead. No fire-place; no window; aperture in the door 10 inches square.
 
@@ -14098,17 +14098,17 @@ the sewers make the rooms very unhealthy. It might have been better, if the gent
 
 1774, Aug. 9, Prisoners 6. 1779> May 17, Prisoners in county-gaol.
 
-1775, Dec. 3, - - 6. 1782, April 26, Prisoners 4.
+1775, Dec. 3, - 6. 1782, April 26, Prisoners 4.
 
-1776, Sep. 9, - - 1.
+1776, Sep. 9, - 1.
 
 HEREFORD City Gaol, is one of the gates. The debtors rooms are commodious; and they have a little court. The lower room for felons too close: allowance to them, 2 d. a day. The gaol clean, but out of repair. Clauses against spirituous liquors not hung up. Keeper a widow: salary, none: fees, 6 s. 8 d. no table.
 
 1776, Sep. 9, Debtors 3. Felons o.
 
-1779, May 17, - - 4. - - o.
+1779, May 17, - 4. - - o.
 
-1782, April 26, - - o. - - o. Deserter 1.
+1782, April 26, - o. - - o. Deserter 1.
 
 MONMOUTHSHIRE.
 
@@ -14236,7 +14236,7 @@ The rooms which are now built for the keeper are some small improvement of this 
 
 1774, Aug. 21, Prisoners 2. 1779» June 8, Prisoners 7.
 
-1776, Sep. 6, - - 3. 1782, Od. 24, - 2. Deserter 1.
+1776, Sep. 6, - 3. 1782, Od. 24, 2. Deserter 1.
 
 MONMOUTH TOWN GAOL.
 
@@ -14272,7 +14272,7 @@ GAOLER, William Williams, now Robert Giles.
 
 Salary, none.
 
-Fees, Debtors, - - £i: o: io.
+Fees, Debtors, - £i: o: io.
 
 Felons at Assize - 0:17: 8.
 
@@ -14426,9 +14426,9 @@ Oxford Circuit. GLOCESTERSHIRE.
 
 1774, Aug. 23, Prisoners 2. 1779> Feb* 8, Prisoners 4.
 
-1775, Dec. 8, - - 3. Sep. i, - - 5.
+1775, Dec. 8, - 3. Sep. i, - 5.
 
-1776, ...-16, - - ' 6. 1782, Mar. 2, - - 6.
+1776, ...-16, - ' 6. 1782, Mar. 2, - 6.
 
 BERKELEY.. Quite out of repair. Only one room for men and women, 18 feet inches by 15 feet 4, and 7 feet 9 inches high: the window (near feet square) not glazed; no straw: no chimney: court not secure. Nothing has been laid out. on this prison these twenty years. The sensible old keeper lamented the bad effects of close confinement in idleness, upon the health of even young strong prisoners. Many such, he said, he had known quite incapable of working for some weeks after their discharge. He told me, that some years ago his prisoners used to grind malt for a penny a bushel; and the justices would not licence any victualler whose malt was not ground here: but that of late years they have done no work at all. No allowance. Keeper, Francis Norman: his salary, £zo; but he pays out of it jC6 to the poor of the parish for ground-rent: fees, 4s. 4 d. no table. He wrote me lifts of his prisoners, which I here transcribe.
 
@@ -14468,7 +14468,7 @@ Nothing expended. Nothing earned.
 
 1774, Aug. 22, Prisoners 3, two men, one woman. 1779, June 9, Prisoners o.
 
-1775, Dec. 6, - - o. 1782,0^1.25, - - 1.
+1775, Dec. 6, - o. 1782,0^1.25, - 1.
 
 Many such accounts would have been received at the House of Commons (in consequence of their order to fend the account of money expended and earned), if, keepers had been equally honest with f. Neman.
 
@@ -14492,7 +14492,7 @@ CIRENCESTER. The ground-floor is the keeper's (hop for garden feeds; and his kit
 
 1779> Junc 9> - - 6-
 
-1782, Odt.25, - - 3. Deserter r.
+1782, Odt.25, - 3. Deserter r.
 
 'WINCHCOMB. In this bridewell prisoners were formerly kept all together in the cellar. Now they are in the garrets: men in one, women in another; each about 14 feet square: roof and floors meen 8 feet high to the ridge in the middle. A close-glazed window in each: no chimney. Prisoners always confined to their rooms: court not secure. The county have never expended any thing upon the house for many years; and the whole is quite -out of repair. It was the freehold of the keeper, who was upwards of fourfeore: his salary per receipts £12:10:o, received only £12. Fees, 13 s. 4d. no table. Licence for beer. Clauses against -spirituous liquors not hung up. Allowance, if charged with felony, three-pennyworth of bread a day. No straw. The keeper said, that “ he should be obliged to "“put irons on all the prisoners to secure them.”
 
@@ -14512,7 +14512,7 @@ The castle is in the forest of Dean, the property of Lord Berkeley, who is the c
 
 1779> June 2> - - o.
 
-1782, Dec. 23, - - o.
+1782, Dec. 23, - o.
 
 GLOCESTER
 
@@ -14648,7 +14648,7 @@ Fees, Debtors, £1:o:o.
 
 Felons, 1:7:4.
 
-Transports, - 5:5:0 each, and hire of waggon or other carriage.
+Transports, 5:5:0 each, and hire of waggon or other carriage.
 
 Licence, Beer and Wine.
 
@@ -14804,7 +14804,7 @@ WINCHESTER. The four rooms are too close, and the court (which Is not paved, 37 
 
 1774, Sep. 24, Prisoners 13. 1779, Mar. 1, Prisoners 11.
 
-1775, Dec. 28, - - - 21. 1782, Feb. 25, - - - 23.
+1775, Dec. 28, - - 21. 1782, Feb. 25, - - 23.
 
 GOSPORT. One day-room; a lodging-room below for men, and two above for women. The court airy. An oven to purify the clothes, but no fuel allowed by the county. No straw. Keeper a ffieriff's officer: salary, ,£40: fees, 6s. 8d. no table. Licence for beer and wine. Allowance, two-pennyworth of
 
@@ -14830,15 +14830,15 @@ bread a day (weight Nov. 6, 1782, exactly I lb.): no employment. Clauses of ad a
 
 1774, Sep. 27, Prisoners 2. 1779, Mar. 6, Prisoners 9.
 
-1776, Feb. 26, - - 5. 1782, Nov. 6, - 3. Deserters 2.
+1776, Feb. 26, - 5. 1782, Nov. 6, 3. Deserters 2.
 
 ODIAM. Only one day-room (12 feet 3 inches by 11 feet 3). A lodging-room for men; and one for women (11 feet 8 inches by 7 feet, and 6 feet 10 inches high). Another room, which is the largest, the keeper uses for a brew-house, dairy, &c. There are two lodging-rooms for those that pay 2 s. 6 d. a week. Some additions have lately been made to the keeper's house, but none for the benefit of prisoners. Keeper was a sheriff's officer: salary, £15: fees, 6 s. 8 d. no table. No licence. Allowance about a pound of bread a day: no straw; no employment. Clauses of ad against spirituous liquors not hung up. An offensive dunghill in the court, and the prison not clean.
 
 1776, Feb. 28, Prisoners 8.
 
-1779, Mar. 10, - - 5.
+1779, Mar. 10, - 5.
 
-1782, Nov.. 1, - 4.
+1782, Nov.. 1, 4.
 
 NEWPORT in the Isle of Wight BRIDEWELL, and NEWPORT GAOL.
 
@@ -14846,7 +14846,7 @@ The bridewell for twenty-eight parishes; and the town-gaol, are now both in the 
 
 1774, Sept. 27, Prisoners - o.
 
-1779, Mar- 5, - - - o.
+1779, Mar- 5, - - o.
 
 1782, Nov. 5, Petty Offenders 2.
 
@@ -14874,7 +14874,7 @@ A Prison for Debtors, the Cheney Court in and for the liberty of the Soke: die p
 
 1775, Dec. 28, Prisoners 6.
 
-1779, Mar. 1, - - o.
+1779, Mar. 1, - o.
 
 1782, Feb. 25, 1.
 
@@ -14904,19 +14904,19 @@ was offensive. There is no court: no water. Keeper, the oldest sergeant at mace:
 
 1774, Sep. 24, Debtors 2. 1779, Mar. 3, Debtors 3.
 
-1776, Feb. 26, - - 2. 1782, Feb. 24, - - 2.
+1776, Feb. 26, - 2. 1782, Feb. 24, - 2.
 
 Gaol for Felons (the 7*ower) at the lower end of the town. Two close rooms, 18 feet 9 inches by 8F: very dirty. A court: no water. Gaoler's salary, now j£ic. Prisoners allowance, three-pennyworth of bread a day.
 
 1774, Sep. 24, Felons o. 1779, Mar. 3, Felon 1.
 
-1776, Feb. 26, - - o. 1782, Feb. 24, - - o.
+1776, Feb. 26, - o. 1782, Feb. 24, - o.
 
 Bridewell, joins to the gaol. Three rooms up stairs: no chimney: no court: no water: no employment. Keeper, a junior sergeant at mace: salary, £2: fees, 3 s. 4d. no table. Prisoners allowance, three-pennyworth of bread a day: ten shillings a year for bedding.
 
 1774, Sep. 24, Prisoners o. 1779, March 3, Prisoner 1.
 
-1776, Feb. 26, 2. 1782, Feb. 24, - 1.
+1776, Feb. 26, 2. 1782, Feb. 24, 1.
 
 PORTSMOUTH TOWN GAOL.
 
@@ -15128,9 +15128,9 @@ The keeper told me that just before one had died there, and another soon after h
 
 1774, Aug. £, Prisoners 6. 1779> Feb. 27, Prisoners 4.
 
-1775, Dec. 30, - 8. 1782, March 4, - - 11. Deserter 1.
+1775, Dec. 30, 8. 1782, March 4, - 11. Deserter 1.
 
-1776, Dec. 17, - - 17.
+1776, Dec. 17, - 17.
 
 There is also at SALISBURY the
 
@@ -15138,9 +15138,9 @@ City Gaol: the property of the bishop: out of repair. Two rooms for felons, and 
 
 1775, Dec. 27> Debtors 3, Felons &c. 2.
 
-1776, Sep. 3j - - 2, - - 0. Deserters 2.
+1776, Sep. 3j - - 2, - 0. Deserters 2.
 
-1779, Feb. 28, - - 1, - 1.
+1779, Feb. 28, - 1, 1.
 
 1782, Feb. 27> - - U - - 0, 1.
 
@@ -15158,9 +15158,9 @@ GAOLER, James Chaffey.
 
 Salary, none.
 
-Fees, Debtors, - - £1:3:9.
+Fees, Debtors, - £1:3:9.
 
-Felons at Assize, - I: 3:8.
+Felons at Assize, I: 3:8.
 
 Quarter Sessions, 0:17:4. Transports, £2:12:6 each.
 
@@ -15292,9 +15292,9 @@ Sherborn, Dorset. The great inhumanity that frequently happens unto the several 
 
 1774, Sep. 22, Prisoners 9.
 
-1779, Feb. 6, - - 2.
+1779, Feb. 6, - 2.
 
-1782, Aug. 2, - - 13.
+1782, Aug. 2, - 13.
 
 DORCHESTER TOWN GAOL.
 
@@ -15306,7 +15306,7 @@ POOLE Town and County Gaol. Two rooms, down three steps. No water. Keeper, no sa
 
 1776, Feb. 26, Debtor 1. Felons o.
 
-1782, Nov. 3, - - a - - o.
+1782, Nov. 3, - a - - o.
 
 I do not describe the single rooms or cages that are in many market towns, for the confinement of drunken or disorderly persons, for a night, before they are taken to a magistrate. One of the largest (called falisbury) is in Poole, i % \ feet by 7£. In some market, and-even borough towns, indeed, there are no place* of confinement whatever.
 
@@ -15344,7 +15344,7 @@ Salary, none. (See Remarks.)
 
 Fees, Felons, £0:14:4.
 
-Transports, - I: 1:0 each. (See Remarks.)
+Transports, I: 1:0 each. (See Remarks.)
 
 Licence, Beer.
 
@@ -15568,7 +15568,7 @@ Soon after my visit in 1775 the surgeon and some of the prisoners died of the ga
 
 1774, Sep. 12, Prisoners 22. 1779a Feb. 5, Prisoners 27.
 
-1775, Dec. 24, - - 34. 1782, July 28, - - 43.
+1775, Dec. 24, - 34. 1782, July 28, - 43.
 
 EXETER CITY and COUNTY GAOL.
 
@@ -15882,9 +15882,9 @@ The county pays £20 a year for this prison. It is much out of repair; and the w
 
 1774, Sep. 14, Prisoners 19.
 
-1775, Dec. 22, - - 29.
+1775, Dec. 22, - 29.
 
-1779, Feb- 4, - - 13-
+1779, Feb- 4, - 13-
 
 The above was the account in 1779, but now prison is discontinued, and the prisoners are sent to the new county-gaol in this town.
 
@@ -16138,9 +16138,9 @@ Two rooms, the larged 10 feet 8 inches by 9 feet 8, dirt floor; no chimney: no c
 
 1775, Dec. 10, Prisoners o.
 
-1783, Feb. 5, - - o.
+1783, Feb. 5, - o.
 
-...- Feb. 13, - - 2.
+...- Feb. 13, - 2.
 
 TRURO Town Gaol. Built about ten years ago. Two houses in front, for the two sergeants at mace who are the keepers. In the back court is the prison; which consists of four convenient rooms; the two upper ones are vaulted, and have chimneys: no water.
 
@@ -16174,9 +16174,9 @@ LOSTW1THIEL Gaol, for Debtors, Is the property of the Duke of Cornwall, lord of 
 
 1774, Sep. 14, Prisoners 4.
 
-1775, Dec. 18, - - 2.
+1775, Dec. 18, - 2.
 
-1782, July 30, - - 2.
+1782, July 30, - 2.
 
 PENRYN Borough Gaol. Two rooms adjoining to the town-hall, about 7^ feet square; a chimney in each. The constable is keeper.
 
@@ -16372,9 +16372,9 @@ Mallet.
 
 1774, Aug. 2, Prisoners 7. 1779, Sep. 2, Prisoners 10.
 
-Sep. 10, “ " 5- 1782, Aug. 1, - - 9.
+Sep. 10, “ " 5- 1782, Aug. 1, - 9.
 
-1775, Dec. 14, - 16. and Prisoner of war r.
+1775, Dec. 14, 16. and Prisoner of war r.
 
 3 F SHEPTON-
 
@@ -16398,9 +16398,9 @@ SHEPTON-MALLET. The date over the door, 1625. One day-room for men and women. Me
 
 1774, Feb. 21, Prisoners 44. 1779, Feb. 7> Prisoners 19.
 
---- Aug. 3, - - 10. 1782, Aug. 2, - - 12.
+--- Aug. 3, - 10. 1782, Aug. 2, - 12.
 
-1775, Dec. 13, - - 29.
+1775, Dec. 13, - 29.
 
 TAUNTON Town Gaol. Two insecure and offensive rooms in an old house rented by the keeper at £10 fer annum. No court: no sewer: no water accessible to prisoners. Keeper no salary. Fees, 6 s. 8 d. no table. Licence for beer.
 
@@ -16494,9 +16494,9 @@ Bristol. BRISTOL City Bridewell. Part of it is in the keeper's house, on one sid
 
 1774, Aug. 23, Prisoners 6. 1779, Feb. 8, Prisoners 8.
 
-1775, Dec. 8, - -5. 1782, Mar. 1, 19.
+1775, Dec. 8, -5. 1782, Mar. 1, 19.
 
-1776, Dec. 16, - 7.
+1776, Dec. 16, 7.
 
 BATH City Gaol. The ascent to this prison, built in a meadow which is sometimes overflowed, is by a fine flight of Hone steps. On the ground-floor is the keeper's kitchen, &c. and four rooms for petty offenders. Above are three stories; five rooms on each: one or two of them used by the keeper: the rest for debtors; one bed in a room, in which if two prisoners sleep, they pay two shillings a week each; if one has it to himself, he pays four shillings a week. Two rooms on the second story are free wards, one for men, the other for women; on the upper floor is their work-shop. There is a small court with offensive sewers. Keeper, a sheriff's officer: no salary: fees, if from the court of requests, 3 s. 6 d. Debtors for large sums, 7 s. 8 d. no table. Licence for beer. Allowance, to debtors, none (they are liberally supplied by voluntary donations); to offenders id. a day. Clauses against spirituous liquors, and the act for preserving the health of prisoners, not hung up.
 
@@ -16532,7 +16532,7 @@ Felons, 0: 9:6.
 
 Admission, 0: 3:4-
 
-Transports, - 10: 10:0 each.
+Transports, 10: 10:0 each.
 
 Licence, Beer and Wine.
 
@@ -16752,17 +16752,17 @@ WEST-RIDING, WAKEFIELD. This prison is unfortunately built upon low ground; so t
 
 1774, Nov. 4, Prisoners 27. 1779, May 13, Prisoners 20. Impressed 4.
 
-1776, Jan. 11, - - 32. 1782, Jan. 26, - - 26.
+1776, Jan. 11, - 32. 1782, Jan. 26, - 26.
 
--- OCt. 27, - -19.
+-- OCt. 27, -19.
 
 NORTH-RIDING, THIRSK. Six rooms on the ground-floor, in one of them a chimney. The county has ground enough about this prison to enlarge it, and separate the men and women. If they do, they should think of an infirmary; for the keeper told me his prisoners had the gaol-fever not long ago. His salary, £16:10:o. Fees, 2 s. Clauses against spirituous liquors not hung up.
 
 1776, Jan. 13, Prisoners 3.
 
-1779, June 28, - - 2, and one lunatic.
+1779, June 28, - 2, and one lunatic.
 
-1782, Mar. 23, - -9.
+1782, Mar. 23, -9.
 
 YORKSHIRE.
 
@@ -16774,9 +16774,9 @@ In the court not only a pump, but a cistern of rain-water. Coals, two chaldron a
 
 1774, Nov. 2, Prisoners 2. 1779, May 7> Prisoner 1.
 
-1776, Jan. 28, - - 1. 1782, Jan. 29, - - 1.
+1776, Jan. 28, - 1. 1782, Jan. 29, - 1.
 
---- Sep. 2r, - - 2.
+--- Sep. 2r, - 2.
 
 YORK CITY and COUNTY GAOL.
 
@@ -16918,9 +16918,9 @@ YORK City Bridewell. Has a day-room for men, and another for women: the latter i
 
 1774, Nov. 3, Prisoners 3. 1779, May 8, Prisoners 4.
 
-1776, Jan. 26, - 1. June 28, - - 8.
+1776, Jan. 26, 1. June 28, - 8.
 
-..... Sep. 20, - - 4- I78z> Jan- 27> ' - 3-
+..... Sep. 20, - 4- I78z> Jan- 27> ' - 3-
 
 St. PETER's Gaol, For the liberty of St. Peter of York, near the Minster-gate, is the property of the Dean; who holds his courts here. He has lately purchased an adjoining tenement for his gaoler to live in; in consequence, the two rooms in which he lived before are added to the debtors apartments, and they have now four rooms. Under those are two cells for criminals. All out of repair: no court: no sewers. No allowance.
 
@@ -16930,9 +16930,9 @@ Gaoler a bailiff: no salary. He pays rent, £4: fees, 6s. 2d. no table.
 
 1776, Jan. 27, Debtor 1. 1779, June 28, Debtors 5. Felon 1.
 
-..... Sep. 20, - 1. 1782, Jan. 28, - - 2. o.
+..... Sep. 20, 1. 1782, Jan. 28, - 2. o.
 
-1779, May 8, - - 2. Felon 1.
+1779, May 8, - 2. Felon 1.
 
 BEVERLEY Town Gaol. Has on the ground-floor two rooms for men-criminals; and above, a room for women: and two for debtors. No water: no straw. Keeper no salary, but as sergeant at mace has .£3: fees, 4S. no table. Licence for beer. A common alehouse, like many other town gaols.
 
@@ -16962,9 +16962,9 @@ fees, 4s. id. no table. There is a list of 113 towns or parts of towns, that are
 
 1774, Nov. 2, Prisoners'2. 1-779, May 7, Prisoner r.
 
-1776, Jan. 28, - - o. 1782, Jan. 29, - - 2.
+1776, Jan. 28, - o. 1782, Jan. 29, - 2.
 
-.. Sep. 21, - - o*
+.. Sep. 21, - o*
 
 RICHMOND Gaol, For the very extensive liberty of Richmond and Rich* mondshire, late the property of Lord Holderness} now of Sir 'Thomas Dundas. It is also the bridewell, and the borough gaol. For debtors, a kitchen and bed-room* close glazed. For criminals, two arched dungeons down 5 steps; the inner one 15Z. feet by 6, and 6 feet 8 inches high: the aperture in the door only 6 inches by 3. No straw. Clauses against spirituous liquors hung up. A court, and a well. Gaoler a bailiff: no salary for the liberty: for the bridewell, £13:10:0: for the borough, £‘4: pays window-tax: fees, debtors, 6s. 8d. at entrance, and 6s. 8 d. at discharge: criminals, i6j. 4d.: allowance to the latter, four pence a day.
 
@@ -16978,9 +16978,9 @@ Here is a table of fees, dated Aug. 17, 1671, and signed W: Wylde and Ty: Lyttle
 
 1776, Off. 26, Debtors 6.
 
-1779, May 8, - - 6. Petty Offenders 1.
+1779, May 8, - 6. Petty Offenders 1.
 
-1.782, Nov. 19, - 13. - 2.
+1.782, Nov. 19, 13. - 2.
 
 RIPON Liberty Gaol, Is the property of the Archbishop, by a charter from king Edward IV. His court adjoining, is called the Court Military. The liberty includes twenty-four parishes. For debtors, four or five good rooms in the keeper's house; but no free ward. For felons, one strong room quite dark; another with a
 
@@ -16990,9 +16990,9 @@ little window. Formerly there was a deep dungeon, but the present steward, inste
 
 1776, Oft. 26, Debtors 2.
 
-1779, May 8, - - 3.
+1779, May 8, - 3.
 
-17-82, Nov. 19, - o.
+17-82, Nov. 19, o.
 
 RIPON Gaol, For the Canon-Fee Court, belongs to the dean and chapter of Ripon. It is not only a gaol for that court, but a house of correction for the liberty. Three rooms for debtors, but no free ward. The bridewell part, two dark rooms-,
 
@@ -17008,9 +17008,9 @@ KNARESBROUGH Prison, for Debtors, In the honour or forest of Knaresbrough, the l
 
 1776, Oft. 26, Prisoners o;
 
-1779, May 8, - - o.
+1779, May 8, - o.
 
-17,82, Nov. 20, - - 1;
+17,82, Nov. 20, - 1;
 
 KNARESBROUGH Prison, for Town Debtors, Is under the hall. Of difficult access; the door about feet from the ground. Only one room, about 12 feet square: window 17 inches by 6. Earth floor: no fire-place: very offerifive; a common fewer from the town running through it uncovered. I was informed that an officer, confined' here some years since, for only a few days, took in with him a dog to defend him from vermin; but the dog was soon destroyed, and the prisoner's face much disfigured by them.
 
@@ -17040,7 +17040,7 @@ DONCASTER Town Gaol. Two rooms for felons, and two over them for debtors: all ha
 
 1775, Jan- 5> Prisoners 2.
 
-1779, June 27, - - o.
+1779, June 27, - o.
 
 1782, April 4, Debtor 1.
 
@@ -17054,9 +17054,9 @@ LEEDS Town Gaol. Four rooms fronting the street, 12 feet by 9, and a small one. 
 
 1774, Nov. 4, Prisoners o. 1782, Jan. 26, Prisoners o.
 
-1776, Jan. 12, - - o. Nov. 20, - - 1,
+1776, Jan. 12, - o. Nov. 20, - 1,
 
-1779, May 13, - - o.
+1779, May 13, - o.
 
 By the 17th Geo. III. Cap. xv.
 
@@ -17092,9 +17092,9 @@ The prisoners pound tile-(herds to mix in mortar (for which they have 2 ~d. a bu
 
 1774, Nov. 1, Prisoners 2. 1779, May 7, Prisoners n.
 
-1776, Jan. 29, - - 5. 1782, Jan. 30, Debtors 2.
+1776, Jan. 29, - 5. 1782, Jan. 30, Debtors 2.
 
-..... Sep. 21, - - o. Petty Offenders 4.
+..... Sep. 21, - o. Petty Offenders 4.
 
 Every time a raving lunatic J*, and the two lad times another lunatic.
 
@@ -17122,7 +17122,7 @@ Sheffield.
 
 1776, Jan. 10, Prisoners 6. 1779, May 14, Prisoners 8.
 
---- 0&. 28, - - 4. 1782, Jan. 25, - - 3.
+--- 0&. 28, - 4. 1782, Jan. 25, - 3.
 
 SHEFFIELD Town Gaol. The Lobbies under the town-hall are two small rooms, the larged only about 8 feet square, and 6 high. Aperture in the door of 6 inches diameter. When the quarter sessions for the West-Riding are held at this town, offenders are locked up a night or two in this prison.
 
@@ -17130,7 +17130,7 @@ SHEFFIELD Town Gaol. The Lobbies under the town-hall are two small rooms, the la
 
 1779, May 14, Prisoners o.
 
-1782, Jan. 25, - - o.
+1782, Jan. 25, - o.
 
 ROTHWELL Prison, for Debtors, Belongs to the liberty of the honour of Pontefrad in the duchy court of Lancaster. Is out of repair.
 
@@ -17140,13 +17140,13 @@ BATLEY. Behind a house for the keeper is the prison. Plan redangular: the front 
 
 1774, Nov. 4, Prisoners 25>
 
-1776, Jan. 25, - - 22,
+1776, Jan. 25, - 22,
 
-oa. 27, - - 4*
+oa. 27, - 4*
 
 1779> May 13>'- 18,
 
-1782, Nov. 21, - - 2 5>
+1782, Nov. 21, - 2 5>
 
 Rothzvell
 
@@ -17230,9 +17230,9 @@ GAOLER, Bainbridge Watson, now Thomas Bungey, by patent from the bishop durante'
 
 Salary, none.
 
-Fees, Debtors, - - £0:10: o.
+Fees, Debtors, - £0:10: o.
 
-Felons, at Assize, - 0:16:8.
+Felons, at Assize, 0:16:8.
 
 Quarter Sessions, o:13:4.
 
@@ -17420,9 +17420,9 @@ Was built, as appears by the date over the door, in 1634. Being on the side of a
 
 1775, Jan. 6, Prisoners 5. 1779> June 29, Prisoners 9, and three lunatics.
 
-1776, 14, - 7. 1782, Mar. 24, - - 8, and one lunatic.
+1776, 14, 7. 1782, Mar. 24, - 8, and one lunatic.
 
-.. Od. 25, - - 6.
+.. Od. 25, - 6.
 
 NEWCASTLE upon TYNE.
 
@@ -17554,7 +17554,7 @@ A small Gaol, the Corner in the Close, consisting of three rooms over the gate-w
 
 1.775, Jan. 8, Prisoners 2. 1779, June 30, Prisoners 1.
 
-1776, ---15, - - 1. 1782, Mar. 25, - - 2.
+1776, ---15, - 1. 1782, Mar. 25, - 2.
 
 The Old House of Correction, called the Tallow-House: two rooms, one for men, the other for women, and a dungeon now not used: no court: no water: allowance two pence a day, and coals. Salary, £15. Fees, I s.
 
@@ -17566,7 +17566,7 @@ Bridewell. A room for men; another for women. A new building is now added, consi
 
 1775, Jan. 8, Prisoners 1. 1779> June 3°> Prisoners 7.
 
-1776, 15, - - 5. 1782, Mar. 25, - - 5.
+1776, 15, - 5. 1782, Mar. 25, - 5.
 
 Where prisoners are always locked up, there Should be water laid in to each ward, as I have seen m foreign houses of correction.
 
@@ -17710,7 +17710,7 @@ A work-room and two small bed-rooms for men on the ground-floor, only 7 feet hig
 
 1775, Jan. 9, Prisoners 2. 1779, July 1, Prisoners 3.
 
-1776, ...16, 8. 1782, Mar. 25, - - 6.
+1776, ...16, 8. 1782, Mar. 25, - 6.
 
 BERWICK upon TWEED. BERWICK* TOWN and COUNTY GAOL.
 
@@ -17874,7 +17874,7 @@ Northern Circuit.
 
 1776, Jan. 20, Debtors 3. 1779, May IO> Debtors 3, two Men, one Woman.
 
-... Sep. 19, r. 1782, Sep. 1, - - o.
+... Sep. 19, r. 1782, Sep. 1, - o.
 
 WHITEHAVEN Town Gaol, is part of the work-house. Two rooms up stairs; and a dungeon in which they used to confine transports brought hither to be shipped. All dirty and offensive.
 
@@ -17934,17 +17934,17 @@ APPLEBY. Built, as appears by the date, 1639. Two rooms 11 feet by 84.: no chimn
 
 1776, Jan. 22, Prisoners o. 1779, May 9, Prisoners o.
 
-.. Sep. 19,. o. 1782, Sep. 2, - - 1.
+.. Sep. 19,. o. 1782, Sep. 2, - 1.
 
 KENDAL. Only one room for men and women, 18 feet by 13, with one window about 2 feet square: no chimney: no court: no water: no sewer. The keeper has a garden: salary, £6:10:o, and a little close which he lets for twenty shillings a year. No fees. — The town sometimes commits prisoners hither, and allows them six-pence a day; the county, four pence.
 
 1776, Jan. 23, Prisoners 3, two Men, one Woman.
 
--- Sep. 18, - - o, Deserter 1.
+-- Sep. 18, - o, Deserter 1.
 
-1779, May 11, - - o.
+1779, May 11, - o.
 
-1782, Sep. 3, - - 1.
+1782, Sep. 3, - 1.
 
 KENDAL TOWN GAOL.
 
@@ -18128,9 +18128,9 @@ These prisoners have the other moiety of William Edmundson s legacy mentioned in
 
 1774, Mar. 26, Prisoners 8. 1779, May 12, Prisoners 17. Impressed 5.
 
-1775, Nov. i8, - - 19. 1782, Sep. 3, - - 19.
+1775, Nov. i8, - 19. 1782, Sep. 3, - 19.
 
-1776, Sep. 16, - - 11.
+1776, Sep. 16, - 11.
 
 MANCHESTER. Rebuilt as per date, in the year 1774. Separate courts and apartments for men and women. Two rooms for an infirmary (14 feet by 11 feet 8 inches). The men nave work-rooms, over which are chambers. Their four night-rooms or cells in a passage 45 feet by 6, are close; 11 feet by 8; 11 steps below the court; but not properly under ground, being on the declivity of a hill. Women have three rooms on the ground-floor, and three chambers: here is a dungeon, down9steps, 14 feet by 13; an inconvenient bath, no water in it. The iron-grate door into each court has a lock and fastenings of a contrivance Angularly curious. No allowance. Keeper's salary was raised from ^25 to ^60, in lieu of fees, and is now-raised to £80 in lieu of the tap.
 
@@ -18148,9 +18148,9 @@ a (tone with an aperture into a box, having this inscription; — of Sick, and i
 
 1774, Nov. 5, Prisoners 21. 1779, May 12, Prisoners 11. Imprefied 6.
 
-1775, ...16, 6. 1782, Nov. 22, - - 14*.
+1775, ...16, 6. 1782, Nov. 22, - 14*.
 
-1776, Sep. 15, - - 12.
+1776, Sep. 15, - 12.
 
 LANCASTER Town Gaol. A room just finished at the new town-hall, 15-feet by 114, in which there is a window and fire-place.
 
@@ -18186,7 +18186,7 @@ Liverpool.
 
 1775> 23* - - 6o-
 
-1779, 30, - - 25. Impressed 2. Deserters 2.
+1779, 30, - 25. Impressed 2. Deserters 2.
 
 1782, Sep. 5, Debtors 19. Felons &c. 14. - 1.
 
@@ -18200,7 +18200,7 @@ The severe weekly discipline of the women in the mens court is still continued. 
 
 1779, Nov. 30, Prisoners 8.
 
-1782, Sep. 5, - - 12.
+1782, Sep. 5, - 12.
 
 WARRINGTON Town Bridewell. Two rooms in the work-house yard; one about9feet square, with bedstead and straw; the other about9feet by 5: no windows. Allowance for diet, the same as the poor, who, by their appearance, seem to have a humane attention paid to them. The constables of the town are keepers.
 
@@ -18406,7 +18406,7 @@ This prison has been improved by the addition of a work-room; a little room at t
 
 1774> Nov. 8, Prisoners 3. 1779, Aug. 28, Prisoners 5.
 
-1776, Sep. 14, - - 9. 1782, Nov. 23, - - 14.
+1776, Sep. 14, - 9. 1782, Nov. 23, - 14.
 
 Since my last visit, the gaol-fever has been in this prison; and in the Chester papers, a testimony to the care, attention, and success of Mr. Graves has been published by order of the justices. The prison was crowded, several having been sent from Chester assizes. However, only three prisoners and a child died.
 
@@ -18438,7 +18438,7 @@ Fees, Debtors, j[o: 8:8.
 
 Felons, o: 6:6.
 
-Transports, - 6: 10: o each.
+Transports, 6: 10: o each.
 
 Licence, Beer and Wine.
 
@@ -18570,9 +18570,9 @@ needful, to the legs of refractory prisoners, so that they cannot walk without c
 
 1775, Feb. 1, Prisoners 2. 1779, Aug. 27, Prisoners 1.
 
--- Nov. 25, - o. 1782, May 24, - 3. ImprelTed t.
+-- Nov. 25, o. 1782, May 24, 3. ImprelTed t.
 
-1776, Sep. 14, - - 12.
+1776, Sep. 14, - 12.
 
 MACCLESFIELD Prison. This prison for the liberty of the hundred, manor, and forest of Macclesfield, in the pinfold or pound for that hundred, is the property of Lord Cholmondeley. It has four rooms; and a dungeon down 7 steps (11 feet by 9), the window 6 inches square. The building is flight, and the whole of it ruinous. Keeper is a bailiff, keeps a public house$ and pays rent £18. No salary: fees, 7 s. 6 d. no table.
 
@@ -18734,15 +18734,15 @@ Allowance, Debtors, Felons,} each weekly 1s. 6d. in bread, and 6d. money: afterw
 
 Garnish, £0:1:0.
 
-Number, - Debtors. - Felons &c.
+Number, Debtors. - Felons &c.
 
-1774, June 25, - 4 - 1.
+1774, June 25, 4 - 1.
 
-1776, Sep. 13, - 1 - 0.
+1776, Sep. 13, 1 - 0.
 
-1779, Aug. 27, - 1 - 3.
+1779, Aug. 27, 1 - 3.
 
-1782, May 24, - 9 - 3.
+1782, May 24, 9 - 3.
 
 CHAPLAIN, Rev. Mr. Davies, now Mr. Party.
 
@@ -18866,15 +18866,15 @@ Garnish, Debtors, £0:2:6.
 
 Felons, £0:1:0.
 
-Number, - Debtors, - Felons &c.
+Number, Debtors, Felons &c.
 
 1774, June 25 - 8, 5.
 
-1776, Sep. 13, - 2, - 1.
+1776, Sep. 13, 2, 1.
 
-1779, Aug. 26, - 2, - 2.
+1779, Aug. 26, 2, 2.
 
-1782, June 22, - 8, - 7.
+1782, June 22, 8, 7.
 
 CHAPLAIN, Rev. Mr. Pierce.
 
@@ -19012,9 +19012,9 @@ WELL* by 13 feet 95 no fire-place: and down 8 steps a damp-dungeon 13 feet by9fe
 
 1775, Nov. 29, Prisoner o.
 
-1779, May 16, - 1.
+1779, May 16, 1.
 
-1782, Sep. 26, - - o.
+1782, Sep. 26, - o.
 
 NORTH WALES CIRCUIT. ANGLESEY.
 
@@ -19284,7 +19284,7 @@ Town and County Gaol; which is likewise the bridewell. Two rooms below, one for 
 
 1779, June 5> Debtor 1.
 
-1782, Oft. 21, - - 1.
+1782, Oft. 21, - 1.
 
 PEMBROKE Town Gaol. Two rooms (24? feet by 12) the lower one damp and dirty; no fire-place: no court: no water: no sewer. (See French Prisonersy p. 188.) 1782, Oft. 21, No prisoners.
 
@@ -19588,15 +19588,15 @@ Felons, ten pence halfpenny each on Saturday.
 
 Garnish, £0: 2: 6.
 
-Number, - Debtors. - Felons &c.
+Number, Debtors. - Felons &c.
 
-1774, Aug. 19, - 14, - 2.
+1774, Aug. 19, 14, 2.
 
-1776, Sep. 6, - 2, - 2.
+1776, Sep. 6, 2, 2.
 
-1779, June 8, - 3, - 0.
+1779, June 8, 3, 0.
 
-1782, Oct. 23, - 16, - 5.
+1782, Oct. 23, 16, 5.
 
 CHAPLAIN, Rev. Mr. Evans.
 
@@ -20706,7 +20706,7 @@ From Dec. 1771 to Dec. 1772, 3 - 2 32 - - 37
 
 Dec. 1772 to Dec. 1773* I i burnt I 29 - - 32
 
-Dec. 1773 to Dec. 1774, - I ' - 31 - - 3*
+Dec. 1773 to Dec. 1774, I ' - 31 - - 3*
 
 Dec. 1774 to Dec. 1775, I 1 3 40 I - 46
 
@@ -20716,15 +20716,15 @@ Dec. 1776 to Dec. 1777, 2 - r 29 - - 32
 
 Dec. 1777 to Dec. 1778, I - I 31 - - 33'
 
-Dec. 1778 to Dec. 1779, - - 2 I burnt »9 I - 23
+Dec. 1778 to Dec. 1779, - 2 I burnt »9 I - 23
 
 Dec. 1779 to Dec. 1780, I - 2 24 I *9 3 5°
 
 Dec. 1780 to Dec. 1781, I - I 33 5 - 40
 
-Dec. 1781 to Dec. 1782, - - - 44 I - 4S
+Dec. 1781 to Dec. 1782, - - 44 I - 4S
 
-Dec. 1782 to Dec. 1783, - - 6 52 I - 59
+Dec. 1782 to Dec. 1783, - 6 52 I - 59
 
 16 3 I - r — M 388 10 l9 3 467
 
@@ -20930,7 +20930,7 @@ Cirencester 0 0 0
 
 Clare 0 0 0
 
-Colchefier 0 0 4
+Colchester 0 0 4
 
 Bridewell 0 0 0
 
@@ -23040,45 +23040,45 @@ The Plates are to be inserted as follows:
 
 Page
 
-Plate N°. I. General plan of a County Gaol, - to face 21.
+Plate N°. I. General plan of a County Gaol, to face 21.
 
-2. Plan of Window Blinds, and Cradle, - 37.
+2. Plan of Window Blinds, and Cradle, 37.
 
-3. Breda, House of Correction, - 52.
+3. Breda, House of Correction, 52.
 
-4. Amsterdam, House of Correction, - 61.
+4. Amsterdam, House of Correction, 61.
 
-5. Zwolle, House of Correction, - 64.
+5. Zwolle, House of Correction, 64.
 
 6. Utrecht, Pest-house - 65.
 
-7. Copenhagen, Spanish Mantle, - 76.
+7. Copenhagen, Spanish Mantle, 76.
 
-8. Petersburg, House of Education, - 88.
+8. Petersburg, House of Education, 88.
 
-9. Moscow, Prison, - 92.
+9. Moscow, Prison, 92.
 
-10. ----- Botanic Magazine, - 94.
+10. ----- Botanic Magazine, 94.
 
-11. Rome, Front of the Prison, - 111.
+11. Rome, Front of the Prison, 111.
 
-12. ----- House of Correction, - 114.
+12. ----- House of Correction, 114.
 
-13. Milan, House of Correction, - 121.
+13. Milan, House of Correction, 121.
 
 14 & 15. Bern, Employment of Criminals, two Plates, 125.
 
-16. Ghent, La Maison de Force, - 145.
+16. Ghent, La Maison de Force, 145.
 
-17. Madrid, Prison, - 155.
+17. Madrid, Prison, 155.
 
-18. Bastille, - 174.
+18. Bastille, 174.
 
-19. Lyons, Hotel-Dieu, - 179.
+19. Lyons, Hotel-Dieu, 179.
 
-20. London, Newgate, - 213.
+20. London, Newgate, 213.
 
-21. Plymouth, Royal Hospital, - 388.
+21. Plymouth, Royal Hospital, 388.
 
-22. ----- Ground Plan, - 388.
+22. ----- Ground Plan, 388.
 

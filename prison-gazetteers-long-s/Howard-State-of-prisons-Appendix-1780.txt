@@ -4,9 +4,9 @@ The Plates are to be inserted as follows:
 
 General Plan of a County Gaol, between Pages 48 and 49.
 
-Plan of La Maison de Force, Ghent, - 140 and 141.
+Plan of La Maison de Force, Ghent, 140 and 141.
 
-Plan of Newgate, - 152 and 15;.
+Plan of Newgate, 152 and 15;.
 
 Tab. III. being continued over from P. 480 to 481, Care is to be taken that the Lines coincide.
 
@@ -164,13 +164,13 @@ The constant supper, on week days, for all, is butter milk boiled with barley or
 
 Cans.
 
-Each man has, during the three summer months, daily, of beer, - 2½
+Each man has, during the three summer months, daily, of beer, 2½
 
 and during the three winter months, ditto ditto - 1½
 
 and during the remaining six months, ditto ditto - 2
 
-Boys, women and half-tasked for the three summer months, each, daily, - 1½
+Boys, women and half-tasked for the three summer months, each, daily, 1½
 
 and for the remaining nine months, ditto ditto - 1
 
@@ -356,15 +356,15 @@ Perhaps the computation which I have mentioned of two hundred and fifty thousand
 
 The four regents^ who manage the Rasp-house are appointed by the burgomasters, to whom they are accountable. The gaoler or father
 
-* Deaths in 1776, - - 8982.
+* Deaths in 1776, - 8982.
 
-1777, - - 8939.
+1777, - 8939.
 
 The numbers marked at the Stadt-house, when I was there in June 1778,
 
-The first week, - - 121.
+The first week, - 121.
 
-second week, - - 138.
+second week, - 138.
 
 f See his Observations on Reversionary Payments, p. 186, 187. 3d edition.
 
@@ -2140,7 +2140,7 @@ English
 
 ART. VII.
 
-The prisons {hall be kept clean and neat by the sailors, every man in his turn as shall be regulated, and whatever sailor llnll refuse this service in his turn, his food shall be withheld from him till he submit to it.
+The prisons shall be kept clean and neat by the sailors, every man in his turn as shall be regulated, and whatever sailor llnll refuse this service in his turn, his food shall be withheld from him till he submit to it.
 
 ART. VIII.
 
@@ -4360,7 +4360,7 @@ COUNTY GAOL, OXFORD CASTLE.
 
 Chaplain now Rev. Mr. Cetton.
 
-It is very probable, that the rooms in this castle are the fame that the prisoners occupied, at the time of the Black Assize. The wards are dole and offensive, so that if crowded, I should not greatly wonder to hear of another fatal qffize at Oxford.
+It is very probable, that the rooms in this castle are the fame that the prisoners occupied, at the time of the Black Assize. The wards are dole and offensive, so that if crowded, I should not greatly wonder to hear of another fatal assize at Oxford.
 
 1779, Feb. 25, Debtors 12. Felons &c. 15.
 
@@ -4538,7 +4538,7 @@ For every certificate of commitment, in order to sue out a habeas corpus o
 
 The following Articles to be allowed by the County.
 
-To the gaoler for the discharge of every person charged with felony, or other crime, or as an accessary thereto, rgainst whom no bill I of indictment /hall be found by the grand jury, or who on his or j>°: *3 4 her trial /hall be acquitted, or who shall be discharged by pro- I clamation for want of prosecution — If at Assizes — J
+To the gaoler for the discharge of every person charged with felony, or other crime, or as an accessary thereto, rgainst whom no bill I of indictment shall be found by the grand jury, or who on his or j>°: *3 4 her trial shall be acquitted, or who shall be discharged by pro- I clamation for want of prosecution — If at Assizes — J
 
 If at Sessions — o: q: o
 
@@ -5910,7 +5910,7 @@ I — __ - - Robbery.
 
 *T __ - - Child-murder.
 
-1772 — , - - Horse-dealing.
+1772 — , - Horse-dealing.
 
 — - — -- - - - *2 - House-breaking and Theft.
 

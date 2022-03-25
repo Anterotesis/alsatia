@@ -618,7 +618,7 @@ street, in the parish of for §
 
 h Attorney, is Mr.
 
-who hath proceeded against your petitioner in the court of ||
+who hath proceeded against your petitioner in the court of |
 
 That it may require £. s. d. to pay for and
 
@@ -3450,7 +3450,7 @@ Women debtors court-yard is 18 yards by 6, and separated from the men felons by 
 
 At my visit, in December, 1801, I paid the fees of a debtor whose plaintiff had forgiven him his debt, but there was another demand of 6s. 8d. by the Undef Sheriff, for his liberate, which I was obliged to pay before the prisoner could be set at liberty !
 
-Somersetshire (to wit.) At the General Quarter Sessions of the Peace of our Sovereign Lord the King, held the 31st day of March, at Ilchester, in and for the said County of Somerset, and from thence by adjournment continued to the 6th day of April, in the year of our Lord 1761, before Edward Philips, Esq. the Rev. Thomas Camplin, Doctor of Laws; John Brickdale, William Rod-bard, Giles Strangeways, Esqrs. arid others their companions^ Justices of our said Lord the King, assigned to keep the peace of our said Lord the King, and also to hear and determine divers felonies, trespasses, and other misdemeanors, done and perpetrated in the same county, and so forth.
+Somersetshire (to wit.) At the General Quarter Sessions of the Peace of our Sovereign Lord the King, held the 31st day of March, at Ilchester, in and for the said County of Somerset, and from thence by adjournment continued to the 6th day of April, in the year of our Lord 1761, before Edward Philips, Esq. the Rev. Thomas Camplin, Doctor of Laws; John Brickdale, William Rod-bard, Giles Strangeways, Esqrs. and others their companions^ Justices of our said Lord the King, assigned to keep the peace of our said Lord the King, and also to hear and determine divers felonies, trespasses, and other misdemeanors, done and perpetrated in the same county, and so forth.
 
 M2 A Tar lk
 
@@ -4235,8 +4235,6 @@ Chaplain, Rev. Mr. Anderson.
 Duty, Prayers every day, Sermon on Sunday.
 
 Salary, 60/.
-
-* */
 
 Surgeon, Mr. Maule. Salary, 15/.
 
@@ -7190,7 +7188,7 @@ Under all the above circumstances, we thought it incumbent on us to make a very 
 
 * Average
 
-of convicts, |
+of convicts, 
 
 deaths 011 board { rZ "
 
