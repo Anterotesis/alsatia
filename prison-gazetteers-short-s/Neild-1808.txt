@@ -284,7 +284,7 @@ The Right Hon. the EARL of ROMNEY,
 
 (who has devoted much of his time and attention to its welfare and prosperity.)
 
-VICE PRESIDENTS, TheMostNoble the MARQUISofIIERTFORD. Right Hon. EARL RADNOR.
+VICE PRESIDENTS, The MostNoble the MARQUISofIIERTFORD. Right Hon. EARL RADNOR.
 
 The Right Hon. LORD BARHAM,
 
@@ -906,7 +906,7 @@ PRESIDENT,
 
 The Right IIon. the EARL of ROMNEY j
 
-VICE PRESIDENTS, TheMostNoble the MARQUIS of I IERTFORD, Right Hon. EARL RADNOR,
+VICE PRESIDENTS, The MostNoble the MARQUIS of I IERTFORD, Right Hon. EARL RADNOR,
 
 The Right Hon. LORD BARHAM,
 
@@ -6716,7 +6716,7 @@ Ja* Hewitt*”
 
 IN ENGLAND, SCOTLAND, AND WALES.
 
-<> <1 r. oj J
+<> <1 r. of J
 
 LIVERPOOL Borough Gaol.
 

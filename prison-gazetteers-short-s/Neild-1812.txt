@@ -3536,7 +3536,7 @@ Opposite to the Infirmary court-yard is another of the same size, for poor, or C
 
 In short, the Magistrates have here established a lasting monument of their humanity, by displaying a very liberal attention, both to the health and morals of the Prisoners.
 
-TheGaoltr’s house, placed in the centre of the Prison, has a turret, with an alarm-bell and clock. For the Master's Side Debtors are set apart four good rooms, well furnished, at 2s. 6d. each single bed per week, or if two sleep together, lx. 3d. each; hut if a Debtor brings his own bed, 1a-. 3d. per week for the room. They have likewise the indulgence of a very neat semicircular garden, 1 Go feet by So, lying on the North side of the house; in which, not only they, but the convalescent criminals also, occasionally take the air at proper times.
+ The Gaoltr’s house, placed in the centre of the Prison, has a turret, with an alarm-bell and clock. For the Master's Side Debtors are set apart four good rooms, well furnished, at 2s. 6d. each single bed per week, or if two sleep together, lx. 3d. each; hut if a Debtor brings his own bed, 1a-. 3d. per week for the room. They have likewise the indulgence of a very neat semicircular garden, 1 Go feet by So, lying on the North side of the house; in which, not only they, but the convalescent criminals also, occasionally take the air at proper times.
 
 IN ENGLAND, SCOTLAND, AND WALES. 55
 
@@ -8196,7 +8196,7 @@ I\T ENGLAND, SCOTLAND, AND WALES.
 
 Gcicncy of the building, and accommodation of lint Prisoner?; and to suggest such repairs a» may appear necessary: to obser\c and correct any disputes or abu?es in the management of I be Gaol, and suggest improvements on the Regulation?.
 
-HI. If any Prisoner has reason to complain of the cause of his detention, or the duration of his confinement, he is to apply to the Clerk of the Gaol, who is to stale the case to the Gaol Committee free of all expence to such Prisoner.
+III. If any Prisoner has reason to complain of the cause of his detention, or the duration of his confinement, he is to apply to the Clerk of the Gaol, who is to stale the case to the Gaol Committee free of all expence to such Prisoner.
 
 IV. A copy of these Regulations is to be hung up in a conspicuous part of the Gaol, for the information of all concerned.
 
@@ -8680,7 +8680,7 @@ To this Prison there are no less than fourteen court-yards. Two of them, 84 feet
 
 One court, for the Wonien-Felons, has open wood palisades, surrounding a grass-plat. Several of the other court-yards, since their first laying out, have been temporarily converted into gardens; there being, at the time of their destination, no Prisoners of the class for which they were originally intended.
 
-TheJirst-story has forty-eight sleeping-cells, which open into passages ", feet wide, leading (04 feet on each side,) to the Chapel; and also two day-rooms, similar to those below.
+ The Jirst-story has forty-eight sleeping-cells, which open into passages ", feet wide, leading (04 feet on each side,) to the Chapel; and also two day-rooms, similar to those below.
 
 The second-story has fifty cells; which, twentyfive on each side, are separated by a ] assage, of the same width as the former, and opening toward the Chapel in the same manner as those below. Here are two day-rooms also, of similar construction with the forecroincr
 
@@ -10844,7 +10844,7 @@ IN ENGLAND, SCOTLAND, AND WALES.
 
 269
 
-The Act of Parliament, for preserving the Health of Prisoners, with the Clauses against their use of Spirituous Liquors, are conspicuously hung up: And in the lobby oj every I Hard, the Hui.es and Orders for the government of the Gaol are painted on boards, and properly displayed to general view.
+The Act of Parliament, for preserving the Health of Prisoners, with the Clauses against their use of Spirituous Liquors, are conspicuously hung up: And in the lobby of every I Hard, the Hui.es and Orders for the government of the Gaol are painted on boards, and properly displayed to general view.
 
 HEUEFOHD.
 
@@ -21558,7 +21558,7 @@ IN ENGLAND, SCOTLAND, AND WALES.
 
 TYNEMOUTH. Xorthumberlund.
 
-The House oj Correction.
+The House of Correction.
 
 Keeper, Robert Robson. Salary, 3o/- and six loads of coals. Fees, 13^. •!</.
 
@@ -22732,7 +22732,7 @@ The Men and Female Felons are kept separate; but Male and Female Debtors, and Ma
 
 II. Of Debtors, from every other Class of Prisoners.
 
-HI. Of accused Persons, and Prisoners convicted: And
+III. Of accused Persons, and Prisoners convicted: And
 
 IV. Of the Notorious and Profligate, from the less daring and atrocious."
 

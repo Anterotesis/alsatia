@@ -304,7 +304,7 @@ On the second floor there are ranges of warehouses. These are too narrow, being 
 
 In the centre, behind the chapel, there are two spacious rooms, one hundred and twenty-five feet, by twenty-five. The afeent for bales is good, being ten feet wide; but die door way is only four feet wide. These would make good rooms for the sick; being frefii and any, and having each twenty windows, with shutters to them, and without glass.
 
-There are in the front three towers, or elevated rooms. That in the middle is called the governor’s, becaul'e it adjoins to his apartments. From the windows he has a fiill view of both the areas and corridors. But this lazaretto derives a peculiar advantage from a fine spring of water which comes from the mountains, and contributes much to its falutarinefs. The channel is full fix feet wide at its entrance into the area, and this renders it very convenient for walking linen. Being also property eujitluCled iluough all the sewers, it prevents the rooms from being oft’enfive.
+There are in the front three towers, or elevated rooms. That in the middle is called the governor’s, becaul'e it adjoins to his apartments. From the windows he has a fiill view of both the areas and corridors. But this lazaretto derives a peculiar advantage from a fine spring of water which comes from the mountains, and contributes much to its salutariness. The channel is full fix feet wide at its entrance into the area, and this renders it very convenient for walking linen. Being also property eujitluCled iluough all the sewers, it prevents the rooms from being oft’enfive.
 
 There are three prison-rooms, intended for riotous sailors who may be sent from the quarantine ships, and for die guards and porters, should they happen to be disorderly.
 
@@ -486,7 +486,7 @@ The Rules and Tariffs of the other lazarettos in Europe having been evidendy for
 
 ■ The following account has been, for the most part, copied from the /ketch of an information sent to our government in 1770, the perusal of which I owe to the favour of Mr. Richie our consul at Venice. I carefully examined this sketch during my quarantine of forty-two days, and I have here given it with a few corrections and observations.
 
-• The health-office at Venice was instituted by decree of the senate in the year 144?, in the midst of a very destructive pestilence, and afterwards confirmed and regulated by1 various subsequent decrees, till reduced to the excellent order in which it stands at present. This important office is governed by three commissioners, annually chosen by the senate, whose duty it is to attend every day to the business of the office; and to them are added1 two assistant commissioners, and two extraordinary, who have formerly served as junior commissioners, or are gentlemen of wisdom and experience: these last take their feats at the board when they think it requisite, or when cases of difficulty and danger require their counsel. The power or authority of this court is very extensive; for, when all the leven magistrates fit together, their judgments are decisive and without appeal, as well in civil as criminal affairs that relate Tcr puBIic health,-all which salt under "tneir cognizance; by which means this court is one of the most respectable in die government, and accordingly is always filled by persons of approved integrity and reputation, and in easy circumstances, in order to be less exposed to corruption, as their emoluments are very small, although it is a step towards more lucrative employments. —I shall not enter into an elaborate description of every particular circumstance relative to this office, only so far as is necessary to form an idea of its regulations and order in the expurgation of merchandise, or passengers coming from places suspected of pestilential infection. I shall therefore first take notice of the office itself, the duty and authority of its magistrates, &c. and afterwards successively give a particular account of the lazarettos, priors of the lazarettosj guardians of health', -messengers, porters, the method of receiving captains of ffiips from fiifpeded parts, taking their reports, quarantine of passengers, and expurgation of goods in the lazaretto; taking notice occasionally of other circumstances of less moment, which have a relation to, or connexion with those above mentioned.
+• The health-office at Venice was instituted by decree of the senate in the year 144?, in the midst of a very destructive pestilence, and afterwards confirmed and regulated by1 various sub.equent decrees, till reduced to the excellent order in which it stands at present. This important office is governed by three commissioners, annually chosen by the senate, whose duty it is to attend every day to the business of the office; and to them are added1 two assistant commissioners, and two extraordinary, who have formerly served as junior commissioners, or are gentlemen of wisdom and experience: these last take their feats at the board when they think it requisite, or when cases of difficulty and danger require their counsel. The power or authority of this court is very extensive; for, when all the leven magistrates fit together, their judgments are decisive and without appeal, as well in civil as criminal affairs that relate Tcr puBIic health,-all which salt under "tneir cognizance; by which means this court is one of the most respectable in die government, and accordingly is always filled by persons of approved integrity and reputation, and in easy circumstances, in order to be less exposed to corruption, as their emoluments are very small, although it is a step towards more lucrative employments. —I shall not enter into an elaborate description of every particular circumstance relative to this office, only so far as is necessary to form an idea of its regulations and order in the expurgation of merchandise, or passengers coming from places suspected of pestilential infection. I shall therefore first take notice of the office itself, the duty and authority of its magistrates, &c. and afterwards successively give a particular account of the lazarettos, priors of the lazarettosj guardians of health', -messengers, porters, the method of receiving captains of ffiips from fiifpeded parts, taking their reports, quarantine of passengers, and expurgation of goods in the lazaretto; taking notice occasionally of other circumstances of less moment, which have a relation to, or connexion with those above mentioned.
 
 * Many of the windows in these rooms, and also in some other ancient pest-houses which I have seen, are now bricked up. This shews, that in the last century, physicians were sensible of the importance of fresh air, and a free circulation of it in sick wards. A different practice, particularly in the small-pox and the gaol-fever, was afterwards adopted by medical gentlemen; but we seem now to be returning to the ancient and more salutary practice. Formerly also, it seems probable that men did not entertain those absurd prejudices against the free use of water in washing themselves and their rooms, which are now prevalent; for, in several of the old pefl-houses,
 
@@ -688,7 +688,7 @@ feet h:gh, these are all moved twice every day, turned, and the heaps mixed by t
 
 Silky flax, feathers, and such like, are managed in die same manner.
 
-Cotton wool and yarn, camel’s hair and beaver in bags, are purged in a different way. The bags are all unripped at one end, and the porters are obliged every day, to thrust their naked hands and arms into them, in different places, as far as the middle of the bag, i for twenty days succeslivelyj then die bags are sewed up, turned over, and die other end unripped, and managed in the same manner the twenty subsequent days, which complete the quarantine; but neither Qf the days wherein the bags are opened, are reckoned among the forty.
+Cotton wool and yarn, camel’s hair and beaver in bags, are purged in a different way. The bags are all unripped at one end, and the porters are obliged every day, to thrust their naked hands and arms into them, in different places, as far as the middle of the bag, i for twenty days succeslivelyj then die bags are sewed up, turned over, and die other end unripped, and managed in the same manner the twenty sub.equent days, which complete the quarantine; but neither Qf the days wherein the bags are opened, are reckoned among the forty.
 
 Sect. I.
 
@@ -1040,7 +1040,7 @@ in Turkey with the manufactures of the three nations . above mentioned, are gene
 
 2. As it is calculated that at least: one half of the cottons that are manufactured in England are purchased in Holland, France, and Italy;* and as these cottons, it is presumed will, after a lazaretto is built, be imported directly from the place of their growth, there will consequently be employed near double the tonnage now employed by the Levant company, to the no imall advantage of the nation, arising from the clear profit of the freights, the increase of our navigation, and the increase of our exports in goods instead of specie. f
 
-j. fn answer to the objection that Turkey will not take off any more of our fabric* and staple commodities, than are now consumed there, it should be observed, that, as the importation of cotton into Holland, France and Italy, will decrease for want of the usual demand for the London market, their exports will also decrease in proportion; and consequently make room for a greater quantity of ours. The Dutch will no longer fend our tin and lead adulterated to the Turkey markets. They and the French will fend thither a less quantity of their cloth, and this will make more room for our lhalloons, which have already begun to give a fatal blow there to the French cloth trade.
+j. fn answer to the objection that Turkey will not take off any more of our fabric* and staple commodities, than are now consumed there, it should be observed, that, as the importation of cotton into Holland, France and Italy, will decrease for want of the usual demand for the London market, their exports will also decrease in proportion; and consequently make room for a greater quantity of ours. The Dutch will no longer fend our tin and lead adulterated to the Turkey markets. They and the French will fend thither a less quantity of their cloth, and this will make more room for our shalloons, which have already begun to give a fatal blow there to the French cloth trade.
 
 We may also supply the Turks with part of those East and Weft Indian commodities, which they now receive from the French, Dutch, and other nations.
 
@@ -1184,7 +1184,7 @@ The interval from the infection to the seizure is various, according to the viru
 
 Verdoni. The spring is the principal season.
 
-Generally the disease shews itself at the instant of the touch, like an electrical (hock. Sometimes a person retains the contagious principle without any sensible effect, and after feverjd days communicates it unknowingly to a third, in whom, if predisposed to the disease, it becomes aCtive} or otherwise, it may be communicated to others successively in the fame way, till it becomes difiipated and annihilated, as happened at Smyrna in 1783.
+Generally the disease shews itself at the instant of the touch, like an electrical (hock. Sometimes a person retains the contagious principle without any sensible effect, and after feverjd days communicates it unknowingly to a third, in whom, if predisposed to the disease, it becomes active} or otherwise, it may be communicated to others successively in the fame way, till it becomes difiipated and annihilated, as happened at Smyrna in 1783.
 
 In bodies predisposed it very rarely conceals itself till the third day.
 
@@ -1290,7 +1290,7 @@ Some sailors in Constantinople in the phrensy of the plague, have thrown themsel
 
 My opinion upon the whole is, that the treatment ought to be relative to the particular constitution of the year, and of the patient, by which the nature of the disease itself is greatly varied.
 
-Jew Physician. Bleeding in many cases may be serviceable, as I have known patients who were bled by mistake, recover j and others recovered from a most desperate condition by a spontaneous haemorrhage. On the other hand, persons have been apparently injured by both these circumstances. The difference of effect seems to depend on the state of the blood, whether it be disposed to coagulation or dissolution. In the former, bleeding is useful, in the latter, hurtful. Vomits according to my experience have not succeeded; yet I lliould not hesitate to try ipecacuanha in substance, exliibiting half a scruple at two or three times, in the expectation that in this manner it would not run downwards. Bark
+Jew Physician. Bleeding in many cases may be serviceable, as I have known patients who were bled by mistake, recover j and others recovered from a most desperate condition by a spontaneous haemorrhage. On the other hand, persons have been apparently injured by both these circumstances. The difference of effect seems to depend on the state of the blood, whether it be disposed to coagulation or dissolution. In the former, bleeding is useful, in the latter, hurtful. Vomits according to my experience have not succeeded; yet I lliould not hesitate to try ipecacuanha in substance, exhibiting half a scruple at two or three times, in the expectation that in this manner it would not run downwards. Bark
 
 c may
 
@@ -1494,7 +1494,7 @@ P R E S E R PA T10 NFROM THE PLAGUE.
 
 To dwell in houses well detached from the infected, and admit no infected person or thing. —Habitation kept clean, and all filth removed. —Ventilation. —Windows only open while the fun is up. —Fires in each chamber, especially of odorous woods. —Flowers and aromatics strewed in the rooms. —Sprinkling with vinegar. —Fumigations with resinous and balsamic matters.
 
-Prophyladlics
+Prophylactics
 
 6ect. III.
 
@@ -1684,7 +1684,7 @@ the penalty of death.
 
 13. The resolution of the college respecting die shutting up of all the churches of this city remains confirmed j and all afi’emblies in all other places are to be considered as prohibited.
 
-14. The zeal of the most reverend the Vicar Capitolary excites him to command those religious which he shall appoint among the most capable and aCtive, to aid and assist by every possible means the infected and suspected poor of the separated houses, and always, with the due cautions, to administer to die fame the spiritual comforts of the most holy sacrameots, exhorting and animating them not to distruft the merciful aid of heaven.
+14. The zeal of the most reverend the Vicar Capitolary excites him to command those religious which he shall appoint among the most capable and active, to aid and assist by every possible means the infected and suspected poor of the separated houses, and always, with the due cautions, to administer to die fame the spiritual comforts of the most holy sacraments, exhorting and animating them not to distruft the merciful aid of heaven.
 
 II 15*. And
 
@@ -1734,7 +1734,7 @@ at hand, for the fake of timely prevention.
 
 28. It shall be the duty of the said persons deputed, to report every morning to the commissioners and representatives the number of the said poor} and also both to the commissioners and the college their state of health, and all incidents relative to them.
 
-29. The public charity being in like manner disposed to give assistance to the poor and indigent inhabitants of the interdicted houles, which otherwise could not maintain themselves, and having fixed the relief of one lira of Dalmatia a head during the distressed situation in which they are placed, the said representatives shall appoint two or more capable and aCtive deputies, who may every day review the number of such poor, to adjust, day by day, the return of them to be made to the commissioners and representatives.
+29. The public charity being in like manner disposed to give assistance to the poor and indigent inhabitants of the interdicted houles, which otherwise could not maintain themselves, and having fixed the relief of one lira of Dalmatia a head during the distressed situation in which they are placed, the said representatives shall appoint two or more capable and active deputies, who may every day review the number of such poor, to adjust, day by day, the return of them to be made to the commissioners and representatives.
 
 30. There shall be appointed by the said representatives persons of activity and probity,
 
@@ -2032,7 +2032,7 @@ In the Hospital for Women there were two hundred and thirty patients, who had al
 
 • Even a murderer,” added the commilfary, “ cannot be taken if found in this hall.” Every church in Malta, where the sacrament is administered, is a sanctuary for debtors and felons; in that of the Dominicans, and also of the Augustins there were one or two persons.
 
-+ Sir William Hamilton favoured me with a letter to the Grand Mailer, which I presented after my first vtfit to this great hospital. He very readily and kindly said, that the prisons and hospitals should be all open to me. On a subsequent visit, he alked me what I thought of his hospitals. I faithfully told his Highness my sentiments, and made some of the remarks that I now publish; adding, if he bimfilf would sometimes walk over the hospitals, many abuses would be corrected. But my animadversions were reckoned too free; yet, being encouraged by the satisfaction which the patients seemed to receive from my frequent visits, I continued them; and I have reason to believe they produced an alteration for the better in the Hate of these hospitals, with respefl to cleanliness and attention to the patients.
++ Sir William Hamilton favoured me with a letter to the Grand Mailer, which I presented after my first vtfit to this great hospital. He very readily and kindly said, that the prisons and hospitals should be all open to me. On a sub.equent visit, he alked me what I thought of his hospitals. I faithfully told his Highness my sentiments, and made some of the remarks that I now publish; adding, if he bimfilf would sometimes walk over the hospitals, many abuses would be corrected. But my animadversions were reckoned too free; yet, being encouraged by the satisfaction which the patients seemed to receive from my frequent visits, I continued them; and I have reason to believe they produced an alteration for the better in the Hate of these hospitals, with respefl to cleanliness and attention to the patients.
 
 SECT. IV.
 
@@ -2074,9 +2074,9 @@ Zante.
 
 Smyrna Prison for
 
-Criminals, more than seven prisoners at any of the three visits which I made to it in 1786. One of these prisoners having been baftinadoed so that he was swelled from head to
+Criminals, more than seven prisoners at any of the three visits which I made to it in 1786. One of these prisoners having been bastinadoed so that he was swelled from head to
 
-foot, I advised him to bathe in the sea, and to apply to the foies of his feet plasters made of salt and vinegar. In the use of these means, with the addition of two doses of Glauber's salts, he recovered; and I acquired a credit which made the keepers, in my subsequent visits, •particularly attentive to me.
+foot, I advised him to bathe in the sea, and to apply to the foies of his feet plasters made of salt and vinegar. In the use of these means, with the addition of two doses of Glauber's salts, he recovered; and I acquired a credit which made the keepers, in my sub.equent visits, •particularly attentive to me.
 
 Prison The Prison for Debtors consists of four or five rooms, and a court to walk in. In this
 
@@ -2094,7 +2094,7 @@ In those cities which I have seen in Turkey, the debtors have a prison separate 
 
 The Prison for Criminals at Smyrna is situated near the sea, and consists of two rooms and a court. So speedy is the execution of justice here, that I found in this prison no
 
-• One morning I attended the Cadi and other officers of the police when they visited the (hops and examined jhe weights used in them, and the quality of the bread sold by the bakers. All false and light weights they cut and carried away. Such of the (hop-keepers as were judged to be delinquents were either sent to prison, or immediately baftinadoed; that is, laid on their backs to receive on the foies of their feet, a number of strokes, at the discretion of the Cadi. I heard of a person who had received four or five hundred of these strokes; but I can hardly suppose it possible to survive a much less number. —Such hasty executions of, what is here called justice’, are very improper and cruel. The terror which appeared in the countenances of all the (hop-keepers at these times implied, that the innocent as well as the guilty might fufter; and, indeed, it is scarcely possible this should not sometimes happen, the Cadi, who orders and superir.tcnds these punishments, continuing in his office only a year, and being generally young and unexperienced.
+• One morning I attended the Cadi and other officers of the police when they visited the (hops and examined jhe weights used in them, and the quality of the bread sold by the bakers. All false and light weights they cut and carried away. Such of the (hop-keepers as were judged to be delinquents were either sent to prison, or immediately bastinadoed; that is, laid on their backs to receive on the foies of their feet, a number of strokes, at the discretion of the Cadi. I heard of a person who had received four or five hundred of these strokes; but I can hardly suppose it possible to survive a much less number. —Such hasty executions of, what is here called justice’, are very improper and cruel. The terror which appeared in the countenances of all the (hop-keepers at these times implied, that the innocent as well as the guilty might fufter; and, indeed, it is scarcely possible this should not sometimes happen, the Cadi, who orders and superir.tcnds these punishments, continuing in his office only a year, and being generally young and unexperienced.
 
 f As but very few died of the plague in Smyrna in 1786, the houses of the Franks were then all open. These live in a part of the town quits separate from the Turks. In like manner at Constantinople, all the European ambafiadors and merchants live by themselves in the suburb of Pera; where, while the plague rages, they ftiut their houses. All provisions then brought to them are taken at the doors and dipped, in water; and all letters are received with a pair of tongs, and fumigated before they are opened.
 
@@ -2426,7 +2426,7 @@ In the Rqfp-boufey I found one day that all' the prisoners had finished their ta
 
 three o’clock, and on inquiring if they might not by continuing their work earn somewhat for themselves; one of them very pertinendy replied; “ No Sir; for I doubt if we had “ that permission, whether we should be so healthy as we are. The clolenefs of the court
 
-* in which we work, situated in the middle of the city, and the scantinefs of our provisions, u may make relaxation necessary.” The number of prisoners in December 1785, was sixty-five; in January 1787, fifty-foven.
+* in which we work, situated in the middle of the city, and the scantiness of our provisions, u may make relaxation necessary.” The number of prisoners in December 1785, was sixty-five; in January 1787, fifty-foven.
 
 At the new Work-house, over one of the outer gates, there is a device, with an inscription New work-to this purpose.
 
@@ -2958,7 +2958,7 @@ Wicklow County Bridewell is a flight building; and, like all such prisons in thi
 
 The County Infirmary at Wicklow is a house rented by the county. It is out of repair—the deling of the kitchen fallen in. There were nine beds—the bedding very old, and linen only on one bed. Diet, a sixpenny loaf every four days, and three pints of milk every day. -f By the account book of the worthy treaforer, the Rev. Dr. Walls, it appears that the hospital is poor, the whole income being but about £ 300 a year. The apothecary has a salary of £25 for making up the drugs, which are bought at Dublin, and the surgeon is paid the £ 100 a year, allowed by government. As the funds are low, the diet (especially for the recovering patients) is scanty: furniture also is much wanted. Would it not therefore be proper to apply part of the king’s 100per arm. to the benefit of the house, as is done in some other infirmaries; especially considering, that the surgeon has advantages by pupils or apprentices, and but few patients ? Their number on May ill, 1788, being only fix.
 
-* Every county hospital has by the king’s letter, according to the A& in 1766, JT100 a year to be applied cither to the payment of a physician or surgeon, or some other use of the hospital, as the governors or gover-nefles shall think proper: and besides the endowments and annual contributions, there is presented by the county £ 100, for the expenses of these hospitals. The surgeon generally receives from the treasurer the £ 100 from government; and drugs or medicines, often to a large amount, are charged to the other accounts.
+* Every county hospital has by the king’s letter, according to the A& in 1766, JT100 a year to be applied cither to the payment of a physician or surgeon, or some other use of the hospital, as the governors or gover-nesses shall think proper: and besides the endowments and annual contributions, there is presented by the county £ 100, for the expenses of these hospitals. The surgeon generally receives from the treasurer the £ 100 from government; and drugs or medicines, often to a large amount, are charged to the other accounts.
 
 + Bread and milk is a very proper diet for the general class of patients admitted into the Infirmaries in this country, as they are subject to scrophulous complaints, arising from intemperance and the want of attention to cleanliness.
 
@@ -3022,7 +3022,7 @@ KILDARE County. A new County Gaol is building at Naas in the centre of the town.
 
 1787, June 26, Debtors 3. Felons &c. 19.
 
-The County Infirmary at Kildare has fix good rooms on the first floor, three of which were occupied by seven patients—fome had no Iheets—others only one—the blankets were dirty and worn out. Diet, a twopenny loaf of white bread, a quart of new milk, and water gruel every day. Fuel allowed only from the first of October to the first of April, a limitation exceedingly improper in hospitals. —Here is a good bath, but it is seldom or never used.
+The County Infirmary at Kildare has fix good rooms on the first floor, three of which were occupied by seven patients—some had no Iheets—others only one—the blankets were dirty and worn out. Diet, a twopenny loaf of white bread, a quart of new milk, and water gruel every day. Fuel allowed only from the first of October to the first of April, a limitation exceedingly improper in hospitals. —Here is a good bath, but it is seldom or never used.
 
 MARYBOROUGH County Gaol. A court having been lately enclosed, and several rooms added, the apartments towards the street, and the damp cellar are not now used. Allowance in bread 3d. a day; weight in 1787 2lb. 51 oz. Here, and at several other places, I had the pleasure to find, that the prisoners were not defrauded in their bread. The county proposes to build a new gaol: I hope not on the old ground, though it adjoins to the court-house; as, at a little distance, the place where the old barracks stood is spacious, and has every advantage for the site of a county gaol, being airy and near the river, and has a well offine water.
 
@@ -3956,7 +3956,7 @@ The clothes of the 12th of June are of so bad a quality that the children who ha
 
 Ballinrobe School.March 31ft, 1788, twenty-five boys. Fourteen of these came from the nursery at Monaftereven, and eight from that of Dublin, in a sickly state. — Mott of them were eight years old, yet did not know a letter: now they are fine healthy boys, and great attention is paid to them by the Rev. Mr. Viridite the visitor. — The boys having no place for their diversions except the spot of ground before the door, and the house adjoining being a popish chapel, this spot, and also the garden, should be enclosed by a wall. The children in these schools are continually jifibciating with the matter’s labourers and others in the kitchen j and therefore it seems that little benefit can be derived
 
-• I have in these remarks seldom omitted to mention the allowance for soap, that necessary article of dean* liness, because it is too small in these schools; and this is an inducement to preserve the urine for waihing tht children’s linen, which is one cause of cutaneous disorders.
+• I have in these remarks seldom omitted to mention the allowance for soap, that necessary article of dean* liness, because it is too small in these schools; and this is an inducement to preserve the urine for washing tht children’s linen, which is one cause of cutaneous disorders.
 
 from
 
@@ -4538,7 +4538,7 @@ general rules being nearly the fame for girls, I omit copying them.
 
 124 LONDON. Sect. VIII.
 
-I cannot better conclude this subject than in the words of my learned, much respected and honoured friend Dr. Price. “Seminaries of learning are the springs of society, which, as they flow foul or pure, diffuse through successive generations depravity and misery, or on the contrary, virtue and happiness. On the bent given to our minds as they open and expand, depends their subsequent fate; and on the general management of education depend the honour and dignity of our species.”
+I cannot better conclude this subject than in the words of my learned, much respected and honoured friend Dr. Price. “Seminaries of learning are the springs of society, which, as they flow foul or pure, diffuse through successive generations depravity and misery, or on the contrary, virtue and happiness. On the bent given to our minds as they open and expand, depends their sub.equent fate; and on the general management of education depend the honour and dignity of our species.”
 
 SECTION VIII.
 
@@ -4606,7 +4606,7 @@ Men within the Walls 125; Women 7. Men in the Rules 79; Woman i.
 
 + In my former work I have given an abstract of Sir Stephen Theodore Janssen's table of convicts See. But, as in the riots in 1780, all the records of the Old Bailey were burnt, that table, as being the only remaining memorial, is now become so valuable, that I have thought proper to annex it entire at the end of the book. A careful perusal of it will, I doubt not, suggest many useful remarks; particularly, if the number of executions in former years be compared with the constantly increasing number of the present time, it may, more than any thing else, excite a conviction of the necessity of no longer delaying the erection of penitentiary houses9 in order to avoid the charges of inhumanity and impolicy, in hurrying out of the world so many young creatures, who might have been reclaimed and restored to society by a proper course of discipline.
 
-I have also given a table of all the executions for London and Middlesex during the twelve subsequent years, and at the end of this book shall continue it to December 1788. These tables together with Janfens will give the total number of executions for forty years pall.
+I have also given a table of all the executions for London and Middlesex during the twelve sub.equent years, and at the end of this book shall continue it to December 1788. These tables together with Janfens will give the total number of executions for forty years pall.
 
 t 24th of Geo. III. Cap. liv. Sedl. 22.
 
@@ -6664,7 +6664,7 @@ Rules.
 
 1786. Jan. 20.
 
-The following Memorial is hung up for the inspection of the felons. —“ As a tcftimonial of the good effecta u of peaceable and decent behaviour, and for making such discoveries as may prevent future escapes, the u following is inserted. Mr. Daniel BuJkndU keeper of this gaol, presented a petition to the chairman * P. Powney, Esq. of the Michaelmas general quarteF foffions held at Reading, 0£L 7th 1783, in favour of u Richard Read, a convict under sentence of transportation to Africa for seven years, who by a timely discovery, " prevented the escape of his fellow prisoners, and for which discovery he received his majesty’s full and free pardon.*
+The following Memorial is hung up for the inspection of the felons. —“ As a testimonial of the good effecta u of peaceable and decent behaviour, and for making such discoveries as may prevent future escapes, the u following is inserted. Mr. Daniel BuJkndU keeper of this gaol, presented a petition to the chairman * P. Powney, Esq. of the Michaelmas general quarteF foffions held at Reading, 0£L 7th 1783, in favour of u Richard Read, a convict under sentence of transportation to Africa for seven years, who by a timely discovery, " prevented the escape of his fellow prisoners, and for which discovery he received his majesty’s full and free pardon.*
 
 BERKSHIRE.
 
@@ -7216,7 +7216,7 @@ Hereford Here are twelve new rooms for men, and four for women: they are too low
 
 NTY
 
-Gaou staircases are inconvenient. By the advice of Mr. Cam, the surgeon, a convenient court is now made for the men; and I doubt not but he will procure the enlargement of the women's court; it being only five feet wide. Allowance three pennyworth of bread a day: to convicts a twopenny loaf and two pence in money. Acquitted prisoners are not released till the judge leaves the city. Neither the act for preserving the health of prisoners, nor clauses against spirituous liquors are hung up; nor rules, which now become more necessary, to restrain the free admission of liquors. Women convids continue in this, and other gaols, longer than the men—fome even four or five years. I found that most of the women felons were in heavy irons, * but they were taken off the next day. No employment: no allowance for coals. Gaoler’s salary 60in lieu of the tap.
+Gaou staircases are inconvenient. By the advice of Mr. Cam, the surgeon, a convenient court is now made for the men; and I doubt not but he will procure the enlargement of the women's court; it being only five feet wide. Allowance three pennyworth of bread a day: to convicts a twopenny loaf and two pence in money. Acquitted prisoners are not released till the judge leaves the city. Neither the act for preserving the health of prisoners, nor clauses against spirituous liquors are hung up; nor rules, which now become more necessary, to restrain the free admission of liquors. Women convids continue in this, and other gaols, longer than the men—some even four or five years. I found that most of the women felons were in heavy irons, * but they were taken off the next day. No employment: no allowance for coals. Gaoler’s salary 60in lieu of the tap.
 
 1788, Feb. 4, Debtors 6. Felons &c. 16. Convids 9.
 
@@ -7280,7 +7280,7 @@ In the temporary prison, allowance is two-pence in bread, and a penny in money.
 
 The twopenny loaf for the felons weighed 1 lb. 5 oz. that for the fines, being somewhat coarser, weighed 1 lb. 11 oz. The transports have their 2 6 a week. His Majesty
 
-• The alt for building a new gaol and penitentiary house, and certain new houses of correction, for the county of Gloucester, and for regulating the fame (25th Geo. HI. *785.) drawn up by Sir George O. Paul, well deserves to be consulted by gentlemen who have any intention of building a county gaol or prison•
+• The alt for building a new gaol and penitentiary house, and certain new houses of correction, for the county of Gloucester, and for regulating the fame (25th Geo. III. *785.) drawn up by Sir George O. Paul, well deserves to be consulted by gentlemen who have any intention of building a county gaol or prison•
 
 A a in
 
@@ -9166,7 +9166,7 @@ In my various joumiej in England and Wales, I have seen many houses defaced on a
 
 when they come into wo^-houses or hospitals, the admission of fresh air.
 
-• Before I quit this subject, I would just mention, that in all my visits to the gaols and prisons, in this, and other kingdoms, I never received any insults either from keepers or prisoners; nor have I loft any thing in any of them, except, that in one of our prisons I once loft a large new handkerchief out of my pocket, which I did not raifs for some time, but on a subsequent visit, about ten months after, it was immediately presented to me by a prisoner; as, he said, he believed I had dropped it when I was there last.
+• Before I quit this subject, I would just mention, that in all my visits to the gaols and prisons, in this, and other kingdoms, I never received any insults either from keepers or prisoners; nor have I loft any thing in any of them, except, that in one of our prisons I once loft a large new handkerchief out of my pocket, which I did not raifs for some time, but on a sub.equent visit, about ten months after, it was immediately presented to me by a prisoner; as, he said, he believed I had dropped it when I was there last.
 
 THE
 
@@ -9294,7 +9294,7 @@ MO<)TH
 
 Hulk s«
 
-All who are employed in the public works on shore have, each day they work, one pint of small beer, the king’s allowance. Molt of them had a ring on one leg, and the other ring fattened to their waiftband.
+All who are employed in the public works on shore have, each day they work, one pint of small beer, the king’s allowance. Molt of them had a ring on one leg, and the other ring fattened to their waistband.
 
 Both the ships were clean, particularly the Ceres. The had few sick in that
 
@@ -9318,7 +9318,7 @@ HULKS.
 
 prisoners of war, with a strict: prohibition against which, I am sorry to say, is
 
-particularly necessary for the guards of these convicts. A gentleman of reputation should be appointed as commissary, to whom the prisoners, in case of cruelty or injustice, might immediately appeal j and who also should fee that the money allowed by government, at the end of their term, be given them. See Act 16th Geo. III. 43. and Act 24th Geo. III. cap. 12. fest. 6. By this act, and another of the same year cap. 56. fest. 9. it is declared, “ That all the time during which any offender, shall have continued in gaol * under sentence of transportation, or being removed under the provisions aforesaid, shall “ continue confined by virtue of this act, shall be taken and reckoned in discharge, or part “ discharge, or satisfaction of the term of his traiifportation.” Some of the convicts were sentenced for life, others for fourteen, seven, five, or three years: among these were boys; and all associating together without distinction. Is it not contrary to justice and humanity to fend convicts who are not sentenced for life, to a settlement so remote that there is no probability of their return; and a (till greater hardship to those who are sent after they have been four or five years and upwards in confinement, as some were in the last fleet to Botany Bay
+particularly necessary for the guards of these convicts. A gentleman of reputation should be appointed as commissary, to whom the prisoners, in case of cruelty or injustice, might immediately appeal j and who also should fee that the money allowed by government, at the end of their term, be given them. See Act 16th Geo. III. 43. and Act 24th Geo. III. cap. 12. fest. 6. By this act, and another of the same year cap. 56. fest. 9. it is declared, “ That all the time during which any offender, shall have continued in gaol * under sentence of transportation, or being removed under the provisions aforesaid, shall “ continue confined by virtue of this act, shall be taken and reckoned in discharge, or part “ discharge, or satisfaction of the term of his transportation.” Some of the convicts were sentenced for life, others for fourteen, seven, five, or three years: among these were boys; and all associating together without distinction. Is it not contrary to justice and humanity to fend convicts who are not sentenced for life, to a settlement so remote that there is no probability of their return; and a (till greater hardship to those who are sent after they have been four or five years and upwards in confinement, as some were in the last fleet to Botany Bay
 
 I think it will be admitted that the mode of confinement and labour in the hulks is too severe for the far greater number of those who are confined in them. At the same time, there is no proportion of punishment to the several offences, and consequently, no distinction of guilt j which many wise legislators have long lamented as an evil which wants to be remedied.
 
@@ -9704,7 +9704,7 @@ TI A R T
 
 HpusEs. the governor’s own apartments. I would wilh that the rooms for solitary confinement at night were not too small, and would plead for the cheering influence of , as well as of air, in them. The lazaretto at Xante came up to my ideas of the construction of a Penitentiary house, or house of correction, more, I think, than any building I have yet seen. It also had that exposure to the salutary influence of the breezes, and that cheer-fulness of afpeCb, which are so necessary to relieve the languor attending sickness and confinement.
 
-I conclude this subject in the words of an elegant writer, in the prefatory observations on a draught of a bill to punish by imprisonment and hard L hour &c. that, * if " a beginning be once made, by adopting such a plan as may appear the least liable to * objections (for none can be entirely free from diem) it mull be left to time, expe-« rience, and the wisdom of subsequent sessions, to revise, improve, and mature it. Many useful and essential amendments may, even at present, be expected from others who will give their immediate attention: and much must ultimately depend on the aCtive, judicious, and discreet concurrence of magistrates and gentlemen of weight in the different parts of the kingdom: for it will be impossible, in the first introduction of “ so great an establishment, to foresee and prescribe the whole detail of rules necessary to be observed; and indeed it will be better, in every respect, to leave that detail, under “ proper checks and restrictions, to be hereafter planned and settled in the several districts “ to be established.”
+I conclude this subject in the words of an elegant writer, in the prefatory observations on a draught of a bill to punish by imprisonment and hard L hour &c. that, * if " a beginning be once made, by adopting such a plan as may appear the least liable to * objections (for none can be entirely free from diem) it mull be left to time, expe-« rience, and the wisdom of sub.equent sessions, to revise, improve, and mature it. Many useful and essential amendments may, even at present, be expected from others who will give their immediate attention: and much must ultimately depend on the active, judicious, and discreet concurrence of magistrates and gentlemen of weight in the different parts of the kingdom: for it will be impossible, in the first introduction of “ so great an establishment, to foresee and prescribe the whole detail of rules necessary to be observed; and indeed it will be better, in every respect, to leave that detail, under “ proper checks and restrictions, to be hereafter planned and settled in the several districts “ to be established.”
 
 Peters- In my publication in 1784, I gave an account of a house of correction at Petersburg House which was then nearly finished. I was desirous of giving the plan; but the drawing
 
@@ -9730,7 +9730,7 @@ CORRECTION.
 
 courts on each fide, and the chapel and chaplain’s apartments at the opposite end, facing the governor’s own apartments. I would wifti that the rooms for solitary confinement at night were not too small, and would plead for the cheering influence of light, as well as of air,in them. The lazaretto at Zante came up to my ideas of the construction of a Penitentiary house, or house of correction, more, I think, than any building I have yet seen. It also had that exposure to the salutary influence of the breezes, and that cheer-fulness of aspect, which are so necessary to relieve the languor attending sickness and confinement.
 
-I conclude this subject in the words of an elegant writer, in the prefatory observations on a draught of a bill to punish by imprisonment and hard labour &c. that, if a beginning be once made, by adopting such a plan as may appear the least liable to objections (for none can be entirely free from them) it mult be left to time, expe-« rience, and the wisdom of subsequent sessions, to revise, improve, and mature it. Many useful and efiential amendments may, even at present, be expected from others “ who will give their immediate attention: and much must ultimately depend on the aCtive, judicious, and discreet concurrence of magistrates and gentlemen of weight in the different parts of the kingdom: for it will be impossible, in the first introduction of so great an establishment, to foresee and prescribe the whole detail of rules necessary to be observed; and indeed it will be better, in every respect, to leave that detail, under “ proper checks and restrictions, to be hereafter planned and settled in the several districts * to be established.”
+I conclude this subject in the words of an elegant writer, in the prefatory observations on a draught of a bill to punish by imprisonment and hard labour &c. that, if a beginning be once made, by adopting such a plan as may appear the least liable to objections (for none can be entirely free from them) it mult be left to time, expe-« rience, and the wisdom of sub.equent sessions, to revise, improve, and mature it. Many useful and efiential amendments may, even at present, be expected from others “ who will give their immediate attention: and much must ultimately depend on the active, judicious, and discreet concurrence of magistrates and gentlemen of weight in the different parts of the kingdom: for it will be impossible, in the first introduction of so great an establishment, to foresee and prescribe the whole detail of rules necessary to be observed; and indeed it will be better, in every respect, to leave that detail, under “ proper checks and restrictions, to be hereafter planned and settled in the several districts * to be established.”
 
 In my publication in 1784, I gave an account of a house of correction at Petersburg which was then nearly finished. I was desirous of giving the plan; but the drawing not having been received in time for that publication, it is here inserted. (Seeplate xxi.) It is an elegant, though plain building, with fifty-seven windows in front, and two galleries at the back-front, supported by pillars. There is an afeent of a few steps to the first floor; all the staircases are stone (five feet wide); the rooms are aboUt thirty-three feet by twenty-three; the windows fix feet from the floor j the cielings are lofty, in the middle of which are apertures, fourteen inches square; and the roof consists of thin on plates.
 
@@ -11738,7 +11738,7 @@ Since the office of a Gaoler or Keeper of a Prison is very important, and, when 
 
 Should the plan take place, during my life, of establishing a permanent charity, under some such title as that at Philadelphia, viz. A society for alleviating the miseries of public prisons, and annuities be engrafted thereupon for the abovementioned purpose, I would most readily (land at the bottom of a page as a subscriber of £$oo; or if such a society shall be constituted within three years after my death, this sum shall be paid out of my estate.
 
-• Mr. George Smith, who died in 1786, was keeper of Tothill-fields bridewell at my first visit in April 1774: and my many subsequent visits fully convinced me of his integrity and humanity. He was a firiking example of a con fl ant, unabated xeal in the dis charge of the important trufi repefed in him.
+• Mr. George Smith, who died in 1786, was keeper of Tothill-fields bridewell at my first visit in April 1774: and my many sub.equent visits fully convinced me of his integrity and humanity. He was a firiking example of a con fl ant, unabated xeal in the dis charge of the important trufi repefed in him.
 
 L 1
 
