@@ -9556,7 +9556,7 @@ Garnish, Debtors, £0:4: 6.
 
 Felons, 0:1:0.
 
-Number, Debtors. Felons ice. Dibtors. Felons &«.
+Number, Debtors. Felons ice. Dibtors. Felons &c.
 
 1774, Feb. 9, 3°, 60. 1782, Jan. 2, 32, 39-
 
@@ -11630,7 +11630,7 @@ Leicester.
 
 Garnish, Debtors, £0:4:0. Felons, 0:3:0. (See Remarks.)
 
-Number, Debtors. Felons &«. Debtors. Felons &c.
+Number, Debtors. Felons &c. Debtors. Felons &c.
 
 1773, Nov. l6, l6, 3. 1776, Od. 29, l7> 5-
 
@@ -13364,7 +13364,7 @@ Felons, three-pennyworth of bread a day each (weight Sep. 17S3, lib. 1302; .^.
 
 Garnish, £0:2: 6.
 
-Number, Debtors. Felons &e. Debtors. Felons &«.
+Number, Debtors. Felons &e. Debtors. Felons &c.
 
 1773 > Nov. 23, I7. 1779, May 18, 19, 8.
 
@@ -15834,7 +15834,7 @@ PRISONERS,
 
 Allowance, Felons, a three-penny loaf each in two days; white or brown at their option (weight in Dec. 1775, of white bread lib. 10 oz. brown, 2 lb. 2 oz.J.
 
-Number, F*iot», &«.
+Number, F*iot», &c.
 
 1774, Feb. 19, 11.
 
