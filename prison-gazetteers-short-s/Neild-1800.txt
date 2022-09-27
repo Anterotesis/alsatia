@@ -742,23 +742,23 @@ CONFINED FOR DEBT.
 
 4$
 
-£ *. d- £. s. d.
+£. s. d - £. s. d.
 
 Brought-up, 73 7 9
 
-Mr. Hacket’s gift ...... 0 13 4
+Mr. Hacket’s gift - 0 13 4
 
-Mr. Morris’s ditto......... o 3 4
+Mr. Morris’s ditto - 0 3 4
 
-Grocers’ Company, gift of Sir J. Peachy 0 5 0
+Grocers’ Company, gift of Sir J. Peachy - 0 5 0
 
-Salters’ Company, gift of Mr. Garrett.. 0 6 8
+Salters’ Company, gift of Mr. Garrett - 0 6 8
 
-Mr. Horne ...... 0 5 0
+Mr. Horne - 0 5 0
 
-Churchwardens of St. Sepulchre’s.... 0 10 0
+Churchwardens of St. Sepulchre’s - 0 10 0
 
-Brass money, per annum, one pound, paid by Mr. Buckeridge, of Orchard-Street, who calls after Christmas to pay it; deducting, if he requires it, four shillings for land tax ...... 0 16 0
+Brass money, per annum, one pound, paid by Mr. Buckeridge, of Orchard-Street, who calls after Christmas to pay it; deducting, if he requires it, four shillings for land tax - 0 16 0
 
 ---- 2 19 4
 
@@ -772,7 +772,7 @@ Debtors 4.
 
 No stated chaplain; but the Rev. Mr. Bromley, vicar of Holy Trinity, frcquendy attends. The allowance, to paupers, is two shillings and four-pence per week-
 
-ACCOUNT OF PERSONS
+24 ACCOUNT OF PERSONS
 
 KINGSTON, Surrey. B. SERJEANT, Keeper.
 
@@ -790,9 +790,7 @@ Debtor 1.
 
 No allowance whatever. In a letter, dated 29th June, 1800, the only prisoner here was William Emsley, .committed for debt SOth June, 1799, who says, “ Any person "wishing to see him, upon obtaining the gaoler’s leave, must pass through six doors: the yard he has to walk in is only six yards by four: the window and Avail so high, that he has very little light, or air. He bad a fellow-prisoner, but he only lived ten weeks; and the preservation of his own life was owing-to -die) gratuitous attendance of Surgeons Day and Dent," Emsley’s debt was £ 28. 12$. 0i.
 
-CONFINED FOR DEBT.
-
-* 5
+CONFINED FOR DEBT. 25
 
 LANCASTER CASTLE.
 
@@ -816,9 +814,7 @@ Allowance, one pound six ounces of bread, per day, and three pints of small beer
 
 E
 
-26
-
-ACCOUNT OF PERSONS
+26 ACCOUNT OF PERSONS
 
 LEICESTER, Borough.
 
@@ -850,9 +846,7 @@ Debtors 14.
 
 To certificated debtors, one pound and a half of good household bread per day, and one pound of good beef, without bone, per week, each. The bread is delivered three times in the week, in loaves of three pounds and a half each.
 
-CONFINED FOR DEBT,
-
-27
+CONFINED FOR DEBT, 27
 
 LITCHFIELD.
 
@@ -882,7 +876,7 @@ Debtors 0.
 
 No allowance.
 
-ACCOUNT OF PERSONS
+28 ACCOUNT OF PERSONS
 
 I.YXX REGIS.
 
@@ -928,7 +922,7 @@ Debtors 30.
 
 The debtors confined on the common side of this prison partake equal!)' of all the charities which are brought thither, they have. £'4. 10s. 0d. divided amongst them every lunar month; and each receives an allowance of two or three pounds of meat on Saturdays. Sixty penny loaves are given them every six woi ks, and £‘J. 10s. 0d. divided quarterly. Some other donations, of beef, coals, &c. are shared between them; but these, for the most part, arc in the winter. Some of them are legacies left by different persons for that purpose, of the claim to which the prisoners are in possession; and others are voluntary gifts, sent occasionally by the humane and benevolent; all of which go to the common side of the prison. The building itself is in a most; uinous and insecure state; the habitations of the debtors are v-retched in the extreme.
 
-ACCOUNT OF PERSONS
+30 ACCOUNT OF PERSONS
 
 3 *
 
@@ -962,7 +956,7 @@ Debtors 6.
 
 The county allowance, to certificated debtors, is fourteen pence per week.
 
-CONFINED FOR DEBT. gi
+CONFINED FOR DEBT. 31
 
 NEWCASTLE UPON TYNE.
 
@@ -988,7 +982,7 @@ One pound of bread per day, to common-side debtors only; none on the master’s 
 
 Since my last visit to this gaol, on the 20th August, 1800, I am informed that the admirable order and regularity, so conspicuously manifest in every department's especially owing to the great care and attention of certain respectable gentlemen, chosen
 
-3s ACCOUNT OF PERSONS
+32 ACCOUNT OF PERSONS
 
 at the quarter-sessions; who form themselves into a committee,
 
