@@ -1788,7 +1788,7 @@ In the Matfon de Force there were ninety prisoners, ranged in four rooms, and em
 
 FLANDERS.
 
-A t Brussels I revisited the prison Ld Porte de Halle, which consists of twenty-four chambers, distinguished by the twenty-four letters of the alphabet, and each prisoner had a separate room.
+At Brussels I revisited the prison Ld Porte de Halle, which consists of twenty-four chambers, distinguished by the twenty-four letters of the alphabet, and each prisoner had a separate room.
 
 The house of correction is an old building, and the prisoners are soon to be removed to that at Vilforde. They are all employed ■, for at
 
@@ -1990,8 +1990,6 @@ cc Of the five classes of chambers, the most horrid next to the dungeons are tho
 
 “ The Calottes, chambers at the top of the towers, are somewhat more tolerable. They are formed of eight arcades of free-stone. Here one cannot walk but in the middle of the room. There is hardly sufficient space for a bed from one arcade to another. The windows, being in walls ten feet thick, and having iron grates within
 
-and
-
 FRANCE.
 
 and without, admit but little light. In these rooms the heat is excessive in summer, and the cold in winter. They have stoves.
@@ -2104,7 +2102,7 @@ Calais.
 
 provisions were not so good. There were twelve on their parole in this town, nine at Bourbourg, and two at Ardres, who told me they had procured bondsmen for their security.
 
-The common prison at Calais, being iinaller than that at Dunkirk, was much crowded j for it contained one hundred and twenty-seven
+The common prison at Calais, being smaller than that at Dunkirk, was much crowded j for it contained one hundred and twenty-seven
 
 English
 
@@ -2214,8 +2212,6 @@ Saturday Breakfast. As Tuesday.
 
 Their drink is four pints of beer daily. But on holidays, viz. two days at Easter, Aflcenflon-day, two at Jf'bitfuntide, three at the fair time, and two at Christmas, they have for dinner, smoaked or salt meat or bacon, beans or pease, carrots or cabbage, and the three fair days they have strong beer.
 
-father
-
 HOLLAND.
 
 17
@@ -2276,7 +2272,7 @@ English
 
 Prisoners
 
-“ seventy-five for mates, sixty for sailors, and twenty-five for hoys.” Passengers, I afterwards learned, were on the same footing with captains. On the second day of my being there, the rules (the fame with those at Dunkirk) were hung up, both within and without this prison.
+“ seventy-five for mates, sixty for sailors, and twenty-five for hoys.” Passengers, I afterwards learned, were on the same footing with captains. On the second day of my being there, the rules (the same with those at Dunkirk) were hung up, both within and without this prison.
 
 Many of the prisoners in this and other prisons had no change of linen, and some were almost: entirely destitute of clothes, being the crews of veficls shipwrecked in the great storm of Dec. 31, 1778.
 
@@ -2289,8 +2285,6 @@ French
 Prisoners.
 
 "When I visited my countrymen confined as prisoners of war in France, some of the Comnijfaries and other gentlemen informed me, that they had received great complaints from the French prisoners in England. On my return in January 1779, I waited on the Cc;n-Htissioners of the sick and wounded seamen, and gave them an account of the English prisoners in France, and of my intention to visit the French prisoners. In order to assist me in this business, they very readily and kindly favoured me with letters to their agents at several prisons.
-
-Having
 
 FRENCH PRISONERS.
 
@@ -5090,7 +5084,7 @@ No alteration.
 
 1779, May 14, No prisoners.
 
-BATLEY PRISON, ros debtors.
+BATLEY PRISON, for debtors.
 
 No alteration, but a new table of fees dated 26th of July 1776, similar to the former.
 
@@ -5306,23 +5300,23 @@ To the Bailiff for every Arrest, as under.
 
 For an arrest on an attachment for contempt _ £• 0: 6'. D. 10: 0
 
-For a debt of io/. and under 201. — — 0: 10: 1 0
+For a debt of 10l. and under 20l. — — 0: 10: 1 0
 
-For a debt of 20/. and under 30/. — — 0; 15: 0
+For a debt of 20l. and under 30l. — — 0; 15: 0
 
-For a debt of 30/. and under 501. — — 1: I: : O
+For a debt of 30l. and under 50l. — — 1: I: : O
 
-For a debt of 50/. and under 80/. — — 1: 5: 0
+For a debt of 50l. and under 80l. — — 1: 5: 0
 
-For a debt of So/, and under 100/. — — 1: 11:6
+For a debt of 80l. and under 100l. — — 1: 11:6
 
-For a debt of 100/. and under 200/. — — 2: 2: 0
+For a debt of 100l. and under 200l. — — 2: 2: 0
 
-For a debt of 200/. and under 500/. — — 2: 12: 6
+For a debt of 200l. and under 500l. — — 2: 12: 6
 
-For a debt of 500/. and under 1000/. — — 3 3 0
+For a debt of 500l. and under 1000l. — — 3 3 0
 
-For a debt of 1000/. and upwards — — 5; 5: 0
+For a debt of 1000l. and upwards — — 5; 5: 0
 
 Travelling charges to make such arrest, in case (except on an attachment for contempt) each the arrest be mile made 1°: 0: 6
 
@@ -5338,11 +5332,11 @@ APPENDIX.
 
 Cheshire. For Attendance on Arrest to be taken as follows (except on an Attachment for Contempt.)
 
-Where the debt does not exceed 100/. for each day 2 s. and each Dight 2 s.
+Where the debt does not exceed 100l. for each day 2 s. and each Dight 2 s.
 
-Where the debt does exceed 100/. and is not 200I. for each day 3/. and each night 3/.
+Where the debt does exceed 100l. and is not 200I. for each day 3/. and each night 3/.
 
-Where the debt does exceed 200/. for each day 4s. and each night 4s.
+Where the debt does exceed 200l. for each day 4s. and each night 4s.
 
 Nothing to be taken for attendance unless the defendant does not offer good bail in six hours, or is not discharged in that time.
 
@@ -5358,11 +5352,11 @@ S°:
 
 House expences whilst in custody before carrying to gaol (but not on the road) to be allowed after the rate of 2 s. 6d. for every twenty-four hours, and so in proportion for a lei's time, all expences of prisoners and bailiffs included.
 
-For making every distress for rent, under 20/. — — — o: 5:0
+For making every distress for rent, under 20l. — — — o: 5:0
 
-For 20/. and under 100/. - — — o: 6: S
+For 20l. and under 100l. - — — o: 6: S
 
-For above 100/. — - — — — — o: 10: 6
+For above 100l. — - — — — — o: 10: 6
 
 For attending goods under distress, or taken into execution, for every-j
 
@@ -5687,8 +5681,6 @@ One room in the castle for debtors; and a dark room for felons &c. under the tow
 1779, June 7, ' No prisoners.
 
 1
-
-B b
 
 GLAMORGANSHIRE.
 
@@ -6232,7 +6224,7 @@ d.CLE - - 140.
 
 Acquitted prisoners detained for fees 109.
 
------not detained for
+- not detained for
 
 fees - - 84.
 
@@ -6246,7 +6238,7 @@ Allowance to galley-slaves 35, 52, 55,
 
 58, 85.
 
---- prisoners 4, 6,16,17,19,20,
+- prisoners 4, 6,16,17,19,20,
 
 21,22, 26, 27, 37, 39, 54, 60, 72, 80.
 

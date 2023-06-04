@@ -118,7 +118,7 @@ INTRODUCTION.
 
 IN my latest tours, I had with pain observed, that notwithstanding the regulations which had been made in our own country, and elsewhere, for preserving health in prisons and hospitals, yet that infectious diseases continued occasionally to arise and spread in them. I had also been led, by the view of several lazarettos in my travels, to consider how much all trading nations are exposed to that dreadful scourge of mankind which those structures are intended to prevent, and to reflect how very rude and imperfect our own police was with respect to this object. It likewise struck me, that
 
-establishments, effectual for the prevention of the most infectious of all dileafes, must afford many useful hints for guarding against the propagation of contagious distempers in general. These various considerations induced me, in the last edition of I’he State of the Prtfons &c. to express a wilh, “ that some future traveller would give us plans of the lazarettos at Leghorn, Ancona and other places.” At length I determined to procure these plans, and acquire all the necessary information respecting them, myself: and towards the end of the year 1785, I went abroad for the purpose of visiting the principal lazarettos in France and Italy. To the physicians employed in them, I proposed a set of queries respecting the nature and prevention of the plague; but their answers not affording satisfactory instruction, I proceeded to Smyrna and Constantinople. For, although the subjects of the Turkish empire be little enlightened by the modern improvements in arts and sciences, I conceived that from their intimate acquaintance with the disease in question, and from the great difference between their customs and manners, and ours, some practices might be found among them, and some information gained, not unworthy the notice of more polished nations. I also pleased myself with the idea, not only of learning, but of being able to communicate somewhat to the inhabitants of these distant regions, if they should
+establishments, effectual for the prevention of the most infectious of all dileafes, must afford many useful hints for guarding against the propagation of contagious distempers in general. These various considerations induced me, in the last edition of The State of the Prtfons &c. to express a wilh, “ that some future traveller would give us plans of the lazarettos at Leghorn, Ancona and other places.” At length I determined to procure these plans, and acquire all the necessary information respecting them, myself: and towards the end of the year 1785, I went abroad for the purpose of visiting the principal lazarettos in France and Italy. To the physicians employed in them, I proposed a set of queries respecting the nature and prevention of the plague; but their answers not affording satisfactory instruction, I proceeded to Smyrna and Constantinople. For, although the subjects of the Turkish empire be little enlightened by the modern improvements in arts and sciences, I conceived that from their intimate acquaintance with the disease in question, and from the great difference between their customs and manners, and ours, some practices might be found among them, and some information gained, not unworthy the notice of more polished nations. I also pleased myself with the idea, not only of learning, but of being able to communicate somewhat to the inhabitants of these distant regions, if they should
 
 INTRODUCTION.
 
@@ -2758,9 +2758,7 @@ Orphan
 
 Hospital-
 
-Work-
-
-house.
+Workhouse.
 
 Hospital
 
@@ -2772,13 +2770,9 @@ IRELAND.
 
 Sect. VI.
 
-Edin-
+Edinburgh.
 
-burgh.
-
-Hadding-
-
-ton.
+Haddington.
 
 Dunbar,
 
@@ -4806,23 +4800,17 @@ Sect. VIII.
 
 130
 
-King’s
-
-Bench
-
-Prison.
+King’s Bench Prison.
 
 Marshalsea PRISON.
 
-Borough
-
-Compter.
+Borough Compter.
 
 THE KING’S BENCH PRISON.
 
 No alteration. Liquors fold in the same manner as before the act of 24th of Geo. III. I was pleased to fee in the lobby an order printed on a board, that no dogs should go into this prison.
 
-In the Hou/e. In ibe Rules.
+In the House. In the Rules.
 
 1787, April 2, Debtors 370. - 60.
 
@@ -4842,7 +4830,7 @@ BOROUGH COMPTER.
 
 A new gaol on a bad plan. Staircases narrow: passages dark and only three feet wide: the wards of the men and women debtors join, so that the prisoners associate together. The whole prison very dirty: not white-washed since occupied at Michaelmas 1787. Sewers not offensive, the tide ebbing and flowing through them. Garnish (2s. 10d.) not abolished. Allowance, a penny loaf a day (weight in 1788, 10loz.) Eleanor Gwinn’s charity, of sixty-five loaves every eight weeks, continued regularly. Keeper, a sheriff’s officer for Surrey: no /alary.—A new table of fees hung on the gate; but as it teemed to be written by the keeper, and was not signed by any magistrate, I do not copy it.
 
-17S7, April 2, 6 Debtors.
+1787, April 2, 6 Debtors.
 
 1788, Aug. 28, 11 Court of Conscience Debtors.
 
@@ -4882,7 +4870,7 @@ The
 
 * Adjoining to Bartholomew’s Hospital is Christ’s Hospital, which being the g reate ft charitable institution in this kingdom for the education of children, I shall give a short account of it. Here are now only boys, the girls being removed to Hertford. Near a thousand children enjoy the benefit of tins noble institution.
 
-In Otilober 1788, there vveie in the Mathematical School - - - 44
+In Otilober 1788, there were in the Mathematical School - - - 44
 
 Grammar School - - - 49
 
@@ -4946,11 +4934,7 @@ Sect. VIM.
 
 St. Thomas’s Hospital in Southwark.
 
-St.
-
-Thomas’s
-
-Hospital.
+St. Thomas’s Hospital.
 
 Some of the wards in this hospital are only eighteen feet wide: the bedsteads are iron and very properly detached from the walls: there are no tellers, but semicircular irons for the curtains in winter. The wards were fresh and clean, except the three foul wards, in which were fifty-three men and twenty-seven women: these were very offensive and had not a window open. There were no water closets. The bread was excellent.
 
@@ -5040,11 +5024,7 @@ Guy’s
 
 Hospital,
 
-West-
-
-MINSTER
-
-Hospital.
+Westminster Hospital.
 
 St. George’s Hospital.
 
@@ -5840,15 +5820,9 @@ Norfolk
 
 Hospital.
 
-Poor-
+Poorhouses.
 
-houses.
-
-Thktford
-
-Town
-
-Gaol.
+Thetford Town Gaol.
 
 Yarmouth Town Gaol.
 
@@ -10562,7 +10536,7 @@ This Mark * denotes a Person pardoned; the rest were executed.
 
 Northern Circuit. Southern Circuit. Wistfrn Circuit.
 
-Edin- burgh, Aber- deen. Perth. Jnver- nefs. j'd- burgh. Dum- fries- Ayr. Ghf- gOIV. Inve- rary, Stir- ling. Crimes,
+Edinburgh, Aberdeen. Perth. Jnvernefs. j'd- burgh. Dumfries- Ayr. Ghf- gOIV. Inve- rary, Stirling. Crimes,
 
 pz Street-robbery.
 
@@ -10570,7 +10544,7 @@ I *1 _ _ _ _ _ _ _ House-breaking and Theft.
 
 *1 _ _ _ > _ _ . _ . Theft and Refett.
 
-I7S3 I - - - - Robbery.
+17S3 I - - - - Robbery.
 
 - - - *1 - - Sheep-fteaiing.
 
@@ -11062,11 +11036,11 @@ S> S' s. £ 9 s 9 5". 5 £5 oto g-s
 
 1758 I 5 5 - J9
 
-'759 - 4 4 - 1 16
+1759 - 4 4 - 1 16
 
 1760 - 1 1 - - 12
 
-I76l I 2 3 1 1 6
+I=176l I 2 3 1 1 6
 
 1762 - 2 - - -r 8
 
@@ -11074,11 +11048,11 @@ I76l I 2 3 1 1 6
 
 1764 - 3 6 1 - H
 
-■765 - 3 4 5 1 9
+1765 - 3 4 5 1 9
 
-I 766 - 1 4 2 4 12
+1766 - 1 4 2 4 12
 
-*767 - 2 4 6 > 11
+1767 - 2 4 6 > 11
 
 1768 - - 2 2 1 l7
 
@@ -11088,7 +11062,7 @@ I 766 - 1 4 2 4 12
 
 1771 - - - 3 - 6
 
-*772 - J 5 2 - 11
+1772 - J 5 2 - 11
 
 Total 4 30 So 49 20 2 79
 
@@ -11184,11 +11158,11 @@ War ‘757 37 - 26 - 11
 
 175S 32 - 20 - 12
 
-‘759 ‘5 - 6 - 9
+1759 ‘5 - 6 - 9
 
 - - 1760 ‘4 - 10 - 4
 
-- - I76l 22 - 17 . - - 5
+- - 176l 22 - 17 . - - 5
 
 1762 25 - •S - 10
 

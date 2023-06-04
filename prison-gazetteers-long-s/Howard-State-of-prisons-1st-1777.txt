@@ -732,7 +732,7 @@ The Gaol-Committee, which I have mentioned before, in their Report of the Marsha
 
 When I was in Ireland (January 1775) I found, not without some surprise, that no liquors were sold in any of the prisons which I saw. Upon inquiry, I learned that there is an Act against it, made in the third year of his present Majesty*.
 
-No Prisoner should be a Turnkey. It is the Gaoler's duty to insped: the wards himself every day, and not to leave this to servants†. The Magistrates of
+No Prisoner should be a Turnkey. It is the Gaoler's duty to inspect the wards himself every day, and not to leave this to servants†. The Magistrates of
 
 * The preamble runs thus, “Whereas many frauds and abuses have been committed by Gaolers — brewing of drink, and baking of bread, which they oblige their prisoners to take from them at their own rates — Be it enacted — that no Gaoler or any person in trust for him, shall brew or bake in the Gaol — or in any place — for sale, or keep any shop for the selling of bread, or beer, or ale, or other liquors, under the penalty of five pounds for every such offence.”
 
@@ -790,7 +790,7 @@ At Newgate there are commonly about two hundred prisoners.
 
 Sect. III. PROPOSED IMPROVEMENTS. 57
 
-Here the danger to them, and to the city from them, is great. To this capital prison in the metropolis, the Magistrates would, in my humble opinion, do well to appoint a Physician, a Surgeon, and Apothecary. One of the two latter to visit each ward in the prison every day. The two Compters are near enough to be taken care of by the same gentlemen; and they need to be visited as constantly. This attention would, in all probability, prevent the spread of any infectious disease in those Gaols; and stop the mouths of County-Gaolers, who, when their prisons are infected, tell you (as I have often heard them) “ The distemper was brought from Newgate by prisoners removed from thence by habeas corpus.”
+Here the danger to them, and to the city from them, is great. To this capital prison in the metropolis, the Magistrates would, in my humble opinion, do well to appoint a Physician, a Surgeon, and Apothecary. One of the two latter to visit each ward in the prison every day. The two Compters are near enough to be taken care of by the same gentlemen; and they need to be visited as constantly. This attention would, in all probability, prevent the spread of any infectious disease in those Gaols; and stop the mouths of County-Gaolers, who, when their prisons are infected, tell you (as I have often heard them) “The distemper was brought from Newgate by prisoners removed from thence by habeas corpus.”
 
 [Fees.]
 
@@ -910,9 +910,7 @@ removed: and it may be expected that Sheriffs will now engage in this business; 
 
 The Inspector should make his visit once in a week, or at most in a fortnight, changing his days. He should take with him a memorandum of all the rules, and inquire into the observance or neglect of them. He should (as is done in some of our Hospitals) look into every room, to see if it be clean, &c. He should speak with every prisoner; hear all complaints; and immediately correct what he finds manifestly wrong: what he doubts of, he may refer to his brethren in office, at their next meeting. A good Gaoler will be pleased with this scrutiny: it will do him honour, and confirm him in his station. In case of a less worthy Gaoler, the examination is more needful, in order to his being reprimanded; and, if he be incorrigible, to his being discharged. This Honourable Delegate should have no salary: he should engage from the noble motive of doing justice to prisoners, and service to his country.
 
-I have often inquired of Gaolers whether the Sheriffs,
-
-Justices, or Town-Magistrates inspected their Gaols. Many of the oldest have answered, “None of those Gentlemen ever looked into the dungeons, or even the wards of my“
+I have often inquired of Gaolers whether the Sheriffs, Justices, or Town-Magistrates inspected their Gaols. Many of the oldest have answered, “None of those Gentlemen ever looked into the dungeons, or even the wards of my“
 
 68 PROPOSED IMPROVEMENTS.
 
@@ -1082,7 +1080,7 @@ Women, 14
 
 In the Dungeons, Men, 25
 
-Boarders and Half-Bo3rders, 13
+Boarders and Half-Boarders, 13
 
 Such as boarded themselves, 16
 
@@ -1108,7 +1106,7 @@ Gaolers and Turnkeys are obliged to visit once a day at least, all the dungeons.
 
 Keepers are not tempted by paying for their places, to oppress their prisoners: to remove all pretext for so doings rents which they formerly paid to the Crown are remitted; and the leases given up.
 
-As for debtors, their number is small. Of the 202 Prisoners in the Cotictergerie, but six were Debtors. In
+As for debtors, their number is small. Of the 202 Prisoners in the Concergerie, but six were Debtors. In
 
 88 FOREIGN PRISONS.
 
@@ -12588,7 +12586,7 @@ Monmouth County Gaol - ibid.
 
 Montague, Duke of, Constable - 314.
 
-Montgomeryshire - 459,.
+Montgomeryshire - 459.
 
 Montgomery County Gaol - ibid.
 
@@ -13056,7 +13054,7 @@ Straw, want of in Prisons - 13.
 
 - a legacy for it - 401.
 
-Stream of water, beneficial in Gaols 41.
+Stream of water, beneficial in Gaols - 41.
 
 Sudbury - 268.
 
