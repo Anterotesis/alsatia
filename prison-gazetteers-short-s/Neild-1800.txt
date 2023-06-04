@@ -720,19 +720,23 @@ Midsummer.
 
 ---
 
-Michaelmas. — County Money...... 15 0 0
+Michaelmas.
 
-Chamberlain....... 2 -10 O
+— County Money - 15 0 0
+
+- Chamberlain - 2 10 O
 
 Mercers' Company.... 112 5
 
----- 19 2 5
+- - 19 2 5
 
-Christmas. - County, and Chamberlain - 17 10 0
+Christmas.
+
+- County, and Chamberlain - 17 10 0
 
 - Fishmongers’ Company - 0 3 4
 
----- 17 13 4
+- - 17 13 4
 
 Carried up, 73 7 9
 
@@ -896,7 +900,7 @@ No Chaplain.
 
 Debtor 1.
 
-X<» allowance Cut water. The knowledge of our Institution .-.'.-s m\>r to have reached this gaol, till March, 1800.
+X<» allowance Cut water. The knowledge of our Institution *q m\>r to have reached this gaol, till March, 1800.
 
 MAIDSTONE.
 
@@ -1020,7 +1024,7 @@ CONFINED FOR DEBT.
 
 The following document is a list of what are called “Court of Conscience debtors;” of the times of their commitment to Newgate; and of the charges accumulated for costs upon very inconsiderable demands. Reverence for existing law precludes from saying more than
 
-“ Pity it is, ’tis true!”
+“Pity it is, ’tis true!”
 
 Date of Warrants. Defendants' Names. Debts. Costs.
 
