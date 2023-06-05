@@ -7010,13 +7010,13 @@ S. D.
 
 For the discharge from the said gaol of every prisoner committed for treason, felony or any offence against his majesty's peace to the gaoler or keeper - - - - -0134
 
-To turnkey on commitment of every such prisoner - -010
+To turnkey on commitment of every such prisoner - 0 1 0
 
-To him more on the discharge of every such prisoner - -010
+To him more on the discharge of every such prisoner - 0 1 0
 
-Dn the commitment or coming into gaol of every prisoner in a civil action, to the said gaoler or keeper - - - o 3 o
+Dn the commitment or coming into gaol of every prisoner in a civil action, to the said gaoler or keeper - 0 3 0
 
-On the discharge of every such prisoner to the said gaoler or keeper f o 7 10 And to the turnkey - - - -016
+On the discharge of every such prisoner to the said gaoler or keeper f o 7 10 And to the turnkey - 0 1 6
 
 Barrack bed* are low stages of boards, raised from the floor, and (loping from the wall towards the middle of the room; as in the barracks for soldiers.
 
@@ -7110,15 +7110,13 @@ He keeps a public house adjoining, in which is a room or two for masterViide deb
 
 1776, Feb. 17, — 3. — 2.
 
-1779, APril 16, — 2. — 2.
+1779, April 16, — 2. — 2.
 
 Q.2 Rochester
 
 227
 
-Bridk-
-
-WXLLS.
+Bridewells.
 
 KENT.
 

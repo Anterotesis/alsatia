@@ -5914,7 +5914,7 @@ Norwich
 
 City
 
-Bridbwell,
+Bridewell,
 
 Norfolk
 
@@ -5930,11 +5930,7 @@ Town
 
 Gaol.
 
-Yarmouth
-
-Town
-
-Gaol.
+Yarmouth Town Gaol.
 
 NORFOLK. ^orfolr Circuit.
 
@@ -5960,7 +5956,7 @@ no licence; salary not fetded.
 
 1788, Sept. 12, No Prisoners.
 
-YARMOUTH Town Gaol. The draw-room is made into four cabins (eight feet by fix) for the nodturnal separation of felons. The gaoler’s salary is not advanced; and though he has no licence, he fells liquors as usual.
+YARMOUTH Town Gaol. The draw-room is made into four cabins (eight feet by six) for the nodturnal separation of felons. The gaoler’s salary is not advanced; and though he has no licence, he sells liquors as usual.
 
 1787, Sept. 21, Debtors 2. Felons &c. 14.
 
@@ -5982,7 +5978,7 @@ SUFFOLK.
 
 COUNTY GAOL at IPSWICH.
 
-This prison as usual, was very clean. The house is much quieter since the late Att; the felons having only small beer: and the magistrates have properly ordered, that no debtor shall have more than one quart of beer in a day} to which order the gaoler and turnkey ftrUlly adhere. In consequence of the Act, and similar regulations, I have found in several prisons, fewer debtors. Here the number of insolvent debtors, on an average, was formerly fifteen; of late, not more than nine; and now it is reduced to seven. The gaoler’s salary is now £ 200. The Rev. Mr. Bronte is still afiiduous in his attention to the prisoners; frequently weighing the bread, and making his reports to the magistrates: and he fees that a proper distribution is made of Mr. s charity. I was pleased
+This prison as usual, was very clean. The house is much quieter since the late Act; the felons having only small beer: and the magistrates have properly ordered, that no debtor shall have more than one quart of beer in a day} to which order the gaoler and turnkey ftrUlly adhere. In consequence of the Act, and similar regulations, I have found in several prisons, fewer debtors. Here the number of insolvent debtors, on an average, was formerly fifteen; of late, not more than nine; and now it is reduced to seven. The gaoler’s salary is now £ 200. The Rev. Mr. Bronte is still afiiduous in his attention to the prisoners; frequently weighing the bread, and making his reports to the magistrates: and he fees that a proper distribution is made of Mr. s charity. I was pleased
 
 with his observation, that he could not attribute the health and regularity of the prisoners in general, and their constant attendance at the chapel with great decency and devotion, to any other cause than to the total abolition of the tap.
 
@@ -5998,7 +5994,7 @@ The present keeper is a wool-comber, and has the same salary as the former. Allo
 
 1787, Sept. 27, Prisoners 9.
 
-• At several of my former visits to this town, I looked in at the poor-house', bat generally finding it in a dirty and sickly condition, and affording no subject for imitation, in conformity to my usual custom, I passed it over in lilence. I had now, however, the pleasure of finding this large house, containing throe hundred and two persons, quite dean; the poor taking their meals in a clean and spacious hall, formerly a crowded bed-room; the old wooden tellers removed; and the bed-rooms kept fresh and clean by washing twice a week. In such houses much depends on a neat and notable matron, who has humanity joined with firmness, and good sense enough to be directed by those who have more knowledge than herself. Such a woman is a in an hospital or
+• At several of my former visits to this town, I looked in at the poor-house', bat generally finding it in a dirty and sickly condition, and affording no subject for imitation, in conformity to my usual custom, I passed it over in silence. I had now, however, the pleasure of finding this large house, containing throe hundred and two persons, quite dean; the poor taking their meals in a clean and spacious hall, formerly a crowded bed-room; the old wooden tellers removed; and the bed-rooms kept fresh and clean by washing twice a week. In such houses much depends on a neat and notable matron, who has humanity joined with firmness, and good sense enough to be directed by those who have more knowledge than herself. Such a woman is a in an hospital or
 
 parish work-house.
 
@@ -6014,13 +6010,9 @@ Bridewell
 
 Ipswich
 
-Covntv
+County Gaol.
 
-Gaol.
-
-Brids-
-
-wells.
+Bridewells.
 
 SUFFOLK.
 
@@ -6030,17 +6022,9 @@ iS6
 
 County
 
-Bride-
+Bridewells.
 
-wells.
-
-Bury
-
-St.
-
-Edmund’s
-
-Gaol.
+Bury St. Edmund’s Gaol.
 
 Ipswich.
 
@@ -6082,17 +6066,13 @@ in the County of Suffolk.
 
 I. That the several persons committed to the house of correction, to be kept to hard labour, shall be employed (unless prevented by ill health) every day, (except Sundays, Christmas-Day, and Good-Friday) for so many hours as the day-light in the different seasons of the year will admit, not exceeding twelve hours, being allowed thereout to rest half an hour at breakfast, an hour at dinner, and half an hour at supper, and that* the intervals shall be noticed by the ringing of a bell. Fide Rules prtscribed by the att 22 Geo. III. c. 64.
 
-IL That the governor of the house of correction shall adapt the various employments directed by the justices, at their quarter sessions, to each person, in such manner as shall be suited to his or her strength and ability, regard being had to age and lex*—Fide act above cited*
-
-III. That
+II That the governor of the house of correction shall adapt the various employments directed by the justices, at their quarter sessions, to each person, in such manner as shall be suited to his or her strength and ability, regard being had to age and lex*—Fide act above cited*
 
 Norfolk Circuit.
 
 SUFFOLK.
 
 *57
-
-ill.
 
 IV.
 
@@ -6102,7 +6082,7 @@ VI.
 
 VII.
 
-That the males and females shall be employed, and shall eat and be lodged in separate apartments, and shall have no intercourse or communication with each other. — Vide act above cited.
+III. That the males and females shall be employed, and shall eat and be lodged in separate apartments, and shall have no intercourse or communication with each other. — Vide act above cited.
 
 That every person so committed shall be sustained with bread, and any coarse but wholesome food; but persons under the care of the physician, surgeon, or apothecary, shall have such food and liquor as he shall direct. — Vide act above cited•
 
@@ -6110,9 +6090,7 @@ That the governor and such other persons (if any) employed by the just ices to a
 
 That if any person so committed, shall refuse to obey the orders given by the governor, or shall be guilty of profane cursing or swearing, or of any indecent behaviour or expression, or of any assault^ quarrel, or abusive words, to or with any other person, he or she shall be punished for the same in the manner hereafter directed. — Vide act above cited.
 
-Burt
-
-St.
+Bury St.
 
 Edmund’s
 
@@ -6158,9 +6136,7 @@ XIV. Thai every prisoner be obliged to wash his face and hands once, at least, e
 
 XV. That each prisoner be allowed a dean shirt once in a week.
 
-XVI. That the three prohibitory clauses of the 24 Geo. II. chap. 40. be painted on a board, and hung up in
-
-some conspicuous part of the prison, together with a printed copy of the rules, orders, and regulations.
+XVI. That the three prohibitory clauses of the 24 Geo. II. chap. 40. be painted on a board, and hung up in some conspicuous part of the prison, together with a printed copy of the rules, orders, and regulations.
 
 XVII. That male prisoners committed on charges of felony, or convicted of any theft or larceny, or other misdemeanor, be, immediately upon their commitment, cloathed at the expence of the county in a dress, confiiling of jacket, trowsers, and (lockings of yellow and blue; and also that due care be taken to bake, ot fumigate, the clothes of the prisoners of the above description, to be returned to them, when going to be tried, or when discharged.
 
@@ -6172,11 +6148,7 @@ WARWICKSHIRE.
 
 COUNTY GAOL at WARWICK.
 
-Warwick
-
-County
-
-Gaol.
+Warwick County Gaol.
 
 The felons were sadly crowded. Only one small day-room for the men; and I saw thirty-two lie chained in a dungeon of twenty-two feet diameter, down thirty-one steps; two of whom were ill of a flow fever.* There were three others in a room, very ill, and in irons. In two rooms (seven feet and a half by fix and a half) with apertures only in the doors, there lay fourteen women, almost suffocated. None of the women were now in irons. No infirmary: no bath. The act for preserving the health of prisoners not hung up. No coals, f—Allowance, a three pound loaf every other day: it was good bread and full weight. Convicts have not the half crown a week. Acquitted prisoners are kept in irons till the judge leaves the town. Executions are at the gaoler’s expense. J The prisoners receive yearly, from a legacy, i: io: o, the rent of a house in the town. Some of the felons complained of having been forced to pay 4 j. id. for garnish, or be stripped of their clothes. This is one of the bad effects of the admission of beer. The debtors pay for garnish a much larger fom. Gaoler’s salary^f 60 in lieu of the tap. | 1788, Feb.. 15, Debtors 31. Felons &c. 51. Women Convicts 9.
 
@@ -6230,7 +6202,7 @@ COUNTY
 
 Bridewell
 
-Cove nt rt City Gaol.
+Coventry City Gaol.
 
 City
 
@@ -6252,7 +6224,7 @@ Aston
 
 Gaol.
 
-i6o
+160
 
 LEICESTERSHIRE.
 
@@ -7354,9 +7326,7 @@ Winchester.
 
 County
 
-Bride-
-
-wells*
+Bridewells.
 
 City
 
@@ -8472,19 +8442,15 @@ Gaol.
 
 County
 
-Bride-
+Bridewells.
 
-wells.
-
-Lancaster
-
-Castle.
+Lancaster Castle.
 
 £02
 
 LANCASHIRE,
 
-Northerk Circuit,
+Northern Circuit,
 
 Lancaster
 
@@ -11236,7 +11202,7 @@ October 8 8 6 5 1 - 28
 
 December *4 99 22 165 16 73 29 1 . 10 13 44 66 420
 
-•775* January 9 29 >4 9 6t
+1775. January 9 29 >4 9 6t
 
 February 9 20 7 - z m 38
 
@@ -11262,7 +11228,7 @@ TABLE IX.
 
 An Account of the Number of Criminals condemned to Death; and
 
-to 'Transportation: with their respective Offences: from the Year 1750 to 1772 inclusive; within the several Counties &c. in the Norfolk Circuit.
+to Transportation: with their respective Offences: from the Year 1750 to 1772 inclusive; within the several Counties &c. in the Norfolk Circuit.
 
 5* bo fc * r
 
@@ -11534,7 +11500,7 @@ TABLES,
 
 TABLE XIII.
 
-AM ACCOUNT OF
+AN ACCOUNT OF
 
 The Number of Convicts executed In London and Middlesex, from December 1783 to December 1788.
 
@@ -11762,7 +11728,7 @@ Ennis, 94
 
 Enniskillen, 96
 
-^ Galway, 93
+Galway, 93
 
 Kildare, 86
 
@@ -12784,7 +12750,7 @@ Horsham, 146 Hospitals, Royal:
 
 Edinburgh, 77 Haflar, 180 '
 
-Plj mouth, 187
+Plymouth, 187
 
 Hospitals and Infirmaries, British:
 
@@ -13054,11 +13020,9 @@ The
 
 HANOVER.
 
-Bruns*
+Brunswick.
 
-wicic.
-
-The orphan house and house of correction, which is out of the town, was in great ■order; but, on seeing the children at dinner, I could not help observing that, by their countenances, something was wrong in that house, as they had a pale and uneasy look. We afterwards found the bed-rooms dirty, the bedding scanty, and no linen to them; the children fed by the mailer, at i gro‘ and i fenZ each, The good burgomaster Alemann, the
+The orphan house and house of correction, which is out of the town, was in great order; but, on seeing the children at dinner, I could not help observing that, by their countenances, something was wrong in that house, as they had a pale and uneasy look. We afterwards found the bed-rooms dirty, the bedding scanty, and no linen to them; the children fed by the mailer, at i gro‘ and i fenZ each, The good burgomaster Alemann, the
 
 noble founder of this inllitution, is dead since my last visit j but I am persuaded his kinf-man, Mr. Conseiller Falke, the present director, will make some alterations for the benefit of this efhblishment.
 
@@ -13072,8 +13036,6 @@ A new military hospital is now building, on an improper Ipot. It is too contract
 
 BRUNSWICK. The tower over one of the gates, which was the prison for capital offences at my former visits, is now taken down, and such prisoners are sent to the Stadt-house. Here were on the three floors, only four prisoners; their allowance two bonne grojche a day each, which is about 2 Id. In the house of correction I read the order and conformed to it again with pleasure, viz. “ That decent people may inspect the house; but no more than four at a time; that they must put a florin (about is. 6 into the box, for the prisoners whole term is expired, to assist them on passing on their journey, and prevent them from begging or stealing: lastly, nothing must be given to the keepers, or
 
-to
-
 BRUNSWICK. BERLIN.
 
 9
@@ -13083,8 +13045,6 @@ to the prisoners confined for punishment.” Here were 41 men and 50 women; the 
 I observed on the slate there were only two on the first class, or the best diet, and four on the lowest, which is 1 lb. of bread, a little soup and small beer. The house was very dirty, the floors never washed, though fb many women prisoners j the only clean room was the chapel on the upper floor. —But a proper attention to cleanliness ran through all the hospitals for the sick. In that for the military, there were nine rooms, but only two patients, the troops being at Maeftricbt. Though the torture is not abolished, I had the pleasure to hear that the last instance of a person suffering it was-about eighteen years ago, and that the room had not since been opened j but by the favour of Mr. Freder/dorfft conseiller de justice, it was opened. The descent is by fifteen steps, to a dark room, in which are some of the instruments of torture: through this room Is another arched room or cellar 18 feet by 15, very black and dark: at one end is a bench for the judge, lawyer, secretary and surgeon j opposite them is a table for candles, books &c. The prisoner who fuflfers the torture, the executioner and his man, are before them. This is done about midnight, though the thickness of the walls (three feet) the four doors (which I passed), the dirt floor, and depth under ground, mult prevent the most agonizing cries from being heard any where but in that room. I saw all the remaining engines of torture, which are kept at the executioner’s house. He seemed with pleasure to shew the mode of application on the first, second and last question} and very readily answered any enquiries, having been several years in that occupation at Hanover; though here (he said) he had only beheaded four or five. On alking if nothing was put into the tortured person’s mouth, as I had in some places seen, he replied “ No, the Osnaburgh executioner thinks they suffer lestand on his describing some of the modes of torture (which the wit of devils and men had invented,), he said, * Sir, the Oinaburgh torture is still ruder.”
 
 But I hasten to another country, where the torture has not been inflicted for above twice Birli.v. eighteen years, viz. BERLIN. In the court prison there were eighteen men, debtors and smugglers, and two women (pinning cotton to earn their allowance of one grofche and a half a day: the former in the upper rooms of the old prison, the latter in a new and separate part adjoining; the old dungeons being not now used. I have mentioned the punishment of smugglers Handing exposed at the gate with a machine round them, called a Spanish mantle, similar to a plate I gave of it at Copenhagen. Here also is a machine in which the hands and neck of women are fastened, called a fiddle, and they stand exposed for one hour for three (ucceflive days. This prison was quiet and in great order. In the city prison there were about ninety prisoners, many of them smugglers or debtors; several prisoners in the dungeons (11 feet 9 inches by nine) their precedes long; the whole prison dirty, never white-washed. In the court, there were men, women, and boys. The gaoler fells liquors of all forts. The allowance to debtors, paid by their creditors, is two grofche a day, about ^{d.: the criminals have if grofche.
-
-O o The
 
 10
 
@@ -13163,8 +13123,6 @@ In the Castls at MEMEL,. there were, August 17th 1789, 57 men and 11 women; most
 At MITTAU in Courland twelve of the criminals or slaves who were in irons with a chain between each leg, as at Memel, were at work hewing and sawing timber for the palace, which was burnt last winter. I observed they were as handy and quiet as the other workmen in the court; and though I repeated- my visit to them and-was alone; none of them flopped their work, or gave the leaf! hint of a request for money: three were sick, and as such were objects of companion.
 
 The prison and house of correction (Zughthuys) is a square building in the citadel: the prison part was very dirty and offensive, and little attention paid to order, the separation of the sexes &c.; but in the Zughthuys, the prisoners had a cheerful and healthy look; the rooms Were clean. Here were seven hand mills, and fix men were grinding corn: in another part fix women working on a lighter mill. The other prisoners who were not capable of such hard work were spinning. The former, work in summer from four to eleven, and from one to eight; and in winter from fix to twelve, and from one to eight in the evening; their allowance 22 r of bread and some gruel made of grits which was good.
-
-Every
 
 RIGA.
 
