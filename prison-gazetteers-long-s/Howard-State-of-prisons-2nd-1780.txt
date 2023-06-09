@@ -6826,23 +6826,25 @@ ESSEX.
 
 221
 
+£ S. D.
+
 For the chamber-rent bed and bedding of each prisoner upon criminal process per iveck provided that no more than two be put into one bed nor more than two beds in one room -
 
-For the turnkey's fee into gaol - -
+For the turnkey's fee into gaol -
 
 For the turnkey's fee out of Gaol -
 
 For the gaoler's fee upon each prisoner's discharge
 
-£ S. D.
+
 
 O36
 
-OlO
+O1O
 
-OIO
+O1O
 
-o 13 4
+0 13 4
 
 Reviewed and confirmed by us the Justices of Assize this 19th Day of July 1/29.
 
@@ -6866,11 +6868,7 @@ Chelmsford. On the ground floor a large work-room, a kitchen, and a lodging-room
 
 Colchester. The castle, the property of Charles Gray, Esq. was formerly the county gaol. That part of it which is now the bridewell, has — first, the room for women, with a fire-place: on one side a room for men, with a window;
 
-Chelmsford
-
-County
-
-Gaol.
+Chelmsford County Gaol.
 
 Bridewells.
 
@@ -7182,7 +7180,7 @@ Garnish, £0: 6: 6.
 
 Number, Debtors. Felons tec, Debtors. Felons &c.
 
-1773» Dec. *7> 7* 1776, Feb. 22, 13, 8.
+1773, Dec. *7> 7* 1776, Feb. 22, 13, 8.
 
 1774, Sept. 29, 5, 13.* 1779, March 9, 12, 6.
 

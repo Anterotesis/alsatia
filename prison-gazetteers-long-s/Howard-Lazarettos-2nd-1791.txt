@@ -9122,9 +9122,7 @@ Town
 
 Gaol.
 
-Cow-
-
-bridge.
+Cowbridge.
 
 Swansey
 
@@ -9144,9 +9142,9 @@ Hulk.
 
 Tin HULKS os the THAMES/
 
-At both my visits, the hulks were clean, the bread good, the prisoners healthy, and many were at work. The hospital ship was cleaner and quieter than most of our county hospitals. Several convicts were lately come from the county gaols, and the captain justly observed, how different the health and complexion of such prisoners are now, from what they were when I first visited the hulks. —But 1 must repeat my complaint, that such an assemblage is entirely destructive to the morals of young convicts: the profaneness of the prisoners is not properly checked j and some of the guards set them a example.
+At both my visits, the hulks were clean, the bread good, the prisoners healthy, and many were at work. The hospital ship was cleaner and quieter than most of our county hospitals. Several convicts were lately come from the county gaols, and the captain justly observed, how different the health and complexion of such prisoners are now, from what they were when I first visited the hulks. — But I must repeat my complaint, that such an assemblage is entirely destructive to the morals of young convicts: the profaneness of the prisoners is not properly checked j and some of the guards set them a example.
 
-March 26th, 1787, the number of convicts was 54.9, of whom the Justitia had 246, the Cenjor 229, and the Ceres 74. Of these thirty-six were in the hospital ship, eleven from the 'Justitia, twelve from the Cenjor, and thirteen from the
+March 26th, 1787, the number of convicts was 54.9, of whom the Justitia had 246, the Cenjor 229, and the Ceres 74. Of these thirty-six were in the hospital ship, eleven from the Justitia, twelve from the Cenjor, and thirteen from the
 
 July 16th, 1788, the number was 741. The Justitia had two hundred and sixty-five, the Cenjor two hundred and forty-eight, and the Staniflaus two hundred and twenty-eight.
 
@@ -9161,8 +9159,6 @@ November 10th, 1787, the convicts at Plymouth dock were on board the hulk of the
 June 28th, 1788, there were three hundred and sixty-six convicts in the Dunkirk, which was fitted up with several separate rooms. In one of the rooms, fifcy-seven feet by eighteen, and fix feet high, there were sixty-eight. Sudh a room, at night, when the hatches are down, must be very offensive. At one end, there is a room called the infirmary, and a recovery ward •, in the former were seven convicts, and in the latter thirteen. The meat was sweet, but the bread not good, and the beer thick.
 
 The prisoners were all in total idleness, except six or seven who were making a boat for the captain. One ingenious man had made a small ink-stand (which I have by me) out of a bone of his meat; but his knife was taken from him. I saw some with bibles in their hands; but here is no chaplain, nor any religious service. Here also some of the keepers, by their profaneness, set a bad example to die prisoners.
-
-Three
 
 HULKS.
 
@@ -9244,8 +9240,6 @@ It would be better if there were a diet table painted and bung up in every hulk,
 
 t The gaoler at Reading told me, July 12th, 1788, that of the eleven convicts whom he carried on board the hulks, April ill, 1787, all were dead but three. I have observed, that convicts from the country often pine away and die without any apparent sign of iliness; and that of equal numbers, from the country, and from Newgate, three or four of the former die for eue of the latter.
 
-prisoners
-
 HULKS.
 
 219
@@ -9260,9 +9254,9 @@ The Number of Convilis in the Hulks at the times they were visited in 1788.
 
 At Woolwich, July 16th, in the Justitia, - 265.
 
-... - - - Censor, 248.
+- Censor, 248.
 
-... - - - Staniilaus, 228.
+- Staniilaus, 228.
 
 At Plymouth, June N OO r in the Dunkirk, 366.
 
@@ -9270,7 +9264,7 @@ Gosport, July 7th, - Lion - 273.
 
 Langflon Harbour, July 8th, in the Fortunee, 338-
 
-- - - - Ceres, 119— -Total 1937.
+- Ceres, 119— -Total 1937.
 
 • The great mortality that has happened among the canvi&s from the time they were first put on board
 
@@ -9730,8 +9724,6 @@ unhappily seems to stop, scarcely touching upon that still more important object
 
 In this further reformation, it will be absolutely necessary to begin with the Capital: for as, in my former visits, when I have met with the gaol-fever in county prisons, I have been almost constantly told, that it was derived from those in London; so the corruption of manners also, flowing from that great fountain, spreads far and wide its malignant firearm. In what prison in London is there a proper separation of criminals, the old from the young, convicts from the untried? Where are the night-rooms for solitary confinement and reflection? Where is any proper attention paid to sick and dying prisoners ? Where are the rules and orders of magistrates for the direction of gaolers, and the government of prisoners ? In what gaol are not the ears shocked with the profaneness both of prisoners and turnkeys ? Where is any regard paid to the Lord's day ? Where is not the afternoon of that day a time of greater concourse of visitants than any other ? And, though the gaoler’s taps are abolished, yet, are not publicans continually waiting to serve the prisoners, and their company ? Is not beer now sold by the debtors ? And do not turnkeys keep flops in the gaols
 
-H h No
-
 234
 
 CONCLUSION.
@@ -9770,10 +9762,6 @@ And be it further enacted, that if any person or persons shall carry, or bring,
 
 or attempt or endeavour by any clandestine ways or means to carry or bring, into any gaol, prison, or house of correction, any liquor of any fort or kind, other than milk, whey, butter-milk, or water; it {half be lawful for the gaol-keeper or other officer of such gaol, prison, or house of correction, or his or their servants to apprehend such
 
-H h 2person
-
-Gc zle
-
 Draught of A
 
 Bill.
@@ -9783,10 +9771,6 @@ person or persons, and to carry him, her, or them before a justice of the peace 
 Provided always, and be it further enacted, that nothing herein before contained shall extend or be construed to extend to any person bringing liquors into the house of the gaoler for the use of the private family of the -said gaoler, or keeper of such house of correction, and delivering the same into the hancU of the said gaoler; nor to any ■person bringing into any infirmary in any gaol or house of correction any liquor or medicine prescribed by any surgeon or apothecary appointed to attend such gaol or house of correction, and delivering the same into the hands of such surgeon or apothecary or other person appointed by such surgeon or apothecary to receive the same.
 
 And be it further enacted, that the several justices of the peace, at their quarter sessions assembled, are hereby authorised and required to order and direct the several articles mentioned and contained in the schedule hereunto annexed, to be delivered and supplied to any prisoner who shall be committed to any gaol, prison, or house of correction, for any treason, felony, trespass or misdemeanor, for the subsistence and support of such prisoner, during the time of his confinement there; and shall likewise order and direct that the rooms in any gaol set apart as an infirmary for the lick prisoners shall be provided with a sufficient number of straw beds, the straw thereof to be changed once in every month at the least, and shall also direct a proper supply of sheets, rugs or other coverlets for the said beds, and also a proper quantity of linen, and necessary clothing to be worn by the said prisoners, and shall also order that from Michaelmas to Lady-Day a fire shall be kept in the room used by the said prisoners as their common or day-room; Provided always that no contract for the supply of any gaol with provisions, bedding, fuel, or any other articles whatsoever shall be made with any person or persons keeping any gaol, prison, or house of correction, or any other person employed in or about the fame, nor with any person for the use of any gaoler, or keeper of any prison or house of correction, fb that he or they shall have any interest therein, or benefit therefrom.
-
-And
-
-Goo e
 
 CONCLUSION.
 
@@ -9837,8 +9821,6 @@ W'tduefday, two pounds of potatoes, turnips, carrots, or other vegetables that a
 Saturday, a quarter of a pound of cheese, or the vegetables as on Witdntfdaj.
 
 Salt, every day, a quarter of an ounce.
-
-As
 
 TABLES,
 
@@ -9911,8 +9893,6 @@ Art. IV. If there happen any damage to the place where the prisoners are kept, w
 Art. V. Whoever after escape from his prison is retaken, shall be (hut in a dungeon, and shall be dinted to half his pittance of food, till he has by this confinement satisfied for the expenses made for seizing and bringing him back to gaol, and shall lose his turn of exchange besides. A sea-officer, thus contravening, shall from that moment be looked upon and treated as a common sailor.
 
 Art. VI. It is forbidden to fight, quarrel, or make aqy riot in the prisons or places where the prisoners are allowed to take the air, under pain of incurring such punishment as the offence may require.
-
-Art. VII.
 
 TABLES.
 
@@ -10048,9 +10028,7 @@ TABLES
 
 TABLE III.
 
-An Account of the Number of Prisoners in the Gaols and of England and
-
-Wales at the last Time they were visited in 1787, or 1788.
+An Account of the Number of Prisoners in the Gaols and of England and Wales at the last Time they were visited in 1787, or 1788.
 
 As Tome County Gaols are also the County Bridewells, where petty Offenders are not always separated from Felons, in those Places I sometimes include petty Offenders under the Article Felons — In this Table
 
@@ -10384,9 +10362,9 @@ Winchester - 3i 30 O
 
 Bridewell 0 O 26
 
-Windsor Cattle 2 O O
+Windsor Castle 2 O O
 
-T own 0 I O
+Town 0 I O
 
 Worcester - 23 47 O
 
@@ -10420,7 +10398,7 @@ Total Number of Prisoners in the Hulks 2937-
 
 - - Supposed omitted 70.
 
-Total Number of Pr if oner 5 7482.
+Total Number of Prifoner 5 7482.
 
 Though I have visited all the County Gaols in England, and almoll all the other prisons, yet as there are some few of the corporation prisons which I did not fee, I have added seventy more prisoners to the number; so that, probably, we have nearly the average number of persons confined at one time in all the prisons of this kingdom.
 
@@ -10456,7 +10434,7 @@ TABLE
 
 TABLES
 
-Deb-tors• Felons &c. Petti -Offenders•
+Debtors. Felons &c. Petti -Offenders.
 
 Co/fori - O O 2
 
@@ -10586,7 +10564,7 @@ Bridewell 0 O 2
 
 Nantwich 0 O 2
 
-Nrvjcafile - *4 10 0
+Newcastle - *4 10 0
 
 Bridewell 0 O 6
 

@@ -8042,15 +8042,15 @@ To this prison were committed.
 
 In the year 1772, Prisoners 1709. In the year 1778, Prisoners 027.
 
-1773» - - - 777- 779* - - 681.
+1773, - - - 777- 779* - - 681.
 
-774. - - - 808. 1780, - - - 459-
+1774. - - - 808. 1780, - - - 459-
 
-775, - - 1084. 1781, ... 484.
+1775, - - 1084. 1781, ... 484.
 
 1776, - - - 9*3- 1782, - - - 659.
 
-777, - - - 544-
+1777, - - - 544-
 
 I found there in 1776, March 13, Prisoners 10. 1782, Dec. 18, Prisoners 32.
 
@@ -8108,7 +8108,7 @@ SURGEON, Mr. Gibhes.
 
 Salary, £60, for this prison and the bridewell: now £100.
 
-Kni.au. THIS prison, built in 1775, is more commodious than the former of the same name. Over the gate-way are two rooms, called Night-Charges, for prisoners brought in the night, to be examined by a magi (Irate next day. (In one of them are
+Kni.au. THIS prison, built in 1775, is more commodious than the former of the same name. Over the gate-way are two rooms, called Night-Charges, for prisoners brought in the night, to be examined by a magistrate next day. (In one of them are
 
 keeper’s
 
@@ -8148,7 +8148,7 @@ On one fide of the women’s court was their day-room, but it is now a lodging-r
 
 The ground-floors, and the courts, are paved. There is a pump breach court; and the New-River water is laid in; but not directly from the main, as it was till lately at the neighbouring prison.
 
-The chapel is common to this prison and the bridewell. Men of the two different prisons are on opposite sides below; and women in opposite galleries. The small-nefs of the chapel, the lowness of the deling, the prisoners being in view of each other, and the keepers not attending, are circumstances highly improper.
+The chapel is common to this prison and the bridewell. Men of the two different prisons are on opposite sides below; and women in opposite galleries. The smallness of the chapel, the lowness of the deling, the prisoners being in view of each other, and the keepers not attending, are circumstances highly improper.
 
 The tap-house is near the outer gate. Prisoners do not come into it; but take their liquor at a wicket made for that purpose in the wall, that separates it from them. No infirmary: no bedding or straw.
 
@@ -8220,7 +8220,7 @@ LONDON.
 
 *35
 
-CLERK ENWELL BRIDEWELL.
+CLERKENWELL BRIDEWELL.
 
 KEEPER, Edward Hall, afterward James Crofter, now John Harwood.
 
@@ -8256,13 +8256,9 @@ SURGEON, Mr. Gibhes.
 
 Salary, See New Prtfon.
 
-Clerken*
+Clerkenwell
 
-WELL
-
-Bridk-
-
-W£L1.
+Bridewell.
 
 OVER the gate, two new rooms for night-charges, as at the New Prison. 'In the Remarks. prison, men and women have separate courts and wards. The men have in their court (which iliould be paved with flat Hones), three sheds for day-rooms: one,
 
@@ -8334,7 +8330,7 @@ Butler.
 
 WHITECHAPEL PRISON,
 
-FOR DEBTO R 5.
+FOR DEBTORS.
 
 This is a prison for the liberties and manors of Stepney and Hackney. The Remarks. former includes, by a printed lift which I have, towns, parishes, villages, streets, lanes, &c. to the number of forty-six j and was granted by king Edward VI. to lord Wentworth, and his heirs for ever.
 
@@ -8476,7 +8472,7 @@ The prison was not dirty, nor the rooms offensive except in the infirmary. Three
 
 Fourteen were of the guards, of whom to were in the black bole on bread and water for 24 or 48 hours. Some of the prisoners, having received his majesty’s pardon on condition of inlisting, and afterwards deserted, had been here from 7 to 16 months.—The rooms were very clean; they are lime-whited twice a year, and they are washed every day, the prisoners being turned out of them early in the morning.— There had been none sick in the hospital for two months.
 
-TOTH1LL*
+TOTHILL.
 
 Sict. VII,
 
@@ -8484,7 +8480,7 @@ WESTMINSTER.
 
 241
 
-TOTHIL L-F IELDS BRIDEWELL.
+TOTHILL-FIELDS BRIDEWELL.
 
 KEEPER, George Smith
 
@@ -8514,13 +8510,11 @@ CHAPLAIN, none. SURGEON, Mr. Glover, now Mr. fhomes Purdue.
 
 Salary, none. He makes a bill.
 
-Tot HILL-FIELDS
+TOTHILL-FIELDS
 
-Bride.
+Bridewell.
 
-well.
-
-OVER the gate is this inscription, “ Here are several forts of work for the poor Remah:, “ of this parish of St. Margaret’s Westminster, as also the county according to law,
+OVER the gate is this inscription, “ Here are several sorts of work for the poor Remah:, “ of this parish of St. Margaret’s Westminster, as also the county according to law,
 
 “ and for such as will beg and live idle in this city and liberty of Westminster.
 
@@ -8548,7 +8542,7 @@ For commitment and discharge of a prisoner by warrant For the turnkey ..
 
 Copy of commitment ..
 
-Fcr a night’s charge -
+For a night’s charge -
 
 £. S. D. 0 4-2 o 1 o o 1 4
 
@@ -8690,13 +8684,9 @@ during which time, the prisoner may appeal to a judge.
 
 14. Dining-room to be kept in repair for devotion, or convention: with a fire. Two rooms for the sick,
 
-15. Those who make oath before &c. that they have not £$ Sec. to be admitted to the charities,
+15. Those who make oath before &c. that they have not £$ Sec. to be admitted to the charities, offices in the prison, &c.
 
-offices in the prison, &c.
-
-16. No.person committed for any criminal matter to vote for lleward, &c. or to partake of any charity
-
-bat the baskets.
+16. No.person committed for any criminal matter to vote for lleward, &c. or to partake of any charity *bat the baskets.
 
 17. Lodging in the cabin of any ward, gratis.
 
@@ -8708,21 +8698,19 @@ deed without the approbation of marshal, Reward, and affiltants.
 
 20. One superfedable action may be superseded with common-Tide money: more than one, not without
 
-application to the court, or a judge. No judge's clerk to take a fee on the occasion. z t. The sick to be taken care of by the lleward and affiflaim: who are to be reimbursed out of the first county-money.
+application to the court, or a judge. No judge's clerk to take a fee on the occasion.
 
-zz. Debts contracted by the Reward and affiAants with the marihal's and mailer's content, for support of the poor, to be paid out of the next dividend.
+21. The sick to be taken care of by the lleward and affiflaim: who are to be reimbursed out of the first county-money.
+
+22. Debts contracted by the Reward and affiAants with the marihal's and mailer's content, for support of the poor, to be paid out of the next dividend.
 
 23. Steward and assistants to have no pay for common business, or adjuAing differences.
 
-24. Prisoners entered after the iA day of Easter-term, to have but one quarter of the Midlommcr
-
-dividend.
+24. Prisoners entered after the iA day of Easter-term, to have but one quarter of the Midlommcr dividend.
 
 25. All money brought in by the bafltet-men, or brought in at Christmas, Easter and Whitfuiuide, to
 
 be divided immediately after paying the basket-men for their trouble.
-
-26. If
 
 King's
 
@@ -8736,9 +8724,11 @@ King’s
 
 Besc
 
-26. If the marihal advance money for a fwpnfuU*s> he is to be reimbursed oat of the next county-money. 37. Common-fide prisoners may elect an annual steward; who is not to be deposed, bnt on application to the coart cr a judge. No prisoner in the roles may vote.
+26. If the marihal advance money for a fwpnfuU*s> he is to be reimbursed oat of the next county-money.
 
-2S. The steward to enter in books the table of fees, these icles, and a Iif of the charities. All, together with his accounts, for inspection of the prtfoners.
+27. Common-fide prisoners may elect an annual steward; who is not to be deposed, bnt on application to the coart cr a judge. No prisoner in the roles may vote.
+
+28. The steward to enter in books the table of fees, these icles, and a Iif of the charities. All, together with his accounts, for inspection of the prtfoners.
 
 29. A prisoner wronged by the steward and assistants, on applying to the coart or a judge, shall be paid
 
