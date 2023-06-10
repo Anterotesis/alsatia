@@ -126,7 +126,7 @@ have curiosity enough to inquire, and liberality to adopt the methods of treatin
 
 Such were my views. That merciful Providence which had hitherto preserved me, was pleased to extend its protection to me in this journey also.
 
-One consequence of my inquiries has been a full conviction of the importance, to this country, of properly-constituted lazarettos; and this, too, for commercial realbns, of which, I confeis, I had before no idea. The circumstances from which I drew this conclusion will be found in their proper places in the narrative; for I shall in this publication, as I did in my former ones, confine myself chiefly to the narration of fasts. What attention these facts deserve, and what measures it may be adviseable to adopt in consequence of them, I leave to the determination of the proper judges.
+One consequence of my inquiries has been a full conviction of the importance, to this country, of properly-constituted lazarettos; and this, too, for commercial reasons, of which, I confeis, I had before no idea. The circumstances from which I drew this conclusion will be found in their proper places in the narrative; for I shall in this publication, as I did in my former ones, confine myself chiefly to the narration of fasts. What attention these facts deserve, and what measures it may be adviseable to adopt in consequence of them, I leave to the determination of the proper judges.
 
 Upon my return from the Levant, I was solicitous to know what improvements had been made in our prisons during my absence, and how far the numerous abuses and defects which I had laid before the public had been redressed. Therefore, after visiting the London prisons and the Hulks, I went to Ireland, and, returning by way of Scotland, travelled over a great part of England.
 
@@ -388,7 +388,7 @@ Ven ice. were put into one of these rooms for forty days, and afterwards into th
 
 Rules. The Rules and ‘Tariffs of the other lazarettos in Europe having been evidently formed from those established at Venice, I shall be more particular in my account of the regulations here for performing quarantine.
 
-Health- office. The following account has been, for the nioft part, copied from the Jketch of an information lent to our government in 1770, the perulal of which I owe to the favour of Mr. Richie our consul at Venice. I carefully examined this Iketch during my quarantine of forty-two days, and I have here given it with a few correflions and observations. The health-office at Venice was instituted by decree of the senate in the year 1448, in the midst of a very dehruftive pestilence, and afterwards confirmed and regulated by various subsequent decrees, till reduced to the excellent order in which it {lands at present. This important office is governed by three commissioners, annually chosen by the senate, whole duty it is to attend every day to the business of the office; and to them are added two assistant commissioners, and two extraordinary, who have formerly served as junior commissioners, or are gentlemen of wisdom and experience: these last take their feats at the board when they think it requisite, or when cases of difficulty and danger require their counsel. The power or authority of this court is very extensive; for, when all the seven magistrates fit together, their judgments are decisive and without appeal, as well in civil as criminal affairs that relate to public health, all which fall under their cognizance; by which means this court is one of the moll respectable in the government, and accordingly is always filled by persons of approved integrity and reputation, and in easy circumstances, in order to be less exposed to corruption, as their emoluments are very small, although it is a step towards more lucrative employments. — I shall not enter into an elaborate description of every particular circumstance relative to this office, only so far as is necessary to form an idea of its regulations and order in the expurgation of merchandile, or passengers coming from places suspected of pestilential infection. I shall therefore first take notice of the office itl'elf, the duty and authority of its magistrates, &c. and afterwards luccedively give a particular account of the lazarettos, priors of the lazarettos, guardians of health, messengers, porters, the method of receiving captains of snips from suspected parts, taking their reports, quarantine of passengers, and expurgation of goods in the lazaretto; taking notice occasionally of other circumstances of less moment, which have a relation to, or connexion with those above mentioned.
+Health- office. The following account has been, for the nioft part, copied from the Jketch of an information lent to our government in 1770, the perulal of which I owe to the favour of Mr. Richie our consul at Venice. I carefully examined this Iketch during my quarantine of forty-two days, and I have here given it with a few correflions and observations. The health-office at Venice was instituted by decree of the senate in the year 1448, in the midst of a very dehruftive pestilence, and afterwards confirmed and regulated by various subsequent decrees, till reduced to the excellent order in which it {lands at present. This important office is governed by three commissioners, annually chosen by the senate, whole duty it is to attend every day to the business of the office; and to them are added two assistant commissioners, and two extraordinary, who have formerly served as junior commissioners, or are gentlemen of wisdom and experience: these last take their feats at the board when they think it requisite, or when cases of difficulty and danger require their counsel. The power or authority of this court is very extensive; for, when all the seven magistrates fit together, their judgments are decisive and without appeal, as well in civil as criminal affairs that relate to public health, all which fall under their cognizance; by which means this court is one of the moll respectable in the government, and accordingly is always filled by persons of approved integrity and reputation, and in easy circumstances, in order to be less exposed to corruption, as their emoluments are very small, although it is a step towards more lucrative employments. — I shall not enter into an elaborate description of every particular circumstance relative to this office, only so far as is necessary to form an idea of its regulations and order in the expurgation of merchandise, or passengers coming from places suspected of pestilential infection. I shall therefore first take notice of the office itl'elf, the duty and authority of its magistrates, &c. and afterwards luccedively give a particular account of the lazarettos, priors of the lazarettos, guardians of health, messengers, porters, the method of receiving captains of snips from suspected parts, taking their reports, quarantine of passengers, and expurgation of goods in the lazaretto; taking notice occasionally of other circumstances of less moment, which have a relation to, or connexion with those above mentioned.
 
 [ ' Many of the windows in these rooms, and also in some- other ancient pell-hotlfes which I have seen, are now bricked up. Tins shews, that in the last century, physicians were fenftble of the importance of fresh air, and a free circulation of it in ftek wards. A different practice, particularly in the small-poi' and the gaol-fever, was afterwards adopted by medical gentlemen; but we seem now to be returning to the ancient and more salutary practice. Formerly also, it seems probable that men did not entertain titofe absurd prejudices against the free life of water in washing themselves and their rooms, which are now prevalent; for, in several of the old pefi-houses, I have observed the matks of a greater attention to the means of gaining plenty of water than has been thought necessary in many of the hospitals built within these ftfty years. The
 
@@ -1058,7 +1058,7 @@ Sect. Ill,
 
 Morandi. Contagious fevers do not arise of themselves, but are always theproduft of a peculiar poison.
 
-Verdoni. I know no fever that can properly be called contagious, and doubt if even the plague can be considered as such. My realbns are drawn from the very different manner in which the plague appears in different years; and the different degree in which it spreads. I therefore conclude that contagious fevers come of themselves.
+Verdoni. I know no fever that can properly be called contagious, and doubt if even the plague can be considered as such. My reasons are drawn from the very different manner in which the plague appears in different years; and the different degree in which it spreads. I therefore conclude that contagious fevers come of themselves.
 
 Jew Physician. According to the mod ancient authorities, the plague has always been brought to Smyrna by contagion, and was never produced here.
 
@@ -1226,9 +1226,9 @@ At Cairo they take opium, and cover themselves with mattresses in order to excit
 
 At Constantinople and Smyrna they eat nothing, and drink much water and lemonade. The Jews drink a decoction of citron feeds, lemon or Seville orange peel, and their own urine. They abdain fcrupuloufiy from animal food.
 
-In 1700 a physician in Smyrna found bleeding very useful. Another, in another year, cured the plague by bleeding and an antiphlogidic regimen.
+In 1700 a physician in Smyrna found bleeding very useful. Another, in another year, cured the plague by bleeding and an antiphlogistic regimen.
 
-My brother in Cairo treated it like a pituitous biliary fever, with vomits, saponaceous attenuants, and antiphlogidics, and successfully.
+My brother in Cairo treated it like a pituitous biliary fever, with vomits, saponaceous attenuants, and antiphlogistics, and successfully.
 
 Some sailors in Constantinople in the phrensy of the plague, have thrown themselves into the sea; and it is said that on being taken out, they have recovered.
 
@@ -1368,7 +1368,7 @@ Though there are various points in which the answerers of the preceding question
 
 The ingenious Dr. Schotte, in a treatise on a contagious fever, which raged at Senegal in the year 177S, and proved fatal to the great eft part of the Europeans, and to a number of the natives, (published in 1782 by Murray in Fleet-street) considers the following among the predifpofng causes of the disease-the garrison fubfilling, during the whole year, chiefly upon animal food, particularly upon fresh beef which is supplied by the Moors;—the brackifti well-water in which their victuals are boiled, and which serves them as constant drink ;—the impure air breathed by many of the slaves, who are locked up together in the same room during the night;—and the want of motion during the day time, which the irons on their feet impose on them.
 
-Among the means of preventing the disease, the doctor mentions the necessity of temperance in eating, drinking &c. yet he acknowledges that governor Clarke lived very regularly in every respect; he “ took the tincture of of bark and bitters three times a day, and used every other precaution to avert the disease, but ineffedhially.” This German phyftcian has laid much in praise of wine, and tells us: ec From my own experience I believe “ that wine has in some degree a power of expelling a newly-received infection, or at least of contributing towards “ its expuiflon. And the use of this with farfaparilta he thinks was the means of curing himself of that disease << yet” he adds, page 158; 4t as the only European, who escaped this disease entirely, did not make the lead use of 44 any spirituous liquor, I would confine my advice to such persons only, as are accustomed to it. The person in “ question, who affords this very sinking exception, is a Mr. Hare, master of a merchant ship, who had been of at Senegal backwards and forwards for several times, but was redding there, at the time the disease raged, and *< for two years before. He was more exposed to the infection than many others, for he lived in the house of a <* dreadful-looking patient, who was swelled and puffed up, before he died, like a putrid corpse. He also waited *f on him out of humanity day and night, because the blacks were afraid of going near him, on account of his “ most dreadful appearance. He never drank a drop of any spirituous liquor, not even beer or cyder, and he “ told me, that he had not for ten years past, but that he had made use of it before that time. His only drink " at meals was water, and plenty of tea and coffee in the morning and afternoon. He made not the least use of “ tobacco in any form, and took no precaution whatever to prevent the infection.”
+Among the means of preventing the disease, the doctor mentions the necessity of temperance in eating, drinking &c. yet he acknowledges that governor Clarke lived very regularly in every respect; he “ took the tincture of of bark and bitters three times a day, and used every other precaution to avert the disease, but ineffedhially.” This German physician has laid much in praise of wine, and tells us: ec From my own experience I believe “ that wine has in some degree a power of expelling a newly-received infection, or at least of contributing towards “ its expuiflon. And the use of this with farfaparilta he thinks was the means of curing himself of that disease << yet” he adds, page 158; 4t as the only European, who escaped this disease entirely, did not make the lead use of 44 any spirituous liquor, I would confine my advice to such persons only, as are accustomed to it. The person in “ question, who affords this very sinking exception, is a Mr. Hare, master of a merchant ship, who had been of at Senegal backwards and forwards for several times, but was redding there, at the time the disease raged, and *< for two years before. He was more exposed to the infection than many others, for he lived in the house of a <* dreadful-looking patient, who was swelled and puffed up, before he died, like a putrid corpse. He also waited *f on him out of humanity day and night, because the blacks were afraid of going near him, on account of his “ most dreadful appearance. He never drank a drop of any spirituous liquor, not even beer or cyder, and he “ told me, that he had not for ten years past, but that he had made use of it before that time. His only drink " at meals was water, and plenty of tea and coffee in the morning and afternoon. He made not the least use of “ tobacco in any form, and took no precaution whatever to prevent the infection.”
 
 little
 
@@ -1512,7 +1512,7 @@ On March 15th, a woman died with petechias, which caused so much suspicion that 
 
 Other suspicious deaths succeeded, but without certain proof of contagion; however on the night between March 28th and 29th, fix deaths happening after a very short illness, caused the reality of the contagion to be scarcely doubted of, though still the signs of the plague were equivocal.
 
-On March 30th, news arrived that the persons placed in the lazaretto from suspicion on account of the woman above mentioned, had Men ill. Five more died this night; and on the view of their bodies, the physicians declared them JuJpeSled-, but a Venetian surgeon did not scruple to call the disease openly the plague. A buboe was this day found on a patient.
+On March 30th, news arrived that the persons placed in the lazaretto from suspicion on account of the woman above mentioned, had Men ill. Five more died this night; and on the view of their bodies, the physicians declared them suspected-, but a Venetian surgeon did not scruple to call the disease openly the plague. A buboe was this day found on a patient.
 
 The Prcveditor General now assembled the college of health, and laid an interdict on the whole city, lhircting up the churches, and cutting off all communication with the rest of the province.
 
@@ -1842,7 +1842,7 @@ his religion, was released about eight years ago. There is but one Have here who
 
 man (who loft his gold-headed cane) in a private house in Paris. The boys were apprehended, and this Conde, though only fourteen years of age, and lame of one arm, was condemned to the galleys for life. After four or five years he procured avbible, and learned by himself to read; and becoming, through close attention to the scrip-tures, convinced that his religion was antichristian, he publicly renounced it; and declared and defended his sentiments. Ever fmce he has continued a steady protestant, humble and modest, with a character irreproachable and exemplary, respected and esteemed by his officers and fellow prisoners. I brought away with me some musical pipes of his turning and tuning. He was in the galley appropriated to the infirm and aged; and these, besides the usual allowance of bread, have an additional allowance from
 
-t I was informed by a very respectable person at Marfcilles, that the brother of an ancient lady in his family was, several years ago, apprehended by some dragoons, as he was coming from a conventicle or
+t I was informed by a very respectable person at Marseilles, that the brother of an ancient lady in his family was, several years ago, apprehended by some dragoons, as he was coming from a conventicle or
 
 allowed to keep shops on shore as formerly at Marseilles; nor have they the same (->ALLEYS-convenience they had then for the sale of their work. Forty were at work in La Place La Place. (the square) in the city, digging and removing the foil for the foundation of a house for
 
@@ -2192,7 +2192,7 @@ In the Prison at Galata, J in 1786, there were eighteen debtors. Their subsisten
 
 The Prison for the slaves is very large, but it was almost empty, the Captain Bajhaw having taken most of the men into his galleys. The few who remained were healthy, and a very humane attention was paid to them.
 
-* The English Factory’s burying-ground lies open, and is lhamefully neglected; many of the tomb-stones being broken down, and others taken away; while an adjoining burying-ground is carefully preserved and locked up.
+* The English Factory’s burying-ground lies open, and is shamefully neglected; many of the tomb-stones being broken down, and others taken away; while an adjoining burying-ground is carefully preserved and locked up.
 
 f Here, I had an opportunity (which in this tour I did not enjoy at any of the hotels of our Ambassadors) of attending public worship on Sunday, performed by the worthy chaplain to the factory. I take this occasion of mentioning a secret source of contagious irreligion, that most of our ambafadors have no chaplains, nor any religious service in their houses.—With pain I have observed on Sundays many of our young nobility and gentry, who are to fill eminent stations in life, inflru&ed in their houses by example at leaf!: (especially in Roman-Catholic countries) to make the Lord’s day a season of diversion and amusement. —* How have I been mortified by the comparison, when after calling at their hotels, I have seen, upon my return from thence, the chapels of the Spanish and French ambassadors crowded
 
@@ -2490,7 +2490,7 @@ There is in this city a fixed price for meat, as well as an assize for bread and
 
 At Francfort, the House of Correction and the House for the Poor join, and are under one direction. The porous stone on which the men are employed in these houfts, is brought from the banks of the Rhine. They beat it with wooden pestles in a large stone trough bound with iron; and the powder, mixed with lime, makes a cement impenetrable by moisture, and as hard as stone. This is sent to Holland, and many other parts of Europe. The women do the laborious work in the apartments for the poor. In January 1787, there were here fifty men, thirty-five women, sixty-four boys, sixty-one girls, twelve prisoners, seventeen vagrants; in all two hundred and thirty-nine. The house, though old, was clean. Half of Saturday in every week is appropriated to the business of cleaning the apartments. It has a chapel, and a room in which the governors meet twice a week. It is inspected also by the ladies; and the regulations of it are published. The allowance of provisions is good bread and beer, soup twice a week, and meat on Sundays and Wednesdays. f
 
-The Asylum for Lunatics, built in 1783, is worthy ofobservation. The master’s apartment, the kitchen, and offices are on the ground floor. On this and the second floor there are several rooms (fourteen feet by twelve and a half, and about twelve high) with one, two, or three beds. The passages are only five feet and a half wide, but the landing place in the centre of the house, being twenty-seven feet wide, with four windows, gives light and air to the whole. £ An aperture always open in each window, added to the quietness
+The Asylum for Lunatics, built in 1783, is worthy of observation. The master’s apartment, the kitchen, and offices are on the ground floor. On this and the second floor there are several rooms (fourteen feet by twelve and a half, and about twelve high) with one, two, or three beds. The passages are only five feet and a half wide, but the landing place in the centre of the house, being twenty-seven feet wide, with four windows, gives light and air to the whole. £ An aperture always open in each window, added to the quietness
 
 Vienna.
 
@@ -2640,7 +2640,7 @@ On my coming into Scotland in July 1787, the first county gaol I visited was at 
 
 There is the same defect in the Tolbooth at Glasgow. As the transports continue long in confinement, some alteration was making, by arching the rooms, in order to obtain greater security against escapes and disturbances.
 
-Several of the transports were removed to a new ■prij'on adjoining to the poor-house. Each had a separate room (about fix feet and a half by fix). The rooms here not being very strong, the prisoners had chains on their feet and necks. The passage being only two feet eight inches wide, most of the rooms were very offensive, and some very damp.—No endeavours are used to reclaim these unhappy objects; whose long confinement, together with the great leverity of their chains, and their scanty food (being only two pennyworth of bread in a day) mull reduce them to the extremity of misery and desperation.
+Several of the transports were removed to a new ■prij'on adjoining to the poor-house. Each had a separate room (about fix feet and a half by fix). The rooms here not being very strong, the prisoners had chains on their feet and necks. The passage being only two feet eight inches wide, most of the rooms were very offensive, and some very damp.—No endeavours are used to reclaim these unhappy objects; whose long confinement, together with the great severity of their chains, and their scanty food (being only two pennyworth of bread in a day) mull reduce them to the extremity of misery and desperation.
 
 The House of Correction is under the infirmary for the soldiers. Beside the keeper’s apartment, there is only one room, which is neither cieled nor white-washed. The women are entitled to whatever they can earn by their labour, and there were eleven of them spinning. But on Sundays, having no allowance or religious service, as the keeper informed me, they lie in bed.
 
@@ -2892,7 +2892,7 @@ IRELAND.
 
 Si
 
-shillings. A charitable society for the relief of poor debtors distributes a lixpenny loaf weekly to the most necessitous in this prison, and the Four-court Marshalsea.
+shillings. A charitable society for the relief of poor debtors distributes a sixpenny loaf weekly to the most necessitous in this prison, and the Four-court Marshalsea.
 
 1787, May 29, Debtors 92. 1788, March 21, Debtors 66.
 
@@ -3192,7 +3192,7 @@ CI.ON MELL.
 
 Hospital.
 
-committed and fined £$, for Jiriking a saucy boy, who would deliver spirituous liquors in at the window to his pnloners, some of whom were then intoxicated.
+committed and fined £$, for Jiriking a saucy boy, who would deliver spirituous liquors in at the window to his prisoners, some of whom were then intoxicated.
 
 1787, Jan. 10, Debtors 13. Felons &c. 7.
 
@@ -3678,7 +3678,7 @@ It may not be improper to repeat here an observation which I made in my former p
 
 * Doctor Ingen-boujk in his Experiences fur les Vegetaux, publiftied in 1787, has so well expressed my sentiments on this subject, that I hope I shall be excused copying this long note.
 
-r‘ Nous voyons que la longue vie des hommes depend en grande partie de la bonte de l’air qu’ils respirent. t( Les meilleurs alimeiis ne font pas en etat de nous garanrir des maladies dans un pays malfain, au lieu qu’on f< peut fe porter tres-bien avec des alimens d’une qualite inferieure, lorsque l’on respire un air tres-pur.” —And with respect to the necessity of attention to clean line/}, some observations which the ingenious Doctor mentions relative to ships, are equally applicable to prisons and hospitals.—“ Un des grands moyens de “ conserver la fante des marins, eft de tenir l’interieur du vaifteau propre, d’y changer Pair souvent, “ soit par des ventilateurs, soit par Pagitation des portes de communication, soit par l’agitation de draps souvent “ repetee, Scc. J’ai souvent eprouve avec quelle facilite on peut renouveller tout Pair d’une chambre par la “ feule agitation de la porte, ou parle mouvement violent d’un drap, ou par quelque autre moyen qui force Pair “ de changer de place, & de fe meler avec Pair libre. Deux ou trois minutes fufHfent pour renouveller tout Pair i( d’un grand appartement, & pour donner a un malade quiy eft au lit, le soulagement le plus fenftble.—Toute " nation qui salt peu de cas de la proprete personnelle, & de celle de fes habitations, qui n’a aucune aversion de *' voir par-tout s’accumuler des faletes, dont on a foin d’ecaster jufqu’aux vestiges dans d’autres pays; qui “ s’accoutume desl’enfance a vivre au milieu des ordures; qui peut tolerer, meme dans l’interieur de fes maisons, •“ des cloaques le plus abominables de faletes, quiferoient horreur aux fauvagesles moins polices, & dont l’aspect " degoutant feroit capable de faire foulever l’eftomac aux peuples quin’ont jamais vu que la proprete la plus exadie “ dans ces endroits retires de neceflite *: toute nation, dis-je, qui ne cultive pas aftez la proprete personnelle & dans fes habitations, doit naturellement avoir peu d’aversion, etant lur mer, de vivre parmi les memes mal-te propretes avec lesquelles elle s’eft familiarifee des son enfance. Mais s’il paroit qu’il importe peu, pour la “ fante des habitans d’une maison, qu’elle soit sale ou nette, il eft neanmoins bien certain qu’on ne peut pas “ negliger impunement la proprete dans un navire, dans lequel une foule de gens eft entaflee. Cette negligence y produira bientot un air corrompu, qui, a son tour, engendrera le germe de cette terrible " maladie qu’on voit fe produire par le meme cause dans les hopitaux trop pleins & trop peu aeres, & dans “ les prisons, ou beau coup de miferables croupiftent dans leurs propres faletes.”—He adds, “ On a vu souvent “ des nations puiftantes, qui devoient naturellement triompher par la masse enorme de leurs forces de terre & “ de mer, fuccomber precisement par les effets de cette mal-proprete habituelle fur leurs flottes & dans leurs “ armees.”
+r‘ Nous voyons que la longue vie des hommes depend en grande partie de la bonte de l’air qu’ils respirent. t( Les meilleurs alimeiis ne font pas en etat de nous garanrir des maladies dans un pays malfain, au lieu qu’on f< peut fe porter tres-bien avec des alimens d’une qualite inferieure, lorsque l’on respire un air tres-pur.” —And with respect to the necessity of attention to clean line/}, some observations which the ingenious Doctor mentions relative to ships, are equally applicable to prisons and hospitals.—“ Un des grands moyens de “ conserver la fante des marins, eft de tenir l’interieur du vaifteau propre, d’y changer Pair souvent, “ soit par des ventilateurs, soit par Pagitation des portes de communication, soit par l’agitation de draps souvent “ repetee, Scc. J’ai souvent eprouve avec quelle facilite on peut renouveller tout Pair d’une chambre par la “ feule agitation de la porte, ou parle mouvement violent d’un drap, ou par quelque autre moyen qui force Pair “ de changer de place, & de fe meler avec Pair libre. Deux ou trois minutes fufHfent pour renouveller tout Pair i( d’un grand appartement, & pour donner a un malade quiy eft au lit, le soulagement le plus fenftble.—Toute " nation qui salt peu de cas de la proprete personnelle, & de celle de fes habitations, qui n’a aucune aversion de *' voir par-tout s’accumuler des faletes, dont on a foin d’ecaster jufqu’aux vestiges dans d’autres pays; qui “ s’accoutume desl’enfance a vivre au milieu des ordures; qui peut tolerer, meme dans l’interieur de fes maisons, •“ des cloaques le plus abominables de faletes, quiferoient horreur aux fauvagesles moins polices, & dont l’aspect " degoutant feroit capable de faire foulever l’eftomac aux peuples quin’ont jamais vu que la proprete la plus exadie “ dans ces endroits retires de neceflite *: toute nation, dis-je, qui ne cultive pas aftez la proprete personnelle & dans fes habitations, doit naturellement avoir peu d’aversion, etant lur mer, de vivre parmi les memes mal-te propretes avec lesquelles elle s’eft familiarifee des son enfance. Mais s’il paroit qu’il importe peu, pour la “ fante des habitans d’une maison, qu’elle soit sale ou nette, il eft neanmoins bien certain qu’on ne peut pas “ negliger impunement la proprete dans un navire, dans lequel une foule de gens eft entaflee. Cette negligence y produira bientot un air corrompu, qui, a son tour, engendrera le germe de cette terrible " maladie qu’on voit fe produire par le meme cause dans les hopitaux trop pleins & trop peu aeres, & dans “ les prisons, ou beau coup de miserables croupiftent dans leurs propres faletes.”—He adds, “ On a vu souvent “ des nations puiftantes, qui devoient naturellement triompher par la masse enorme de leurs forces de terre & “ de mer, fuccomber precisement par les effets de cette mal-proprete habituelle fur leurs flottes & dans leurs “ armees.”
 
 * “ Le nom de garde-robe, confacre par un long usage a ces endroits, denote assez que la mal-proprete a ete de tout temps “ un vice, non du bas-peuple, mais de la nation meme: mal-proprete fi enracinee, que meme jufqu’a present, lorsque la plupart “ des nations europeenes rougiflentde fouffrir, dans I’enceinte de leur maison, ces cloaques revoltans & abominables, un etranger
 
@@ -4068,7 +4068,7 @@ County.
 
 Castle Istand School; April 8th, 1788, eleven girls and ten boys. The rooms clean: the children not dirty, but kept too dole to work, and scantily fed. — Formerly their learning was neglected, but now they have a careful visitor.
 
-About three acres of the land belonging to this school was taken away in the time of the late mailer, as he informed the present mailer: of this the society has not yet taken any notice. — In the poltscript of a letter to the mailer, 25th of July 1787 are these words, “ Do not draw at less than thirty-one days fight.” But the mailer told me he could readily have got the money for the bills at a shorter date.*
+About three acres of the land belonging to this school was taken away in the time of the late mailer, as he informed the present mailer: of this the society has not yet taken any notice. — In the postscript of a letter to the mailer, 25th of July 1787 are these words, “ Do not draw at less than thirty-one days fight.” But the mailer told me he could readily have got the money for the bills at a shorter date.*
 
 Kilfimne School. April 10th, 1788, nineteen girls, all neat and clean, spinning and few-ing.—The millrefs was allowed for the clothing of each £1:5:0. They had shoes and dockings, brown Huff gowns with yellow sleeves, white caps and bibs, and check aprons. This is the bell charter school for girls that I have seen. The house is inconvenient____No vault, j-
 
@@ -4080,7 +4080,7 @@ Stradbally School. April 15th, 1788, forty-nine fine healthy boys. The bed rooms
 
 * 1 shall here beg leave to put two or three queries to the trustees of Erafmui Smith's charity schools, relative to this county, i. Is not a sum of money allowed by them for a school in the ille of Valentia, in the county of Kerry? 2. How is it applied? 3. Is not a blacksmith the nominal mailer? 4. Is not the late Mr. Fitzgerald's house the school-house ? 5. Is not the salary continued to his executors for the use of his children
 
-f 1 visited a small girls’ school of Lady Kingjboreugh's at Mitchells Town, where the house and children were sweet and clean. The girls were neatly clothed in brown camlet gowns. They shewed, both by their reading and their work, that great attention is paid to them. It is probable that the millrefs at Kilfinane has seen this school, and I wilh it were regarded in some respects as a model for other charter schools.
+f 1 visited a small girls’ school of Lady Kingjborough's at Mitchells Town, where the house and children were sweet and clean. The girls were neatly clothed in brown camlet gowns. They shewed, both by their reading and their work, that great attention is paid to them. It is probable that the millrefs at Kilfinane has seen this school, and I wilh it were regarded in some respects as a model for other charter schools.
 
 I found
 
@@ -6742,7 +6742,7 @@ From January 7th, 1787, to January ift, 1788, Balance saved to the County £113:
 
 The above report was made at the last Epiphany Sessions, and was then ordered to be printed, and to be
 
-* sent to the Lord Lieutenant, the ailing Magistrates of the county, the Foreman of the Grand Jury at the next 11 Lent and Summer Affixes, and to the subscribers to the gaol charity.”—To the honour of the Gentlemen of this county I quote what follows respetting this their well-directed charity. “ And the Treasurer of the subscription '• for pecuniary rewards on the discharge of indujhrious prisoners t having reported to the Magistrates then " present, that there was a considerable balance in hand from the last year’s subscription, it was agreed, *< that there was no immediate occasion to call on the subscribers; but that the Treasurer should have liberty to call on them for their annual subscriptions, when, and in such manner, as the Committee appointed to 1 f superintend the management of the castle gaol should think proper. ”
+* sent to the Lord Lieutenant, the ailing Magistrates of the county, the Foreman of the Grand Jury at the next 11 Lent and Summer Affixes, and to the subscribers to the gaol charity.”—To the honour of the Gentlemen of this county I quote what follows respecting this their well-directed charity. “ And the Treasurer of the subscription '• for pecuniary rewards on the discharge of indujhrious prisoners t having reported to the Magistrates then " present, that there was a considerable balance in hand from the last year’s subscription, it was agreed, *< that there was no immediate occasion to call on the subscribers; but that the Treasurer should have liberty to call on them for their annual subscriptions, when, and in such manner, as the Committee appointed to 1 f superintend the management of the castle gaol should think proper. ”
 
 Some prisoners, when they are discharged, are completely clothed, have a little money in their pockets, and a good character given them, with a further promise that if they bring at the end of the year, a certificate from the matter with whom they work of a good and sober character, they shall be further rewarded.
 
@@ -7014,7 +7014,7 @@ The floors are of elm, which is not durable; and though the colour is brown, one
 
 * This indecent, wanton, and cruel custom of putting irons on the weaker sex in prisons, is not praflifed in any of the moil uncimlixed countries that 1 have visited.
 
-f In this city, and many other places, the bakers make only the white bread. The assize here from the 4th to 1 tth of February 178 S was, the twopenny loaf frandard wheaten, 1 lb. 5 esc.. 6 drams, the lixpenny loaf 4If. 3 drams. So that the poor are almoil obliged to buy dear and fine bread.
+f In this city, and many other places, the bakers make only the white bread. The assize here from the 4th to 1 tth of February 178 S was, the twopenny loaf frandard wheaten, 1 lb. 5 esc.. 6 drams, the sixpenny loaf 4If. 3 drams. So that the poor are almoil obliged to buy dear and fine bread.
 
 ; In the work-house for the city, the rooms and the inhabitants were clean, having a notable matron. With respect to health and conveniences in tvork-houses and infirmaries, more depends on such women than is generally imagined.
 
@@ -7198,7 +7198,7 @@ HAMPSHIRE.
 
 181
 
-The following Regulations and Orders were hung up in the Wards. REGULATIONS Respetting the Nurses and other Servants of the Royal Hospital at Haslar.
+The following Regulations and Orders were hung up in the Wards. REGULATIONS Respecting the Nurses and other Servants of the Royal Hospital at Haslar.
 
 ORDERED,
 
@@ -7478,7 +7478,7 @@ I put the same question here, that I had proposed at York, Durham, Newcastle,
 
 Nottingham, Leicester, Norwich &c. namely, what was the number of debtors who had flung themselves into prison, through the hope of an insolvent act during this year (1787) and who had fetded with their creditors, and gone out, on finding that the bill did not pass? The number was twenty, and their names were given me; but he said, that the number was greater in 1786, when an insolvent bill was thrown out.
 
-I am lenfible however that there are real objects of compassion in many of our
+I am sensible however that there are real objects of compassion in many of our
 
 prisons, who are even in want of the necessaries of life, having no allowance; no friends.
 
@@ -8188,7 +8188,7 @@ Northern Circuit.
 
 Caklisle. icparadon of the l'exes.—Allowance to debtors 9 d. to some 1 s. a week, and felons iW.
 
-paid only on Saturdays. Keeper’s salary augmented from £21 to £61 in lieu of the tap. On mentioning the abolition of the tap to Mr. Lojh, the surgeon, he said, I am persuaded the prisoners would be healthier if they had proper nourishment, and only milk admitted into the gaol;* and they would be quieter; for when any liquor is brought them, they are riotous and quarreliome, and plotting to break out. Gaol delivery only once a year.
+paid only on Saturdays. Keeper’s salary augmented from £21 to £61 in lieu of the tap. On mentioning the abolition of the tap to Mr. Lojh, the surgeon, he said, I am persuaded the prisoners would be healthier if they had proper nourishment, and only milk admitted into the gaol;* and they would be quieter; for when any liquor is brought them, they are riotous and quarrelsome, and plotting to break out. Gaol delivery only once a year.
 
 1788, Jan. 2, Debtors 32.f Felons &c. 20. Deserters 2.
 
@@ -8638,7 +8638,7 @@ I own I cannot approve of thus encouraging the poor, and initiating the young in
 
 NANTWICH Prison for Debtors. No alteration.
 
-Namtwich
+Nantwich
 
 Prison.
 
@@ -9078,7 +9078,7 @@ Langston Harbour, July 8th, in the Fortunee, w 00
 
 - - - - Ceres, - 219.—Total 1937.
 
-* The great mortality that has happened among the convicts from the time they were first put on board the JuJlitia hulk at Woolwich, in August 1776, does not, I am persuaded, proceed from their being confined on the water; (though in many other views I dislike this mode of confinement): as, from the general practice offoreigners in building their prisons, hospitals and poor-houses, near the water, it seems, that they have no apprehension of bad consequences arising from such a situation. Dr. Helerden has expressed his sentiments on this subject in the Medical Transafiiom, pages 521, 524. "In England few make any doubt of the great danger attending " wet rooms. — Is this opinion founded upon experience, or is it a prejudice, winch has been suffered to grow “ up, and get strength, merely for want of being examined ? If we inquire into the arguments in favour of this notion, we shall hardly find any other, than the random conjectures of the sick about the cause of their illness; “ or than their artfully substituting this origin of it instead of some other, which they are unwilling to own. — " The air from rivers and from the sea is probably more replenished with vapors, than inland countries cleared " of their woods; yet the moil celebrated of ancient physicians recommended the bank of a running river for the situation of a house, on account of its peculiar healthiness; and many invalids are sent by the modern " physicianB to the sea fide, only for the benefit of the sea air.”
+* The great mortality that has happened among the convicts from the time they were first put on board the JuJlitia hulk at Woolwich, in August 1776, does not, I am persuaded, proceed from their being confined on the water; (though in many other views I dislike this mode of confinement): as, from the general practice of foreigners in building their prisons, hospitals and poor-houses, near the water, it seems, that they have no apprehension of bad consequences arising from such a situation. Dr. Helerden has expressed his sentiments on this subject in the Medical Transafiiom, pages 521, 524. "In England few make any doubt of the great danger attending " wet rooms. — Is this opinion founded upon experience, or is it a prejudice, winch has been suffered to grow “ up, and get strength, merely for want of being examined ? If we inquire into the arguments in favour of this notion, we shall hardly find any other, than the random conjectures of the sick about the cause of their illness; “ or than their artfully substituting this origin of it instead of some other, which they are unwilling to own. — " The air from rivers and from the sea is probably more replenished with vapors, than inland countries cleared " of their woods; yet the moil celebrated of ancient physicians recommended the bank of a running river for the situation of a house, on account of its peculiar healthiness; and many invalids are sent by the modern " physicianB to the sea fide, only for the benefit of the sea air.”
 
 THE
 
@@ -9514,7 +9514,7 @@ In my publication in 1784, I gave an account of a house of correction at Veterjh
 
 * At Mo fa, the ancient capital of Ruffin, I found no traces of any such prisons or dungeons as were common
 
-formerly in the Celtics of England, and in several foreign countries. That cruel mode of confinement in many of our prisons, has been, and Hill is a principal cause of the gaol-fever; no symptoms of which did I fee in Peterihurg, Moscow, or in any part of Rufiia.
+formerly in the Celtics of England, and in several foreign countries. That cruel mode of confinement in many of our prisons, has been, and Hill is a principal cause of the gaol-fever; no symptoms of which did I fee in Petersburg, Moscow, or in any part of Rufiia.
 
 REMARKS
 
@@ -9668,7 +9668,7 @@ REGLES questous les Prisonniers de Guerre, dans la Grande Bretagne, ct Vlrlandt,
 
 doivent observer.
 
-I. LES ordres donnes par 1’Agent, aiant foin des prisonniers, doivent etre observes fans replique ou dispute. Qu’aucun des prisonniers ofe infulter, menacer, maltraiter. Sc encore moms frapper le guichetier, ni personne par 1’Agent employe aux affaires de la prison, fous peine de la punition qu’ordonneront Messieurs les Commissaires, ct de perdre Ieur tour d’etre echanges; d’etre etroitement enfermes, et prives de la moitie de leur vivres.
+I. LES ordres donnes par 1’Agent, aiant foin des prisonniers, doivent etre observes fans replique ou dispute. Qu’aucun des prisonniers ofe insulter, menacer, maltraiter. Sc encore moms frapper le guichetier, ni personne par 1’Agent employe aux affaires de la prison, fous peine de la punition qu’ordonneront Messieurs les Commissaires, ct de perdre Ieur tour d’etre echanges; d’etre etroitement enfermes, et prives de la moitie de leur vivres.
 
 II. Tous les prisonniers, lors que l’Agent en fera la revue, repondront a leurs noms; et fi dans la liste donnee a 1’agent quelque erreur fe trouve, ils Pindiqueront, afin de la corriger; et ainsi prevenir la confusion qui resulteroit des meprifes des noms.
 
@@ -10416,7 +10416,7 @@ Gloucestershire 119 >9 >38 22 Carmarthenshire 8 0 8
 
 Gloucester - 7 7 ■4 3 Carmarthen 0 O 0
 
-Herefordshire 49 O 49 8 Carnarvonftiire - 2 1 3
+Herefordshire 49 O 49 8 Carnarvonshire - 2 1 3
 
 Monmouthshire 44 2 46 8 Denbigh ftiire 0 5 5
 
@@ -12020,7 +12020,7 @@ the hall at the great hospital a security for criminals, 59
 
 Manchester, 206 Marine school at Amsterdam, 71 Dublin, 83
 
-Marlborough, 184 Marseilles lazaretto, 3 prison, 54 Marfkalfea, 130 Maryborough, 86
+Marlborough, 184 Marseilles lazaretto, 3 prison, 54 Marshalsea, 130 Maryborough, 86
 
 Matron, her importance, 155, 176 Mayo county, 93, 108 Meath county, 99, in Meath hospital, 100
 

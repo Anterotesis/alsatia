@@ -608,7 +608,7 @@ I leave this country with regret, as it affords a large field for information on
 
 HOLLAND.
 
-Nothing can be more unreasonable than the pretences used among us to justify inattention and negligence. I cannot help taking this occasion to add the following authorities on this subject. All unprejudiced persons mull acknowledge the absolute necessity offrejh air and cleanliness to preserve and promote health. To this purpose Dr. Mead writes, in his Discourse concerning Pestilential Contagion.* “ Nothing tc approaches so near to the first original of contagion, as air pent up, “ loaded with damps, and corrupted with the filthiness, that proceeds “ from animal bodies. Our common prisons afford us an instance of “ this, in which very few escape, what they call tht gaol fever, which “ is always attended with a degree of malignity in proportion to the “ closeness and stench of the place. And it would certainly very well “ become the wisdom of the government, as well with regard to the “ health of the town, as in compassion to the prisoners, to take care, “ that all houses of confinement, should be kept as airy and clean, as is tc consistent with the use, to which they are designed.” — And “ as “ nafiiness is a great source of infection* so cleanliness is the greatest tc preservative.” — From the general practice of foreigners in building their prisons near the water, it seems, that they were convinced of the bad effects of offensive drains, and of the necessity of cleanliness; and they had no apprehensions of bad consequences arising from such a situation. Dr. Heberden has expressed his sentiments on this subject in the Medical Eranfactions. f “ In England few make any doubt of the great danger attending wet rooms: — Is this opinion founded tc upon experience, or is it a prejudice, which has been suffered to tc grow up and get strength merely for want of being examined ? If
+Nothing can be more unreasonable than the pretences used among us to justify inattention and negligence. I cannot help taking this occasion to add the following authorities on this subject. All unprejudiced persons mull acknowledge the absolute necessity offrejh air and cleanliness to preserve and promote health. To this purpose Dr. Mead writes, in his Discourse concerning Pestilential Contagion.* “ Nothing tc approaches so near to the first original of contagion, as air pent up, “ loaded with damps, and corrupted with the filthiness, that proceeds “ from animal bodies. Our common prisons afford us an instance of “ this, in which very few escape, what they call tht gaol fever, which “ is always attended with a degree of malignity in proportion to the “ closeness and stench of the place. And it would certainly very well “ become the wisdom of the government, as well with regard to the “ health of the town, as in compassion to the prisoners, to take care, “ that all houses of confinement, should be kept as airy and clean, as is tc consistent with the use, to which they are designed.” — And “ as “ nastiness is a great source of infection* so cleanliness is the greatest tc preservative.” — From the general practice of foreigners in building their prisons near the water, it seems, that they were convinced of the bad effects of offensive drains, and of the necessity of cleanliness; and they had no apprehensions of bad consequences arising from such a situation. Dr. Heberden has expressed his sentiments on this subject in the Medical Eranfactions. f “ In England few make any doubt of the great danger attending wet rooms: — Is this opinion founded tc upon experience, or is it a prejudice, which has been suffered to tc grow up and get strength merely for want of being examined ? If
 
 CC
 
@@ -5718,7 +5718,7 @@ doivent observer.
 
 1.
 
-TES ordres donnes par l’Agent, aiant foin des prisonniers, doivent etre observes 1* fans replique ou dispute. Qu’aucun des prisonniers ofe infulter, menacer, maltraiter, & encore moins frapper le guichetier, ni personne par l’Agent employe aux affaires de la prison, fous peine de la punition qu’ordonneront Mellieurs les Commissaires, et de perdre leur tour d’etre echanges; detre etroitement enfermes, et prives de la moitie de leur vivres.
+TES ordres donnes par l’Agent, aiant foin des prisonniers, doivent etre observes 1* fans replique ou dispute. Qu’aucun des prisonniers ofe insulter, menacer, maltraiter, & encore moins frapper le guichetier, ni personne par l’Agent employe aux affaires de la prison, fous peine de la punition qu’ordonneront Mellieurs les Commissaires, et de perdre leur tour d’etre echanges; detre etroitement enfermes, et prives de la moitie de leur vivres.
 
 11.
 
@@ -6098,7 +6098,7 @@ Lincoln 22 0 '4 O Morpeth 9 I 6 O
 
 — City I 0 0 O Bridewell O 0 O 3
 
-Litchfield 3 0 I 0 Nantvoich 2 0 O O
+Litchfield 3 0 I 0 Nantwich 2 0 O O
 
 Liverpool 22 3 0 0 Newcastle 13 1 4 O
 
@@ -6630,7 +6630,7 @@ Munich 68.
 
 L. N.
 
-Lancashire 179. Nantnuich - - 183.
+Lancashire 179. Nantwich - - 183.
 
 Laubaek 34* Naples 53.
 
