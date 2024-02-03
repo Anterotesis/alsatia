@@ -4280,15 +4280,11 @@ In
 
 Calais.
 
-English
-
-Prisoners.
+English Prisoners.
 
 Plymouth,
 
-French
-
-Prisoners.
+French Prisoners.
 
 Bristol,
 
@@ -17380,7 +17376,7 @@ liberal allowance to, abroad 74, 93, icS,111 1
 
 Condemned
 
-INDEX,
+INDEX.
 
 Condemned prisoners attended and buried
 
@@ -17486,9 +17482,9 @@ sick, relieved by recorder 394 Fenelon, quotation from Fenton, Mr. recorder, his
 
 Firmin, Mr, his employment of poor 48
 
-index*
+INDEX.
 
-Fisher ton-Anger Gaol 336 Flanders 125, 135 Fleet Prison 177 Flintshire 410
+Fisherton-Anger Gaol 336 Flanders 125, 135 Fleet Prison 177 Flintshire 410
 
 Flint County Gaol 410
 
@@ -17550,7 +17546,7 @@ Gould, judge, fines a gaoler for detaining acquitted prisoners ai
 
 Grand-Chatelet at Parit 139 Grate in floors 29 Gratz 84
 
-G roats of debtors 6, 40
+Groats of debtors 6, 40
 
 Groningen 70
 
@@ -17646,11 +17642,11 @@ Keeper's freehold, a bridewell 327, 39c shop in a bridewell 327 Kempe, Frances, 
 
 Ki'tUiing 2.06
 
-INDEX*
+INDEX.
 
 Kideott, gaol so called 367
 
-Kiddcrir.inster 309
+Kidderminster 309
 
 Kiltr.air.ham 167
 
@@ -17806,11 +17802,13 @@ weakened by confinement 25 checked In fending out for liquor.and necessaries 33 
 
 separated according to their crimes 67, 71, 72, 103, 109, 117, 119 sick, care of 92, 98, 100, 130
 
-irons taken off from 225, 430 released 247
+irons taken off from 225, 430
 
-neglected by surgeon 259, 406 Prisoners
+released 247
 
-INDEX,
+neglected by surgeon 259, 406
+
+INDEX.
 
 Prisoners, sick, 7 s.a week allowed to gaoler for their diet 280 6d.a day allowed them 305 supplied by county infirmary 311
 
