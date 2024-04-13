@@ -359,7 +359,9 @@ HOLLAND. 15
 [Amsterdam Rasp-House.]
 
 gentlemen, who daily visit the prison, informed the magistrates that it had been the cause of frequent ruptures.*
+
 ---
+
 No friends of the prisoners are permitted to visit them, without express orders from the regents, unless on Mondays: and then they must be searched, to prevent the introduction of spirituous liquors, or instruments for breaking out, or any thing else forbidden: and they must retire before the time for shutting up. Every visitant is obliged to put two stivers into a box entrusted with the father. Refreshments may be received and given to the rcnvicts on Tuesdays; but not on other days. Every evening, at eight o’clock, the father must lee that all things are in due order. The saws, and other heavy implements for their work, are taken from them in the evening, and returned in the morning. If a convict be guilty of breaking any thing considerable, or of neglect or disobedience, he is punished severely by whipping, or confined to bread and water in a dungeon -under ground.
 
 Prayers are read morning and evening, and before and after meals, by one of the best-behaved convicts: and divine service, with a sermon, is performed by a clergyman on Sunday mornings.
@@ -612,7 +614,7 @@ At Berlin, in the city prison, called CalanNjhtof, were eighteen men and thirtee
 
 In another prison, called the Haus-vogtcy, are sixteen rooms, eight for criminals, and over these the other eight for debtors and smugglers: these rooms look into a court, to which the prisoners have access two hours in a day. All the rooms have doves. The allowance here to criminals is one grofebe .(seven farthings) a day.; but debtors have two grofehe, and in winter, one besides for firing.
 
-The Maison de Travail, is a spacious building in the suburbs: it was erected about twenty years since: the front is two hundred and twenty feet, the fides a hundred and sixty. It has a court in the centre. The number of inhabitants were about four hundred and fifty, including fourteen children. Beggars and idle persons of both sexes are sent to this house. Those who can work are employed, fed, and cloathed; and proper care and attention paid to the aged and infirm. Each time I was there, I was pleasingly struck with the cleanly appearance of all the inhabitants. Old and young, men and women, were spinning and carding wool, in rooms
+The Maison de Travail, is a spacious building in the suburbs: it was erected about twenty years since: the front is two hundred and twenty feet, the sides a hundred and sixty. It has a court in the centre. The number of inhabitants were about four hundred and fifty, including fourteen children. Beggars and idle persons of both sexes are sent to this house. Those who can work are employed, fed, and cloathed; and proper care and attention paid to the aged and infirm. Each time I was there, I was pleasingly struck with the cleanly appearance of all the inhabitants. Old and young, men and women, were spinning and carding wool, in rooms
 
 GERMANY.
 
@@ -796,7 +798,7 @@ The hospital, S. Maria de Vita, afforded me great pleasure. All was clean; and t
 
 * This is sometimes called the ft one of disgract; for if they who are insolvent would avoid imprisonment, at a time fixed they must fit upon it in a disgraceful manner three times.
 
-t The wards of this hospital were thirty-two feet and a half wide, and the beds were three feet two inches wide, and three feet eight inches asunder. In the middle of each space of the wall between the beds was a cupboard, with a shelf, concealed by a small curtain; and over each curtain was a flip of black marble with the number of the bed. On the fides of all the wards, for the convenience of opening and shuting the windows, was a gallery eighteen feet above the floor, and two feet broad, with a light rail two feet nine inches high. The doors to the wards were iron grates, five feet five inches wide.
+t The wards of this hospital were thirty-two feet and a half wide, and the beds were three feet two inches wide, and three feet eight inches asunder. In the middle of each space of the wall between the beds was a cupboard, with a shelf, concealed by a small curtain; and over each curtain was a flip of black marble with the number of the bed. On the sides of all the wards, for the convenience of opening and shuting the windows, was a gallery eighteen feet above the floor, and two feet broad, with a light rail two feet nine inches high. The doors to the wards were iron grates, five feet five inches wide.
 
 ITALY. 39
 
@@ -812,7 +814,7 @@ In this prison were forty-two men and fourteen women. Debtors are not separated 
 
 .* Dr. Targioni, who had an order from his royal highness to inspect the hospitals, and report what beneficial improvements might be made in them, accompanied me in visiting these prisons.
 
--f- This prison has something similar to the plan I proposed. A wall surrounds three fides of it; but being very high, and only eleven feet and a half distant, it renders the prison too dose.
+-f- This prison has something similar to the plan I proposed. A wall surrounds three sides of it; but being very high, and only eleven feet and a half distant, it renders the prison too dose.
 
 40 APPENDIX.
 
@@ -822,7 +824,7 @@ The great hospital of S. Maria Nova was crowded and too dose; though the men’s
 
 But the hospital which I most frequently visited, was S. Giovan di Dio.t The afeent into the sick ward is by a flight of thirty stone Heps. This ward was lofty and clean; and was a hundred and twenty-three feet long, and thirty-three and a half wide. There were in it thirty-three beds, three feet four inches wide, placed on varnished boards, on iron bedsteads. J
 
-Neither the fides nor floors of this, and the other hospitals of Italy, were mood, that being more retentive of feents or infection than tarras or brick. At one end there are five rooms with Angle
+Neither the sides nor floors of this, and the other hospitals of Italy, were mood, that being more retentive of feents or infection than tarras or brick. At one end there are five rooms with Angle
 
 w
 
@@ -912,7 +914,7 @@ Pope Innocent X. erelied this New Prison,
 
 In the year of our Lord 1655.
 
-On the ground floor, on one fide are the Haves for the galleys at Civita-vecchia: on the other fide is a fort of cook’s shop, and a tap-room, over which are the women’s apartments, five of whom were in the
+On the ground floor, on one side are the Haves for the galleys at Civita-vecchia: on the other side is a fort of cook’s shop, and a tap-room, over which are the women’s apartments, five of whom were in the
 
 * The elegance and simplicity of the front of this prison occasioned me to give a plate of it.
 
@@ -958,7 +960,7 @@ ITALY.
 
 fule of the court round which it is built, is the inquisitor general’s palace. Over the gate is an inscription importing cc that it was erected by Pope Pius V. in the year 1569.” The windows of the prison have wooden blinds, and at a small distance is a high wall.*
 
-In this City, and many others in Italy, is a Confratevnita della mise-ricordia, called S. Giovanni di Fiorentini. f It consists of about seventy, chiefly nobles, of the belt families. , After a prisoner is condemned, one or two of them come to him the midnight before his execution, inform him of the sentence, and continue with him till his death. They, with the confessor, exhort and comfort him, and give him his choice of the most delicious food. All tht fraternity attend the execution, dressed in white. When the prisoner is dead, they leave him hanging till the evening; then one of the fraternity, generally a prince, cuts him down, and orders him to be conveyed to the burying-place which they have appropriated to malefactors. I was there the twenty-ninth of August, the only day in the year when this burying-place is opened to the public. — Adjoining an elegant church is a chapel, which makes one fide of a court, and on each of the other three fides, is a portico supported by Doric pillars.
+In this City, and many others in Italy, is a Confratevnita della mise-ricordia, called S. Giovanni di Fiorentini. f It consists of about seventy, chiefly nobles, of the belt families. , After a prisoner is condemned, one or two of them come to him the midnight before his execution, inform him of the sentence, and continue with him till his death. They, with the confessor, exhort and comfort him, and give him his choice of the most delicious food. All tht fraternity attend the execution, dressed in white. When the prisoner is dead, they leave him hanging till the evening; then one of the fraternity, generally a prince, cuts him down, and orders him to be conveyed to the burying-place which they have appropriated to malefactors. I was there the twenty-ninth of August, the only day in the year when this burying-place is opened to the public. — Adjoining an elegant church is a chapel, which makes one side of a court, and on each of the other three fides, is a portico supported by Doric pillars.
 
 * The chambers of this silent and melancholy abode were quite inaccessible to me; and yet I spent near two hours about the court and the priests apartments, till my continuance there began to raise suspicion.
 
@@ -976,7 +978,7 @@ APPENDIX.
 
 In the middle of the pavement* of the front portico the zvcmeu, and in one of the fide porticos the men are buried. The latter are interred in the same dress in which they were hanged; for in Italy, coffins are not in general use.
 
-The hospital of S. Michele is a large and noble edifice. The back front is near three hundred yards long. It consists of several courts with buildings round them. In the apartments on three fides of one of the most spacious of these courts, are rooms for various manufactures and arts, in which boys who are orphans or destitute are educated and instructed. When I was there, the number was about two hundred, all learning different trades according to their different abilities and genius. Some were educated for printers, some for bookbinders, designers, ffniths, carpenters, taylors, shoemakers, and barbers j and some for weavers and dyers, a cloth manufacture being carried on here in all its branches. When the boys arrive at the age of twenty years, they are compleatly clothed, and a certain sum is given to set them up in the business they have learned. In the middle of the court is a noble fountain, and there are several inscriptions to the honour of the founders of this excellent institution.
+The hospital of S. Michele is a large and noble edifice. The back front is near three hundred yards long. It consists of several courts with buildings round them. In the apartments on three sides of one of the most spacious of these courts, are rooms for various manufactures and arts, in which boys who are orphans or destitute are educated and instructed. When I was there, the number was about two hundred, all learning different trades according to their different abilities and genius. Some were educated for printers, some for bookbinders, designers, ffniths, carpenters, taylors, shoemakers, and barbers j and some for weavers and dyers, a cloth manufacture being carried on here in all its branches. When the boys arrive at the age of twenty years, they are compleatly clothed, and a certain sum is given to set them up in the business they have learned. In the middle of the court is a noble fountain, and there are several inscriptions to the honour of the founders of this excellent institution.
 
 Joining to another court are apartments for the aged and infirm, in which were two hundred and sixty men, and two hundred and twenty-six women. Here they find a comfortable'retreat, having
 
@@ -1306,7 +1308,7 @@ APPENDIX.
 
 61
 
-Milan. Rome* It consists of a great room, (one hundred and twenty-four feet by thirty-one) f near the end of which there is an altar -with a cupola over it: on one fide of the altar is the dormitory for boys, and on the other the infirmary j and all together make the figure of a cross, which is the form of many hospitals in Italy and other Reman Catholic countries.
+Milan. Rome* It consists of a great room, (one hundred and twenty-four feet by thirty-one) f near the end of which there is an altar -with a cupola over it: on one side of the altar is the dormitory for boys, and on the other the infirmary j and all together make the figure of a cross, which is the form of many hospitals in Italy and other Reman Catholic countries.
 
 There were near three hundred prisoners in this house; twenty of whom were chained to two benches in the dormitory, but at the same time employed in spinning, making and mending clothes. There are two or three rooms, adjoining those in which they work, occupied as warehouses. All the prisoners work in irons.
 
@@ -1314,7 +1316,7 @@ Hospital. In visiting the great hospital, my expectations, which had been too mu
 
 * I therefore insert the plan of this also.
 
-of On each fide of the hall are three stone galleries, two feet eight inches wide, with iron rails. The chambers arc all numbered, amounting to one hundred and twenty: these are all similar, nine feet two inches by eight feet two; they have one window outward, three feet by two: and one towards the great room, two feet five inches by one foot five: they are furnished with a bed and bedding, a (tool, and a vault. In the infirmary, and the dormitory for boys, as well as in the great hall, there were Hone finks and water laid in.
+of On each side of the hall are three stone galleries, two feet eight inches wide, with iron rails. The chambers arc all numbered, amounting to one hundred and twenty: these are all similar, nine feet two inches by eight feet two; they have one window outward, three feet by two: and one towards the great room, two feet five inches by one foot five: they are furnished with a bed and bedding, a (tool, and a vault. In the infirmary, and the dormitory for boys, as well as in the great hall, there were Hone finks and water laid in.
 
 J Most of the chirurgical patients had been wounded in sudden quarrels or afiaults.
 
@@ -1364,7 +1366,7 @@ In the house of cmr eft ion there were no prisoners.
 
 SWITZERLAND.
 
-In entering Switzerland from Geneva, a traveller will be furpri-fed to meet frequently with a gibbet on the road, if he be not informed that almost every seigneurie or bailiwick has a prison, and possesses the power of trying criminals and capitally convicting them. I visited one of these prisons. It belonged to Mr. Baron de Prangins,
+In entering Switzerland from Geneva, a traveller will be -fed to meet frequently with a gibbet on the road, if he be not informed that almost every seigneurie or bailiwick has a prison, and possesses the power of trying criminals and capitally convicting them. I visited one of these prisons. It belonged to Mr. Baron de Prangins,
 
 *1 hoped to have found here no torture chambers, but I had only the pleasure to hear that none had suffered in them these twenty five years. They are thus retrained by the thirty second article in the Rcgletnent de I'illujlre Mediation pour la pacification des troubles de la Republique de Geneve, published in 1738, "Let accuses ct “ criminels ne pourront etre appliques d la Question ott Torture, que prealablcment ils n'ayer.t “ etc par jugtment defiuitif, eondatw.es amort.”
 
@@ -1678,7 +1680,7 @@ The two prisons (distinguished by the names of the old and the new) near La Port
 
 • In this and many other cities, the convifl knows not of his execution, till three days before the time. Then he is conllantly attended by his confessor, and indulged in the choice of food.
 
-+ The dimensions were seven feet by six feet nine inches, and six feet and a half high. On one fide was an aperture of six inches by four, for giving in the victuals.
++ The dimensions were seven feet by six feet nine inches, and six feet and a half high. On one side was an aperture of six inches by four, for giving in the victuals.
 
 wretches
 
@@ -1728,11 +1730,11 @@ APPENDIX.
 
 Antwerp, of a public execution. No person here remembers an instance of this kind; but about thirty years ago there was a private execution in the prison. — In this prison there were only two prisoners.
 
-House The river runs under the Iloiife of correction. At the entrance, on
+House The river runs under the House of correction. At the entrance, on
 
 O F
 
-Corkec- one fide are the keeper’s apartments; on the other, the warehouse and the room for the magistrates.* On three Tides of a paved court there are thirteen cells for the men, and over them are the rooms for the women. On one fide of the court are the young women who are put in by their parents or relations; and on the other, the criminals. All the men were employed in spinning cotton, so were some of the women, and the rest in mak:ng lace. A pound of cotton at a time is delivered to each; for spinning which, thirteen Jous f are paid. I found, by the books, that at first coming, some did not earn more than seven or eight Jous in a week, but soon after they earned from twelve to fourteen. Rye bread (to the value of half a stiver each meal) and water, is their allowance; and whatever they have more than this, they are required to pay for out of their earnings. They are obliged to put on clean linen every week, towards walking which each pays a Jous. The ftovesare heated twice a day, and candles and lamps are provided, at the expense of the magistrates.
+Corkec- one side are the keeper’s apartments; on the other, the warehouse and the room for the magistrates.* On three Tides of a paved court there are thirteen cells for the men, and over them are the rooms for the women. On one side of the court are the young women who are put in by their parents or relations; and on the other, the criminals. All the men were employed in spinning cotton, so were some of the women, and the rest in mak:ng lace. A pound of cotton at a time is delivered to each; for spinning which, thirteen Jous f are paid. I found, by the books, that at first coming, some did not earn more than seven or eight Jous in a week, but soon after they earned from twelve to fourteen. Rye bread (to the value of half a stiver each meal) and water, is their allowance; and whatever they have more than this, they are required to pay for out of their earnings. They are obliged to put on clean linen every week, towards walking which each pays a Jous. The ftovesare heated twice a day, and candles and lamps are provided, at the expense of the magistrates.
 
 There are three rooms for the ungovernable. One of them has a floor made of triangular pieces of wood a few inches asunder. The prisoner is chained in such a manner in the middle of this floor, that he can move but a few steps; and being allowed no shoes, whether
 
@@ -2832,7 +2834,7 @@ SOUTHWARK.
 
 Friday next after fifteen days from the day of the Holy Trinity ‘n the 19th year of King George the III.
 
-King's Bench Prison. It is ordered that all prisoners who have been or shall be in the custody of the Marshal of the Marshalsea for the space of six months after they are superfedeable altho’ not superseded shall be forthwith discharged out of the prison of the Marshal of the Marshalsea by the said Marshal as to all such actions in which they have been or shall be superfedeable. And that no prisoner shall be entitled to any room in the said prison by reason of seniority except from the time of his being charged in the actions in which he is not superfedeable.
+King's Bench Prison. It is ordered that all prisoners who have been or shall be in the custody of the Marshal of the Marshalsea for the space of six months after they are supersedeable altho’ not superseded shall be forthwith discharged out of the prison of the Marshal of the Marshalsea by the said Marshal as to all such actions in which they have been or shall be supersedeable. And that no prisoner shall be entitled to any room in the said prison by reason of seniority except from the time of his being charged in the actions in which he is not supersedeable.
 
 By the Court.
 
@@ -5648,11 +5650,11 @@ Lundi I 3 + - - I T
 
 Mardi I 14 3 T - - I T 1 T
 
-Mecredi I r J-- z 3 T - - - 1 T
+Mecredi I r J-- z 3 T - - 1 T
 
 Jeudi I It T - - 1 T 1 i
 
-Vendredi I It 3 T - - - 1 SI.
+Vendredi I It 3 T - - 1 SI.
 
 Samedi I It - 4 ou 6 1 o’ I T
 
@@ -5684,7 +5686,7 @@ Edinburgh. Aberdeen. Perth. Inverness. Jedburgh. Dum- FR I RS. Air. Glasgow. bTJ
 
 *1 __ - - _ _ Horse-dealing.
 
-1769 -- -- — - - - I - Murder and Robbery.
+1769 -- -- — - - I - Murder and Robbery.
 
 I I — - - Murder.
 
@@ -5694,21 +5696,21 @@ I -- — - - Street-robbery.
 
 2 I - House-breaking and Theft.
 
-— - -- 1 - - - - Sheep-dealing.
+— - -- 1 - - Sheep-dealing.
 
 I — __ - - Robbery.
 
 *1 .. — - - .. - - Murder.
 
-1771 — -- *1 - - - - House-breaking and Theft.
+1771 — -- *1 - - House-breaking and Theft.
 
-— -- -- - *1 - - - - Theft.
+— -- -- - *1 - - Theft.
 
 *T __ - - Child-murder.
 
 1772 — , - Horse-dealing.
 
-— - — -- - - - *2 - House-breaking and Theft.
+— - — -- - - *2 - House-breaking and Theft.
 
 I — — ~ - House-breaking and Theft.
 
@@ -5718,19 +5720,19 @@ I — — ~ - House-breaking and Theft.
 
 — -- I - *1 Horse-dealing,
 
-1773 — - I *1 1 - - - - Murder.
+1773 — - I *1 1 - - Murder.
 
 — — — I - Robbing the Mail.
 
 — — — *2 - Theft, Robbery, &c.
 
-— — -- - - - - 2 - Robbery.
+— — -- - - 2 - Robbery.
 
 — — - - I House-breaking and Robbery.
 
 *3 — — - Murder.
 
-— - - - Returning from Transportation.
+— - - Returning from Transportation.
 
 ‘1 — .. - - Horse-dealing.
 
@@ -5740,7 +5742,7 @@ I — — ~ - House-breaking and Theft.
 
 - *1 — - - Theft of Cattle.
 
-— -- — — - *1 - - - Rape.
+— -- — — - *1 - - Rape.
 
 __ .... - _ - - Murder.
 
@@ -5754,9 +5756,9 @@ I -- — - Child-murder.
 
 1776 — I — - - Murder.
 
-— — -- — I - - - - Thefr.
+— — -- — I - - Thefr.
 
-- - — — - - - 1 - Stealing a Letterfrom Pod Office.
+- - — — - - 1 - Stealing a Letterfrom Pod Office.
 
 1777 — — — - *1 Child-murder.
 
@@ -6065,7 +6067,9 @@ Stafford 40 O •4 O
 Feted,
 
 Though I have visited all the County gaols, and I think all the County bridewells, as also many of the corporation and private-property prisons, yet as there are some few of the two latter which I did not fee in 1779, we may add fxty more prisoners on their account; and then probably wo shall have nearly the average number of persons confined at one time in the prisons of this kingdom.
+
 ---
+
 INDEX
 
 A.
@@ -6083,7 +6087,9 @@ Air - 103.
 Aix-la-Chapelle - 76.
 
 Allowance to galley-slaves - 35, 52, 55, 58, 85.
+
 ---
+
 - prisoners 4, 6,16,17,19,20,
 
 21,22, 26, 27, 37, 39, 54, 60, 72, 80.
@@ -6793,9 +6799,13 @@ V.
 Venice - 37.
 
 Vienna - 31.
+
 ---
+
 - in houses of correction cleanly
+
 ---
+
 Work-house at Amsterdam - 18.
 
 - commended - 143.
@@ -6833,3 +6843,4 @@ Milan, House of Correction, to face - 62.
 Bern, Employment of Criminals, two Plates, to face - 66.
 
 Bastille, to face - 88.
+
