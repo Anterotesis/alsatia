@@ -10344,11 +10344,9 @@ In the Town-hall there is “ a table of such ordinary fees as are due to the ba
 
 For every one arrested wanting sureties and sent to gaol - - 020
 
-For every one sent to ward upon commandement or arrested for a trifle or being very poor
+For every one sent to ward upon commandement or arrested for a trifle or being very poor not above - 008
 
-not above - - 008
-
-For the fee of the irons of every one committed for felony or suspicion of felony or for any other heinous crime ~ - - *020
+For the fee of the irons of every one committed for felony or suspicion of felony or for any other heinous crime - *020
 
 I am tempted to transcribe many more articles of this curious ancient table r I cannot omit the two or three following.
 
@@ -10358,11 +10356,7 @@ For the attorney’s fee upon evidence delivering to a jury, when there is no ot
 
 279
 
-Bride-
-
-waif
-
-BUCKING-
+Bridewell
 
 BUCKINGHAMSHIRE.
 
@@ -10372,9 +10366,7 @@ Norfolk Circuit;
 
 COUNTY GAOL at AYLESBURY.
 
-Ayles-
-
-BURT.
+Aylesbury.
 
 GAOLER, Tbcwuu Smith.
 
@@ -10420,8 +10412,6 @@ ONE court, 29 feet by l6i-, now a pump, and water laid in to the yard. A hall fo
 
 The surgeon and gaoler both informed me, that three men brought from Hertford gaol the Lent assize 1778, had their tqer mortified; which being similar to what I once saw in that gaol, I could the more easily credit it.
 
-painted
-
 Norfolk Circuit. BUCKINGHAMSHIRE.
 
 painted on a board, and hung up in the debtors hall, but not confirmed by a judge. The act for preserving the health of prisoners not hung up. Mr. Smith contrafted to supply the poor debtors and felons with two hot dinners a week j and to convey transports to London; for £70 a year. At summer assize, prisoners are moved from hence to Buckingham.
@@ -10430,13 +10420,13 @@ A lady at Weston left an annuity of 13J. 4d. which is paid by the church-wardens
 
 A List of Fees allowed to be taken by the Keeper of his Majesty’s Gaol at Ayhjhury in and for the County of Bucks, examined, settled — by the Hon. Sir William Stanhope, Knight of the Bath, Richard Lo<wsdcs and John Rive/t Esqrs. three of his Majesty's Justices of the Peace for the said County of Bucks — at their General Quarter Session of the Peace Holden at Aylesbury — on the 21ft Day of April, in the 21ft Year of the Reign of — George the Second — and in the Year of our Lord 1748*
 
-From Debtors on their discharge for the first warrant on roefne process, execution or otherwise the sum of -----
+From Debtors on their discharge for the first warrant on roefne process, execution or otherwise the sum of -
 
 For every warrant he is charged with afterwards the sum of -To the sheriff for his liberty the sum of To the turnkey -
 
-From Felons at the assizes the sum of - - -
+From Felons at the assizes the sum of -
 
-To the turnkey -----
+To the turnkey -
 
 At the quarter session or otherwise the sum of -
 
@@ -10518,21 +10508,21 @@ SlIDt-mi:
 
 NEWPORT PAGNEL. Two cells in the back court of a public house, 7 feet by 61, and 6 feet high. The apertures in the doors 10 inches by 9. No water: no allowance: no employment. Keeper lives distant. Salary, £10. He pays two guineas rent for the cells. — The prisoners mult be almost fuifocated in hot weather, as the doors now open under a penthouse. A deserter lately went out who had been confined here a fortnight. From January 1780 to January 1781, here were committed twenty-nine prisoners. From January 4, 1782, to July 2, here were thirty-three; deserters included.
 
-1779, March 24, Prisoners o.
+1779, March 24, Prisoners 0.
 
 Oct. 13, - T 0.
 
-782, July 15, - O.
+1782, July 15, - O.
 
 Nov. 2S, O.
 
 WEST-WYCOMB. This prison was lately removed from High-Wycomb, and the-keeper was dismissed at the Michaelmas felTions 1778 for inattention. It consists of two garrets in the present keeper’s house. The windows are almost closed up by strong planks nailed across for security: his salary, £20. — In 1782 I found this prison again removed to High-Wycomb. It consists of two small rooms in the back court of the keeper’s public house, about 7 feet by 3, and 6 feet high: apertures in the doors: a court about 10 feet by 6: no water. Prisoners are here committed to bard labour.
 
-1779i April 23, and 1782, June 2£, No prisoners.
+1779, April 23, and 1782, June 2£, No prisoners.
 
 BUCKINGHAM TOWN GAOL.
 
-Two rooms below; one of which is the bridewell: the other for felons 16 feet by 12. Over these are rwo rooms for debtors. No water. Gaoler no salary. Keeper’s salary, £2. Clauses against spirituous liquors not hung up. — Over the gate on a board is this inscription: “ The Right Honourable Richard Grenville “ Temple Lord Viscount Cobham caused this edifice to be erected at his own expense * for the use of this town and county: The summer assizes being restored to this " place and fixed here by act of parliament in the year 1748.”
+Two rooms below; one of which is the bridewell: the other for felons 16 feet by 12. Over these are two rooms for debtors. No water. Gaoler no salary. Keeper’s salary, £2. Clauses against spirituous liquors not hung up. — Over the gate on a board is this inscription: “The Right Honourable Richard Grenville Temple Lord Viscount Cobham caused this edifice to be erected at his own expense * for the use of this town and county: The summer assizes being restored to this place and fixed here by act of parliament in the year 1748.”
 
 1779, Oct. 14, No prisoners but a raving lunatic.
 

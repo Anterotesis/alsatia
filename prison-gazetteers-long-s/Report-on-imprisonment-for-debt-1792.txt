@@ -286,25 +286,23 @@ And as there is nothing to protect Persons who are in the utmost Extremity of Si
 
 Circumstances of such extreme Distress; but the Returns which have been received, imperfect as they are with respect to the Number of Deaths in Prison, afford some Examples, the Amount of which shall be stated.
 
----
-
 One Woman died the same Day on which she was committed to Prison. A Man died the next Day after his Commitment — Three Persons died within a Week — Six within a Fortnight — Fourteen within a Month — and Twelve within Two Months after their respective Commitments. But there are many Prisoners who gradually decline, and live a considerable Number of Years in a State of Disease, occasioned by their Confinement.
 
-Nixon’s Evidence.
+It happens very frequently, that Persons imprisoned as Defendants are entitled to their Discharge in Consequence of Judgment in their Favour, or by the Plaintiff’s discontinuing the Action, or not proceeding regularly; and are unable, for Want of Money, to procure their Discharge or Supersedeas. The necessary Proceedings, which are indispensable in such Cases, have been stated in the former Part of this Report.
 
-Templer's Evidence.
+[Grasswell's Evidence.]
 
-, It happens very frequently, that Persons imprisoned as Defendants are entitled to their Discharge in Consequence of Judgment in their Favour, or by the Plaintiff’s discontinuing the Action, or not proceeding regularly j and are unable, for Want of Money, to procure their Discharge or Supersedeas. The necessary Proceedings, which are indispensable in such Cases, have been stated in the former Part of this Report.
-
-Grasswells Evidence.
-
-Of about 700 Prisoners Annually discharged or relieved by the Charitable Society (commonly called the 'Thatched House Society) to be afterwards mentioned, about 130 appear to have been Persons in that Situation, against whom there no longer remained any Cause of Imprisonment, but who could not raise Money to proceed regularly for regaining their Liberty; and Care is taken by that Society not to discharge any whose Conduit and Character has not undergone the strictest Enquiry, and been found unexceptionable.
+Of about 700 Prisoners Annually discharged or relieved by the Charitable Society (commonly called the Thatched House Society) to be afterwards mentioned, about 130 appear to have been Persons in that Situation, against whom there no longer remained any Cause of Imprisonment, but who could not raise Money to proceed regularly for regaining their Liberty; and Care is taken by that Society not to discharge any whose Conduct and Character has not undergone the strictest Enquiry, and been found unexceptionable.
 
 There are other Defendants who choose to live in Gaol after they are entitled to their Liberty; and if they live within the Rules of the Prison, as they pay for that Privilege (which will be explained in the Sequel) they are often suffered to remain.
 
-Of 260 Prisoners in the Fleet Prison, 80 were within the Rules; and of the 80, 58 were supersedeable, that is, Persons entitled to be set at Liberty upon proceeding regularly for that Purpose. It sometimes happens, that Persons of that Description, within the Rules, are upon an Application to the Court turned out by the Keeper of the Prison; and as there are Persons who procure themselves to be imprisoned on what are called Friendly , a Rule
+[Nixon’s Evidence.]
 
-was made for turning such Prisoners out of their Rooms.
+Of 260 Prisoners in the Fleet Prison, 80 were within the Rules; and of the 80, 58 were supersedeable, that is, Persons entitled to be set at Liberty upon proceeding regularly for that Purpose. It sometimes happens, that Persons of that Description, within the Rules, are upon an Application to the Court turned out by the Keeper of the Prison;
+
+[Templer's Evidence.]
+
+and as there are Persons who procure themselves to be imprisoned on what are called Friendly Actions, a Rule was made for turning such Prisoners out of their Rooms.
 
 There are other Circumstances which prove, that to Debtors of the worst Description a Prison is no Punishment; but on the contrary,
 
@@ -313,7 +311,7 @@ There are other Circumstances which prove, that to Debtors of the worst Descript
 that such Persons find an Interest, or a Gratification in remaining in a Situation full of Misery to the Honest.
 
 It appears to your Committee, that by much the greater Part of the total Number of Persons in Prison are thus imprisoned on Mesne Process.
-
+---
 The total Number of Prisoners for Debt, stated to be in the different Gaols from which Returns have been made, is 1,957, besides about 100 more for Debts due to the King, Forfeitures of Recognizances, &c. And of that total Number 1,251 are Defendants on Mesne Process. Of these, 326 are imprisoned on Demands under £.20 j 392 from £.20 to X-5°* an(l 215 from £'S° to 1 colt often happens that a Defendant lies several Months in Prison before any Declaration is delivered by the Plaintiff into Court, flating fully the Cause of Action, and Twelve Months before the Cause comes to Trial, during which Time he is treated in the same Manner as if there had been a Judgment against him; no Distinction being made between Defendants on Mesne Process, who are not Debtors till Judgment is given against them, and who may be found to owe nothing; and Debtors in Execution, who are confined for not paying what they justly owe.
 
 And in no Instance does it happen that a Defendant who has thus suffered the Hardships of close Imprisonment during the Course of the Action, and has, upon Trial, a Verdict and Judgment in his Favour, receives full Reimbursement by the Costs given against the Plaintiff, for the Expence actually and necessarily laid out in defending himself against an Action which is found to be groundless; because the Costs so recovered (supposing the Plaintiff to be a solvent Person) are never equal to those which the Defendant is bound to pay to his own Attorney.
@@ -466,7 +464,7 @@ interpose when the Law is about to set Insolvent "Debtors of a certain Descripti
 
 nejiy. It has already been stated, that One Insolvent Debtor of this Description, after he had given up all his Effects, was kept by his Creditor upwards of Five Tears in Gaol (during which Period the Sum paid by the Creditor in the Allowance of Groats amounted to £. 30. 53.) for a Debt of £.21 y though he was old, and had a Wife and Eleven Children. Another Instance appears in the Evidence, of a Woman, described by the Witness (who was Keeper of the Gaol) as a Person of decent Manners and good Conduct, who had been confined upwards of Two Years in Gaol for a Debt of £. 8* and received the Groats from her Creditor to an Amount almost equal to her Debt. She behaved so well that the Gaoler took Companion upon her, solicited Charity for her, and having received £. 5 from the Reverend Dr. Markham, procured the rest from his Friends, and discharged the Debt.
 
-But of the Operation of this leading Provision In the Act, the List given by the Secretary of the Thatched House Society, of Persons relieved whose original Debts were exceeded by the Costs, affords very remarkable Instances. Seven of the Persons there mentioned were kept by their Creditors in Prison, although they had given up their Effects under the Ad: j and though the Society found that they bore fair Characters, ail that the Society could do was to obtain die Groats for them, which they were not able to do themselves. And accordingly. Creditors whose original Debts were in some Injlances under 20 s.and others whose Debts were under 40 thought proper to exercise the Right of keeping such Debtors in Gaol, at the Expence of paying 2 s4 per Week to every Debtor for hisSubffence. In the Course of a very short Time the Groats
+But of the Operation of this leading Provision In the Act, the List given by the Secretary of the Thatched House Society, of Persons relieved whose original Debts were exceeded by the Costs, affords very remarkable Instances. Seven of the Persons there mentioned were kept by their Creditors in Prison, although they had given up their Effects under the Act : j and though the Society found that they bore fair Characters, ail that the Society could do was to obtain die Groats for them, which they were not able to do themselves. And accordingly. Creditors whose original Debts were in some Injlances under 20 s.and others whose Debts were under 40 thought proper to exercise the Right of keeping such Debtors in Gaol, at the Expence of paying 2 s4 per Week to every Debtor for hisSubffence. In the Course of a very short Time the Groats
 
 exceeded the Debt.
 
@@ -728,31 +726,23 @@ the Subject in his Hands. This Public House hill exists, but the Road is blocked
 
 I should apprehend, it is only usual to receive Fees when the Prisoner is first admitted to the Benefit of the Rules; this Fee is not regulated by the Court of King’s Bench. I have heard that Lord Vane paid £. 100 for the Rules. The Prisoners at present confined are, in general, in very much Distress. There are about 200 Rooms in the Prison, for which Rent is paid to the Marshal. It appears, from an Account in 1787, that the Rent paid for each Room is is, per Week; there are 12 State Rooms, which are better Sorts of Rooms, for which, it is supposed in the same Account, that the Rent paid for each was a Guinea a "Week; but Mr. Walker, the late Marshal, said, it was no such Thing. He said, they were let at 2 6d.
 
-and 5 s.a Week each. I believe these Rooms are now inhabited. I have heard of Instances of Prisoners being so poor as not to be able to pay any Rent for the Rooms at all, but I don’t know any Instance of Prisoners being turned out on that Account; 1 have heard of such Instances, but know of none of my own Knowledge. The Common Side Prisoners appear very ragged, and extremely indigent and poor. I believe the Prisoners in the King’s Bench at present appear, in general, to be in a State of Insolvency. I am Steward for the charitable Donations; they are distributed to the Prisoners according to their Seniority; it is settled amongst themselves; I receive the Donations, and pay them, proportioning the Allowance to each, according to a Regulation made among themselves, which, I believe, has been confirmed by an Order of the Court of King’s Bench. These Allowances are made only to the Prisoners confined on the Common Side. When they are in a State of extreme Distress I advance them a Part of these Donations, at my own Rilk, and cannot be reimbursed till the Quarter becomes due, and a Receipt is signed by the Marshal, and under the Seal of the Court; the Mayor of the Common Side, the Clerk and Clerk Af-fiftar.t (Three Prisoners chosen by the rest) sign it also. I know no particular Instances of Oppression towards Prisoners who have sent out of the Prison for Beer but I collect my Opinion from Circumstances that I have formerly heard amongst them, that they had net been treated so kindly as if they had had every Thing within the Prison. The Marshal and the Clerk of the Papers never meet at any Hated Times. The present Marshal has been appointed about Six Weeks, but I have never spoke to him or met him.
+and 5 s. a Week each. I believe these Rooms are now inhabited. I have heard of Instances of Prisoners being so poor as not to be able to pay any Rent for the Rooms at all, but I don’t know any Instance of Prisoners being turned out on that Account; 1 have heard of such Instances, but know of none of my own Knowledge. The Common Side Prisoners appear very ragged, and extremely indigent and poor. I believe the Prisoners in the King’s Bench at present appear, in general, to be in a State of Insolvency. I am Steward for the charitable Donations; they are distributed to the Prisoners according to their Seniority; it is settled amongst themselves; I receive the Donations, and pay them, proportioning the Allowance to each, according to a Regulation made among themselves, which, I believe, has been confirmed by an Order of the Court of King’s Bench. These Allowances are made only to the Prisoners confined on the Common Side. When they are in a State of extreme Distress I advance them a Part of these Donations, at my own Risk, and cannot be reimbursed till the Quarter becomes due, and a Receipt is signed by the Marshal, and under the Seal of the Court; the Mayor of the Common Side, the Clerk and Clerk Affiftar.t (Three Prisoners chosen by the rest) sign it also. I know no particular Instances of Oppression towards Prisoners who have sent out of the Prison for Beer but I collect my Opinion from Circumstances that I have formerly heard amongst them, that they had net been treated so kindly as if they had had every Thing within the Prison. The Marshal and the Clerk of the Papers never meet at any stated Times. The present Marshal has been appointed about Six Weeks, but I have never spoke to him or met him.
 
 Withdrew.
 
-N
-
-Mr.
-
-5°
-
-APPENDIX, N° 1.
+50 APPENDIX, N° 1.
 
 Mr. JOHN SIMPSON, Keeper of Whitechapel Prison, examined.
 
-I have not any Prisoner confined for Debt in Prison. I have been Keeper about Seven Years, during which Time I have had many Prisoners confined for Debt; the last I had in Prison for Debt was discharged last Saturday. It is called the Court of the Lord the King, of Record within the Manors of Stepney and Hackney, and confined to Debts amounting to not above £. 5. The Court does not appear by Arrests but by Summons, and no Prisoners are received but are charged in Execution. This Prison is in the Custody of a private Individual. I am also Sheriff’s Officer to the Sheriff of Middlesex. The Prisoner charged in Execution is confined a Week for every Pound of the Debt and Costs to which he stands charged. The Costs are always 15^. in every Suit, but if the Amount of he Debt sued for is fractional, so as to complete with the 15 s. the Sum into Pounds, the Prisoner is detained at the Rate of One Pound per Week. If the Costs remain at a Fraction beneath a Pound, they are net considered in the Term of Imprisonment. There is only One Ward in the Prison. Before Lord Beauchamp’s Act there have been 100 confined at a Time.
+I have not any Prisoner confined for Debt in Prison. I have been Keeper about Seven Years, during which Time I have had many Prisoners confined for Debt; the last I had in Prison for Debt was discharged last Saturday. It is called the Court of the Lord the King, of Record within the Manors of Stepney and Hackney, and confined to Debts amounting to not above £. 5. The Court does not appear by Arrests but by Summons, and no Prisoners are received but are charged in Execution. This Prison is in the Custody of a private Individual. I am also Sheriff’s Officer to the Sheriff of Middlesex. The Prisoner charged in Execution is confined a Week for every Pound of the Debt and Costs to which he stands charged. The Costs are always 15^. in every Suit, but if the Amount of the Debt sued for is fractional, so as to complete with the 15s. the Sum into Pounds, the Prisoner is detained at the Rate of One Pound per Week. If the Costs remain at a Fraction beneath a Pound, they are net considered in the Term of Imprisonment. There is only One Ward in the Prison. Before Lord Beauchamp’s Act there have been 100 confined at a Time.
 
-I have never had more than Three at a Time since I have been in Office., In general, Persons who have been sent to this Prison appear to have been in Circumstances unable to pay their Debts. They were generally Persons of the lowest Description, such as Coal-heavers, Ballast-getters, and labouring Persons. During the Time they are confined they lose their Labour, and have no Subsistence allowed them. They are not allowed to beg from the Grate. They are in general supplied by their Friends, and if they have no Friends 1 have occasionally relieved them, and begged the Plaintiff to discharge them on Petition to the Thatched House, who on my fending a Letter have generally given me Directions to afford them such Relief. In case the Plaintiff has been obdurate, and would not accept the Composition, I have been directed by the Thatched House to pay the Sum allotted into the Hands of the Prisoner for his Subsistence: In general the
+I have never had more than Three at a Time since I have been in Office., In general, Persons who have been sent to this Prison appear to have been in Circumstances unable to pay their Debts. They were generally Persons of the lowest Description, such as Coal-heavers, Ballast-getters, and labouring Persons. During the Time they are confined they lose their Labour, and have no Subsistence allowed them. They are not allowed to beg from the Grate. They are in general supplied by their Friends, and if they have no Friends I have occasionally relieved them, and begged the Plaintiff to discharge them on Petition to the Thatched House, who on my fending a Letter have generally given me Directions to afford them such Relief. In case the Plaintiff has been obdurate, and would not accept the Composition, I have been directed by the Thatched House to pay the Sum allotted into the Hands of the Prisoner for his Subsistence: In general the
 
 Plaintiffs accept the Composition, but during the Time I have been in Office (Seven Years) there may have been Six or Seven Instances to the contrary. No Medicinal Assistance in case of Sickness, nor have I any Allowance for keeping the Gaol. No Allowance for Fuel in Winter. There is a Fee of 5s. on the Discharge of every Prisoner, regulated by the Court of Record, and hung up in the Court; no Table of that Fee is hung up in the Prison. It very frequently happens that they are not able to pay that Fee. I never detained One on that Account, but it is in my Power to do so till he pays. Before I came to this Prison it was in a ruinous Condition, the Prisoners locked up in it without any Person to look after them, and no Water for the Use of the Prisoners. The Clerk of the Court visited them occasionally. There was a Communication between his House and the Prison. The Prisoners had no Means of procuring any Water without the Assistance of their Friends, or by paying Persons for fetching it; that is not the Case now. I have repaired the Prison, and have got Water laid into it. When I came there I found a Woman of the Name of Cole, who had been confined there for Two Years under the Charter, which
 
-APPENDIX, N° i.
+APPENDIX, N° 1. 51
 
-5*
-
-Charter still subsists, and the Jurisdiction belonging to it. She was allowed her Groats. She appeared to be in a decent Situation, having good Friends. She was confined for a Debt of £.8. She received as much almost as her whole Debt in Groats. The Payment of the Groats was paid at dated Days by a Man who was a Broker or Bookseller, who lived in the Parlour adjoining the Gaol, and paid her through the Grate of the Prison. I do not believe she could live upon the Groats; I suppose die might live upon 5 s. a Week. I do not believe (he could have procured Payment of her Debt. When I came to the Prison I found she had behaved very well. I thought her a Woman worthy of Notice, and I applied to Dr. Markham, the Parlbn of the Parish, and he gave me an Order for 5, and I collected the red among my Friends, and discharged the Debt. When in Prison die worked at her Needle, and procured something towards her Subsidence. She has been discharged nearly Seven Years. There has been no other Prisoner there since her under that Charter.
+Charter still subsists, and the Jurisdiction belonging to it. She was allowed her Groats. She appeared to be in a decent Situation, having good Friends. She was confined for a Debt of £.8. She received as much almost as her whole Debt in Groats. The Payment of the Groats was paid at dated Days by a Man who was a Broker or Bookseller, who lived in the Parlour adjoining the Gaol, and paid her through the Grate of the Prison. I do not believe she could live upon the Groats; I suppose die might live upon 5 s. a Week. I do not believe (he could have procured Payment of her Debt. When I came to the Prison I found she had behaved very well. I thought her a Woman worthy of Notice, and I applied to Dr. Markham, the Parson of the Parish, and he gave me an Order for 5, and I collected the red among my Friends, and discharged the Debt. When in Prison die worked at her Needle, and procured something towards her Subsidence. She has been discharged nearly Seven Years. There has been no other Prisoner there since her under that Charter.
 
 Withdrew.
 
@@ -762,7 +752,7 @@ Prisoners are committed to this Gaol from the Court of Conference, charged in Ex
 
 upwards of £. 15 j it has accumulated to £. 20 by the Attornies Bills; they don’t let him want; he is unable to pay his Debt; he has no Money but what they lend him; his Brother fends him generally by a Porter, 10 6
 
-once in a Fortnight or Three Weeks; he is a Jew, and does no Work, and has no Means of procuring a Livelihood while he remains in Prison; he is about 40 Years of Age, a very healthy Man; he knows better than to apply for his Groats; the Reason he is confined is, his Family are afraid of being murdered by him; his general Behaviour in Prison is quiet and decent, but when he firligets his Money he is apt to drink, and be riotous in Consequence. No Allowance in this Prison but id. per Day for each Prisoner, allowed by the City of London j and sometimes the Lord Mayor will fend some F uel. I receive to the Amount of a or 300 Prisoners every Year from the Court of Conference; the higheftSum they are lent for is 40 Shillings, and any Sum under that Amount; all those that are in for above 20 Shillings remain there for 40 Days, and then the Debt is exonerated. There are no Fees on Discharge or Commitment. Those in Prison for Debts under 20J. (lay 20 Days, and then are discharged. In general, the Prisoners confill of young hearty Men, that are of some Mechanical Trade. A Fee of 7 is paid on the Discharge of a Prisoner from the Borough Court, a Table of which Fee
+once in a Fortnight or Three Weeks; he is a Jew, and does no Work, and has no Means of procuring a Livelihood while he remains in Prison; he is about 40 Years of Age, a very healthy Man; he knows better than to apply for his Groats; the Reason he is confined is, his Family are afraid of being murdered by him; his general Behaviour in Prison is quiet and decent, but when he first gets his Money he is apt to drink, and be riotous in Consequence. No Allowance in this Prison but id. per Day for each Prisoner, allowed by the City of London j and sometimes the Lord Mayor will fend some F uel. I receive to the Amount of a or 300 Prisoners every Year from the Court of Conference; the higheft Sum they are lent for is 40 Shillings, and any Sum under that Amount; all those that are in for above 20 Shillings remain there for 40 Days, and then the Debt is exonerated. There are no Fees on Discharge or Commitment. Those in Prison for Debts under 20J. (lay 20 Days, and then are discharged. In general, the Prisoners confill of young hearty Men, that are of some Mechanical Trade. A Fee of 7 is paid on the Discharge of a Prisoner from the Borough Court, a Table of which Fee
 
 52
 
@@ -848,7 +838,7 @@ Mr. JOSEPH BIRCHELL.
 
 [Delivers in Account of Middlesex Debtors confined in Newgate.]
 
-Mr. E Y I. ES, Warden of the Fleet. [Delivers in Lift of Fees, &c. of Officers of the Fleet.]
+Mr. EYLES, Warden of the Fleet. [Delivers in Lift of Fees, &c. of Officers of the Fleet.]
 
 Mr. NICHOLAS NIXON, Clerk of the Papers of the Fleet,
 
@@ -878,7 +868,7 @@ In 1783 — — 6
 
 1789 — — 9
 
-179° — — 5
+1790 — — 5
 
 1791 — — 2
 
@@ -912,11 +902,7 @@ Mr. JOHN KIRBY, Keeper of New Compter,
 
 Also, delivered in Answers to Questions submitted by the Committee.]
 
-Mr.
-
-56
-
-APPENDIX, N° i.
+56 APPENDIX, N° i.
 
 Mr. HENRY WEST, Keeper of the Poultry Compter, [Produced Table of Fees:
 
@@ -940,7 +926,7 @@ Also, delivered in List of Prisoners:
 
 Account of Fees taken by the Officers of the Borough Compter, also delivered in.]
 
-Jovisy 26° die Mali 1791.
+Jovis, 26° die Mali 1791.
 
 COMMITTEE met at the King’s Bench Prison, and proceed.
 
@@ -964,9 +950,7 @@ so worn out that there was a Hole through the Shoulder of the Coat, and nothing 
 
 Since 1786 the Number of Prisoners have diminished, owing to the Extension of the Lords Act, it not being thought before to be any Relief to a Prisoner. Many Prisoners have been here from Five to Nine or Ten Years. Within the last Six Months many fresh Prisoners have come in; before that Period the general Average of them Confinement was from Two to Three Years. In the prdent State of Fulness of the Prison I think in warm Weather it is dangerous to the Health of die Prisoners: In many of the smallest Rooms there are Five or Six sleep together. I have known the Prison fuller than at present. There are some who are confined who have more than sufficient to pay their Debts, and there are some also in the greatest Distress imaginable. I think on an Average each Prisoner cannot spend less than 15J. per Week, including the Expence of maintaining their Families. I have heard of Instances of Prisoners spending Four or Five Guineas a Week in Prison. I have heard that from One Guinea to Four and Five has been given for a Room. This is given to the other Prisoners
 
-APPENDIX, N° a.
-
-53
+APPENDIX, N° a. 53
 
 who have a Right to the Room, and not to the Marshal. The Amount of my whole Debt was between 6 and £.7,000. My Property was divided under a Commission of Bankruptcy. All the Creditors but One have proved and received their Dividend: One alone, whose original Debt only amounted to £. 80, would not accept of the Composition. When the last Dividend was made he offered to accept the Competition, and gave the Commissioners a Copy of my Discharge, which he promised to fend the next Day. The Commissioners informed him they could not admit of his receiving his Dividend till I was first discharged, for which Reason the final Dividend was put off for Three Months longer. When he offered to receive the Dividend a Bill for the Relief of Insolvent Debtors was depending in Parliament (in 1784): It was thrown out in die House of Lords the very Day the final Dividend was made, and he then retufed to accept a Dividend, thinking he should get more from my Friends. The Debt and Costs now amount to £. 130.
 
@@ -2024,7 +2008,7 @@ I have been frequently informed that he lives in a very frugal, (Economical Mann
 
 8
 
-APPENDIX, N° 8*
+APPENDIX, N° 8.
 
 What has been the Expence to you of the Arrest and other Prosecutions against Mr. Pope, since the Verdict
 
@@ -2068,7 +2052,7 @@ Does it extend its Enquiries and Relief to Debtors in County Gaols
 
 The first Institution appeared to be confined only to the Metropolis, -but it gradually extended its beneficial Effects to several County and City
 
-APPENDIX, N° &. *9
+APPENDIX, N° 8. 89
 
 Gaols, and stands at this Time unlimited in its Operation within the Kingdom.
 
@@ -2099,15 +2083,13 @@ About Two-thirds Manufacturers and Labourers — the Remainder Seamen, Dealers a
 Do you find, by the Enquiries and Proceedings of the Society, that many Debtors are long confined by their Creditors without any apparent Ability to pay, and yet without being accused by their Creditors of Fraud
 
 Yes j it appears on the Books that the following Case occurred: — A young Man, about -25 Years of Age, had a Wife and Five Children, who had an Employment in One of the Public Offices, was arrested for federal different Sums, to the Amount of £. 100, or upwards-; — as he had nothing to pay, he remained 15 Months in Prison, totally deprived of Employment-r*hen aft his Actions were superseded by the Society for £. 6. —
+---
+90 APPENDIX, N° 8.
 
-9°
+Another Instance in my own Recollection, was the Case of Robert Woodman, who was detained in Maidstone Gaol near Three Years, after being entitled to the Groats, from January 1788 to December 1790 — the Amount of the Debt was £.200, for which the Society paid a Composition of Eight Guineas, and obtained his Discharge.
 
-APPENDIX, N° 8.
-
-Another Instance in my own Recollection, was the Case of Robert Woodman, who was detained in Maidstone Gaol near Three Years, after being entitled to the Grpats, from January 1788 to December 1790 — the Amount of the Debt was /. 200, for which the Society paid a Compofidon of Eight Guineas, and obtained his Discharge.
-
-Do you know that Debtors are long confined on their Groats under the Lords Act, after surrendering their Effects as prescribed
-
+Do you know that Debtors are long confined on their Groats under the Lords Act, after surrendering their Effects as prescribed?
+---
 I know an Instance in which the Groats were paid for Five Years and upwards, to an aged Man, who had a Wife and Eleven Children, for a Debt of only/. 21.
 
 In Hating these particular Instances, do you mean to say that they are the only Instances of the Sort which have come within your Knowledge
@@ -2168,16 +2150,6 @@ William Haines, — - D° — — — Groats 6th April 1791. 1 19 — 5 H ~ Hbre
 
 l-H CO H William Wootfield, D° — — — Groats 10th May 1791. — 14 — 6 16 10 Nine
 
-i
-
--a
-
-W
-
-2
-
-O
-
 92 APPENDIX, TST 9.
 
 A LIST of the Number of Debtors, with the Money Annually expended by the Society For the Discharge and Relief of Persons imprisoned For small Debts, from the Institution, February 1772, to February 1792., originally held at the Thatched House Tavern, but now in Craven Street, in the Strand.
@@ -2231,22 +2203,18 @@ Who had 7,842 Wives, and 23,268 Children.
 feed for - i a9»j84 i°
 
 The Average for the Debtors about 45 each; and of Persons relieved about 1
+---
+APPENDIX, N° 10. 93
 
 APPENDIX, N° 10.
 
-93
-
-APPENDIX, N° 10.
-
-Venerist 17° die , 1792*
+Veneris, 17° die Februarii, 1792.
 
 Committee on the Effects of Imprisonment for Debt.
 
 PHILIP WYAT CROWTHER, Esquire, examined.
 
 I hold the Office of Secondary of the City of London — have been in the Office of Secondary Two Years — am also Solicitor to the City of London.
-
----
 
 How many bailable Writs are on an Average issued into London Annually?
 
