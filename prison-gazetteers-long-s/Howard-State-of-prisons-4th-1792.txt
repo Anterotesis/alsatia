@@ -420,7 +420,7 @@ Bastardy, £0 17 4
 
 till the judges: at quarter-sessions, till the justices of peace leave the town; in order to obtain those fees, which the gentlemen say are not cancelled by the act. And yet the express words of it are. Acquitted prisoners “shall be immediately set at large in open court.” It is evident then, that all fees of the commitment in respect to the prisoner, are by this act totally abolished.
 
-Since the said act, the clerks of assize in some circuits have started a new demand upon the gaoler, for the judge's certificate of acquitment viz. six shillings and eight pence for the first prisoner acquitted; and a shilling for each of the rest: or two shillings for every one. I have copies of two receipts given by the clerk of the Western circuit to the gaolers of Exeter and Salisbury. One of them is as follows: "Received 1 April 1775 of Mr. Sherry gaoler one pound eight shillings and eight pence for his certificate entitling him to his gaol fees for the county of Devon per J. F***** Clerk of the Assize.” — The gaoler told me this was for twenty-three acquitted prisoners.
+Since the said act, the clerks of assize in some circuits have started a new demand upon the gaoler, for the judge's certificate of acquitment viz. six shillings and eight pence for the first prisoner acquitted; and a shilling for each of the rest: or two shillings for every one. I have copies of two receipts given by the clerk of the Western circuit to the gaolers of Exeter and Salisbury. One of them is as follows: "Received 1 April 1775 of Mr. Sherry gaoler one pound eight shillings and eight pence for his certificate entitling him to his gaol fees for the county of Devon per J. F Clerk of the Assize.” — The gaoler told me this was for twenty-three acquitted prisoners.
 
 I was informed at Durham, that judge Gould, at the assize 1775, laid a fine of fifty pounds on the gaoler for detaining some acquitted prisoners, for the fees of the clerk of assize. But upon the intercession of the Bishop (proprietor of the gaol) the fine was remitted; and the prisoners set at large: the judge ordering the clerk of assize to explain to him in London the foundation of his demand.
 
@@ -4336,7 +4336,7 @@ There is another prison at Badajoz. The prisoners were begging at the grates; fo
 
 At TALAVERA there were three Hospitals. In the largest (Cannon's) the two wards were spacious and airy. That for men had eight iron bedsteads, and the other fix. Adjoining to the men's ward, there was a neat room and bed for sick decayed ecclesiastics.
 
-** Dr. Moore, in his View of Society and Manners in Italy, judiciously observes, that "the asylum which churches and convents offer to criminals, operates against the peace of society, and tends to the encouragement of this shocking custom (stabbing) in two different manners: first, it increases the criminal’s hopes of escaping; secondly, it diminishes, in vulgar minds, the idea of the atrocity of the crime. When the populace see a murderer lodged within the sacred walls of a church, protected and fed by men who are revered on account of their profession, and the supposed sanctity of their lives; must not this weaken the horror which mankind naturally have for such a crime, and which it ought to be the aim of every government to augment?” Letter XLIII.
+* Dr. Moore, in his View of Society and Manners in Italy, judiciously observes, that "the asylum which churches and convents offer to criminals, operates against the peace of society, and tends to the encouragement of this shocking custom (stabbing) in two different manners: first, it increases the criminal’s hopes of escaping; secondly, it diminishes, in vulgar minds, the idea of the atrocity of the crime. When the populace see a murderer lodged within the sacred walls of a church, protected and fed by men who are revered on account of their profession, and the supposed sanctity of their lives; must not this weaken the horror which mankind naturally have for such a crime, and which it ought to be the aim of every government to augment?” Letter XLIII.
 
 SPAIN. 155
 
@@ -13370,7 +13370,7 @@ For receiving and entering every declaration against debtors in custody - 0
 
 For every certificate in order for a fuptrfedeas, or in order to sue out a rule of court - 0
 
-Fees for the Gaoler for Felons ** other Crimes.
+Fees for the Gaoler for Felons * other Crimes.
 
 To the gaoler for the discharge of every prisoner found guilty of felony If at assizes - 0
 
@@ -15250,7 +15250,7 @@ The area in the middle of the hospital is handsomely laid out with grass plats i
 
 At the higher end of the airing ground to the north, is a large reservoir of water, which by means of a chain pump, throws the water into a leaden cistern, which being higher, conveys the water by means of leaden pipes, into every ward, for the use of the patients, cleansing the water closets, filling the baths &c. every building being furnished with a bath and copper for heating the water to the temperature required.
 
-Besides this reservoir, a new one has lately been constructed upwards of 43 feet long by 25 wide, and 5 feet 6 inches deep, capable of containing 180 tons of water, intended for the purpose of scouring all the main drains, as also the leading drains from the five higher buildings — the others are regularly cleansed by scavengers employed for that purpose, the drains being so constructed as to admit of a man walking through them; by this means they are now kept tolerably sweet, the only smell which remains, especially when the wind is in certain directions, probably arises from the cisterns (or sink-traps as they are called) which are funk for the purpose of receiving the foil from the pipes and kept covered with water, to prevent any offensive smell; but as they must be emptied by hand, provided a fall could be got suficient to carry off the soil at once from the leading to the main drain, it should seem to be more eligible than this contrivance*.
+Besides this reservoir, a new one has lately been constructed upwards of 43 feet long by 25 wide, and 5 feet 6 inches deep, capable of containing 180 tons of water, intended for the purpose of scouring all the main drains, as also the leading drains from the five higher buildings — the others are regularly cleansed by scavengers employed for that purpose, the drains being so constructed as to admit of a man walking through them; by this means they are now kept tolerably sweet, the only smell which remains, especially when the wind is in certain directions, probably arises from the cisterns (or sink-traps as they are called) which are funk for the purpose of receiving the foil from the pipes and kept covered with water, to prevent any offensive smell; but as they must be emptied by hand, provided a fall could be got sufficient to carry off the soil at once from the leading to the main drain, it should seem to be more eligible than this contrivance*.
 
 Patients on admission are washed and supplied with hospital dresses, and their own clothes carried to the fumigating house. A nurse is allowed for every ten men; the greatest attention is paid to cleanliness, and the keeping the wards always well ventilated.
 
@@ -16052,7 +16052,7 @@ And that when the gaoler lodgeth two or more prisoners in one bed they shall pay
 
 And that every prisoner shall have liberty to provide and send for victuals drink and other necessaries from any place whatsoever at all seasonable times for their own proper use only and not to sell the same
 
-And every prisoner committed from the bar by the judge or judges of assize and gaol delivery in the assize week shall pay for their commitment fee only And every person committed to the gaol for suspicion of felony, or for misdemeanor, if upon his or her trial he or !he shall be found not guilty and be thereupon discharged, shall pay to the gaoler for his discharging fee -
+And every prisoner committed from the bar by the judge or judges of assize and gaol delivery in the assize week shall pay for their commitment fee only And every person committed to the gaol for suspicion of felony, or for misdemeanor, if upon his or her trial he or she shall be found not guilty and be thereupon discharged, shall pay to the gaoler for his discharging fee -
 
 And to the turnkeys -
 
@@ -17264,7 +17264,7 @@ COUNTY BRIDEWELL at COCKERMOUTH.
 
 Is behind the keeper's house, and part of it his freehold. A room on the ground-floor, the strong room. Up stairs another room; and a dofet called' the lunatic room.
 
-All out of repair, and insecure: and so is the court, which I suppose is the reason that many for small offences are sent to the county gaol: this being the only county bridewell. No allowance: no straw. Keeper's lalary or rent, £20: no fees.
+All out of repair, and insecure: and so is the court, which I suppose is the reason that many for small offences are sent to the county gaol: this being the only county bridewell. No allowance: no straw. Keeper's salary or rent, £20: no fees.
 
 1776, Sep. i8, 1779, May 10, No prisoners.
 
@@ -18040,7 +18040,7 @@ Where the debt does exceed 100l. and is not 200l. for each day 3/. and each nigh
 
 Where the debt does exceed 200l. for each day 4 s. and each night 4/.
 
-Nothing to be taken for Attendance unless the Defendant does not offer good Bail in fix hours, or is not discharged in that 'Time.
+Nothing to be taken for Attendance unless the Defendant does not offer good Bail in six hours, or is not discharged in that 'Time.
 
 For executing every writ of Cat fa: Fi: ffa: Levari facias, and writ of possession, or other
 

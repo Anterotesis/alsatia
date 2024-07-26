@@ -758,9 +758,9 @@ I visited the prisons of Padua and Ferrara: In the former of these cities, none 
 
 At Bologna are three prisons; one of which is for debtors, who are alimented after four months and three days confinement, at one saule (about six pence) a day each.
 
-The hospital, S. Maria de Vita, afforded me great pleasure. All was clean; and the wards were lofty, and not in the lead offensive. The wards of the men and women were of the Tame size, each containing thirty-eight beds, nineteen on each fide. The bedsteads were of iron, and the coverlids were white and clean. Each ward had fourteen windows, seven on a fide, and all had curtains. They had folding wooden casements; and on the outside, wire lattices.f
+The hospital, S. Maria de Vita, afforded me great pleasure. All was clean; and the wards were lofty, and not in the lead offensive. The wards of the men and women were of the Tame size, each containing thirty-eight beds, nineteen on each side. The bedsteads were of iron, and the coverlids were white and clean. Each ward had fourteen windows, seven on a fide, and all had curtains. They had folding wooden casements; and on the outside, wire lattices.f
 
-* This is sometimes called the ftone of disgrace; for if they who are insolvent would avoid imprisonment, at a time fixed they must fit upon it in a disgraceful manner three times.
+* This is sometimes called the stone of disgrace; for if they who are insolvent would avoid imprisonment, at a time fixed they must fit upon it in a disgraceful manner three times.
 
 t The wards of this hospital were thirty-two feet and a half wide, and the beds were three feet two inches wide, and three feet eight inches asunder. In the middle of each space of the wall between the beds was a cupboard, with a shelf, concealed by a small curtain; and over each curtain was a flip of black marble with the number of the bed. On the sides of all the wards, for the convenience of opening and shuting the windows, was a gallery eighteen feet above the floor, and two feet broad, with a light rail two feet nine inches high. The doors to the wards were iron grates, five feet five inches wide.
 
@@ -994,7 +994,7 @@ The hospital of S. Gio Later an 0 was also crowded and offensive; and that of S.
 
 f Formerly many nations founded hospitals in this city. This was founded by one of our Saxon kings. Some others continue to the present time entirely national, as the Milanese, Florentine, and Spanish hospitals.
 
-J Here is a staircase remarkable for its afeent being very easy, for valetudinarians, and for carrying up the sick in a kind of chairs or enclosed beds. It is seven feet wide, and has a rail on each fide. Every ilep is an inclined plane of three inches afeent, one foot eight inches wide, and the rife from one step to another is only three inches. These steps are of bricks, set edgeways, and fronted with Hone.
+J Here is a staircase remarkable for its afeent being very easy, for valetudinarians, and for carrying up the sick in a kind of chairs or enclosed beds. It is seven feet wide, and has a rail on each side. Every ilep is an inclined plane of three inches afeent, one foot eight inches wide, and the rife from one step to another is only three inches. These steps are of bricks, set edgeways, and fronted with Hone.
 
 § Indeed I saw the hospitals under great difid vantages, it being a very sickly time, occasioned by the long continuance of drought, and the extraordinary heats of the summer 177S.
 
@@ -1068,7 +1068,7 @@ At the time of my being at Ciajita-'vecchia, three of the galleys were out on a 
 
 ITALY. 53
 
-of their work. For Jawing in the arsenal, they are paid two pence a day each 5 for working as mafons*, two pence halfpenny; for carrying stones and mortar, only a penny. Such as work at the canvafs and callico manufactories are paid from two pence to eight pence, according to the quality of the work, &c. At the public works they are allowed an hour for dinner, and in summer-time an hour for breakfast.*
+of their work. For Jawing in the arsenal, they are paid two pence a day each 5 for working as masons*, two pence halfpenny; for carrying stones and mortar, only a penny. Such as work at the canvass and callico manufactories are paid from two pence to eight pence, according to the quality of the work, &c. At the public works they are allowed an hour for dinner, and in summer-time an hour for breakfast.*
 
 Here is a spacious hospital on Jloore for the Haves. None were in irons. All was clean. In the centre of the great room in this hospital was an altar for public worship. A particular room was appropriated for such as had cutaneous disorders, and another for consumptive patients.f
 
@@ -1994,7 +1994,7 @@ Winchester.
 
 Plymouth. There were no day rooms, in which many shoemakers, tailors, &:c. were at work: an advantage which the prisoners at Plymouth desired, but could not obtain. — The bread was good. — There being no infirmary, the sick were attended and victualled at a small house near the prison, where seven shillings a week was paid for each parent. There were five in that house, in a dirty and often five room.
 
-There were one thousand and sixty-two confined in the prison a: Winchester, March 2, 1779. The wards are lofty and spacious. The meat and beer were good: but the bread (being made with leaven and mixed with rye) was not so good as that at Bristol — If two or three of the rooms were to be ufed as work-rooms, the health of the prisoners would be promoted, and they would net be indolently hong in their hammocks in the day-time; as I observed they were, both here and at j45il-pris:n.
+There were one thousand and sixty-two confined in the prison a: Winchester, March 2, 1779. The wards are lofty and spacious. The meat and beer were good: but the bread (being made with leaven and mixed with rye) was not so good as that at Bristol — If two or three of the rooms were to be used as work-rooms, the health of the prisoners would be promoted, and they would net be indolently hong in their hammocks in the day-time; as I observed they were, both here and at j45il-pris:n.
 
 Several prisoners were confined here in the dark hole. — Forty days confinement on half allowance, in order to pay ten shillings to those that apprehend them after escapes, seems to be too severe a punishment. On such occasions, the observation of the worthy magistrates a: Beni always occurs to my mind, “ that every one must be desirous of regaining liberty.”
 
@@ -3916,7 +3916,7 @@ o
 
 o
 
-Fees for the Gaoler for Felons ** other Crimes.
+Fees for the Gaoler for Felons * other Crimes.
 
 To the gaoler for the discharge of every prisoner found guilty of i
 
@@ -5430,7 +5430,7 @@ Chester iS 1 4 0
 
 — — Bridewell 0 0 0 1
 
-Chejierfield Bridewell 0 0 0 1
+Chesterfield Bridewell 0 0 0 1
 
 Cirencester 0 0 0 6
 
