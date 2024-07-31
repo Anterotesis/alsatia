@@ -596,7 +596,7 @@ n
 
 SITUATION.
 
-A County Gaol, and indeed every prison, should be built on a spot that is airy, and if possible near a river, or brook. I have commonly found prisons situated near a river, the cleaned: and mod: healthy. They generally have not (they could not well have) subterraneous dungeons, which have been so fatal to thousands: and by their nearness to running water, another evil, almost as noxious,' is prevented, that is the stench of sewers.
+A County Gaol, and indeed every prison, should be built on a spot that is airy, and if possible near a river, or brook. I have commonly found prisons situated near a river, the cleaned: and most healthy. They generally have not (they could not well have) subterraneous dungeons, which have been so fatal to thousands: and by their nearness to running water, another evil, almost as noxious,' is prevented, that is the stench of sewers.
 
 I said a gaol should be near a stream; but I mud: annex this caution, that it be not so near as that either the house or yard shall be within the reach of doods. This circumstance was so little thought of at Appleby in Westmorland, when their new gaol was first building, that I saw the walls marked from nine inches to three feet high by floods.
 
@@ -1894,7 +1894,7 @@ XVI. Declares the peculiar attention the magistrates will give to those parents,
 
 XVII. to XIX. Describe the rewards to children for their attention and diligence.
 
-The contributions to defray the expence of this useful institution are voluntary; and a collection for this purpose is made from house to house, every week. No subscription is taken less than one grofchen per week; and the greatest subscription is thirty-six grosche a week.
+The contributions to defray the expence of this useful institution are voluntary; and a collection for this purpose is made from house to house, every week. No subscription is taken less than one groschen per week; and the greatest subscription is thirty-six grosche a week.
 
 I sat an afternoon with Dr. Duntze of Bremen, who told me he was in London in 1753 and 54, with an inquisitive friend, a German. They went into Newgate to observe the effects of the ventilator; and were struck with an offensive smell in one of the rooms. Next day they were both indisposed. The Doctor's complaint turned out a kind of jaundice. After a few days confinement he visited his friend, and found him excessively low; and in a ftiort time he died with every symptom of the gaol-fever.
 
@@ -3904,7 +3904,7 @@ I will only add that in this prison there are rooms appropriated to prisoners en
 
 In the Maison de Force there were ninety prisoners, ranged in four rooms, and employed in a woollen manufactory of linings for soldiers clothes. Persons live in the house who well understand the business, and instruct the prisoners in sorting, carding, spinning, twisting and weaving. None of them were in irons. All had separate beds, and were supplied with good rye bread, meat three times a week, two quarts of beer for each, every day, and soup every other day.
 
-The chaplain, who lived in the house, favoured me with his company through the work-rooms, lodging-rooms, and the refedory. He entered into the true spirit of this institution, and lamented the inconvenience of the house, as not being built for the purpose to which it is applied. He took notice of the propriety of solitary confinement for those that were riotous and refractory at their first coming; for generally, he said, “ in four or five days they would become very tradable and fub-missive.”
+The chaplain, who lived in the house, favoured me with his company through the work-rooms, lodging-rooms, and the refectory. He entered into the true spirit of this institution, and lamented the inconvenience of the house, as not being built for the purpose to which it is applied. He took notice of the propriety of solitary confinement for those that were riotous and refractory at their first coming; for generally, he said, “ in four or five days they would become very tradable and fub-missive.”
 
 The author of the Hfiory of the Inquisition at Goa tells us, cap.^23:* In the months of November and December, I heard every day in the morning the cries and groans of those who were put to the Question, which is so very cruel, that I have seen several of both sexes who have been ever after lame. In this tribunal they regard neither age nor sex, nor condition of persons, but all without distinction are tortured, when 'tis for the interest of this tribunal.”
 
@@ -21778,7 +21778,7 @@ Herefordshire 357 Hereford county gaol 357
 
 bridewell 3 5 S city gaol 359 Hermandad del Refugio 159 Herris, Elizabeth, her charity 259 Hertfordshire 255 Hertford county gaol 255
 
-bridewell 256 Hcfleden, Thomas, his legacies 327 Hey don, John, his legacy 403 Hinkley 3 15 Hitchin 257
+bridewell 256 Hesleden, Thomas, his legacies 327 Hey don, John, his legacy 403 Hinkley 3 15 Hitchin 257
 
 Hobson, Thomas, his legacy 290 Hodgefion, Dr. his charity 408
 
