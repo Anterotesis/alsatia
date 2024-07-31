@@ -1876,7 +1876,7 @@ GERMANY.
 
 Sect. IV.
 
-I went into Germany in June 1778, by Ofnabrug and Hanover. The prison at Osnabrug I should entirely omit, did I not entertain a hope, that the account of it may possibly engage the notice of an amiable Prince who is the present, and so be the means of alleviating the sufferings of the miserable prisoners. The prison and the house of correction is one large building, situated in an airy part of the suburbs, near a brook. A Latin inscription over the gate implies, that it was erected “ at the public expense, in 1756, for the purposes of public justice and utility, by confining and punishing the wicked.” — There are seventeen chambers for criminals, which have no light but by a small aperture over each door. I was happy to find here no more than one prisoner. He had been confined three years, and had survived the cruelty of the torture. In another part of the house I found many miserable and lickly objects, men, women and children, almost all without shoes and stockings. They were spinning in different rooms, which were dirty beyond description. These rooms open into an offensive passage, which a gentleman in office in the city, to whom I was recommended, durst not enter. I inquired of the keeper concerning several particulars in the diet, &c. but the misery expressed in the countenances of the prisoners, made me totally disregard the information given me by words.
+I went into Germany in June 1778, by Osnabrug and Hanover. The prison at Osnabrug I should entirely omit, did I not entertain a hope, that the account of it may possibly engage the notice of an amiable Prince who is the present, and so be the means of alleviating the sufferings of the miserable prisoners. The prison and the house of correction is one large building, situated in an airy part of the suburbs, near a brook. A Latin inscription over the gate implies, that it was erected “ at the public expense, in 1756, for the purposes of public justice and utility, by confining and punishing the wicked.” — There are seventeen chambers for criminals, which have no light but by a small aperture over each door. I was happy to find here no more than one prisoner. He had been confined three years, and had survived the cruelty of the torture. In another part of the house I found many miserable and lickly objects, men, women and children, almost all without shoes and stockings. They were spinning in different rooms, which were dirty beyond description. These rooms open into an offensive passage, which a gentleman in office in the city, to whom I was recommended, durst not enter. I inquired of the keeper concerning several particulars in the diet, &c. but the misery expressed in the countenances of the prisoners, made me totally disregard the information given me by words.
 
 The prison at Hanover was built about thirty years ago. It is situated on the river Leyna. There are eleven strong rooms about ten feet square, and ten and a half high;with a bed of solid ft one in each, eleven inches from the ground, and nine inches higher at the head. Over these are larger apartments for debtors See. The rooms are warmed by stoves in winter. Criminals have a small chain: they are allowed straw to lie on, and two coverlets. When I visited the prison in 1776, there were seven criminals and one debtor; and in 1778, two debtors and three criminals. The keeper sells no liquors, but has a salary. In the council-chamber are all the various edicts in frames. There is a torture-chamber, but I with pleasure learned that the two cruel engines had not been used for four years.
 
@@ -2942,7 +2942,7 @@ At Arcrrtntc, tie prison is oa the £ie of ahil, at the back, of the tcwis-hcafc
 
 The House of Correction consists of buildings on two sides of a spacious court; one side for those of the Roman catholic religion, and the other for Protestants, with a chapel for each. The rooms were all clean, and are white-washed every year. Opposite to the front windows in most of the rooms, were high windows, of a semi-circular form, which were designed for promoting a circulation of air.
 
-Munich. At Munich or Munchen, there are two prisons for criminals. That in the town-house, had in it fix men and two women prisoners.f In a dark damp dungeon down seventeeo steps, were the inUruments of torture.
+Munich. At Munich or Munchen, there are two prisons for criminals. That in the town-house, had in it fix men and two women prisoners.f In a dark damp dungeon down seventeeo steps, were the instruments of torture.
 
 The other, called La de la Cour, consisted of about
 
@@ -4520,7 +4520,7 @@ Duty, Sunday twice j every day prayers;
 
 once a month sacrament.
 
-Salary, j£35> &c- (SeeRemarks.)
+Salary, j£35> &c- (See Remarks.)
 
 SURGEON, Mr. Olney.
 
@@ -9068,7 +9068,7 @@ GAOLER, Isaac Wood.
 
 Salary, none. But £154 a year to supply prisoners as Lincoln.
 
-below; and to pay land-tax &c. (SeeRemarks.)
+below; and to pay land-tax &c. (See Remarks.)
 
 F"”
 
@@ -11880,7 +11880,7 @@ THE Sheriff's ward or prison is in the partfh of St. Thomas the apostle, in the 
 
 1760 Sheriff's Ward.
 
-Devon, tv wit. At the General Quarter Sessions of the Peace held at the Castle of Exon the 15th Jan. 1760 before Richard BeavisEfqr. George Tanner, William Clifford Martin, William Kittson, Esq«. and others &c« The Court having considered the report of Sir Richard Warwick Bamfylde Bart. Sir George Yonnge Bart. Henry Crewes Esqr< and John Snow^ Clerk* Justices of &c. — appointed to enquire into Fees taken by the present Keeper and Gaoler of this County, and having considered the Table of Fees heretofore taken by the Keeper of the Sheriff's Ward, and the Fees taken by the Keeper of th& High Gaol and Keeper of the Bridewell of this County doth in pursuance of an Act — entitled &c. — settle and establish the following Table of Rates and Fees of the Keepers of the said several Prisons &c.
+Devon, tv wit. At the General Quarter Sessions of the Peace held at the Castle of Exon the 15th Jan. 1760 before Richard Beavis Esqr. George Tanner, William Clifford Martin, William Kittson, Esq«. and others &c« The Court having considered the report of Sir Richard Warwick Bamfylde Bart. Sir George Yonnge Bart. Henry Crewes Esqr< and John Snow^ Clerk* Justices of &c. — appointed to enquire into Fees taken by the present Keeper and Gaoler of this County, and having considered the Table of Fees heretofore taken by the Keeper of the Sheriff's Ward, and the Fees taken by the Keeper of th& High Gaol and Keeper of the Bridewell of this County doth in pursuance of an Act — entitled &c. — settle and establish the following Table of Rates and Fees of the Keepers of the said several Prisons &c.
 
 A Table -of the Rates and FiEES allowed to be taken by the Keeper of the Sheriff's Ward for the County of Devon.
 
@@ -12254,7 +12254,7 @@ Remarks.
 
 CORNWALL. Western Circuit*
 
-FaImouthTown Gaol.
+FaImouth Town Gaol.
 
 Two rooms: no court: no water.
 
@@ -12378,7 +12378,7 @@ If a debtor has a bed and bedding of his own then to pay weekly 010 If he lodges
 
 If a bed of his own - 000
 
-Edvjd PhilipsEfq. Rev. Dr. Camplin Doctor of Laws
+Edvjd Philips Esq. Rev. Dr. Camplin Doctor of Laws
 
 In° Brtgdalty IVm Giles Strangezvayt
 
@@ -15588,11 +15588,11 @@ III. Tous les prisonniers refufants de repondre a leurs noms a la revue, feront 
 
 IV. S'il arrive du dommage aux lieu oii les prisonniers feront gardes, foil cn voulant s'cchapper, ou autrement, de propos delibere; les frais de la reparation feront payes des vivres de ceux qui auront ainsi contrevenu;et fi les coupables fie peuvent etre decouverts, tous les prisonniers ensemble contribueront de leurs vivres, aux frais de cette reparation.
 
-V. Quiconque s'echappcra de prison, ctnnt repris, y-fera mis au cachotj et n'y aura que demi-ration de vivres, jufqu' a ce qu'il aura ainsi paye les frais faits pour le saisir et le ramener j et de plus il perdra son tour d'echange; un officier ainsi contrevenant, fera des-lors regarde et traite comme simple matclot.
+V. Quiconque s'echappcra de prison, ctnnt repris, y-fera mis au cachotj et n'y aura que demi-ration de vivres, jufqu' a ce qu'il aura ainsi paye les frais faits pour le saisir et le ramener j et de plus il perdra son tour d'echange; un officier ainsi contrevenant, fera des-lors regarde et traite comme simple matelot.
 
 VI. 11 efVcsfendu de fe battre, fe qucreller, ou faire defordre dans les prisons, ou aux endroits ou il fera permis aux prisonniers de prendre l'air, sous peine ale punition felon que 1‘offence l'exigera.
 
-VII. Les prisons feront tenues nettes & propres par les matclots, et cela tour a tour, comme 1'agent l'ordonncra} & tout matelot qui refusera ce service a son
+VII. Les prisons feront tenues nettes & propres par les matelots, et cela tour a tour, comme 1'agent l'ordonncra} & tout matelot qui refusera ce service a son
 
 434 TABLES
 
@@ -17052,7 +17052,7 @@ Commissioners of sick and wounded, their Attention 161
 
 Common-side debtors should have allowance 36
 
-Concicrgcric at Paris 36 late fire there 141
+Conciergerie at Paris 36 late fire there 141
 
 Condemned prisoners, money paid for seeing 27 not left alone 62
 
@@ -17734,7 +17734,7 @@ Launceston 351
 
 Lausanne 108
 
-LavenhamBridewell 261
+Lavenham Bridewell 261
 
 Lawford' s-gate, Bristol 325
 
@@ -18010,7 +18010,7 @@ Oath, solemn form of in Odiam 333
 
 Octagonal house of correction 132
 
-Officer a keeper (See Sheriff's officer) Ofnabrug 75
+Officer a keeper (See Sheriff's officer) Osnabrug 75
 
 Oar die 296
 
@@ -18100,7 +18100,7 @@ Prangint, Baron de, his prison 107
 
 Prayers daily in houses of correction 79
 
-Prefeign 423
+Presteign 423
 
 Prefon 396
 
