@@ -10986,7 +10986,9 @@ TABLE I.
 
 A LIST of FEES due to the Clerks of Assize of the several Circuits in England, and their Offices, from Prisoners charged with Felony — Burnt in the Hand — Whipped — Acquitted — Discharged by Proclamation — or against whom Bills are returned by the Grand-Jury not true Bills.
 
-HOME CIRCUIT, - £. S. D.
+HOME CIRCUIT,
+
+£. S. D.
 
 Burnt in the Hand — 0 4 8
 
@@ -11010,7 +11012,9 @@ Ditto on Ignoramus Bill — 0 13 4
 
 478 TABLES.
 
-MIDLAND CIRCUIT, £. S. D.
+MIDLAND CIRCUIT,
+
+£. S. D.
 
 Acquitted and Discharge Fee in Murder — 1 7 8
 
