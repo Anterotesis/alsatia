@@ -296,47 +296,51 @@ Those who choose to leave the house entirely, receive, during the remainder of t
 
 [Amsterdam Stadt-house.]
 
----
-
-At Amsterdam I more than once revisited the prisons. At the Stadt-house the rooms for the debtors are on the ground-floor. In 1778 there were eighteen debtors; in June 1781, sixteen; in November, seventeen; and in June 1783, seventeen.† I often conversed with them, and found that they were all alimented alike: the first fourteen days at eleven llivers (a/billing) a day; after that time at five llivers and a half. But this is paid to the gaoler, who has great profit out of it, as appeared from the daily allowance which I weighed several times. Each debtor has from the city one quart of beer daily, and turf for firing. The rooms were clean, though the prisoners are never out of them, unless twice in a year at the times of white-washing. In 1778 there were five criminals, but their offences not being capital, all the llrong rooms under ground were empty. In June and November, 1781, there were no criminals; in 1783, two petty offenders.
+At Amsterdam I more than once revisited the prisons. At the Stadt-house the rooms for the debtors are on the ground-floor. In 1778 there were eighteen debtors; in June 1781, sixteen; in November, seventeen; and in June 1783, seventeen.† I often conversed with them, and found that they were all alimented alike: the first fourteen days at eleven stivers (a shilling) a day; after that time at five stivers and a half. But this is paid to the gaoler, who has great profit out of it, as appeared from the daily allowance which I weighed several times. Each debtor has from the city one quart of beer daily, and turf for firing. The rooms were clean, though the prisoners are never out of them, unless twice in a year at the times of white-washing. In 1778 there were five criminals, but their offences not being capital, all the strong rooms under ground were empty. In June and November, 1781, there were no criminals; in 1783, two petty offenders.
 
 The walls of this prison are stone, twenty-two inches thick; most of the rooms ten feet by nine and a half, each for one prisoner only, a bedstead, &c.
 
 * For this account I am indebted to Dr. Maclaine, the worthy minister of the English church at the Hague.
 
-f There are two places in this country, Viane and Culenburg (not far from Utrecht) whose ancient privileges exempt them from the jurisdiction of Holland. In those places a few debtors fereen themselves from arrests.
+† There are two places in this country, Viane and Culenburg (not far from Utrecht) whose ancient privileges exempt them from the jurisdiction of Holland. In those places a few debtors screen themselves from arrests.
 
 HOLLAND. 9
 
+[Amsterdam Stadt-house.]
+
 The door-way twenty-two inches wide; door three inches and a half thick, and plated with iron; the condemned rooms have an iron door besides. There are on the ground-floor two rooms for debtors, and twelve or thirteen for criminals, which open into passages seven feet wide; and below ground there are eight more rooms for criminals. The windows are double barred, and open into a passage in which there is a strong door between every two cells.
 
-From a book containing the names and crimes of all who have been executed at Amsterdam, from January 1693 to the end of 1766, I find it necessary to retradl the assertion " that for a hundred years past there have not been executed, communibuj annis, more than one a year.” From this publication, the following state of executions at different periods is drawn.
+From a book containing the names and crimes of all who have been executed at Amsterdam, from January 1693 to the end of 1766, I find it necessary to retract the assertion "that for a hundred years past there have not been executed, communibus annis, more than one a year.” From this publication, the following state of executions at different periods is drawn.
 
-From 1693 to 1735 (43 years) 288.
+From 1693 to 1735 (43 years) - 288.
 
-1736 - 1745 (10 years) 20.
+1736 - 1745 (10 years) - 20.
 
-1746 -- 1766 (21 years) 28.
+1746 - 1766 (21 years) - 28.
 
-And I have been well informed, that in ihc eight years preceding my visit
+And I have been well informed, that in the eight years preceding my visit in 1783, only five criminals were executed, two of them were beheaded, one broke on the wheel, and two hanged.
 
-in 1783, only five criminals were executed, two of them were beheaded, one broke on the wheel, and two hanged.
+An observation before escaped me, concerning the attention of the magistrates to the children, of the malefactors who are executed, and of those who are committed, for a long term, to the rasp or spin-houses. They are sent to the orphan-house, and there brought up in industry, and not left destitute vagabonds, to become unhappy victims to the wickedness and folly of their parents.
 
-An observation before escaped me, concerning the attention of the magi-strates to the children, of the malefactors who are executed, and of those who are committed, for a long term, to the rasp or spin-houses. They are fent to the orphan-house, and there brought up in industry, and not left destitute vagabonds, to become unhappy victims to the wickedness and folly of their parents.
+Perhaps the computation which I have mentioned of two hundred and fifty thousand inhabitants in this city may be too great;* though, if I mistake not, Mr. Karsseboom, some time since, estimated them at two hundred and forty-three thousand; and of late, many Jews banished from other countries
 
-Perhaps the computation which I have mentioned of two hundred and fifty thousand inhabitants in this city may be too great;* though, if I mistake not, Mr. Karjfeboom,some time since, estimated them at two hundred and
+* Deaths in 
 
-forty-three thousand; and of late, many Jews banished from other countries
+1776, - 8982.
 
-1776, 8982. Deaths in 1780, IO536.
+1777, - 8939.
 
-1777, 8939. i78,» IO889.
+1778, - 7791.
 
-1778, 779*- 1782, 8445.
+1779, - 9518.
 
-1779, 9Sl8-
+1780, - 10536.
 
-The numbers marked at the Stadt-bou/e, when I was there in June 1778,
+1781, - 10889.
+ 
+1782, - 8445.
+
+The numbers marked at the Stadt-house, when I was there in June 1778,
 
 The first week, - 121.
 
@@ -346,27 +350,13 @@ June 1781, The first week, - 176.
 
 second week, - 159.
 
-November 1781, The first week,
+November 1781, The first week, - 272.
 
-second week, -June 1783, The first week,
+second week, - 184.
 
-second week, -
+June 1783, The first week, - 168.
 
-c
-
-272.
-
-284.
-
-168.
-
-*93-
-
-havc
-
-Amsterdam Stadt-house.
-
----
+second week, - 193.
 
 10 APPENDIX.
 
@@ -380,15 +370,13 @@ The four regents† who manage the Rasp-house are appointed by the burgomasters,
 
 The regents assemble in the house at four o’clock every Wednesday afternoon, to collect and examine the transactions of the preceding week. They appoint a servant to give any necessary assistance to the father, and particularly to cut the slices of bread for the prisoners; and when the father is ill, in the evening to visit and examine the cots.
 
----
-
-In the nine lower rooms of this house, in June 1778, were confined upwards of forty prisoners; in June 1781, fifty-five; in November, sixty-five; June 6, 1783, fifty-one. One of these was incapable of working, his limbs being dislocated by the torture. Each of these rooms, in which they work in the day and are locked up at night, contains at least four persons. The same prisoners do not continue long together, but are removed and separated once a fortnight or oftener. Few or none of them were rasping logwood, but most of them chopping it, for the two mills belonging to the house: for it was found to be too laborious for most of the prisoners, to work with fix or eight faws, which often weigh seventy or eighty pounds. The medical gentlemen.
+In the nine lower rooms of this house, in June 1778, were confined upwards of forty prisoners; in June 1781, fifty-five; in November, sixty-five; June 6, 1783, fifty-one. One of these was incapable of working, his limbs being dislocated by the torture. Each of these rooms, in which they work in the day and are locked up at night, contains at least four persons. The same prisoners do not continue long together, but are removed and separated once a fortnight or oftener. Few or none of them were rasping logwood, but most of them chopping it, for the two mills belonging to the house: for it was found to be too laborious for most of the prisoners, to work with fix or eight saws, which often weigh seventy or eighty pounds. The medical gentlemen.
 
 * See Dr. Price's Observations on Reversionary Payments, p. 186, 187. third edition.
 
-f It may be proper to mention, that these Regents have no salaries, but only some privileges and honorary distinctions; as exemption from the city watch; liberty of free entrance after one of the city gates is shut; and a deacon’s feat in the church.
+† It may be proper to mention, that these Regents have no salaries, but only some privileges and honorary distinctions; as exemption from the city watch; liberty of free entrance after one of the city gates is shut; and a deacon’s seat in the church.
 
----
+[Plate here.]
 
 HOLLAND. 11
 
@@ -406,7 +394,7 @@ The house provides for the prisoners, diet,† clothes, shoes and stockings, wit
 
 * I had this information from Mr. John Hope, one of their very worthy magistrates; and to him I am much obliged for copies of the rules and instructions to this house, the spin-house, and the work-house.
 
-† The diet of the convicts in the Rasp-house in
+† The diet of the convicts in the Rasp-house in Amsterdam.
 
 ---
 
@@ -4176,11 +4164,7 @@ Here, as well as at all the other places throughout the kingdom where French pri
 
 The prison in the fortress at Hull consists of several rooms, with two tier of shelves for the straw, or beds. There were only fifty-one Dutch prisoners, Jan. 30, 1782, many having been lately fent to These prisoners were sensible of the attention paid them by Mr. the surgeon and agent.
 
-In the Cajlleat Lincoln, Feb. 1, 1782, I found eight Dutch prisoners, who had been taken ill on their march from Hull to One of them, an
-
-old man, died the next day; the rest recovered. Their allowance was fix
-
-pence a day, and they were kindly supplied from a collection made by Dr. Stinlon, chancellor of Lincoln.
+In the Castle at Lincoln, Feb. 1, 1782, I found eight Dutch prisoners, who had been taken ill on their march from Hull to One of them, an old man, died the next day; the rest recovered. Their allowance was six pence a day, and they were kindly supplied from a collection made by Dr. Stinlon, chancellor of Lincoln.
 
 At Shrewsbury, in a large and elegant building on the bank of the,
 
@@ -4192,17 +4176,13 @@ ft
 
 • I have since heard that a bounty was paid by the court of England to their prisoners in France, at the following rates, viz. captains, mates, failing mailers, surgeons, and stewards, three pence per day each; common sailors, boys, and passengers of inferior rank, three halfpence per day each; which payment was made every twenty-eight days.
 
-town
-
 PRISONERS OF WAR.
 
 *4 3
 
 town (£61: 15: o) they were soon after supplied with necessary clothing. The Dutch government afterwards ordered an allowance.
 
-At Yarmouth, July 8, 1782, there were ten French and ninety-two Dutch
-
-prisoners. Their rooms and court, and the three rooms of the infirmary were too close. The regulations in French and Dutch were hung up. The provisions were good. The prisoners looked healthy and well: most of them had been brought in but a few days.
+At Yarmouth, July 8, 1782, there were ten French and ninety-two Dutch prisoners. Their rooms and court, and the three rooms of the infirmary were too close. The regulations in French and Dutch were hung up. The provisions were good. The prisoners looked healthy and well: most of them had been brought in but a few days.
 
 At Falmouth,Feb. 6, 1783, there were sixty-five French, twenty-four
 
@@ -4252,7 +4232,7 @@ In the castle, March 27, 1782, there were fifteen American and fourteen French p
 
 The Number of Prisoners received at ,from Nov. 23, 1778, to Aug. 17, 1782.
 
-French 00 D ied 31.
+French 00 Died 31.
 
 Spanish 108, 0.
 
@@ -4269,8 +4249,6 @@ PRISONERS OF WAR in IRELAND.
 Belfast. On the 13th of July 1779, there were seventy-seven French prisoners at Belfafi, who had been brought there the beginning of May. — There was no table of regulations, and they seemed to be much neglected. Sixteen of them were in the hospital, including three attendants. Many others were sick, but in the hospital there was neither room nor accommodations for them.
 
 Dublin. At Dublin, July 22, 1779, there were twenty-two prisoners of war, in a good room fitted up for a temporary prison. Their bread and other provisions were very good; and they were treated with all the humanity and kindness that could be expected.
-
-In
 
 PRISONERS OF WAR.
 
@@ -4360,21 +4338,15 @@ My principal object in procuring lids of the number of prisoners of war who had 
 
 Before I leave this subject, it will be but judice to mention the care and assiduity of the Commissiotters, who themselves visited many of the prisons
 
-in
+SCOTLAND. 147
 
-SCOTLAND.
-
-i47
-
-in England, and dismissed such agents as had abused their trust; and who are
-
-ready to receive any information which may be for the benefit of those committed to their care.
+in England, and dismissed such agents as had abused their trust; and who are ready to receive any information which may be for the benefit of those committed to their care.
 
 SCOTLAND.
 
 It may not be improper, before I enter on a particular account of English prisons, to mention what further occurred to me worthy of observation, in my journeys into Scotland and Ireland in 1779, 1782, and 1783.
 
-The prisons which I saw in EdinburghGla/gow, Haddington, Ayr, Kelso, Nairne, Bamff, Inverness, &c. were generally old buildings, dirty and offensive, and without courts.
+The prisons which I saw in Edinburgh, Gla/gow, Haddington, Ayr, Kelso, Nairne, Bamff, Inverness, &c. were generally old buildings, dirty and offensive, and without courts.
 
 If a prisoner for debt declares upon oath that he has not wherewithal to maintain himself, the creditor must aliment him within ten days after notice is given for that purpose, with at leaf!; three pence a day,* but generally the magistrates order six pence. — By the process of CeJJio bonorum,-\ a debtor after being a month in prison, may obtain his liberty, and be secured against execution for any previous debts, by making a surrender of all his effects to be divided among his creditors: though if he afterwards comes into better circumstances, his effe&s may be attached for the payment of those debts. This compassionate law prevents a creditor putting his debtor in prison, unless he has good reason to believe he is a6ting fraudulently.
 
@@ -4388,8 +4360,6 @@ f See The Principles of the Laiv of Scotland, 5th edit. 8vo. Edinburgh, 1777. p.
 
 I Louthian's Form of Process, before the Court of Jufluiary in Scotland. Edin. 175 2. p. 109.
 
-U 2 <c part
-
 American
 
 Prisoners.
@@ -4400,7 +4370,7 @@ Scotland.
 
 Scotland.
 
-<f part of Great Britain called Scotland, and the Judges thereof shall continue
+part of Great Britain called Scotland, and the Judges thereof shall continue
 
 " by the space of six days at the least, at each town or place where the circuit-ff courts shall be held, for the dispatch of business.”*
 
@@ -4412,8 +4382,6 @@ In Scotland,executions formerly were not delayed after conviction or
 
 sentence; such delays being often equally injurious to the criminal and to society. Here, the punishment of the offender was made to appear the immediate consequence of his crime. J
 
-All
-
 * This good act is similar to one enacted for the counties of Wales in 34th and 35th of Henry VIII. Chap. XXVI. " That every of the said sessions shall be kept and continued by the * space of six days in every of the said (hires, at either of the said times, as is and hath been %€ used within the said three (hires of North Wales. ”
 
 f It is provided by statute in the sixth session of king William's first parliament, 1696, Chap. XfcVI. " That there be a fchcol fettled and established, and a schoolmaster appointed in every parish” in Scotland, and the presbytery has the superintendence of the execution of this act, which has been carefully attended to. Many fchook are also fettled by donations and legacies, and by the society for propagating christian knowledge; fo that no parish is without a school, and in some there are four or five. In the southern parts of Scotland, it is very rare that you meet with any person that cannot both read and write. It is scandalous for any person not to be possessed of a Bible, which is always read in the parochial schools.
@@ -4422,9 +4390,7 @@ J By the act made in king William's first session, 1695, Chap. IV. ail capital c
 
 Chap.
 
-SCOTLAND.
-
-149
+SCOTLAND. 149
 
 All criminals are tried out of irons; and when acquitted, immediately discharged in open court, and no gaoler has a fee from any criminal. — Women are not put in irons in Scotland.
 
@@ -4500,7 +4466,7 @@ Item, Each person incarcerate by warrant from sheriff or justice of the peace, s
 
 Item, All government prisoners shall pay each at liberation — —
 
-Item, For each petition by a prisoner for the benefit of the a£l of grace, and for the clerk’s declaration thereto subjoined shall be paid — —
+Item, For each petition by a prisoner for the benefit of the act of grace, and for the clerk’s declaration thereto subjoined shall be paid — —
 
 Item, For the borrowing or delivering up of any diligence by which prisoners are incarcerate (all magistrates warrants at or within ten mercks excepted) shall be paid — — — —
 
@@ -4544,9 +4510,9 @@ Edinburgh, the Sixth Day of July, Seventeen Hundred and Seventy-nine Years. Thes
 
 William Gilles.
 
-* I fay poor, because such as have money have too much liberty. For in the same prison,
+* I say poor, because such as have money have too much liberty. For in the same prison,
 
-I lately faw some, who were confined for a riot, drinking whiskey in the tap-room, in company with many profligate townsmen, who were readily admitted, as they promoted the sale of the gaoler’s liquors.
+I lately saw some, who were confined for a riot, drinking whiskey in the tap-room, in company with many profligate townsmen, who were readily admitted, as they promoted the sale of the gaoler’s liquors.
 
 f I must not omit here making my acknowledgments to the magistrates of Edinburgh, for the honour they did me, by presenting me with the freedom of this city.
 
@@ -4570,7 +4536,7 @@ hospital.
 
 Glasgow Tolbooth.
 
-The Orpl.nin-hospitalalfo deserves particular commendation, in which in
+The Orpl.nin-hospital alfo deserves particular commendation, in which in
 
 1782, there were about seventy boys and six tv girls, who appeared decently clothed, cheerful, clean and healthy. The girls are taught (besides reading and writing) spinning, knitting, fevving and houshold work; and the boys carding, spinning, knitting, mending their clothes, All are educated in
 
@@ -4630,9 +4596,7 @@ Rules to be observed by the Jaylor and his servants.
 
 2. The
 
-SCOTLAND.
-
-l53
+SCOTLAND. 153
 
 The Number of Prisoners* September 1782.
 
@@ -4649,8 +4613,6 @@ Dumfries 3» 0.
 It would answer no end to give a description of all the Scotch prisons. I will, therefore, only add to this account the following particulars.
 
 At Dumfries in the court-house is a room called the open gaol, (sixteen feet three inches by eleven feet three) with closets and a fire-place, where a debtor that finds bail has the key, and may converse at the door. — The gaol in this town was burnt by a prisoner some years ago. To prevent this for the future, the rooms in it have been vaulted.
-
-The
 
 2. The jaylor shall, from ift of April to ill of October, open each day the prison at eight, and (hut it half an hour after nine in the morning; open it at eleven before noon, and (hut it half an hour after two o’clock afternoon; open it at four o’clock afternoon, and (hut it at ten o’clock at night. And from the ift of October to the ift of April, he shall open the prison each day at nine in the morning, and (hut it half an hour after two o’clock afternoon; open it at four o’clock afternoon, and (hut it at ten o’clock at night 5 only on Sundays, the prison shall be (hut during publick worship, any thing in this rule to the contrary. And the jaylor is always to keep the whole keys of the prison in his own custody while it is (hut up, and not entrust them with any of his servants.
 
@@ -4686,9 +4648,7 @@ It is recommended to the magistrates, frequently to examine and enquire into the
 
 * As this is the circuit-town for Seven other counties, (one third of Scotland,) I hope the judges will recommend the erection of a new gaol. A regard to themselves requires this; for the offensive room in which the criminals are lodged, opens into the court. — Part of the forfeited estates might be appropriated to that purpose.
 
-I R E L AN D.
-
-*55
+IRELAND. 155
 
 The following defects may be remarked in the prisons in Scotland. They Scotland.
 
@@ -4734,13 +4694,9 @@ N. B. One shilling English is thirteen pence Irish.
 
 || Since writing the above, by an act of 21 and 22 of George III. for revising, continuing and amending several temporary statutes, it has been enacted (page 827) "that every person " confined or to be confined in any of his majesty’s gaols within this kingdom, charged with " any criminal offence, shall be intitled to receive the prisoners allowance of bread, during the *' time of his or her said confinement; and if such person shall, after having been tried for such " offence and acquitted thereof, be confined for his or her fees, every such person fo confined * shall be in like manner intitled to the like allowance.” — This however being the last clause in the act, as Sir Francis Hutchinson justly observed to me, has escaped the attention of the compiler of the small gaol-code.
 
-IRELAND.
+IRELAND. 157.
 
-157-
-
-acquitted prisoners to be discharged. In 1779 I obtained the release of some Dublin
-
-boys from the county gaol at Kilmainham, on paying for them half fees; and of New-
+acquitted prisoners to be discharged. In 1779 I obtained the release of some Dublin boys from the county gaol at Kilmainham, on paying for them half fees; and of New-
 
 Prison.
 
@@ -4750,7 +4706,7 @@ At Kilmainham also I found there were fifteen acquitted prisoners confined for t
 
 In 1782, a bill was brought in by Mr. Provo 0:Hutwhich passed into an act for discharging all those who were then in confinement for fees only,
 
-(21ft and 2 2d of George III. Chap. XLI.) I have every reason to hope, from the attention and humanity of this gentleman, that during the present session, a perpetual act for the same purpose will be passed.
+(21st and 22d of George III. Chap. XLI.) I have every reason to hope, from the attention and humanity of this gentleman, that during the present session, a perpetual act for the same purpose will be passed.
 
 On passing the old prison frequently, I could not avoid observing officers from the recruiting regiments waiting at the doors and windows, to receive either the offenders who were permitted to enlist, or any of their associates.
 
@@ -4762,13 +4718,11 @@ Our English prisons have also contributed their share towards recruiting the arm
 
 f These dreadful consequences have followed in a new raised regiment, which I saw in Scotland in 1782.
 
-APPENDIX.
-
-t58
+158 APPENDIX.
 
 [Dublin.]
 
-laws respectting the health of prisoners. mode had been adopted while
+laws respecting the health of prisoners. mode had been adopted while
 
 prisons were in their former state, it would have been the occasion of carrying the most fatal diseases into the midlt of our seamen and soldiers.
 
@@ -4788,9 +4742,7 @@ f This differs from the English act in one important circumstance. The English a
 
 " the walls and cielings of the several cells and wards, both of the debtors and the felons, " and also of any other rooms used by the prisoners in their respective gaols and prisons, 'where " felons are usually confined, to be feraped and white-waftied, once in the year at lealt, to be * regularly waftied and kept clean, &c.” whereas the Irish act requires the same precautions in the cells, wards, and rooms of gaols and prisons without restriction; for the clause " 'where felons are usually confined” is omitted. I have known it pleaded as an excuse for not white-washing and keeping clean prisons in England, where only debtors or petty offenders have been confined, that, they were not obliged to it by the act of parliament.
 
-the
-
-IRELAND.
+IRELAND. 159
 
 the same purpose, but it was not known in any of the prisons. There is also an act of the same year, similar to the English act, for " the punishment, by hard labour, of offenders who, for certain crimes, are or shall become liable to be transported. ” But the hulks on the Thames having cruelly destroyed many healthy and robufh young men, their cries probably reached the Irish shore, and prevented any proceedings in consequence of that act.
 
@@ -4844,15 +4796,11 @@ liquors
 
 Dublin.
 
-New
+New Prison.
 
-Prison.
+160 APPENDIX.
 
-i6o
-
-APPENDIX.
-
-Dublin.
+[Dublin.]
 
 liquors are fold in the prison* — New comers are robbed, or stripped and abused for the penny pot or garnifhf — The proper prisoners have not the use of the day-rooms J — The dungeons are used as lodging-rooms for prisoners before they are condemned — The sick have no proper rooms or beds, and no attention was paid to them || — -No bath§ — No divine service — The keeper does not reside in the prison — Criminals are made turnkeys* — -The act for preserving the health of prisoners not hung up; nor any table of fees, rules or orders — The allowance, two-pennyworth of bread a dayj but being delivered only twice a week, and not fixed by weight, feme of the prisoners are almost starved.4.
 
@@ -4882,13 +4830,7 @@ Hcujbzld Fourpenny, 2 6 7 Houshold Fourpenny, 2 3 7
 
 Sixpenny, 3 10 2 Sixpenny, 3 5 6
 
-To
-
-1
-
-IRELAND.
-
-161
+IRELAND. 161
 
 To this gaol there are ample appointments. But such appointments can be of little consequence, while the sheriffs and magistrates neglect their duty, and seldom or never inspect the gaols or punish defaulters. — Are not such magistrates inexcusably guilty ? — Should they not be considered as ‘accessary to the crimes and abuses and miseries occasioned by their neglect ?
 
@@ -4966,7 +4908,7 @@ Hulks.
 
 Hulks.
 
-convicts, they had not fo healthy and contented an aspect as those in the other;
+convicts, they had not so healthy and contented an aspect as those in the other;
 
 and a much greater proportion of this ship’s company was fent to the hospital. This created in me a suspicion that something was wrong. I examined all their provisions, bedding, &c. and found that they were the same as on board the JuJiitia. It would be highly proper that a table of their stated allowance should be hung up,* and feales, weights and measures assigned them, to check the purlers who give out their provision. j- In the hospital ship, on the two decks (one of which is for recovering patients) were twenty-five cradles with beds, but smaller than those in the royal hospitals at Hajlar and Plymouth, where all lie single. Of the few who were very sick, I found their irons were off. The cleanliness and quietness of the hospital did honour to the conductor. It is to be wished that the patients had better nourishment, as that, in many cafes would be more salutary than medical prescriptions.
 
@@ -5028,7 +4970,7 @@ Remarks
 
 on THE
 
-■ Gaol Fever.
+Gaol Fever.
 
 noxious effluvia of their own bodies. On this account, the gaol distemper is always observed to reign more in our prisons during winter than summer ;* contrary, I presume, to the nature of other putrid diseases. Their diet is at the same time low and scanty; they are generally without firing; and the powers of life soon become incapable of refilling fo many causes of sickness and despair.
 
@@ -5061,8 +5003,6 @@ Remarks on Hospitals*
 «« destructive both to mind and body, are inconiiflent with the habit of cleanliness.99
 
 + See Rome and Florence. J Bologna,% Florence. U Burgos, Bordeaux*
-
-rows
 
 168 APPENDIX.
 
@@ -5332,7 +5272,7 @@ l75
 
 1779, Aug. 11, Prisoners 5. 1783, Aug. 25, Prisoners o.
 
-1782, April 10, o. Oft. 16, o.
+1782, April 10, o. Oct. 16, o.
 
 - Dec. 13, o.
 
@@ -5340,11 +5280,11 @@ TOWER HAMLETS GAOL.
 
 In a ruinous condition.
 
-1779, Aug. 10, Prisoners o.
+1779, Aug. 10, Prisoners - 0.
 
-1782, Dec. 13, - - o.
+1782, Dec. 13, Prisoners - 0.
 
-1783, Aug. 25, - - o.
+1783, Aug. 25, Prisoners - 0.
 
 St. CATHARINE’S GAOL.
 
@@ -5680,9 +5620,7 @@ Chaplain, Rev. Mr. Morgan. Salary now ^50.
 
 The new prison was occupied at the time of my visit in 1779. The debtors rooms are seventeen .feet, ten inches by fifteen feet three, and nine feet ten high. At one end of their court is a work-room thirty-seven feet and a half by fourteen and a half, and twelve feet five inches high, with a fire-place and four large windows: here many were weaving garters. Over this is their free ward. At the other end of the court is their hall or kitchen, in which clauses againfc spirituous liquors painted on a board were hung up, and the memorial of Mrs. Herris’s legacy, and a new table of fees. The felons rooms (fifteen feet nine inches by fourteen and a half) are lofty, lined with stone and vaulted. Near their court, there are rooms and a small court for the condemned. The women-felons are separated; they have two rooms, a court and a pump. The courts are paved with flat stone. There is a chapel. Only one close room for an infirmary, which, being unfurnished, has never been used, though at my last visit several were sick on the floors. No bath. The felons apartments are entirely out of fight
 
-from
-
-Home Circuit.. ESSEX.
+Home Circuit. ESSEX.
 
 from the gaoler’s house; I beg leave to observe, that a window might be made in his kitchen, which would overlook the felons court. The window in the debtors apartment toward the flreet was highly improper, as an avenue for introducing at all times spirituous liquors, tools, &c. but it is now flopped up. The straw in the felons rooms (as also in the bridewell)
 
@@ -5709,8 +5647,6 @@ CHELMSFORD. No alteration. The county has the profits of the prisoners work, whi
 COLCHESTER Castle. No alteration. I have remarked that there is no water. A well of fine water at the castle was lately arched over.
 
 1779, April 7, Prisoner 1. 1782, July 11, Prisoners 3.
-
-COL-
 
 183
 
@@ -5756,11 +5692,7 @@ Two rooms towards the street; no chimneys. A back room called the dark gaol, and
 
 KENT.
 
-Home Circuit.
-
-KEN T.
-
-185
+Home Circuit. KENT. 185
 
 COUNTY GAOL at MAIDSTONE.
 
@@ -5784,35 +5716,31 @@ CANTERBURY. No alteration, but a partition in the women’s court to keep them m
 
 1782, Dec. 5, - - 11.
 
-Bb CANTER-
-
 Kent.
-
+---
 186 APPENDIX.
 
-Kent.
+[Kent.]
 
 CANTERBURY CITY GAOL.
 
-No alteration, but the day-room divided into two. No regard is paid to the clause enjoining that " once in the year at least ” the gaols shall be white-washed.
+No alteration, but the day-room divided into two. No regard is paid to the clause enjoining that "once in the year at least” the gaols shall be white-washed.
 
 1779, April 16, Debtors 2. Felons 2.
 
-1782, Dec. 5, - 1. - 2.
+1782, Dec. 5, Debtors 1. Felons 2.
 
 CANTERBURY CITY BRIDEWELL.
-
+---
 A room in the front court of the work-house. — (This work-house is finely situated, a river running between the two courts: but being an old building, the rooms close, and the cielings low, it cannot be convenient and salutary for the numerous inhabitants.)
 
 1782, Dec. 5, No prisoners.
 
-DARTFORD. Now there are two courts from the keeper’s garden, one for each sex, with pumps and sewers, and a room in the men’s court for the sick: but the women had no mats, or any fort of bedding. Three dungeons (twelve feet by five) damp and not secure: the floors should be boarded. One prisoner, who had been committed for three months from July 18th, was in December still in confinement for the court fees, 9*. 4 d.and the keeper’s fees, 3J. 6d. — Committed in 1780, a hundred and
-
-seven prisoners; in 1781, ninety-two; and in 1782, a hundred and three.
+DARTFORD. Now there are two courts from the keeper’s garden, one for each sex, with pumps and sewers, and a room in the men’s court for the sick: but the women had no mats, or any fort of bedding. Three dungeons (twelve feet by five) damp and not secure: the floors should be boarded. One prisoner, who had been committed for three months from July 18th, was in December still in confinement for the court fees, 9*. 4 d.and the keeper’s fees, 3J. 6d. — Committed in 1780, a hundred and seven prisoners; in 1781, ninety-two; and in 1782, a hundred and three.
 
 1779, April 15, Prisoners 5.
 
-1782, Dec. 3, - - 5.
+1782, Dec. 3, Prisoners 5.
 
 ROCHESTER CITY GAOL.
 
@@ -5820,23 +5748,17 @@ The court-room was built, as appears by the date, in 1687; and it is probable, t
 
 1779, April 15, Debtors 2. Felons 0.
 
-1782, Dec. 3, - - o. - - o.
+1782, Dec. 3, Debtors 0. Felons 0.
 
-ROCHES-
-
-Home Circuit.
-
-KENT.
-
-187
+Home Circuit. KENT. 187
 
 ROCHESTER CITY BRIDEWELL.
 
-Two rooms down eight steps, with barrack-bedsteads and draw. Fees, 1 Keeper’s salary, £ 2; paid out of Mr. Watts’s charity. — This bridewell is in a house appointed for the reception of fix poor travellers. The design of this charity may be seen from the following inscription placed over the door. <c Richard Wattsy Esq. by his will dated 22d of August, 1579, founded this " charity, for fix poor travellers, who, not being rogues or pro&ors, may " receive gratis,for one night, lodging, entertainment, and four pence each.”
+Two rooms down eight steps, with barrack-bedsteads and draw. Fees, 1 Keeper’s salary, £ 2; paid out of Mr. Watts’s charity. — This bridewell is in a house appointed for the reception of six poor travellers. The design of this charity may be seen from the following inscription placed over the door. "Richard Watts, Esq. by his will dated 22d of August, 1579, founded this charity, for six poor travellers, who, not being rogues or *pro&ors, may receive gratis,for one night, lodging, entertainment, and four pence each.”
 
-178a, Dec. 3, prjjfoners>
+178a, Dec. 3, Prisoners *
 
-1783, June 24,
+1783, June 24, *
 
 DOVER CASTLE.
 
@@ -5844,7 +5766,7 @@ Frederic Lord North is now Constable of the Castlej and Philip , Bodar. The two 
 
 1779, April 17, Prisoners 3.
 
-1782, Dec. 6, 2.
+1782, Dec. 6, Prisoners 2.
 
 DOVER TOWN GAOL.
 
@@ -5864,9 +5786,7 @@ Kent.
 
 188 APPENDIX.
 
-Kent.
-
-Sussex.
+[Kent.]
 
 SANDWICH GAOL and BRIDEWELL.
 
@@ -5886,17 +5806,15 @@ A room under the court, only eight feet and a half by fix and a half, with a bar
 
 SUSSEX.
 
+[Sussex.]
+
 COUNTY GAOL at HORSHAM.
 
 The new gaol does credit to the gentlemen that superintended the work: it is every way substantial and flrong; and each felon has a separate room, ten feet by seven, and nine feet high to the crown of the arch. They are all arched with brick, to prevent danger and confusion in case of fire. To each room are two doors, one of them iron-latticed.
 
 This gaol has two floors over arcades; the ascent to them is by a Hone staircase with iron rails. On each floor, both on the debtors and felons fide, there are ten rooms (five on each side a passage five feet wide), besides a day-room (twenty-eight feet by twelve feet three inches), and a lodging-room for a turnkey. Each floor has an iron-latticed door, and every room has a shutter for the window; a bedstead, a canvass straw-bed, and two blankets: and the county is fo considerate as to allow a bushel of coals to the debtors, and the same quantity to the felons, every day during the fix winter months.
 
-Home Circuit.
-
-SUSSEX.
-
-189
+Home Circuit. SUSSEX. 189
 
 Here are two spacious courts with water in each; and a wall encloses the whole prison.
 
@@ -5972,7 +5890,7 @@ SURREY.
 
 COUNTY GAOL in SOUTHWARK.
 
-A chapel and two close rooms for the sick, were lately built on the vacant ground where formerly was the house of correction, but after the riots in 1780, were used for a bridewell, till that in George's Fields was rebuilt. At my last visit the chapel was fitted up, and the two finals rooms for an infirmary; these are on the ground-floor, only one window in each. Many were sick on the dirty floors: one of the turnkeys had lately died of a fever. Of the fifty-five felons &c. in Oft. 1783; I have the names and the sentences of twenty-five convi5ls> who are left languishing in this sickly gaol.
+A chapel and two close rooms for the sick, were lately built on the vacant ground where formerly was the house of correction, but after the riots in 1780, were used for a bridewell, till that in George's Fields was rebuilt. At my last visit the chapel was fitted up, and the two finals rooms for an infirmary; these are on the ground-floor, only one window in each. Many were sick on the dirty floors: one of the turnkeys had lately died of a fever. Of the fifty-five felons &c. in Oct. 1783; I have the names and the sentences of twenty-five convi5ls> who are left languishing in this sickly gaol.
 
 The felons courts should be paved with flat stones, not only for the convenience of washing, but for safety, as pebbles are dangerous. In the men’s court there should be a pump, and a convenient bath: at several of my visits the Thames water was off. — Bread allowance, weight Aug. 1779, seventeen ounces; Dec. 1782, thirteen ounces; Sept. 1783, thirteen ounces and a half. — Surgeons now, Stapleton and Walj
 
@@ -5982,7 +5900,7 @@ Debtors. Felons &c. Debtors. Felons &c.
 
 1779, Aug. 9, 23- - 14. 1783, Sept. 14, 26. 53-
 
-1782, Jan. 2, 32. - 39- Oft. 29, 27. 55*
+1782, Jan. 2, 32. - 39. Oct. 29, 27. 55*
 
 Dec. 15, 23- - 42.
 
@@ -5992,11 +5910,9 @@ GEORGE’S FIELDS. The fines or convicts are with the other
 
 prisoners, and have the same allowance. All are entirely without employment.* — This prison was burnt by the rioters in 1780, and (as appears by the inscription in front) rebuilt in 1781. It is nearly on the same plan: in the men’s court there are now added four rooms, planked round.
 
-• I observed in Clerkenwell bridewell, the convicts were employed in picking oakum, as I have seen in some houses of correction near the fea Ihore. This is a salutary employment, as the llrong fcent of the pitch and tar may counteract any contagious or unhealthy effluvia in the work-rooms. — -If the great quantities of old cables and ropes piled up at the TVzvrr were delivered out to the several keepers of bridewells in and about to be
+* I observed in Clerkenwell bridewell, the convicts were employed in picking oakum, as I have seen in some houses of correction near the sea shore. This is a salutary employment, as the strong fcent of the pitch and tar may counteract any contagious or unhealthy effluvia in the work-rooms. - If the great quantities of old cables and ropes piled up at the TVzvrr were delivered out to the several keepers of bridewells in and about to be
 
 wrought for use, and prompt payment made for the work; this, would prevent the excuses of keepers for not employing their prisoners.
-
-(nine
 
 19‘
 
@@ -6006,7 +5922,7 @@ Surrey.
 
 192 APPENDIX.
 
-(nine feet eight inches by five and a half, and seven feet four inches high,) very proper for the separation of the drunken and riotous. In each of the work-rooms (Jo called) there is a chimney. There are now two rooms for faulty*apprentices. No bath. — Bread allowance, weight Dec. 1782, thirteen ounces; Aug. 1783, fourteen ounces; and Oct. 29, fourteen ounces and a half. . Keeper now no licence. The clauses against spirituous liquors, act for preserving the health of prisoners, and the table of fees, not hung up. At my late visits the prison very dirty, and the prisoners (till without employment. At night they are crowded into one or two rooms, as all the upper rooms are kept for the few that can pay for beds. I relreased a young man for his fees (4 s.id.)
+(nine feet eight inches by five and a half, and seven feet four inches high,) very proper for the separation of the drunken and riotous. In each of the work-rooms (Jo called) there is a chimney. There are now two rooms for faulty*apprentices. No bath. — Bread allowance, weight Dec. 1782, thirteen ounces; Aug. 1783, fourteen ounces; and Oct. 29, fourteen ounces and a half. Keeper now no licence. The clauses against spirituous liquors, act for preserving the health of prisoners, and the table of fees, not hung up. At my late visits the prison very dirty, and the prisoners (till without employment. At night they are crowded into one or two rooms, as all the upper rooms are kept for the few that can pay for beds. I relreased a young man for his fees (4 s.id.)
 
 1779, Aug. 9, Prisoners 44. 1783, Aug. 22, Prisoners 32.
 
@@ -6146,7 +6062,7 @@ here a fortnight. From Jan. 1780 to Jan. 1781, here were twenty-nine prisoners; 
 
 1779, March 24, Prisoners o.
 
-- Oft. 13, - - o. One or two had lately escaped.
+- Oct. 13, - - o. One or two had lately escaped.
 
 1782, July 15, - - o.
 
@@ -7302,7 +7218,7 @@ SPALDING. No alteration, but a pump in the court, which not being secure, the pr
 
 1779, March 29, Prisoners 13.
 
---- Oft. 11, - 2.
+--- Oct. 11, - 2.
 
 1782, Feb. 3, - 4-
 
@@ -7628,7 +7544,7 @@ to 1782, fourteen.
 
 1779,-Feb. 25, Prisoners 4. 1782, April 28, Prisoners o.
 
---- Oft. 20, - - o. - Oft. 26, - - 1.
+--- Oct. 20, - - o. - Oct. 26, - - 1.
 
 WITNEY. At my visit in 1779 the prisoners were at work: the keeper now is a manufacturer, and employs them. He pays them for their work, two pence a pound for the chain, and three halfpence for the shooty fo that each earns about three pence a day. At my last visit I found a room built for men (sixteen feet and a half by twelve and a half) in which there are two cells (seven feet by four and a half) with apertures in the doors nine inches square. Up Hairs are two rooms for the sick (nine feet two inches by eight feet four, and six feet five inches high,) with only apertures in the doors of fourteen inches by twelve. No chimney. To this prison
 
@@ -8048,7 +7964,7 @@ Glocestershire.
 
 Glocestershire.
 
-gaol-fever. I was happy to hear in Oft. 1783, that this county has determined to build a new gaol, and to reform the bridewells; which is principally owing to the spirited exertions of the chairman of the grand jury Sir Paul.
+gaol-fever. I was happy to hear in Oct. 1783, that this county has determined to build a new gaol, and to reform the bridewells; which is principally owing to the spirited exertions of the chairman of the grand jury Sir Paul.
 
 Debtors. Felons Arc. Debtors. Felons &c.
 
@@ -8100,7 +8016,7 @@ Fra1. Norman.
 
 CIRENCESTER. No alteration. 1779, June 9, Prisoners 6.
 
-1782, Oft.25, - - 3. Deserter 1.
+1782, Oct.25, - - 3. Deserter 1.
 
 WINCHCOMB.
 
@@ -8412,13 +8328,7 @@ This prison is now discontinued, and the prisoners are fent to the new county ga
 
 * Near Plymouth is an hospital for Jick and hurt seamen, different from other royal foundations of this kind, as it consists of several detached buildings. In each of them are fix spacious wards, and every patient has a cradle and bed, several of which beds have hair mattresses: these cradles (made of oak) are fourteen inches from the floor; six feet two inches long, and three feet one inch wide in the clear. These may be made of caft-iron, nearly as cheap as oak. I could wifn there were similar cradles in all prisons, particularly in the sick-rooms. — I give a plan of this hospital; omitting two buildings, which I think improperly placed.
 
-SHERIFF'S
-
-Western Circuit.
-
-CORNWALL.
-
-241
+Western Circuit. CORNWALL. 241
 
 SHERIFF’S WARD at BODMIN.
 
@@ -8564,13 +8474,7 @@ o 1 3
 
 • I beg leave here to pay my acknowledgments to John Call, Esq. a worthy magistrate of this county, who has taken unwearied pains in this business, for the present of his very elegant drawing and plan of this prison.
 
-DEBTORS.
-
-Western Circuit.
-
-CORNWALL.
-
-*43
+Western Circuit. CORNWALL. 243
 
 DEBTORS IN GENERAL.
 
@@ -8682,13 +8586,7 @@ LOSTWITHIEL GAOL for debtors.
 
 No alteration. 1782, July 30, Prisoners 2.
 
-PENRYN
-
-Western Circuit.
-
-CORNWALL,
-
-245
+Western Circuit. CORNWALL. 245
 
 PENRYN BOROUGH GAOL. Cornwall.
 
@@ -9062,13 +8960,7 @@ COUNTY BRIDEWELL at DURHAM.
 
 The house was clean; a pump now in the prison; the prisoners were at work, and their looks bespoke the attention of a good keeper, who now resides
 
-in
-
-Northern Circuit.
-
-D U R H A M, &c.
-
-253
+Northern Circuit. DURHAM, &c. 253
 
 in the prison. Salary, £30 a year, and £9:2:0. from the rents of the adjoining houses. Clauses against spirituous liquors not hung up.
 
@@ -9122,11 +9014,7 @@ Cumberland. COUNTY GAOL AT CARLISLE.
 
 ' Here are some improvements. The felons have now a separate court. Two rooms over the felons wards, which have been used as tap-rooms, seem to be intended for the women’s ward: but I found that and four women lodged in one of these rooms. In the court, near the pump, there is the too common
 
-Northern Circuit.
-
-CUMBERLAND, &c.
-
-255
+Northern Circuit. CUMBERLAND, &c. 255
 
 common nuisance of a dunghill, which seems to have been accumulating for a Cumberland. year or two. The act for preserving the health of prisoners not hung up. No bath. The prison not white-waffied for three years.
 
@@ -9386,11 +9274,7 @@ O 15 0
 
 1 l 6
 
-For
-
-Chester Circuit.
-
-CHESHIRE.
+Chester Circuit. CHESHIRE.
 
 For a debt of 50/. and under 80/.
 
@@ -9640,7 +9524,7 @@ Cardiganshire.
 
 Pembrokeshire.
 
-now have casements. — John Davis, committed Oft. 6, 1774; and sentenced for transportation for fourteen years, was here in Sept. 1782.
+now have casements. — John Davis, committed Oct. 6, 1774; and sentenced for transportation for fourteen years, was here in Sept. 1782.
 
 1779, Aug. 25, Debtors 3. Felons &c. 2.
 
