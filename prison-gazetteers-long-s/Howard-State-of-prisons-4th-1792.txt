@@ -420,7 +420,7 @@ Bastardy, £0 17 4
 
 till the judges: at quarter-sessions, till the justices of peace leave the town; in order to obtain those fees, which the gentlemen say are not cancelled by the act. And yet the express words of it are. Acquitted prisoners "shall be immediately set at large in open court.” It is evident then, that all fees of the commitment in respect to the prisoner, are by this act totally abolished.
 
-Since the said act, the clerks of assize in some circuits have started a new demand upon the gaoler, for the judge's certificate of acquitment viz. six shillings and eight pence for the first prisoner acquitted; and a shilling for each of the rest: or two shillings for every one. I have copies of two receipts given by the clerk of the Western circuit to the gaolers of Exeter and Salisbury. One of them is as follows: "Received 1 April 1775 of Mr. Sherry gaoler one pound eight shillings and eight pence for his certificate entitling him to his gaol fees for the county of Devon per J. F Clerk of the Assize.” — The gaoler told me this was for twenty-three acquitted prisoners.
+Since the said act, the clerks of assize in some circuits have started a new demand upon the gaoler, for the judge's certificate of acquitment viz. six shillings and eight pence for the first prisoner acquitted; and a shilling for each of the rest: or two shillings for every one. I have copies of two receipts given by the clerk of the Western circuit to the gaolers of Exeter and Salisbury. One of them is as follows: "Received 1 April 1775 of Mr. Sherry gaoler one pound eight shillings and eight pence for his certificate entitling him to his gaol fees for the county of Devon per J. F**** Clerk of the Assize.” — The gaoler told me this was for twenty-three acquitted prisoners.
 
 I was informed at Durham, that judge Gould, at the assize 1775, laid a fine of fifty pounds on the gaoler for detaining some acquitted prisoners, for the fees of the clerk of assize. But upon the intercession of the Bishop (proprietor of the gaol) the fine was remitted; and the prisoners set at large: the judge ordering the clerk of assize to explain to him in London the foundation of his demand.
 
@@ -428,65 +428,51 @@ One pretence for detaining acquitted prisoners is, that "It is possible other in
 
 Clerks of assize, and of the peace, ought most certainly to have a consideration for their service to the public: the thing I complain of is what I am led to by my subject, that is, the demand that is made directly or indirectly upon acquitted prisoners*.
 
----
+* The clerks of assize give to the judges large sums for their places. One of the present gentlemen gave for his place £2500. On many accounts these places ought not to be bought of the judges. If they were only presented, the fees might be much lower. — The demand from the gaoler for a copy of the judge's calendar is now £1:1:0: whereas his Majesty's Commissioners for inquiring into the officers and their fees, &c. in the Home Circuit, were of opinion that a demand not near so much was enormous, as we see in their report, dated 1st December 1735 (MS. page 21;)
 
-* The clerks of assize give to the judges large sums for their places. One of the present gentlemen gave for his place £2500. On many accounts these places ought not to be bought of the judges. If they were only presented, the fees might be much lower. — The demand from the gaolA for a copy of the judge's calendar is now £1:1:0: whereas his Majesty's Commissioners for inquiring into the officers and their fees. See. in the Home Circuit, were of opinion that a demand not near so much was enormous, as we see in their report, dated 1st December 1735 (MS. page 21; )
+"Paid by the gaoler of the County of Surry for the copy of a calendar - £0 7 6
 
-" Paid by the gaoler of the County of Surry for the copy of a calendar £076 " And by the gaoler of each «f the other countys - 0 5 0
+"And by the gaoler of each of the other countys - 0 5 0
 
-" As to these two last Fees or articles. We are of opinion that they are unreasonable and no ways to be " justified, &c.”
+"As to these two last Fees or articles. We are of opinion that they are unreasonable and no ways to be justified, &c.”
 
-Sect. II. NUMBER OF PRISONERS.
+Sect. II. NUMBER OF PRISONERS. 17
+
+[Gaolers Non-resident.]
 
 Some gaolers live distant from the prison, in houses that do not belong to the county. Non-residence is not consistent with the attention that is requisite for securing the prisoners; and preserving good order, cleanliness, &c. — Over the door of some of the houses of these keepers is wrote, ”Spirituous liquors sold here.”
 
+[Wives and Children,]
+
 Debtors crowd the gaols (especially those in London) with their Wives and children. There are often by this means, ten or twelve people in a middle-sized room; increasing the danger of infection, and corrupting the morals of children. This point ought (no doubt) to be treated with tenderness. Man and wife should not be totally separated; but no women, unless prisoners, should ever be permitted to continue so much as one night in any prison; except, perhaps, when their husbands are dangerously ill. Yet the little probability there is of an industrious woman being of much service to her family in a prison: the number of men in the same room; and of lewd women admitted under the name of wives; prove that this affair needs some regulation.
 
-Some gaols are private property: in these the keepers, protected by the proprietors, and not so subject as other gaolers to the controul of magistrates, are more apt to abuse their prisoners, when a temptation offers. One of these gaols some years ago was quite out of repair, and unsafe; and the proprietor not choosing to repair it, the gaoler to confine his prisoners took a method, that was really shocking *. Some years before that, a prisoner in another of these gaols was tormented with thumb-screws. The grand jury took up the case, and remonstrated to the proprietor; but in vain. I had the account from a worthy friend of mine, who was upon that very jury f.
+[Gaols Private Property.]
 
-Of the complaints, which I have hitherto made only in general terms, I shall give instances in the account of particular prisons. To that account I refer, for evidence and faSt.
+Some gaols are private property: in these the keepers, protected by the proprietors, and not so subject as other gaolers to the controul of magistrates, are more apt to abuse their prisoners, when a temptation offers. One of these gaols some years ago was quite out of repair, and unsafe; and the proprietor not choosing to repair it, the gaoler to confine his prisoners took a method, that was really shocking*. Some years before that, a prisoner in another of these gaols was tormented with thumb-screws. The grand jury took up the case, and remonstrated to the proprietor; but in vain. I had the account from a worthy friend of mine, who was upon that very jury†.
+
+Of the complaints, which I have hitherto made only in general terms, I shall give instances in the account of particular prisons. To that account I refer, for evidence and fact.
 
 NUMBER OF PRISONERS.
 
 In the spring 1776, I summed up carefully the total number of prisoners in the sundry prisons. My list was as follows:
 
-i. In Middlesex, i. e. London and Westminster; together with three prisons in Southwark, viz. the King's Debtors. Felons, &c. Petty Offenders. Total»
+Debtors. - Felons &c. - Petty Offenders. - Total.
 
-Bench, Marshalsea, and Borough-compter, I274 228 194 1696
+1. In Middlesex, i.e. London and Westminster; together with three prisons in Southwark, viz. the King's Bench, Marshalsea, and Borough-compter, - 1274 - 228 - 194 - 1696
 
-2. In the other thirty-nine counties of England, - 752 617 459 1828
+2. In the other thirty-nine counties of England, - 752 - 617 - 459 - 1828
 
-3. In the twelve counties of Wales, - 67 27 — 94
+3. In the twelve counties of Wales, - 67 - 27 - 0 - 94
 
-4. In city and town-gaols, - 344 122 — 4 66
+4. In city and town-gaols, - 344 - 122 - 0 - 466
 
-2437 994 653 4084
+2437 - 994 - 653 - 4084
 
-See account of Ely gaol. f Durham,
+* See account of Ely gaol.
 
-D Petty
+† Durham.
 
-*7
-
-Gaolers
-
-Non-resident.
-
-Wives
-
-AND
-
-Children
-
-Gaols
-
-Private
-
-Property
-
-18
-
-NUMBER OF PRISONERS.
+18 NUMBER OF PRISONERS.
 
 Petty offenders in the Welsh county gaols, blank in the third column third line, are included in the preceding number of felons, &c. 27: most of the gaols in those counties being also the county bridewells.
 
@@ -496,45 +482,47 @@ All that were in the county-gaols besides debtors, I have reckoned in the list o
 
 In the third column, under petty offenders are included a few felons occasionally committed to bridewells.
 
-I have found by carefully examining sundry gaols, that, upon an average, two dependants (by which I mean wives and children *) may be assigned to each man in prison. My computation is confirmed by the account which we have from the benevolent society at the Thatched-house, March 27, 1782, as follows. Since their institution in 1772,
+I have found by carefully examining sundry gaols, that, upon an average, two dependants (by which I mean wives and children*) may be assigned to each man in prison. My computation is confirmed by the account which we have from the benevolent society at the Thatched-house, March 27, 1782, as follows. Since their institution in 1772,
 
-Discharged debtors, 7196
+Discharged debtors, - 7196
 
 who had wives, - 4328
 
-and children, 13126
+and children, - 13126
 
-Persons immediately benefited, 24650.
+Persons immediately benefited, - 24650.
 
-We have farther confirmation by the account from the Bristol society; who in their lift published May 31, 1775, have
+We have farther confirmation by the account from the Bristol society; who in their list published May 31, 1775, have
 
-Persons discharged, 73
+Persons discharged, - 73
 
-who had wives, *45
+who had wives, - 45
 
-and children, 120
+and children, - 120
 
 Total 238.
 
-And I find by the account of the society for the discharge of persons imprisoned for small debts in Dublin, that a greater number of dependants are there assigned. For the number of persons discharged by the society from the "institution on the 15th of May 1775, to May 1782, was - 1134
+And I find by the account of the society for the discharge of persons imprisoned for small debts in Dublin, that a greater number of dependants are there assigned. For the number of persons discharged by the society from the institution on the 15th of May 1775, to May 1782, was - 1134
 
-Dependants on them, 3611
+Dependants on them, - 3611
 
-Total relieved 4745.
+Total relieved - 4745.
 
-Each of these totals is considerably larger than the respective products of multiplication by my rule: the first exceeds by 3062, the second by 19, and the last by 1343. — There is indeed commonly a surplus among debtors; but a deficiency among felons, &cq. reduces the average of dependants to that which I stated.
+Each of these totals is considerably larger than the respective products of multiplication by my rule: the first exceeds by 3062, the second by 19, and the last by 1343. — There is indeed commonly a surplus among debtors; but a deficiency among felons, &c. reduces the average of dependants to that which I stated.
 
-I do not include parents, many of whom I have seen sorrowfully attending at prisons, and deeply sharing in the distress arising from the confinement of their children.
+* I do not include parents, many of whom I have seen sorrowfully attending at prisons, and deeply sharing in the distress arising from the confinement of their children.
 
-PROPOSED IMPROVEMENTS. 19
+Sect. III. PROPOSED IMPROVEMENTS. 19
 
-If then to the total number in England and Wales, that is, 4084 You add twice that number of dependants, 8168
+If then to the total number in England and Wales, that is, - 4084
 
-The number of the distressed is, 1225a.
+You add twice that number of dependants, - 8168
 
-It appears from the foregoing table of prisoners, that theit number has been greatly magnified by conjectural computations; but surely the real numbers, with those partaking of their distress, is an object worthy the farther attention of the legislature.
+The number of the distressed is, - 12252.
 
-It may afford some satisfaction to my readers, to see at one view the number of prisoners in the counties of England and Wales, in 1779, and 1782* A table for this purpose shall be inserted at the end of the book.
+It appears from the foregoing table of prisoners, that their number has been greatly magnified by conjectural computations; but surely the real numbers, with those partaking of their distress, is an object worthy the farther attention of the legislature.
+
+It may afford some satisfaction to my readers, to see at one view the number of prisoners in the counties of England and Wales, in 1779, and 1782. A table for this purpose shall be inserted at the end of the book.
 
 SECTION III.
 
@@ -544,61 +532,25 @@ IN THE STRUCTURE AND MANAGEMENT
 
 OF PRISONS.
 
-HOWEVER sanguinary the wish of an angry creditor maybe when he arrests and-imprisons his debtor; there is no doubt but every one who listens, not -to his passions but to reason, must know and will own, that it is a flagrant crime to take away the life of a man for debt. And as to felony, a gaol is not designed for the final punishment even of that; but for the Jafe custody of the accused to the time of trial, and of convicts till a legal sentence be executed upon them. c< Humane <( treatment debtors have a claim to; nor can we confidently with any good " principle, either of morals or government, refuse the same to persons accused, <c or even to the most atrocious convicts.” Principles of Penal Law, page 52. The
+HOWEVER sanguinary the wish of an angry creditor maybe when he arrests and imprisons his debtor; there is no doubt but every one who listens, not to his passions but to reason, must know and will own, that it is a flagrant crime to take away the life of a man for debt. And as to felony, a gaol is not designed for the final punishment even of that; but for the safe custody of the accused to the time of trial, and of convicts till a legal sentence be executed upon them. "Humane treatment debtors have a claim to; nor can we confidently with any good principle, either of morals or government, refuse the same to persons accused, or even to the most atrocious convicts.” Principles of Penal Law, page 52. The
 
-HO
+20 PROPOSED IMPROVEMENTS.
 
-PROPOSED IMPROVEMENTS.
+laws of England do not suffer private executions. No condemned malefactor may be secretly put to death; nor murdered in a prison directly or indirectly; much less ought those to be destroyed there whose sentence does not affect their life. Their destruction is not only unjust; it is inconsistent with prudence and sound policy. They might, no doubt, be useful at home or abroad; if proper care were taken of them in prison, to keep them healthy and fit for labour. But certain it is, that many of those who survive their long confinement, are by it rendered incapable of working. Some of them by scorbutic distempers; others by their toes mortified, or quite rotted from their feet; many instances of which I have seen. Messrs. Stephenson and Randolf of Bristol, great contractors for transport convicts, complained of this to Mr. Biggs, gaoler at Salisbury, in their letter to him Sept. 13, 1774. I will transcribe their words. "Sore feet prove very fatal. The mortality we met with in our last of ship, if repeated in this, will so surfeit us, that we shall never take another. We lost an immense sum by them; and our ship is detained to this moment under quarantine.”
 
-laws of England do not suffer private executions. No condemned malefactor may be secretly put to death; nor murdered in a prison directly or indirectly; much less ought those to be destroyed there whose sentence does not affect their life. Their destruction is not only unjust; it is inconsistent with prudence and found policy. They might, no doubt, be useful at home or abroad; if proper care were taken of them in prison, to keep them healthy and fit for labour. But certain it is, that many of those who survive their long confinement, are by it rendered incapable of working. Some of them by scorbutic distempers; others by their toes mortified, or quite rotted from their feet 5 many instances of which I have seen. Messrs. Stephenson and Randolf of Bristol, great contractors for transport convicts, complained of this to Mr. Biggs, gaoler at Salisbury, in their letter to him Sept. 13, 1774. I will transcribe their words. " Sore feet prove very fatal. The mortality we met with in our last of ship, if repeated in this, will so surfeit us, that we shall never take another. We loft an immense sum by them; and our ship is detained to this moment under quarantine.”
-
-If one who has turned king's evidence, or has been barely acquitted upon trial; terrified by his narrow escape, seeks for honest employment; he is commonly such a sickly miserable figure, that no one will set him to work. That, I believe, is the principal cause of his being rejected; for there are several forts of labour that require but little confidence: yet the poor acquitted prisoner shall go from door to door asking for work, in vain. Is it not-to be lamented, that every spark of good intention, instead of being cherished, should be thus extinguished ? and that the penitent should by an almost irresistible necessity be driven again, though reluctant, to the practice which soon brings him back to his former mansion; and Shortens a wretched life, that might have been, that fain would have been, an useful one
+If one who has turned king's evidence, or has been barely acquitted upon trial; terrified by his narrow escape, seeks for honest employment; he is commonly such a sickly miserable figure, that no one will set him to work. That, I believe, is the principal cause of his being rejected; for there are several aorts of labour that require but little confidence: yet the poor acquitted prisoner shall go from door to door asking for work, in vain. Is it not to be lamented, that every spark of good intention, instead of being cherished, should be thus extinguished? and that the penitent should by an almost irresistible necessity be driven again, though reluctant, to the practice which soon brings him back to his former mansion; and shortens a wretched life, that might have been, that fain would have been, an useful one
 
 In order to redress these various evils, the first thing to be taken into consideration is the prison itself. Many county-gaols and other prisons are so decayed and ruinous, or, for other reasons, so totally unfit for the purpose, that new ones must be built in their stead. Others are very incommodious, but may be improved upon the ground about them, which is occupied by the keeper, or not used at all. Some need little more than a thorough repair. In order to give what little assistance I can to those who must build a new county gaol, I will take the liberty to suggest what hath occurred to me upon this head, in hopes that some more skilful hand will undertake the generous and benevolent talk of carrying to perfection a scheme, of which I can only draw the outlines. But first I will say a word of the
 
-SITUATION.
+[Plate.]
 
-Flezte j
-
-Plan for a,
-
-County Gaojl.
-
-Fnmiof Gaok/f/JfottjeScJDe'/do/v Tffeed. flei-hf
-
-Cre/i, (hyper. Uh Closets
-
-Women, F'dfee/u Weird
-
-J/i/ermeiiy
-
-Court Sc Wei rd-
-
-Yewnjf CriMi eiil/j gf
-
-elCiamSirs
-
-'l^p!tfl?77rv
-
-^FeevDeSeteno CdercSc, Weed.
-
-SMe>n,jft:/o?ij Con? S Sc Wee d
-
-(raUii aj /cir a /art
-
-N
-
-SczF of t/i&TVAa/e- 8$Frofwrtcosiy ofyt/i& tv /e t/efarmtmd of J°rrjo?serj.
-
-PROPOSED IMPROVEMENTS.
-
-n
+Sect. III. PROPOSED IMPROVEMENTS. 21
 
 SITUATION.
 
-A County Gaol, and indeed every prison, should be built on a spot that is airy, and if possible near a river, or brook. I have commonly found prisons situated near a river, the cleaned: and most healthy. They generally have not (they could not well have) subterraneous dungeons, which have been so fatal to thousands: and by their nearness to running water, another evil, almost as noxious,' is prevented, that is the stench of sewers.
-
-I said a gaol should be near a stream; but I mud: annex this caution, that it be not so near as that either the house or yard shall be within the reach of doods. This circumstance was so little thought of at Appleby in Westmorland, when their new gaol was first building, that I saw the walls marked from nine inches to three feet high by floods.
+A County Gaol, and indeed every prison, should be built on a spot that is airy, and if possible near a river, or brook. I have commonly found prisons situated near a river, the cleanest and most healthy. They generally have not (they could not well have) subterraneous dungeons, which have been so fatal to thousands: and by their nearness to running water, another evil, almost as noxious, is prevented, that is the stench of sewers.
+---
+I said a gaol should be near a stream; but I must annex this caution, that it be not so near as that either the house or yard shall be within the reach of doods. This circumstance was so little thought of at Appleby in Westmorland, when their new gaol was first building, that I saw the walls marked from nine inches to three feet high by floods.
 
 If it be not practicable to build near a stream; then an eminence should be chosen: for as the walls round a prison mud: be so high as greatly to obstruct a free circulation of air, this inconvenience should be lessened by a riling ground. And the prison should not be surrounded by other buildings; nor built in the middle of a town or city.
 
@@ -607,8 +559,6 @@ PLAN.
 THE annexed engraving represents such a plan for a prison as, according to my ideas, unites the greatest advantages with regard to security, health, and order. By the assistance of the references, it will explain itself better than can be done by a verbal description. I shall only subjoin a few general remarks on some particulars in the structure.
 
 That part of the building which is detached from the walls, and contains the men-felons ward, may be square, or red angular, raised on Arcades, that it may be more airy, and leave under it a dry walk in wet weather. These wards over arcades are also belt for' safety, for I have found that escapes have been most commonly effected by under-mining cells and dungeons. When I went into Horsham gaol with the keeper, we saw a heap of Hones and rubbish. The felons had been for two or three days undermining the foundation of their room; and a general escape was intended that night. We were but just in time to prevent it; for it was almost night when we went in Our lives were at their mercy: but (thank God) they did not attempt to murder us, and rush out. — If felons should find any other means to break out of this raised ward, they will still be flopped by the wall of the court, which is the principal security; and the
-
-walls
 
 Arcades.
 
@@ -708,21 +658,19 @@ Gaoler.
 
 26 PROPOSED IMPROVEMENTS.
 
-Tap. suffered to hold the Tap; 'or to have any connexion, concern, or interest whatever in the sale of liquors of any kind. Gaolers who hold, or let> the tap, find their account in not dnly conniving at, but promoting 'drunkenness and midnight revels, so that most of our gaols are riotous ale-houses and brothels. What profligate and debauched company of both sexes, do we see let into our gaols, that the tap may be kept running! Even condemned criminals are sometimes heated with liquor till they become outrageous, as Lewis was, who wa9 executed at Leicester in 1782. Besides this, the gaoler's interest in the sale of liquors, may prompt him to be partial in his behaviour to his prisoners; to treat at least with neglect, those who are poor and have nothing to speind; which is the case of far the greater number: while he shall caress dishonets debtors, who take shelter in a prison*, in order to live there in riot upon the property of their creditors. I am persuaded there would be fewer debtors in prison if there were no taps, and they were restrained from riot and drunkenness.
+Tap. suffered to hold the Tap; 'or to have any connexion, concern, or interest whatever in the sale of liquors of any kind. Gaolers who hold, or let> the tap, find their account in not dnly conniving at, but promoting 'drunkenness and midnight revels, so that most of our gaols are riotous ale-houses and brothels. What profligate and debauched company of both sexes, do we see let into our gaols, that the tap may be kept running! Even condemned criminals are sometimes heated with liquor till they become outrageous, as Lewis was, who wa9 executed at Leicester in 1782. Besides this, the gaoler's interest in the sale of liquors, may prompt him to be partial in his behaviour to his prisoners; to treat at least with neglect, those who are poor and have nothing to speind; which is the case of far the greater number: while he shall caress dishonest debtors, who take shelter in a prison*, in order to live there in riot upon the property of their creditors. I am persuaded there would be fewer debtors in prison if there were no taps, and they were restrained from riot and drunkenness.
 
 I know that by the statute of 32d George II. a debtor has a right to send out of the gaol for liquor and other necessaries *. This is a very judicious provision; and very beneficial to prisoners, where they have the free use of it*f\ But some keepers there are, who find ways to restrain this privilege, for the profits of their tap: whereas if they were prohibited from all concern in the sale of liquor, this would not only remove that check, and restore to prisoners the enjoyment of the liberty they are entitled to; but would also be the means of suppressing much intemperance; and perhaps of abolishing garnish, as well as clubs or night associations.
 
 That it is necessary to deprive gaolers of all profits arising from the tap, I am convinced, not by mere speculation, but by what I have learned from conversation with gaolers themselves. I asked two of them, whom I found candid and intelligent, "What they thought would be the most likely means of effecting a thorough reformation in gaols?” The answer I had from both, was to this purpose, "Let no licences be granted for selling beer or wine in gaols: let it be made some other <e way worth our while to keep them.”
-
-Gaolers should have salaries proportioned to the trust and trouble; since no office, ifj faithfully and humanely administered, better deserves an adequate encouragement: yet not so much as to raise them above attention to their duty, and the daily inspection of their gaols.
+---
+Gaolers should have salaries proportioned to the trust and trouble; since no office, if faithfully and humanely administered, better deserves an adequate encouragement: yet not so much as to raise them above attention to their duty, and the daily inspection of their gaols.
 
 The Gaol-Committee, which I have mentioned before, in their report of the Marshalsea prison, 14th May 1729, after enumerating many mischiefs which they
 
-Wi'neisnot necessary, therefore I could wilhit Were under the same restriction as spirituous liquors in all prisons.
+* Wine is not necessary, therefore I could wish it were under the same restriction as spirituous liquors in all prisons.
 
-f " At his free will and pleasure, to fend for, or to have brought to him — at seasonable times in the day time, any beer, ale, victuals, or any other necessary food.”
-
----
+† "At his free will and pleasure, to send for, or to have brought to him — at seasonable times in the day time, any beer, ale, victuals, or any other necessary food.”
 
 Sect. III. PROPOSED IMPROVEMENTS. 27
 
@@ -992,7 +940,7 @@ J The notion, that convicts are ungovernable, is certainly erroneous. There is a
 
 Chaplain.
 
-for his own good. — The keeper should, by all means, reside in the house. He should not be suffered to farm any part of the allowance: nor to sell liquor, or any thing else. I have often observed, that bridewells are cleaner and quieter where keepers have no licence. He should have no fees *, but a salary proportioned to the trust, that he may not be obliged to follow any business out of the house. — The whole management should be frequendy examined, in the same manner as that of a gaol, and by the same fort of inspectors. — In the house there should be a room for the magistrates, as there is in foreign houses of correction, similar to the governors room in hospitals, and in the houses of industry in Suffolk and.Norfolk. The courts of justice fat in the prisons in Scotland formerly] and this is still the case in some of the towns. This would be attended with many advantages. Mr. Henry Fielding remarks, that <c The sufferings of the poor are indeed less observed than their misdeeds; not from " any want of companion, but because they are less known; and this is the true <c reason why we so often hear them mentioned with abhorrence, and so seldom with " pity.”
+for his own good. — The keeper should, by all means, reside in the house. He should not be suffered to farm any part of the allowance: nor to sell liquor, or any thing else. I have often observed, that bridewells are cleaner and quieter where keepers have no licence. He should have no fees *, but a salary proportioned to the trust, that he may not be obliged to follow any business out of the house. — The whole management should be frequently examined, in the same manner as that of a gaol, and by the same fort of inspectors. — In the house there should be a room for the magistrates, as there is in foreign houses of correction, similar to the governors room in hospitals, and in the houses of industry in Suffolk and.Norfolk. The courts of justice fat in the prisons in Scotland formerly] and this is still the case in some of the towns. This would be attended with many advantages. Mr. Henry Fielding remarks, that <c The sufferings of the poor are indeed less observed than their misdeeds; not from " any want of companion, but because they are less known; and this is the true <c reason why we so often hear them mentioned with abhorrence, and so seldom with " pity.”
 
 I have before said, that I am no advocate for luxury in prisons; for I would have no meat diet for criminals in houses of correction, or at most, only on Sundays. Yet I would plead, that they should have a pound and a half of good household bread a day, and a quart of good beer: besides twice a day a quart of warm soup made from pease, rice, milk or barley. For a change they might sometimes have turnips, carrots, or potatoes. It may be said, this diet will starve those who work in houses of correction: but I am persuaded of the contrary; by what I have seen abroad, in the galleys, in the houses of correction, and among the most robust labourers. Though I am sensible that persons confined, whose minds are depressed, need more nourishment than such as are at liberty.
 
@@ -1270,13 +1218,13 @@ I here give the plan of the house taken by the builder, who has been particularl
 
 The old house of correction was burnt down about ten years since, and seven women perished in the flames. In the construction of the new prison, proper precautions were taken against such an accident, by laying the beams, or large joists edgeways, ealing the two undersides of them with iron plates, and arching the space with, brick work.
 
-At La Porte,- the prison at Gouda, there is a small room for debtors, which the keeper informed me had not been occupied since 1761. There are many (oBagon) rooms, but all empty: some are assigned to those who are committed for small offences, and kept to bread and water, for which there is an allowance to each of them of three stivers a day. — In the Spin-house the prisoners were all employed in carding and spinning wool for ftoclcings. On observing little towels hanging in a room, they told me, that each of them had one clean every week. Here were some prisoners from the Hague, and other towns which have no rasp-houses, who were admitted at a stipulated annual sum, of about a hundred and ten florins for each, besides fifteen for clothing. — Near this city is enclosed a triangular gallows, with an. inscription over the gate,
+At La Porte, the prison at Gouda, there is a small room for debtors, which the keeper informed me had not been occupied since 1761. There are many (octagon) rooms, but all empty: some are assigned to those who are committed for small offences, and kept to bread and water, for which there is an allowance to each of them of three stivers a day. — In the Spin-house the prisoners were all employed in carding and spinning wool for stockings. On observing little towels hanging in one room, they told me, that each of them had one clean every week. Here were some prisoners from the Hague, and other towns which have no rasp-houses, who were admitted at a stipulated annual sum, of about a hundred and ten florins for each, besides fifteen for clothing. — Near this city is inclosed a triangular gallows, with an inscription over the gate.
 
-Re hie faciendo neminem timeas.
+Recte faciendo neminem timeas.
 
 The best translation of which may be the words of Scripture,
 
-‘The righteous is bold as a lion.
+”The righteous is bold as a lion.”
 
 At Delft over the gate of the house of correction (Tucht en Dol-huis) there is a representation of two men raping logwood, and the city arms, dated 1682. At my first visit here, were near ninety of both sexes, and in 1781, forty-seven men and thirty-six women. The men and women were quite separate; all neat and clean, and looked healthy. They told me their allowance was five stivers a day. All were employed on a woollen manufacture — women spinning, carding, &:c. — men weaving from coarse to very fine cloth: their talk, to earn thirty-five stivers a week. Some earn a small surplus, but they have only half of it. A burgomaster, to whom I mentioned that circumstance, said it was the truth. They do not put more than eight or ten men to work in one room: for when large numbers are together, one idle person corrupts more; and there is not generally so much work done. Here also, if a prisoner has behaved well for a few years, and given proofs of amendment, the magistrates begin to abridge the time for which he was sentenced. One whom I saw very cheerful, told me the cause of his joy was, that a year had lately been taken from his term.
 
@@ -1312,7 +1260,7 @@ At Harlem, the Spin-house (which is the work-house or poor-house) being old, is 
 
 Harlem Hospital?
 
-In this city (as in some others) is a noble Hospital, airy and spacious, called the Proeveniers, in which the persons admitted are decently provided with meat, drink and lodging during their lives, and a burying place at their decease. Persons of all ages from twenty to the most advanced period are admitted, though it is not common for any under forty to apply for admission. At entrance, each person pays a greater or smaller sum, according to his age, as by the table in the note *. A common table is provided for all who are not sick or infirm. If any after residing some time, choose to have their victuals brought to their rooms, rather than eat in common, they mufl pay for that privilege according to their age, one fifth part of the sum that would be required for admission at that age. For example — if a person of seventy years of age
+In this city (as in some others) is a noble Hospital, airy and spacious, called the Proeveniers, in which the persons admitted are decently provided with meat, drink and lodging during their lives, and a burying place at their decease. Persons of all ages from twenty to the most advanced period are admitted, though it is not common for any under forty to apply for admission. At entrance, each person pays a greater or smaller sum, according to his age, as by the table in the note *. A common table is provided for all who are not sick or infirm. If any after residing some time, choose to have their victuals brought to their rooms, rather than eat in common, they must pay for that privilege according to their age, one fifth part of the sum that would be required for admission at that age. For example — if a person of seventy years of age
 
 Age. Sum.
 
@@ -1422,9 +1370,9 @@ fune 1781, The First week. 176. In June 1783, The First week, 168.
 
 Second week. 159. Second week, 193.
 
-William Petty in his Trails, p. 186. gives for the year 1683 the number of burials in Amsterdam
+William Petty in his Tracts, p. 186. gives for the year 1683 the number of burials in Amsterdam
 
-6245. Perhaps the above computation of the number of inhabitants in Amsterdam is too great; though, if I mistake not, Mr. KarJJeboom estimated them at 243,000. And of late, many Jews banished from other countries, have made an addition to the number: but Dr. Price reckons, that they hardly amount to 200,000. See his Observations on Reversionary Payments, p. 186,187. 3d edit.
+6245. Perhaps the above computation of the number of inhabitants in Amsterdam is too great; though, if I mistake not, Mr. Karsseboom estimated them at 243,000. And of late, many Jews banished from other countries, have made an addition to the number: but Dr. Price reckons, that they hardly amount to 200,000. See his Observations on Reversionary Payments, p. 186,187. 3d edit.
 
 Harlem Hospital.
 
@@ -1454,15 +1402,15 @@ There are two places in this country, Viane and Culenburg, (not far from Utrecht
 
 Sect.IV. HOLLAND.
 
-I was converting upon the subject of English prisons, said, " Nourish your prisoners Amster-well, and keep them in dry rooms, and they will be healthy
+[Amsterdam
+
+I was conversing upon the subject of English prisons, said, " Nourish your prisoners well, and keep them in dry rooms, and they will be healthy
 
 The children of the malefactors who are executed, and of those who are committed for a long term, to the rasp, or spin-house, are sent to the orphan-house, and there brought up in industry, and not left destitute vagabonds to become unhappy victims to the wickedness and folly of their parents.
 
-At the Rasp-house over the gate, there is in has relief \ a device of a man driving Rasp-
+[Rasp-house.]
 
-a waggon loaded with logwood, drawn by lions, wild boars, and tigers, with this inscrip- HOUSE*
-
-tion,
+At the Rasp-house over the gate, there is in has relief \ a device of a man driving a waggon loaded with logwood, drawn by lions, wild boars, and tigers, with this inscription,
 
 Virtutis eft domare Quce cunEli pavent.
 
@@ -1476,17 +1424,9 @@ At Amsterdam, June 5, 1778, the two-stiver loaf of white bread weighed exactly I
 
 of It may be proper to mention, that these regents have no salaries, but only foine privileges and honorary distinctions; as exemption from the city watch.; liberty of free entrance after one of the city gates is shut; and a deacon's feat in the church.
 
-I
-
-must
-
 58 FOREIGN PRISONS.
 
-Amsterdam
-
-Rasp-
-
-house.
+Amsterdam Rasp-house.
 
 must never be absent a night, without special permission. He is severely punished if any prisoner escapes. He must register in order all acts concerning commitments and discharges, and produce them to the regents when required. Also he must keep an exact register of the clothes, and all other things which belong to those confined.
 
@@ -3510,7 +3450,7 @@ This great building is to; be a receptacle for the aged and infirm, and for begg
 
 The galley-slaves have an hospital on the Shore fronting the bay, entirely appropriated to them and their guards J. It has four or five spacious and airy wards, cleaner than most of the other hospitals in this city. One of these rooms is only for the guard of the marine. The patients are distinguished into three clafies; very ill — sick — and recovering. Great attention is paid to them: and they are allowed good bread in sufficient quantity.
 
-The great and crowded Hospitals of S. Apoftoli and UAnnunziazione, have wards appropriated to the cure of wounded persons ((.
+The great and crowded Hospitals of S. Apostoli and UAnnunziazione, have wards appropriated to the cure of wounded persons ((.
 
 The Hospital of the Benfratelli, or S. Gio di Dio, is clean and elegant. It consists chiefly of one lofty ward; at one end of which is an altar and a room for poor priests; and at the other end, a table, on which are placed the patients victuals. Near this table was inscribed a reference to the apposite words of Scripture, Matthew xxv. 35, 36. For I was an hungred, and ye gaye me meat: &c.
 
@@ -3538,7 +3478,7 @@ In one of the Galleys just returned from conveying some noblemen to their countr
 
 The hospital for these galleys is on floore; and in it are hung up the regulations, which consist chiefly of such orders as the following:
 
-" That five superintendents shall be appointed by the magistrates, who every month shall draw lots, to determine which of the galleys they are to inspect. — That exact lifts of the crews, and of the sick in the infirmary, with an account of die time of their ad million, shall be taken and kept, with the assistance of the physician, chaplain, and surgeon. — That the secretary shall keep a register of all things necessary to be provided; bread, wine, meat, pease,. beans, rice, &c. &c. — That four caldrons of broth shall be allowed weekly to a galley, besides kettles of broth statediy given them in the three winter months. — That when the superintendents discontinue the allowance of meat, cheese, oil, and stockfish, the chaplain shall see that each of the slaves be served daily
+" That five superintendents shall be appointed by the magistrates, who every month shall draw lots, to determine which of the galleys they are to inspect. — That exact lists of the crews, and of the sick in the infirmary, with an account of die time of their ad million, shall be taken and kept, with the assistance of the physician, chaplain, and surgeon. — That the secretary shall keep a register of all things necessary to be provided; bread, wine, meat, pease,. beans, rice, &c. &c. — That four caldrons of broth shall be allowed weekly to a galley, besides kettles of broth statediy given them in the three winter months. — That when the superintendents discontinue the allowance of meat, cheese, oil, and stockfish, the chaplain shall see that each of the slaves be served daily
 
 120 FOREIGN PRISONS.
 
@@ -3946,11 +3886,11 @@ FOREIGN PRISONS.
 
 each; for spinning which, thirteen foils*were paid. I found, by the books, that at first coming, some did not earn more than seven or eight sous in a week, but soon after they earned from twelve to fourteen. Rye bread (to the value of half a fiver each meal) and water, was their allowance; and whatever they had more than this, they were required to pay for out of their earnings. They were obliged to put on clean linen every week, towards washing which each paid a sou. The stoves were heated twice a day, and candles and lamps were provided, at the expence of the magistrates.
 
-There were three rooms for the ungovernable. One of them (the penitentiary room) had a floor made of pieces of wood laid edgeways four inches asunder. The prisoner was chained in the middle of this floor, so that he could move but a few steps; and being allowed no shoes or {lockings, whether he flood or laydown, he mufl have been in a very uneasy posture. This room therefore was dreaded by the prisoners. The other rooms were abodes so dark and solitary, as to be almost equally dreadful.
+There were three rooms for the ungovernable. One of them (the penitentiary room) had a floor made of pieces of wood laid edgeways four inches asunder. The prisoner was chained in the middle of this floor, so that he could move but a few steps; and being allowed no shoes or {lockings, whether he flood or laydown, he must have been in a very uneasy posture. This room therefore was dreaded by the prisoners. The other rooms were abodes so dark and solitary, as to be almost equally dreadful.
 
 The men were never suffered to go out, except on Sundays and other holydays, when they went to the chapel, in which they had feats below. The women fat in a gallery, with a lattice of wood before them. Here, and also in the prison, a table of regulations was hung up, which was read in public by the chaplain, the first Sunday after the entrance of every prisoner. — These regulations consisted of thirty-flx articles, from which I have taken the following extracts.
 
-<c The prisoners mufl be submissive to the keeper and to his wife; and if they think themselves injured, mufl complain to the regents. — The times fixed for rising are, at half after fix in the morning from December ift to February 15th, and all the rest of the year at five, or half after five; but on Sundays and holydays at fix. — The times of meals aFe fixed at seven, twelve, and seven. The prisoners are allowed, at their own expence, at breakfast a pint of tea; and at dinner soup or broth, or a pint of tea or final! beer, and at supper the same quantity of tea or beer; and on Sundays and other holydays a certain quantity of boiled meat: and every week a pound of butter, and fruit to the value of half a stiver. — Every day the keeper is obliged to prepare two forts of soup or broth, and at seven in the morning to give the prisoners their choice of either fort, or none. — After service on Sundays, the men are permitted to walk in the court, and the women in the gallery half an hour, under the inspection of the keeper and officers. — They forfeit half a stiver, every time they curse or swear, or make a disturbance in the chapel; and also every time they are not up in half an hour after they are awakened by the keeper, and for every hour they sleep longer. — If they persist in insulting the keeper or his wife; after admonition, they pay a stiver, and are also punished by having their doors or windows fast closed up.-- If they make any noise or disturbance after nine at night
+<c The prisoners must be submissive to the keeper and to his wife; and if they think themselves injured, must complain to the regents. — The times fixed for rising are, at half after fix in the morning from December ift to February 15th, and all the rest of the year at five, or half after five; but on Sundays and holydays at fix. — The times of meals aFe fixed at seven, twelve, and seven. The prisoners are allowed, at their own expence, at breakfast a pint of tea; and at dinner soup or broth, or a pint of tea or final! beer, and at supper the same quantity of tea or beer; and on Sundays and other holydays a certain quantity of boiled meat: and every week a pound of butter, and fruit to the value of half a stiver. — Every day the keeper is obliged to prepare two forts of soup or broth, and at seven in the morning to give the prisoners their choice of either fort, or none. — After service on Sundays, the men are permitted to walk in the court, and the women in the gallery half an hour, under the inspection of the keeper and officers. — They forfeit half a stiver, every time they curse or swear, or make a disturbance in the chapel; and also every time they are not up in half an hour after they are awakened by the keeper, and for every hour they sleep longer. — If they persist in insulting the keeper or his wife; after admonition, they pay a stiver, and are also punished by having their doors or windows fast closed up.-- If they make any noise or disturbance after nine at night
 
 A fou is about a halfpenny* A JUvtr is about a penny,
 
@@ -5016,7 +4956,7 @@ FRANCE.
 
 *77
 
-The Hospital of Saint-Louis Hands out of the city. There is a considerable ascent to the wards, and there is no floor over them. They were dirty and noisy, and in many of the beds there were three patients. — 'According to the lifts I procured at my visits in 1783, the number of patients was.
+The Hospital of Saint-Louis Hands out of the city. There is a considerable ascent to the wards, and there is no floor over them. They were dirty and noisy, and in many of the beds there were three patients. — According to the lists I procured at my visits in 1783, the number of patients was.
 
 May 6, Hotel-Dieu. 1709> St. Louis. — 662.
 
@@ -5072,11 +5012,11 @@ The Quinze-vingts hospital was founded in 1260 for the accommodation of three hu
 
 An infirmary is designed, and oculifts are to be appointed, who, besides attending the infirmary, are to attend twice in the week to give advice to others who may apply to them. An annual sum is likewise to be offered for the best distertation on disorders of the eyes. — This hospital is a privileged place: and a chapel belongs-to it in which divine service is constantly performed.
 
-At the Foundling-hospital near the Hotel-Dieu, the infants lie in neat cradles with white furniture. May 21, 1783, there were here only fifty, the reason of which is, that they are sent into the country soon after they are received. They remain in the country five or six years, and when they are brought back, most of the girls are placed at S alp e trier e, and the rest with the boys in the suburb of St. Antoine; in which last place there were at this time four hundred and fifty boys and girls. — I learned from the 7 lifts
+At the Foundling-hospital near the Hotel-Dieu, the infants lie in neat cradles with white furniture. May 21, 1783, there were here only fifty, the reason of which is, that they are sent into the country soon after they are received. They remain in the country five or six years, and when they are brought back, most of the girls are placed at S alp e trier e, and the rest with the boys in the suburb of St. Antoine; in which last place there were at this time four hundred and fifty boys and girls. — I learned from the
 
 Sect. IV. FRANCE.
 
-lifts which are made out every month, that the whole number of foundlings on this foundation on the ift of May 1783, was thirteen thousand seven hundred and eighty; seven. }
+lists which are made out every month, that the whole number of foundlings on this foundation on the ift of May 1783, was thirteen thousand seven hundred and eighty; seven. }
 
 In the provincial gaols I saw little worth noting, but what has been already mentioned at Paris. These also have charitable patronefifes, who take care that the prisoners be not defrauded of their allowance; and procure them.farther relief. But these prisons do not seem to be so carefully inspected as those in the city; although the arrets of parliament for regulation of both are for the most part similar, and were made in the same year, 1717. They are drawn up with found judgment, and accurate knowledge of the complex subject. I found many articles of them in the laws of other nations; but cannot say whether the French arrets were compiled from them, or followed by them*.
 
@@ -5350,7 +5290,7 @@ Forton.
 
 There were a thousand and sixty-two French prisoners in the prison at Winchester, March 2, 1779. The wards are lofty and spacious. The area large. The meat and beer were good: but the bread (being made with leaven and mixed with rye) was not so good as that at Bristol *. If two or three of the rooms had been used as work-rooms, the health of the prisoners would have been promoted, and they would not have been indolently lying in their hammocks in the day-time; as I observed they were, both here and at Millprison.
 
-Several prisoners were confined in the dark hole. — Forty days confinement on half allowance, in order to pay ten shillings to those that apprehend them after escapes, seems to be too severe a punishment. On such occasions, the observation of the worthy magistrates at Bern always occurs to my mind, " that every one mufl be desirous of regaining liberty.”
+Several prisoners were confined in the dark hole. — Forty days confinement on half allowance, in order to pay ten shillings to those that apprehend them after escapes, seems to be too severe a punishment. On such occasions, the observation of the worthy magistrates at Bern always occurs to my mind, "that every one must be desirous of regaining liberty.”
 
 The hospital wards were lofty, and upwards of twenty feet wide. Each patient had a cradle, bedding and sheets; and the surgeon paid them great attention f.
 
@@ -5406,7 +5346,7 @@ Deal.
 
 agents
 
-i88
+188
 
 Deal
 
@@ -5464,13 +5404,11 @@ At Liverpool, Nov. 30, 1779, were five hundred and nine prisoners of war, all Fr
 
 Pembroke.
 
-Prisoners
+Prisoners of War.
 
-OF
+Chester.
 
-War.
-
-Chester. Liverpool.
+Liverpool.
 
 Received
 
@@ -5500,7 +5438,7 @@ Here, as well as at all the other places throughout the kingdom where French pri
 
 The prison in the fortress at Hull consists of several rooms, with two tier of shelves for the straw, or beds. There were only fifty-one Dutch prisoners, Jan. 30, 1782, many having been lately sent to Shrewftniry. These prisoners were sensible of the attention paid them by Mr. Kirman the surgeon and agent.
 
-In the Castle at Lincoln, Feb. i, 1782, I found eight Dutch prisoners, who had been taken ill on their march from Hull to Shrewsbury. One of them, an old man, died the next day; the rest recovered. Their allowance was six-pence a day, and they were kindly supplied from a collection made by Dr. Stinton, chancellor of Lincoln.
+In the Castle at Lincoln, Feb. 1, 1782, I found eight Dutch prisoners, who had been taken ill on their march from Hull to Shrewsbury. One of them, an old man, died the next day; the rest recovered. Their allowance was six-pence a day, and they were kindly supplied from a collection made by Dr. Stinton, chancellor of Lincoln.
 
 At Shrewsbury, in a large and elegant building on the bank of the Severn, called the orphan-house (as being erected in 1765 for the reception of children from the foundling-hospital at London), there were in June 1782, three hundred and thirty-
 
@@ -5516,9 +5454,7 @@ Rice milk, orange whey, orange and lemon water, tamarind whey, vinegar whey, bal
 
 + I have since heard that a bounty was paid by the court of England to their prisoners in France, at the following rates, viz. captains, mates, failing mailers, surgeons, and stewards, three pence per day each; common sailors, boys, and passengers of inferior rank, three halfpence per day each; which payment was made every twenty-eight days.
 
-Sect. V. PRISONERS OF WAR.
-
-T9I
+Sect. V. PRISONERS OF WAR. 191
 
 eight Dutch prisoners; twenty-seven of them were in the hospital. The wards were spacious, a hundred and twenty feet by twenty. At the back of the prison there is a fine area of four acres well supplied with water, and at the hospital an area of one acre. The regulations in Dutch and French were hung up. The beds in the hospital were not crowded; all had sheets and the surgeon paid great attention to the patients.
 
@@ -5550,7 +5486,7 @@ Total 3156 48.
 
 Signed R. W. Fox, Jgent.
 
-My principal object in procuring lifts of the miniber of prisoners of war who had been received and had died in several prisens, was to refute a prevailing opinion of our severity and inattention to such prisoners. These lifts, which I received from the agents, were afterwards checked by the books of the Commissioners of sick and wounded seamen In London, who readily granted me that favour.
+My principal object in procuring lists of the number of prisoners of war who had been received and had died in several prisons, was to refute a prevailing opinion of our severity and inattention to such prisoners. These lists, which I received from the agents, were afterwards checked by the books of the Commissioners of sick and wounded seamen In London, who readily granted me that favour.
 
 PRISONERS
 
@@ -5586,13 +5522,7 @@ PRISONERS OF WAR in IRELAND.
 
 ON the 13th of July 1779, there were seventy-seven French prisoners at Belfast, who had been brought there the beginning of May. — There was no table of regulations, and they seemed to be much neglected. Sixteen of them were in the hospital, including three attendants. Many others were sick, but in the hospital there was neither room nor accommodations for them.
 
-At
-
-Sect. V.
-
-PRISONERS OF WAR.
-
-193
+Sect. V. PRISONERS OF WAR. 193
 
 At Dublin, July 22, 1779, there were twenty-two prisoners of war, in a good room fitted up for a temporary prison. Their bread and other provisions were very good; and they were treated with all the Humanity and kindness that could be expected.
 
@@ -6212,7 +6142,7 @@ Under Prisoners in the same page, the number which I found in the respective cou
 
 ENGLISH PRISONS.
 
-Wherever there were tables of fees, I thought myself obliged to give exact and literal copies of them: I am not therefore answerable for the improprieties of expression, or defeats of form to be found in some of them: but to prevent tiresome and useless repetitions, I have abridged the formalities of preamble and conclusion. For the same reason, I have used the same liberty, with regard to the rules and orders of the few prisons that have such; as I have done likewise by the lifts of benefactions and legacies. Where no mention is made of rules, &c. it may be concluded, that there are none hung up in that prison. Where there is no table of fees, I commonly note the defect*.
+Wherever there were tables of fees, I thought myself obliged to give exact and literal copies of them: I am not therefore answerable for the improprieties of expression, or defeats of form to be found in some of them: but to prevent tiresome and useless repetitions, I have abridged the formalities of preamble and conclusion. For the same reason, I have used the same liberty, with regard to the rules and orders of the few prisons that have such; as I have done likewise by the lists of benefactions and legacies. Where no mention is made of rules, &c. it may be concluded, that there are none hung up in that prison. Where there is no table of fees, I commonly note the defect*.
 
 I have described no prison but from my own examination at the several dates set down before the number of prisoners. At each visit I entered every room, cell, and dungeon with a memorandum book in my hand, in which I noted particulars upon the spot. My description will to some readers appear too minute; but I chose rather to relate circumstances, than to characterize in general terms. By these, the legislature will be better acquainted with the real state of gaols; and magistrates will, be able to judge whether the prisons over which they preside, and to which they commit offenders, be fit for the purposes they are designed to answer. I might add, that a variety of descriptions may possibly suggest something useful in the plans of such prisons as may hereafter be erected; since whatever may appear worth copying may be extracted from any f.
 
@@ -6544,7 +6474,7 @@ an escape be in agitation.
 
 4. Warden to distribute charity-money. He, or his agent, to keep one key of the box; and the prisoners another.
 
-3. 6. 12. If a mailer-side debtor shall neglect for three months to pay his chamber-rent; the warden ma y not lock him up, but, remove him to the common-side; delivering to him his goods by a witnessed inventory. After discharge, if legal dues be Hill unpaid, he may be detained in the common-ward: the door of which is never to be shut but at night (Summer at ten, winter at nine): and then a watchman mufi attend to open it for those who mull go to the yard &c.
+3. 6. 12. If a mstler-side debtor shall neglect for three months to pay his chamber-rent; the warden ma y not lock him up, but, remove him to the common-side; delivering to him his goods by a witnessed inventory. After discharge, if legal dues be Hill unpaid, he may be detained in the common-ward: the door of which is never to be shut but at night (Summer at ten, winter at nine): and then a watchman must attend to open it for those who must go to the yard &c.
 
 7. Such as attempt to escape, or greatly misbehave, may be shut up in a close room or dungeon.
 
@@ -7336,7 +7266,7 @@ Clerken-
 
 WELL
 
-A generous benefactor (Mr. JVildman, a salesman in Smithfield) constantly fends the prisoners beef and bread twice a week. They have occasionally other small donations.
+A generous benefactor (Mr. Wildman, a salesman in Smithfield) constantly fends the prisoners beef and bread twice a week. They have occasionally other small donations.
 
 The fines have only the prison allowance *. — The king's evidence are put with the women in their ward, to secure them from the resentment of the other prisoners.
 
@@ -8160,9 +8090,7 @@ Remarks. TO this prison of the Court of the Marshalsea, and of the King's Palace
 
 The deputy marshal, under whose particular custody this prison is, has his appointment from the knight marshal of the king's household for the time being. The great abuses practised by this officer were reported to parliament by the Gaol-Committee in 1729.
 
-This prison is held under several leases by the widow of the late deputy marshal at the yearly rent of £101. It is an old irregular buidling (rather several buildings) in a spacious court. There are, in the whole, near sixty rooms; and yet only fix of them left for common-side debtors. Of the other rooms, — live were let to a man who was not a prisoner: in one of them he kept a chandler's shop; in two he lived with his family: the other two he let to prisoners. Four rooms, the Oaks, were for women. They were too few for the number , and the more modest women complained of die bad company, in which they were confined. There were above
-
-forty
+This prison is held under several leases by the widow of the late deputy marshal at the yearly rent of £101. It is an old irregular building (rather several buildings) in a spacious court. There are, in the whole, near sixty rooms; and yet only fix of them left for common-side debtors. Of the other rooms, — live were let to a man who was not a prisoner: in one of them he kept a chandler's shop; in two he lived with his family: the other two he let to prisoners. Four rooms, the Oaks, were for women. They were too few for the number , and the more modest women complained of die bad company, in which they were confined. There were above
 
 Sect. VII. SOUTHWARK.
 
@@ -8516,17 +8444,13 @@ At St.. ALBAN'S are,
 
 THE BOROUGH GAOL, or Compter. Debtors have sometimes the use of the town-hall in the day-time *, the lodging-room of those that pay joins to it. Felons and poor debtors have two day-rooms, and two close offensive night-rooms: no fire-place. Allowance to felons, a pound of bread a day. No straw: no court: no water. The late keeperis salary was ^3. The present keeper pays rent to the corporation j£io a year, as appears by the mayor's receipt June 9, 178-1. Fees for felons, 13 j. 4d. Licence for beer. Clauses against spirituous liquors
 
-LI hung
-
 HERTFORDSHIRE.
 
-Home Circuit*
+Home Circuit.
 
 258
 
-St.
-
-Albans.
+St. Albans.
 
 hung up. — The debtors from the court of requests (debts under 40$.) are confined here with felons. Though the act of 25th Geo. II. clears them in forty-two days, yet as it does not specify the gaoler's fees, and here is no table, they must continue in prison till they can pay whatever the keeper demands.
 
@@ -8708,7 +8632,7 @@ NEWPORT. Built in 1775. The front is elegant, yet plain: in it are the keeper's 
 
 HALSTED. This ho.use was rented of the trustees of Martins charity. Men and women had a separate work-room, and a separate lodging-room. There was a room for the sick. All out of repair. A court which men used one part of the day, women another. No water. Keeper's salary, ^32: no fees.
 
-Allowance, a pound and half of bread, and a quart of small beer, a day. The prisoners did spin, but were not allowed any part of what they earned. — This prison was burnt down in March 1781, and four prisoners pertjhed in the flames. At my last visit, another prison was building on some ground purchased by ahe county.
+Allowance, a pound and half of bread, and a quart of small beer, a day. The prisoners did spin, but were not allowed any part of what they earned. — This prison was burnt down in March 1781, and four prisoners pertshed in the flames. At my last visit, another prison was building on some ground purchased by ahe county.
 
 1776, Nov. 19, Prisoners 4.
 
@@ -10050,19 +9974,13 @@ Town Bridewell. On the ground-floor, one room for men, 21 feet by 6; and two lod
 
 The Vice-chancellor's prisoners, have four pence on Sunday, to prevent the necessity of their working on that day as formerly. Those of them, that are ill, have three pence a day. No allowance of bread for town prisoners. Keeper's salary, £30: no fees. Straw, £1:1:o a year.
 
-The bridewell Hands in the back yard of the keeper's house; which was bought and endowed for the encouragement of wool-combers and spinners of this town. The basis of the inflitution was a legacy of the famous carrier Thomas Hobfon3 who died 1630. To answer the intention, the keeper appointed is a wool-comber. He employs not only several hands upon the foundation of the charity, but many others; among them his prisoners. His salary is paid out of the charity.
+The bridewell stands in the back yard of the keeper's house; which was bought and endowed for the encouragement of wool-combers and spinners of this town. The basis of the institution was a legacy of the famous carrier Thomas Hobson3 who died 1630. To answer the intention, the keeper appointed is a wool-comber. He employs not only several hands upon the foundation of the charity, but many others; among them his prisoners. His salary is paid out of the charity.
 
 1774, Dec. 13, Prisoners 3. 1779, Sep. 23, Prisoners 6, and one lunatic.
 
 1776, Ser. 28, - 7. 1782, Feb. 7, - 3.
 
-ELY
-
-Norfolk Circuit.
-
-CAMBRIDGESHIRE.
-
-291
+Norfolk Circuit. CAMBRIDGESHIRE. 291
 
 ELY GAOL.
 
@@ -11752,7 +11670,7 @@ Bridewell.
 
 ---
 
-keeper's. Here was committed a shoemaker for twelve months, with an order (highly improper) that he should not work at his own trade. Keeper's salary,^45: fees, gs. 6d. no table: but now there is painted on a board over the keeper's door, of The fees of this place is, three shillings and six-pence. N. B. None is exempt from paying but common vagrants.” He informed me that a few years ago, seven died here of the gaol fever within two years.
+keeper's. Here was committed a shoemaker for twelve months, with an order (highly improper) that he should not work at his own trade. Keeper's salary,^45: fees, gs. 6d. no table: but now there is painted on a board over the keeper's door, of The fees of this place is, three shillings and six-pence. N.B. None is exempt from paying but common vagrants.” He informed me that a few years ago, seven died here of the gaol fever within two years.
 
 1775, Jan. 4> Prisoners 9.
 
@@ -11770,9 +11688,9 @@ Salary, ^8.
 
 Fees, Debtors,: 8: o if under £10.
 
-o:14:8 if from any court in London.
+0:14:8 if from any court in London.
 
-Felons, o: 14: 8.
+Felons, 0: 14: 8.
 
 Transports, 7: 17: 6 each.
 
@@ -12686,8 +12604,6 @@ FOR the castle gaol the county pays £40 a year to Mr. Etty3 who holds it of Chr
 
 Since the north-gate was taken down, this prison has been also the City gaol: for which Mr. Wisdom has £$ a year. — In 1773, eleven died of the small-pox. In 1774, that distemper still in the gaol in 1775', one debtor died of it in May; three-debtors and a petty offender in June: three recovered. No infirmary: no bath: no straw: the prisoners lie in their clothes on mats. The men's dungeon swarms with vermin; yet not white-washed for many years. — Of the thirty-one felons &c» in 1782, fifteen were fines. — The act for preferring the health, of prisoners not
 
-hung
-
 Oxford
 
 Remarks* -
@@ -12698,7 +12614,9 @@ Oxtord Circuit.
 
 .34*
 
-Oxford hung up. — In April 1782, one of the prisoners was a woman committed for con-Castle. tempt) with no charge or fine. The warrant runs, cc As Royal Power ought not " to be wanting to the holy church in its complaints — attach — till she has made <c satisfaction to the holy church — as well for the contempt — as for the injury done xt unto it.”
+Oxford
+
+hung up. — In April 1782, one of the prisoners was a woman committed for con-Castle. tempt) with no charge or fine. The warrant runs, cc As Royal Power ought not " to be wanting to the holy church in its complaints — attach — till she has made <c satisfaction to the holy church — as well for the contempt — as for the injury done xt unto it.”
 
 Thomas Horde, who was confined here for some offence against government, built the chapel. After his discharge, he had bequeathed £14 a year for a chaplain; and as much to the prisoners. But finding some difficulties would obstruct the execution of that bequest, he altered it, August 6th, 1709, to a legacy of £24 a year, to be distributed among prisoners of both forts, at £1 a month. For the payment, he bound an estate in Oxfordshire; and to make up any deficiency of that estate, he bound an estate in Berkshire. But this estate having been recovered against the charity since his death, the prisoners have now only thirty-three shillings a month, which was paid by the rector of Lincoln college, and is now paid by the principal of Trinity, who are always two of the twelve trustees. A memorial of the process and result of Mr. Horde's benevolent intention hangs up in the gaol. I have a copy of it; too long to transcribe.
 
@@ -12800,7 +12718,7 @@ OXFORDSHIRE. Oxford Circuit.
 
 the cubs, each9feet by 7. If the house was put into good repair, and the whole used as a bridewell, it would be a commodious one. Then there would be no need of fending petty offenders, as is now done, to the county gaol: nor of locking up all day those few that are committed hither, men and women in the same room: nor of confining either sex at night in the cubs. No allowance: no employment at my first visits, but in Feb. 1779, t^ie prisoners were carding and spinning: no water accessible to prisoners: no sewers. Clauses against spirituous liquors not hung up. Keeper's salary, £16: fees, 4 s. 6d. no table.
 
-At my two first visits the keeper farmed the work-house and the rest of the poor at £480 a year for the whole maintenance, clothing, medicines, &c. At my two last visits, he farmed them at ,£500. In 1782, the prison was quite out of repair and insecure. — From Midsummer 1778 to Midsummer 1779, t^ie number committed to this prison was twenty-fixj — to 1780, ninej — to 1781, eighteen; — to 1782, fourteen.
+At my two first visits the keeper farmed the work-house and the rest of the poor at £480 a year for the whole maintenance, clothing, medicines, &c. At my two last visits, he farmed them at ,£500. In 1782, the prison was quite out of repair and insecure. — From Midsummer 1778 to Midsummer 1779, t^ie number committed to this prison was twenty-sixj — to 1780, ninej — to 1781, eighteen; — to 1782, fourteen.
 
 1776, Jan. 3, Prisoners 2. 1779, Odt. 20, Prisoners 0.
 
@@ -12810,7 +12728,7 @@ At my two first visits the keeper farmed the work-house and the rest of the poor
 
 WITNEY. One day-ropm (16 feet inches by 14 feet 4) for men and women: two night-rooms adjoining (9 feet 2 inches by 6 feet 7, and 6\ feet high); with only a grate of9inches square in each door. The prison is not secure. No allowance but to the sick, who have six-pence a day and medicines. No chimney: no straw: no water. Clauses against spirituous liquors not hung up. Keeper's salary, £20: fees, 4s. id. no table.
 
-At my last visit I found a room built for men 16 % feet by 12^, in which are two cells 7 feet by 4^ with apertures in the doors9inches square. Up stairs are two rooms for the sick (9 feet 2 inches by 8 feet 4, and 6 feet 5 inches high), with apertures in the doors of 14 inches by 12. No chimney.
+At my last visit I found a room built for men 16 % feet by 12^, in which are two cells 7 feet by 4^ with apertures in the doors 9 inches square. Up stairs are two rooms for the sick (9 feet 2 inches by 8 feet 4, and 6 feet 5 inches high), with apertures in the doors of 14 inches by 12. No chimney.
 
 The house does not belong to the county: the prison is in the court-yard of the keeper's house, for which he pays £14:14:o a year. Prisoners have no use of the court; their window was formerly accessible to passengers. I then saw a crowd of men talking at the grate with the prisoners, who were all of them women; and was informed there was sometimes riot and confusion on such occasions.
 
@@ -12819,8 +12737,6 @@ At my visit in 1779, the prisoners were at work Pthe'keeper now is a manufacture
 .344
 
 Bridewells.
-
-To
 
 OXFORDSHIRE.
 
@@ -13936,7 +13852,7 @@ Oxford Circuit. GLOCESTERSHIRE.
 
 1776, ...-16, - ' 6. 1782, Mar. 2, - 6.
 
-BERKELEY.. Quite out of repair. Only one room for men and women, 18 feet inches by 15 feet 4, and 7 feet 9 inches high: the window (near feet square) not glazed; no straw: no chimney: court not secure. Nothing has been laid out. on this prison these twenty years. The sensible old keeper lamented the bad effects of close confinement in idleness, upon the health of even young strong prisoners. Many such, he said, he had known quite incapable of working for some weeks after their discharge. He told me, that some years ago his prisoners used to grind malt for a penny a bushel; and the justices would not licence any victualler whose malt was not ground here: but that of late years they have done no work at all. No allowance. Keeper, Francis Norman: his salary, £zo; but he pays out of it jC6 to the poor of the parish for ground-rent: fees, 4s. 4 d. no table. He wrote me lifts of his prisoners, which I here transcribe.
+BERKELEY.. Quite out of repair. Only one room for men and women, 18 feet inches by 15 feet 4, and 7 feet 9 inches high: the window (near feet square) not glazed; no straw: no chimney: court not secure. Nothing has been laid out. on this prison these twenty years. The sensible old keeper lamented the bad effects of close confinement in idleness, upon the health of even young strong prisoners. Many such, he said, he had known quite incapable of working for some weeks after their discharge. He told me, that some years ago his prisoners used to grind malt for a penny a bushel; and the justices would not licence any victualler whose malt was not ground here: but that of late years they have done no work at all. No allowance. Keeper, Francis Norman: his salary, £zo; but he pays out of it jC6 to the poor of the parish for ground-rent: fees, 4s. 4 d. no table. He wrote me lists of his prisoners, which I here transcribe.
 
 Account of Prisoners in the Bridewell at Berkeley,.
 
@@ -14770,11 +14686,7 @@ E Wilmot W Noel.
 
 Examined with the Original by John Wallis Clerk of the Peace of the County of Dorset.
 
-COUNTY
-
-Western Circuit.
-
-DORSETSHIRE.
+Western Circuit. DORSETSHIRE.
 
 COUNTY BRIDEWELL at SHERBORNE.
 
@@ -14808,7 +14720,7 @@ I do not describe the single rooms or cages that are in many market towns, for t
 
 Bridewell.
 
-POOLEL
+POOLE,
 
 jSi
 
@@ -16320,7 +16232,7 @@ City of York, to ns.it. Donations to the Prisor ers in the Gaol upon Ouse-bridge
 
 Mrs. Elizabeth Taylor; by will, dated 21st October 1580, gave three ftiillings and four pence yearly, to be divided amongst the prisoners, on Lady-day.
 
-The cotpoiation of York pay yearly Peacock's gift, being three pounds- four fnillings, to be divided amongst the poor prisoners.
+The cotpoiation of York pay yearly Peacock's gift, being three pounds- four shillings, to be divided amongst the poor prisoners.
 
 Mr. William Edmcnfou's gift, being one pound six shillings, is distributed weekly in bread to the prisoners.
 
@@ -17326,7 +17238,7 @@ Sep. 19, 3> 3-
 
 CHAPLAIN, none. SURGEON, none.
 
-THIS gaol was built by the county. The earl of Thanet is hereditary sheriff, and pays the gaoler his salary. Happily for the prisoners in a gaol so circumstaneed, the present gaoler is a man of temper and humanity.
+THIS gaol was built by the county. The earl of Thanet is hereditary sheriff, and pays the gaoler his salary. Happily for the prisoners in a gaol so circumstanced, the present gaoler is a man of temper and humanity.
 
 At page ai, I complained of this prison being within reach of floods; but in January 1776, there was a new building on the highest part of the yard. It consists of four vaulted wards for felons, 14^ feet by 13 i a window in each, but no chimney: and over them three good rooms with chimneys, for debtors.
 
@@ -21198,7 +21110,15 @@ Bath city 404
 
 Bath proper in gaols 23
 
-a commodious one 321, 449 used by way of punishment 437 used as a pig-stye 207 Baths should be made convenient, or useless 314 Bathing prisoners 84
+a commodious one 321, 449
+
+used by way of punishment 437
+
+used as a pig-stye 207
+
+Baths should be made convenient, or useless 314
+
+Bathing prisoners 84
 
 Batley 416
 
@@ -21220,15 +21140,31 @@ Bedfordshire 283
 
 Bedford county gaol 283
 
-bridewell 285 town gaol 285 Benedidines, their prison 144 Bedding, to be frequently changed 32 want of in prisons 8 Beds, bringing out into the air, a salutary custom 128
+bridewell 285
 
-Bedstead left by a prisoner 320 Bedsteads, of call iron proposed 39 Bellem 15 1
+town gaol 285
 
-Benefactions and Legacies, lifts of 224, 248, 251,
+Benedidines, their prison 144
+
+Bedding, to be frequently changed 32
+
+want of in prisons 8
+
+Beds, bringing out into the air, a salutary custom 128
+
+Bedstead left by a prisoner 320
+
+Bedsteads, of call iron proposed 39
+
+Bellem 15 1
+
+Benefactions and Legacies, lists of 224, 248, 251,
 
 323» 387> 4o8> 434> 44°
 
-Bergues I 8 2 Berkely 365
+Bergues I 8 2
+
+Berkely 365
 
 Berkhamstead 25
 
@@ -21240,19 +21176,49 @@ Berlin 98
 
 Bern 12$
 
-Berwick upon Tweed 427 Beverley county bridewell 409 town gaol 411 Hall-garth 411 Bicetre 173
+Berwick upon Tweed 427
 
-Bien-venu in prisons, what 135 Birmingham gaol 3 I 2
+Beverley county bridewell 409
 
-prison for debtors 312 Black Assize 9
+town gaol 411
 
-Blacket, Sir Walter, his benefaction 422 Blackstone, Sir William, quoted 176
+Hall-garth 411
 
-act of parliament, drawn by 470 Blind, hospital for 178 Blinds for prison windows 185 Bodmin county bridewell 392 sheriffs ward 393 county gaol 394 Bologna ] 07
+Bicetre 173
+
+Bien-venu in prisons, what 135
+
+Birmingham gaol 312
+
+prison for debtors 312
+
+Black Assize 9
+
+Blacket, Sir Walter, his benefaction 422
+
+Blackstone, Sir William, quoted 176
+
+act of parliament, drawn by 470
+
+Blind, hospital for 178
+
+Blinds for prison windows 185
+
+Bodmin county bridewell 392
+
+sheriffs ward 393
+
+county gaol 394
+
+Bologna ] 07
 
 Book kept of work done by prisoners 146
 
-Bordeaux 180 Borough Compter 253 Bcfon 332
+Bordeaux 180
+
+Borough Compter 253
+
+Bcfon 332
 
 Botanic Magazine at Moscow 94
 
@@ -21270,9 +21236,15 @@ Bradford 414
 
 Bread allowance, deficiency of 6
 
-cut in slices for each prisoner 47 Breconshire 460 Brecon county gaol 460
+cut in slices for each prisoner 47
 
-bridewell 462 town gaol 462
+Breconshire 460
+
+Brecon county gaol 460
+
+bridewell 462
+
+town gaol 462
 
 ---
 
@@ -21316,11 +21288,21 @@ Brussels 141
 
 ---
 
-Buckinghamshire 280 Buckingham 282 Buntingford 237 Burgos 161
+Buckinghamshire 280
 
-Hospicio 161 Bury St, Edmund's gaol 305
+Buckingham 282
 
-bridewell 306 Butler, bishop, quoted 22
+Buntingford 237
+
+Burgos 161
+
+Hospicio 161
+
+Bury St, Edmund's gaol 305
+
+bridewell 306
+
+Butler, bishop, quoted 22
 
 c.
 
@@ -21332,21 +21314,39 @@ Call, John, Esq. his assiduity 39;
 
 Calvert and Co. their donation 222, 226, 229
 
-Cambridgeshire 288 Cambridge county gaol 288
+Cambridgeshire 288
 
-bridewell 289 town gaol 289
+Cambridge county gaol 288
 
-bridewell 290 Campomanes, count, his kind assistance 160, 164 Canterbury county bridewell 266 gaol 267
+bridewell 289
 
-city bridewell 268 work-house 268
+town gaol 289
+
+bridewell 290
+
+Campomanes, count, his kind assistance 160, 164
+
+Canterbury county bridewell 266
+
+gaol 267
+
+city bridewell 268
+
+work-house 268
 
 Capital punishments, too frequent 42
 
-Cardiff county gaol 462 town gaol 464
+Cardiff county gaol 462
+
+town gaol 464
 
 Cardiganshire 453
 
-Cardigan 455 Carlisle county gaol 428 city gaol 429
+Cardigan 455
+
+Carlisle county gaol 428
+
+city gaol 429
 
 Carmarthenshire 457
 
@@ -21358,7 +21358,9 @@ Carnarvonshire 453
 
 Carnarvon county gaol 453
 
-Caroline, princess, her charity 230 Caferns, unhealthy to lodge in 164 8
+Caroline, princess, her charity 230
+
+Caferns, unhealthy to lodge in 164 8
 
 Cassel 134
 
@@ -21370,15 +21372,39 @@ Centinels to prii'oners of war, too ready to fire 189
 
 Ceffio bonorum, process of 195
 
-Chamber-rents and furniture to be fixed by magistrates 30 Chamberry 123
+Chamber-rents and furniture to be fixed by magistrates 30
 
-Chambre9 de convalescence 180 Chandos, duke of, his charity 371, 373 Chapel necessary in gaols 23
+Chamberry 123
 
-absentees from, fined 223 Chaplain, his character and duty 28
+Chambre* de convalescence 180
 
-in Dutch prisons 43 necessary to bridewells 40 attentive, dismissed 286 Chaplains salaries reduced for neglect 401 Charitable society for relief of prisoners io5
+Chandos, duke of, his charity 371, 373
 
-for attendance on and burial of condemned 113 paying prisoners fees 150 Charity box, robbed, method to prevent it 383 Charter-schools in Ireland 208 Chelmsford county gaol 2 59
+Chapel necessary in gaols 23
+
+absentees from, fined 223
+
+Chaplain, his character and duty 28
+
+in Dutch prisons 43
+
+necessary to bridewells 40
+
+attentive, dismissed 286
+
+Chaplains salaries reduced for neglect 401
+
+Charitable society for relief of prisoners io5
+
+for attendance on and burial of condemned 113
+
+paying prisoners fees 150
+
+Charity box, robbed, method to prevent it 383
+
+Charter-schools in Ireland 208
+
+Chelmsford county gaol 2 59
 
 bridewell 261
 
@@ -21432,11 +21458,53 @@ INDEX.
 
 Clare bridewell 304
 
-Clauses of act against spirituous liquors, quoted 34 seldom hung up, and evacted, 35 Cleanliness, rules for promoting 30 Cleanness of French prisons 166 Clerkenwell bridewell 235 new prison 232 Clerks of assize, their demand of fees, 15, 310, 32a purchase their places r6 receipts given by 16 the peace, their demand of fees 16 Clothes to be worn in gaol 31
+Clauses of act against spirituous liquors, quoted 34
 
-of prisoners, should be put into an oven 31 Clothing for galley-slaves 109, 116, 133 Cobham, lord, erects a gaol at his own expence 282 Cockermouth 429
+seldom hung up, and evacted, 35
 
-Code of laws made by prisoners 220, 248 for Hamburg, quoted 75 Ruffian, quotation from 86 Colchester county bridewell 261 town gaol 263 Collection, annual for prisoners, through the county 314, 318, 322 Collings, Abel, his charity 323 Collyer, James, Esq. his complaint to the king of a bad gaol 291 Cologn 137
+Cleanliness, rules for promoting 30
+
+Cleanness of French prisons 166
+
+Clerkenwell bridewell 235
+
+new prison 232
+
+Clerks of assize, their demand of fees, 15, 310, 32a
+
+purchase their places r6
+
+receipts given by 16
+
+the peace, their demand of fees 16
+
+Clothes to be worn in gaol 31
+
+of prisoners, should be put into an oven 31
+
+Clothing for galley-slaves 109, 116, 133
+
+Cobham, lord, erects a gaol at his own expence 282
+
+Cockermouth 429
+
+Code of laws made by prisoners 220, 248
+
+for Hamburg, quoted 75
+
+Ruffian, quotation from 86
+
+Colchester county bridewell 261
+
+town gaol 263
+
+Collection, annual for prisoners, through the county 314, 318, 322
+
+Collings, Abel, his charity 323
+
+Collyer, James, Esq. his complaint to the king of a bad gaol 291
+
+Cologn 137
 
 Commissaire de la Prison 170
 
@@ -21444,9 +21512,19 @@ Conciergerie at Paris 171
 
 Condemned criminals attended and buried by a society 113
 
-cells for, described 214 constantly attended 56, 137, 54
+cells for, described 214
 
-liberal allowance to 67, 83, 124, 137 separated from others 167 Consumption, thought contagious 116, 158 Contempts, prisoners so called 363 Convicts not ungovernable 39
+constantly attended 56, 137, 54
+
+liberal allowance to 67, 83, 124, 137
+
+separated from others 167
+
+Consumption, thought contagious 116, 158
+
+Contempts, prisoners so called 363
+
+Convicts not ungovernable 39
 
 Cook, Captain, on effect of cleanliness on the behaviour of his ship's crew 31
 
@@ -21454,37 +21532,97 @@ Copenhagen 76
 
 Cornwall 391
 
-Courts of Conscience, account of 229 Court of Conscience debtors, confined with criminals 236, 242, 292, 377 Courts of Justice held in prisons 40
+Courts of Conscience, account of 229
 
-Coventry city and county gal 310 bridewell 311
+Court of Conscience debtors, confined with criminals 236, 242, 292, 377
+
+Courts of Justice held in prisons 40
+
+Coventry city and county gal 310
+
+bridewell 311
 
 Cowbridge 464
 
-Coxe, Rev. Mr. referred to 95, 128 Crib-beds at Plymouth hospital described 39 Criminals in separate rooms 124
+Coxe, Rev. Mr. referred to 95, 128
 
-numerous in Ireland Z03 Cronfadt 90
+Crib-beds at Plymouth hospital described 39
 
-Cruel method of securing prisoners 291 Cumberland 428 Customs bad in prisons 12
+Criminals in separate rooms 124
+
+numerous in Ireland Z03
+
+Cronfadt 90
+
+Cruel method of securing prisoners 291
+
+Cumberland 428
+
+Customs bad in prisons 12
 
 D.
 
-Dagge, Abel, a gaoler commended 23 Dart ford 267 Daventry 337 Deal 269
+Dagge, Abel, a gaoler commended 23
+
+Dart ford 267
+
+Daventry 337
+
+Deal 269
 
 Dean and Chapter of Borough St. Peter, their prison 336
 
-De Betfkoi, munificence of 88, 95 Debtor, close confinement of 397 Debtor refuses submission to gaoler 447 Debtors alimented 47, 55, 64, 83, 98, 102, 106, 123, 136, 141, 148, 169, 172, 195 and felons, separation of, necessary 24 compelled to discover effects 205 few in Germany 67 few in Holland 45 few procure their groats 5 have a right to fend for necessaries 26 in France, how cleared, 170 not permitted to go to chapel 419 rules wanted for government of 371 slaves 85
+De Betfkoi, munificence of 88, 95
 
-should be allowed to work 24 wanting food 3
+Debtor, close confinement of 397
+
+Debtor refuses submission to gaoler 447
+
+Debtors alimented 47, 55, 64, 83, 98, 102, 106, 123, 136, 141, 148, 169, 172, 195
+
+and felons, separation of, necessary 24
+
+compelled to discover effects 205
+
+few in Germany 67
+
+few in Holland 45
+
+few procure their groats 5
+
+have a right to fend for necessaries 26
+
+in France, how cleared, 170
+
+not permitted to go to chapel 419
+
+rules wanted for government of 371
+
+slaves 85
+
+should be allowed to work 24
+
+wanting food 3
 
 without effects not permitted to be confined 137
 
-working out their debts, impracticable 83 unruly, room for 433 ward, where to be placed 23 Decollation, machine for 107, 418 Defects of Irish-prisons 206
+working out their debts, impracticable 83
+
+unruly, room for 433
+
+ward, where to be placed 23
+
+Decollation, machine for 107, 418
+
+Defects of Irish-prisons 206
 
 Scotch prisons 202
 
 Delft 52
 
-Denbighshire 449 Denbigh 450
+Denbighshire 449
+
+Denbigh 450
 
 3
 
@@ -21492,7 +21630,15 @@ INDEX.
 
 Denmark 75
 
-Dependants on prisoners, proportion of 18 Deputation to visit prisons 170 Derbyshire 318 Derby county gaol 318 town gaol 320
+Dependants on prisoners, proportion of 18
+
+Deputation to visit prisons 170
+
+Derbyshire 318
+
+Derby county gaol 318
+
+town gaol 320
 
 Derby, John, his legacy 379
 
@@ -21506,7 +21652,11 @@ Devizes 377
 
 Devonshire 382
 
-Diet, tables of 48, 56, 59,60, 74, 79, 83, 100, 132, 157, 182, 231, 390, 466 in bridewells 40 Dinnan, lady's charity to English prisoners there il Discipline in bridewells 39
+Diet, tables of 48, 56, 59,60, 74, 79, 83, 100, 132, 157, 182, 231, 390, 466
+
+in bridewells 40
+
+Dinnan, lady's charity to English prisoners there il Discipline in bridewells 39
 
 Diseases in Russia most frequent in winter 467
 
@@ -21516,25 +21666,47 @@ Dogs not to be kept by prisoners 32
 
 Dolgelly county gaol 454
 
-bridewell 454 Dol-buis, Amsterdam 62 Donations to be properly distributed 34
+bridewell 454
+
+Dol-buis, Amsterdam 62
+
+Donations to be properly distributed 34
 
 Doncaster 414
 
-Dorchester county gaol 379 town gaol 381
+Dorchester county gaol 379
 
-DORSETSHIRE 379 Dart 5 1
+town gaol 381
+
+DORSETSHIRE 379
+
+Dart 5 1
 
 Dover castle 268
 
-town gaol 269 Dow, Robert, his donation 215 D ref den 102
+town gaol 269
 
-Drunkenness, how punished 53, 61 Dublin 202
+Dow, Robert, his donation 215
 
-gaoler non-resident 27 Dumfries 201
+D ref den 102
 
-Dungeons, few in new foreign prisons 66 found unhealthy and disused 136 horrid 103, 130, 137, 138, 160, 169,
+Drunkenness, how punished 53, 61
 
-71, 173, 179, z83» 307» 31O, 321, 334» 346> 353* 4°3» 433» 439> 442 destroyed 165
+Dublin 202
+
+gaoler non-resident 27
+
+Dumfries 201
+
+Dungeons, few in new foreign prisons 66
+
+found unhealthy and disused 136
+
+horrid 103, 130, 137, 138, 160, 169,
+
+71, 173, 179, z83» 307» 31O, 321, 334» 346> 353* 4°3» 433» 439> 442
+
+destroyed 165
 
 Dunkirk 180
 
@@ -21552,37 +21724,163 @@ E.
 
 Eaf -Griiifead 273
 
-Eden, Mr. quoted 9, 14, 15, 19, 42, 43 Edinburgh 197
+Eden, Mr. quoted 9, 14, 15, 19, 42, 43
 
-Edmundson, William, his legacy 434 Elvas 153 Ely gaol 291
+Edinburgh 197
 
-bridewell 29S Employment of Prisoners Ballast-heaving 105, 109, 466 Carding hair 47
+Edmundson, William, his legacy 434
 
-hare and rabbit down 158 Carrying Hone to lime-kiln 156 water 131 Chopping rags 257 Cleaning streets, &c. 120, 123 Clearing harbour 105, 108 Colouring prints 128 Digging chalk 72 Drawing water 174 Fulling-mill 73 Grincing corn 102, 136 spectacles. 131 Hemp-dressing 231, 242, 289, 329, 348, 424 Keeping silk-worms 101, 102 Labourers 50, 96, 102, 103, 121, 128, 163 Logwood cutting and rasping 47, 37, 63, 68, 73, 78, 101, 102, 298 Making cabbage-nets 383 candlewick 433 fishing nets 47, 147 girths 71
+Elvas 153
 
-gold and silver lace 131 lift carpets and flippers 70, 71 and mending linen 54, 61, 143, 146, 136
+Ely gaol 291
 
-paper-hangings 142 pegs for shoemakers 323, 334 pins 158 ropes 121, 131 shoes 117, 118, 142, 143, soldiers clothes 104 stockings 72, 104, 137 whiting 272 Picking oakum 61, 231, 236, 413, 437,441 3 S Employment
+bridewell 29S
+
+Employment of Prisoners Ballast-heaving 105, 109, 466
+
+Carding hair 47
+
+hare and rabbit down 158
+
+Carrying Hone to lime-kiln 156
+
+water 131
+
+Chopping rags 257
+
+Cleaning streets, &c. 120, 123
+
+Clearing harbour 105, 108
+
+Colouring prints 128
+
+Digging chalk 72
+
+Drawing water 174
+
+Fulling-mill 73
+
+Grincing corn 102, 136
+
+spectacles. 131
+
+Hemp-dressing 231, 242, 289, 329, 348, 424
+
+Keeping silk-worms 101, 102
+
+Labourers 50, 96, 102, 103, 121, 128, 163
+
+Logwood cutting and rasping 47, 37, 63, 68, 73, 78, 101, 102, 298
+
+Making cabbage-nets 383
+
+candlewick 433
+
+fishing nets 47, 147
+
+girths 71
+
+gold and silver lace 131
+
+lift carpets and flippers 70, 71
+
+and mending linen 54, 61, 143, 146, 136
+
+paper-hangings 142
+
+pegs for shoemakers 323, 334
+
+pins 158
+
+ropes 121, 131
+
+shoes 117, 118, 142, 143, soldiers clothes 104
+
+stockings 72, 104, 137
+
+whiting 272
+
+Picking oakum 61, 231, 236, 413, 437,441 3
+
+S Employment
 
 INDEX
 
-Employment of Prisoners Plain work 54, 6o, 83 Polishing marble 132 Hone 394 plate glass 174 Pounding (tones j35, 137
+Employment of Prisoners Plain work 54, 6o, 83
 
-tile fherds 411, 415 Sawing wood 93, 96, 103, 116, 128 Serving masons 109, 1x6, 118 Sorting coffee berries 47
+Polishing marble 132
 
-Spinning, carding, &c. 47, 52, 53, 60, 61, 64, 67, 70, 71, 72, 75, 84, xoo, 101, 103, 121* 128, 133, 137, 139,143, 147, 149, 156, 162 Spinning hair 68
+Hone 394
 
-Various trades 120, 13J, 142, 148 Weaving damask 54
+plate glass 174
 
-carpeting 5:, 68 cotton 121, 143, 147 gauze 121 lace 139, 142, 143 linen 54, 61, 63, 72, 104, 121, 158 sacking 51, 63, 267 Winding at a wheel 47
+Pounding (tones j35, 137
 
-Woollen manufactory 52, 73, 104, 133, 138, 147, 158, 385, 427 Working on fortifications, roads, &c. 66, 72, 76, 78. 87, 92, 93, IOI, 105, 112, 117, 118, 137 in a garden 93 English not naturally cruel 118 Escape, remarkable 127 Escapes punished 53, 102, no, 117, 163 not punished 125 Essex 259
+tile fherds 411, 415
 
-Ethiopia, India, &c^ rooms so marked 66, 73 Evora 153
+Sawing wood 93, 96, 103, 116, 128
 
-Executions, few in Holland 43, 56 solemnity of abroad 43 Execution, modes of 45, 76, 82, 124, 137 Execution day, a time of riot 215 Exettr high gaol for felons 382
+Serving masons 109, 1x6, 118
 
-sheriffs ward for debtors 384 county bridewell 385 city gaol 3S6
+Sorting coffee berries 47
+
+Spinning, carding, &c. 47, 52, 53, 60, 61, 64, 67, 70, 71, 72, 75, 84, xoo, 101, 103, 121* 128, 133, 137, 139,143, 147, 149, 156, 162
+
+Spinning hair 68
+
+Various trades 120, 13J, 142, 148
+
+Weaving damask 54
+
+carpeting 5:, 68
+
+cotton 121, 143, 147
+
+gauze 121
+
+lace 139, 142, 143
+
+linen 54, 61, 63, 72, 104, 121, 158
+
+sacking 51, 63, 267
+
+Winding at a wheel 47
+
+Woollen manufactory 52, 73, 104, 133, 138, 147, 158, 385, 427
+
+Working on fortifications, roads, &c. 66, 72, 76, 78. 87, 92, 93, IOI, 105, 112, 117, 118, 137
+
+in a garden 93
+
+English not naturally cruel 118
+
+Escape, remarkable 127
+
+Escapes punished 53, 102, no, 117, 163
+
+not punished 125
+
+Essex 259
+
+Ethiopia, India, &c^ rooms so marked 66, 73
+
+Evora 153
+
+Executions, few in Holland 43, 56
+
+solemnity of abroad 43
+
+Execution, modes of 45, 76, 82, 124, 137
+
+Execution day, a time of riot 215
+
+Exettr high gaol for felons 382
+
+sheriffs ward for debtors 384
+
+county bridewell 385
+
+city gaol 3S6
 
 F.
 
@@ -21594,9 +21892,17 @@ Falmouth 397
 
 INDEX
 
-Fees from prisoners should be abolished 29 abolished 271, 377, 378 explanation of in tables 210 penalty for demanding, not in a signed table 211
+Fees from prisoners should be abolished 29
 
-tables of, should be hung up 34 Fees, tables of 197, 199, 203,216, 219, 221,223, 227, 230,234,237, 238, 242, 247,252, 254, 256, 260, 265, 271, 276, 277, 279, 281, 284, 287, 289, 290, 294, 297, 298, 299, 302,304,308,311, 314, 316,319, 322> 32S, 331,332, 335, 338, 343, 348>
+abolished 271, 377, 378
+
+explanation of in tables 210
+
+penalty for demanding, not in a signed table 211
+
+tables of, should be hung up 34
+
+Fees, tables of 197, 199, 203,216, 219, 221,223, 227, 230,234,237, 238, 242, 247,252, 254, 256, 260, 265, 271, 276, 277, 279, 281, 284, 287, 289, 290, 294, 297, 298, 299, 302,304,308,311, 314, 316,319, 322> 32S, 331,332, 335, 338, 343, 348>
 
 349. 35'» 354. 358> 36i> 364> 38, 37°. 376, 380, 3S4, 387, 395, 400, 403, 406, 410, 417, 420, 423, 426, 433, 439, 443, 444, 447, 450, 463
 
@@ -21612,7 +21918,9 @@ Fernan-Nunez, count, his kind assistance 164
 
 Fielding, Henry,quoted 40, 42
 
-Fine of £ 2000 laid on a county for a new county court 356
+Fine of £ 2000
+
+laid on a county for a new county court 356
 
 Fines, the word explained 210
 
@@ -21620,7 +21928,9 @@ should be separated from criminals 234
 
 Firing, necessity of in prisons 38
 
-candles, &c. liberal allowance of 423 liberal allowance of 99, 271
+candles, &c. liberal allowance of 423
+
+liberal allowance of 99, 271
 
 Firmian, count de, his kind present of plan 121
 
@@ -21636,15 +21946,37 @@ Flint county gaol 446
 
 Floors laid rough, an inconvenience 186
 
-strewed with spruce fir or juniper 85, 88, 94 Florence 107 Folkingham bridewell 329 Food, want of in bridewells 4
+strewed with spruce fir or juniper 85, 88, 94
 
-what necessary, and how distributed 33 Fothergill, Dr. his scheme for employment of convicts 132 Founding-hospital at Paris 178 France 165 Frankfort on the Maine 135 Free ward should be left for debtors 30 French Flanders 164
+Florence 107
+
+Folkingham bridewell 329
+
+Food, want of in bridewells 4
+
+what necessary, and how distributed 33
+
+Fothergill, Dr. his scheme for employment of convicts 132
+
+Founding-hospital at Paris 178
+
+France 165
+
+Frankfort on the Maine 135
+
+Free ward should be left for debtors 30
+
+French Flanders 164
 
 INDEX.
 
 Freyburg 125
 
-Fuller, John, his legacy 230 Fumigation, mode of by Dr. Lind 32 with Juniper berries 32
+Fuller, John, his legacy 230
+
+Fumigation, mode of by Dr. Lind 32
+
+with Juniper berries 32
 
 G.
 
@@ -21652,43 +21984,115 @@ Gabriel, Mr. his donation and legacy 360
 
 Gainsborough bridewell 329
 
-Galleys, at Civita-'vecchia 115 Naples 117 Genoa 119 Venice 106 none sent to under twenty 116
+Galleys, at Civita-'vecchia 115
+
+Naples 117
+
+Genoa 119
+
+Venice 106
+
+none sent to under twenty 116
 
 GalleyHaves, French, allowance to 167
 
-term commences two days after sentence 167 in Germany 66 Switzerland 124 lie on Shore 108 yearly expence of 91, 116 Gallows, mark of a feigneurie 124
+term commences two days after sentence 167
+
+in Germany 66
+
+Switzerland 124
+
+lie on Shore 108
+
+yearly expence of 91, 116
+
+Gallows, mark of a feigneurie 124
 
 Gaming, a bad custom in prisons 13
 
 prohibited 53, 119, 126, 147, 396, 440, 447, 461
 
-Gaol, county, proposed plan for 21 bell Situation of 21 new, commended 270, 394 Gaols becoming sickly 275, 468 Gaols private property, an evil 17
+Gaol, county, proposed plan for 21
+
+bell Situation of 21
+
+new, commended 270, 394
+
+Gaols becoming sickly 275, 468
+
+Gaols private property, an evil 17
 
 inilances of 237, 258, 261, 291, 305, 320, 336, 341, 366, 373, 378, 382, 397, 398, 411,412,413, 41$, 418, 419, 438, 444, 446
 
-Gaoler, who and what he should be 25 care in choice of, in France 169 non-resident, an evil 17 fifty-five years in office 380 condemned to be hanged for lUrving prisoner 168
+Gaoler, who and what he should be 25
 
-fined for detaining acquitted prisoners 16 ironing a woman 13 demand upon, for a copy of judge's calendar 16
+care in choice of, in France 169
 
-obliged to pay prisoner's debt for allowing him to work 312 by patent from bishop 419 on his own accord hangs up clauses against Spirituous liquors 331
+non-resident, an evil 17
 
-Gaoler, signs table of fees 238, 284, 287, 434 paid for keeping bread account 370 punished for escape of prisoners 125 Gaolers, artifice used by, to prevent examination of prisons 468 complaint of the want of rules for their own condufl 371 neglect visiting felons ward 27 ~ none in Russia, but military 183 Salaries of 48, 56, 169 fees raised 233
+fifty-five years in office 380
 
-wives inspect women's apartments 77 Gaol-committee, report of, quoted 14, 26, 2t8, 251
+condemned to be hanged for lUrving prisoner 168
+
+fined for detaining acquitted prisoners 16
+
+ironing a woman 13
+
+demand upon, for a copy of judge's calendar 16
+
+obliged to pay prisoner's debt for allowing him to work 312
+
+by patent from bishop 419
+
+on his own accord hangs up clauses against Spirituous liquors 331
+
+Gaoler, signs table of fees 238, 284, 287, 434
+
+paid for keeping bread account 370
+
+punished for escape of prisoners 125
+
+Gaolers, artifice used by, to prevent examination of prisons 468
+
+complaint of the want of rules for their own condufl 371
+
+neglect visiting felons ward 27 ~ none in Russia, but military 183
+
+Salaries of 48, 56, 169
+
+fees raised 233
+
+wives inspect women's apartments 77
+
+Gaol-committee, report of, quoted 14, 26, 2t8, 251
 
 Gaol-delivery, seldom, an evil 15
 
-but once a year 297, 420, 423, 425, 429, 431 once in three years 15 Gaol-difiemper, havock from 8 — 9
+but once a year 297, 420, 423, 425, 429, 431
 
-not known in Italy 117 Russia 94 Switzerland 125
+once in three years 15
 
-Spread of 347 Stow's account of 2 remarks oa 467
+Gaol-difiemper, havock from 8 — 9
+
+not known in Italy 117
+
+Russia 94
+
+Switzerland 125
+
+Spread of 347
+
+Stow's account of 2
+
+remarks oa 467
 
 persons apparently dead of, recovered by washing with cold water 23, 255
 
 Garnish, evils from 12
 
-prisoners punished for extorting 13 forbidden in France 167
+prisoners punished for extorting 13
+
+forbidden in France 167
 
 General, an old, opinion concerning bedding 33
 
@@ -21722,11 +22126,15 @@ Gosport 371
 
 Gouda 5 2
 
-Gould, judge, fines a gaoler for detaining acquitted prisoners 16 3 s 2
+Gould, judge, fines a gaoler for detaining acquitted prisoners 16 3
+
+s 2
 
 INDEX.
 
-Grand-Chatelet at Paris 171 Grata 105
+Grand-Chatelet at Paris 171
+
+Grata 105
 
 Greig's, Admiral, account of slaves 91
 
@@ -21734,9 +22142,15 @@ Grelham, Sir Thomas, his charity 224, 249, 252,
 
 Groats, of debtors 5, 34
 
-estate bound for paying 398 Groningen 63 Guildford 279
+estate bound for paying 398
 
-Gwynn, Eleanor, her charity 224, 252, 254, 275 H.
+Groningen 63
+
+Guildford 279
+
+Gwynn, Eleanor, her charity 224, 252, 254, 275
+
+H.
 
 , Hague 53
 
@@ -21760,19 +22174,53 @@ Hanmer 448
 
 Hanover 70
 
-Hanway, Mr. on separate confinement 22 Harburg 72 Harlem 54
+Hanway, Mr. on separate confinement 22
+
+Harburg 72
+
+Harlem 54
 
 Harwich- 263 ,
 
-Haulton castle 446 Harverfordwef county gaol 456 town gaol 457 Heberden, Dr. his opinion concerning wet roon>» and situations 30 Henley 345
+Haulton castle 446
 
-Herefordshire 357 Hereford county gaol 357
+Harverfordwef county gaol 456
 
-bridewell 3 5 S city gaol 359 Hermandad del Refugio 159 Herris, Elizabeth, her charity 259 Hertfordshire 255 Hertford county gaol 255
+town gaol 457
 
-bridewell 256 Hesleden, Thomas, his legacies 327 Hey don, John, his legacy 403 Hinkley 3 15 Hitchin 257
+Heberden, Dr. his opinion concerning wet roon>» and situations 30
 
-Hobson, Thomas, his legacy 290 Hodgefion, Dr. his charity 408
+Henley 345
+
+Herefordshire 357
+
+Hereford county gaol 357
+
+bridewell 3 5
+
+S city gaol 359
+
+Hermandad del Refugio 159
+
+Herris, Elizabeth, her charity 259
+
+Hertfordshire 255
+
+Hertford county gaol 255
+
+bridewell 256
+
+Hesleden, Thomas, his legacies 327
+
+Hey don, John, his legacy 403
+
+Hinkley 3 15
+
+Hitchin 257
+
+Hobson, Thomas, his legacy 290
+
+Hodgefion, Dr. his charity 408
 
 Holland 44
 
@@ -21784,15 +22232,109 @@ Horsham county gaol 270
 
 escape intended from 21
 
-Hort, Sir John, his kind assistance 164 Hospitals, construction and regulation of 183 Hospitals and infirmaries, English, &c. Dublin 209 Edinburgh 199 Leeds 414 Norwich 294 Oxford 342 Fly mouth 389 Hospitals, foreign
+Hort, Sir John, his kind assistance 164
 
-Amsterdam 62 Antwerp 141 Bologna 107 Bordeaux 180 Brefau 98 Bruges 149 Brussels 142 Burgos 162 Copenhagen 80, 81 Cronfadt 91 Evora 133 Florence 108 Genoa I 20 Ghent 145 Harlem 54 Lille 165 Lisbon 152 Lyons 179 Madrid 158 Milan 122 Moscow 94, 95 Munich 130 Naples 118 Pamplona 163 Paris 177 Petersburg 88 Rome 113, 113 Stockholm 84 Palaver a 154 Toledo 153 Turin 123 Valladolid 161 Vienna 104 Warsaw 96, 97
+Hospitals, construction and regulation of 183
+
+Hospitals and infirmaries, English, &c. Dublin 209
+
+Edinburgh 199
+
+Leeds 414
+
+Norwich 294
+
+Oxford 342
+
+Fly mouth 389
+
+Hospitals, foreign
+
+Amsterdam 62
+
+Antwerp 141
+
+Bologna 107
+
+Bordeaux 180
+
+Brefau 98
+
+Bruges 149
+
+Brussels 142
+
+Burgos 162
+
+Copenhagen 80, 81
+
+Cronfadt 91
+
+Evora 133
+
+Florence 108
+
+Genoa I 20
+
+Ghent 145
+
+Harlem 54
+
+Lille 165
+
+Lisbon 152
+
+Lyons 179
+
+Madrid 158
+
+Milan 122
+
+Moscow 94, 95
+
+Munich 130
+
+Naples 118
+
+Pamplona 163
+
+Paris 177
+
+Petersburg 88
+
+Rome 113, 113
+
+Stockholm 84
+
+Palaver a 154
+
+Toledo 153
+
+Turin 123
+
+Valladolid 161
+
+Vienna 104
+
+Warsaw 96, 97
 
 INDEX.
 
-Hospitals for prisoners 106, 108, no, iii, 116, 118, 152, 158, 163, 164 House of correction, see bridewell Education, Petersburg 88 Industry, Dublin 205
+Hospitals for prisoners 106, 108, no, iii, 116, 118, 152, 158, 163, 164
 
-for Isle of Wight y]z Mildenhall 3 ">5 Hotel de la Force, a new prison 172 Hull, see King lion Hulks on the Thames 465 Huntingdonshire 286 Huntingdon county gaol and bridewell 286
+House of correction, see bridewell Education, Petersburg 88
+
+Industry, Dublin 205
+
+for Isle of Wight y]z Mildenhall 3 ">5
+
+Hotel de la Force, a new prison 172
+
+Hull, see King lion Hulks on the Thames 465
+
+Huntingdonshire 286
+
+Huntingdon county gaol and bridewell 286
 
 Hufley, Rebecca, her legacy 327
 
@@ -21808,13 +22350,53 @@ Jew prisoners, allowed a different diet 47
 
 - excused working on their sabbath 136
 
-Jews Ward 111, 223 Imprisonment for debt abolished 150 Infirmary in gaols, how bell constructed 23 Inquisition prison at Madrid 160 Rome 112 Valladolid 160 Inspector of prisons, his office and duty 36 with a salary, negligent 84 Inspectors of prisoners of war necessary 1S9 Intercourse, (hoeking, of the sexes in prison 346, 35°, 363, 383 Inmerness 20 r Iffwich county gaol 30 r
+Jews Ward 111, 223
 
-bridewell 303 town bridewell 305 Ireland 202
+Imprisonment for debt abolished 150
+
+Infirmary in gaols, how bell constructed 23
+
+Inquisition prison at Madrid 160
+
+Rome 112
+
+Valladolid 160
+
+Inspector of prisons, his office and duty 36
+
+with a salary, negligent 84
+
+Inspectors of prisoners of war necessary 1S9
+
+Intercourse, (hoeking, of the sexes in prison 346, 35°, 363, 383
+
+Inmerness 20
+
+r Iffwich county gaol 30
+
+r
+
+bridewell 303
+
+town bridewell 305
+
+Ireland 202
 
 Irons, bad use of in prisons 13
 
-judges opinion concerning 14 not used in French prisons 166 Iron bedsteads in debtors rooms 449 collar and hook for criminals 125 glove, a punishment iij plates, prison roofed with 88 Iron-grate doors, for free circulation of air 92, 104, 107, 270 Italy 106
+judges opinion concerning 14
+
+not used in French prisons 166
+
+Iron bedsteads in debtors rooms 449
+
+collar and hook for criminals 125
+
+glove, a punishment iij plates, prison roofed with 88
+
+Iron-grate doors, for free circulation of air 92, 104, 107, 270
+
+Italy 106
 
 Ivelchester county gaol 399
 
@@ -21828,17 +22410,47 @@ K.
 
 Keeper, see gaoler
 
-Keeper of bridewell, his qualifications 38, 40 murdered 340
+Keeper of bridewell, his qualifications 38, 40
 
-of house of correction imprisoned 141 Keeper's account of expences and earnings 365 Kelfon, Mr. his legacy 399 4
+murdered 340
 
-Kempe, Mrs. her charities 294 Kendal county bridewell 431 gaol 431 Kendrick, John, his legacy 230 Kent 264 Kettering 335 Kidderminster 349 King, his benefaction 37J
+of house of correction imprisoned 141
 
-bounty towards building a gaol 392 King, lord-chancellor, his declaration against severe confinement 14 King's Bench prison 243 King's evidence, difficulty where to keep 22 King fan upon Hull gaol 415
+Keeper's account of expences and earnings 365
+
+Kelfon, Mr. his legacy 399 4
+
+Kempe, Mrs. her charities 294
+
+Kendal county bridewell 431
+
+gaol 431
+
+Kendrick, John, his legacy 230
+
+Kent 264
+
+Kettering 335
+
+Kidderminster 349
+
+King, his benefaction 37J
+
+bounty towards building a gaol 392
+
+King, lord-chancellor, his declaration against severe confinement 14
+
+King's Bench prison 243
+
+King's evidence, difficulty where to keep 22
+
+King fan upon Hull gaol 415
 
 bridewell 415
 
-Kingston upon Thames bridewell 277 town gaol 279
+Kingston upon Thames bridewell 277
+
+town gaol 279
 
 Knaresborough 413, 414
 
@@ -21848,9 +22460,17 @@ Knoot, punishment of, described 86
 
 L.
 
-Labour, none performed in most bridewells Ladbroke, Sir Robert, letter to him quoted 7, 14 Lancashire 432 Lancaster castle 432
+Labour, none performed in most bridewells Ladbroke, Sir Robert, letter to him quoted 7, 14
 
-town gaol 436 Langton, Mrs. her charity 434 Lath and*plaster, partition of, to prevent escapes 171
+Lancashire 432
+
+Lancaster castle 432
+
+town gaol 436
+
+Langton, Mrs. her charity 434
+
+Lath and*plaster, partition of, to prevent escapes 171
 
 Latham, Peter, his charity 434
 
@@ -21862,93 +22482,221 @@ Laufannt
 
 INDEX.
 
-Lausanne 123 Lavetiham 304
+Lausanne 123
+
+Lavetiham 304
 
 Lawson, Mrs. her charity 40$
 
-Lazaretto at Leghorn 109 jSTofco'vo 93
+Lazaretto at Leghorn 109
 
-Leeds 414 Leeuwarden 63 Leevoenberch gast-huys 65
+jSTofco'vo 93
+
+Leeds 414
+
+Leeuwarden 63
+
+Leevoenberch gast-huys 65
 
 Legacies recovered 420
 
-tables of should be hung up 34 care of at Bruges 149 Legacies, see benefactions Leghorn 108 Leicestershire 313 Leicester county gaol 313
+tables of should be hung up 34
 
-bridewell 315 town gaol 316
+care of at Bruges 149
 
-bridewell 317 Lettfom, Dr. his method in putrid fevers 23 Levies 272 Leyden 3 3
+Legacies, see benefactions Leghorn 108
 
-Licence, observation concerning 210 Licences to sell liquors, pernicious efftdls of in gaols 26, 83, 198, 219, 238, 303, 306,
+Leicestershire 313
 
-34°. 458 none in Ireland 27
+Leicester county gaol 313
 
-Lichfield 352 Liege 137 Lille 164
+bridewell 315
 
-Lime-white, what, and its benefits 30 Lincolnshire 326 Lincoln castle 326
+town gaol 316
 
-city gaol 330 Lind, Dr. his method of fumigation 32 traces infection to gaols 10 Linen, clean, to prisoners from a charity 167 Lisbon 150
+bridewell 317
 
-Litter, &c. a nuisance in prisons 32, 312, 429 Liverpool gaol 436
+Lettfom, Dr. his method in putrid fevers 23
 
-bridewell 437 Loftiness of Italian hospitals I r9London 213 Lostwithiel 398
+Levies 272
 
-Loughborough, lord, fines a gaoler for ironing 13 Lucca 119
+Leyden 3 3
+
+Licence, observation concerning 210
+
+Licences to sell liquors, pernicious efftdls of in gaols 26, 83, 198, 219, 238, 303, 306,
+
+34°. 458
+
+none in Ireland 27
+
+Lichfield 352
+
+Liege 137
+
+Lille 164
+
+Lime-white, what, and its benefits 30
+
+Lincolnshire 326
+
+Lincoln castle 326
+
+city gaol 330
+
+Lind, Dr. his method of fumigation 32
+
+traces infection to gaols 10
+
+Linen, clean, to prisoners from a charity 167
+
+Lisbon 150
+
+Litter, &c. a nuisance in prisons 32, 312, 429
+
+Liverpool gaol 436
+
+bridewell 437
+
+Loftiness of Italian hospitals I r9London 213
+
+Lostwithiel 398
+
+Loughborough, lord, fines a gaoler for ironing 13
+
+Lucca 119
 
 Ludgate, new 222
 
 Ludlow gaol 356.
 
-Ludlow bridewell 356 Lukau 102
+Ludlow bridewell 356
 
-Lumley, lady, her charity 408 Lunatics and idiots, a nuisance in gaols 8
+Lukau 102
 
-Lunenburg 72 Lynn Regis 300 Lyons 179
+Lumley, lady, her charity 408
+
+Lunatics and idiots, a nuisance in gaols 8
+
+Lunenburg 72
+
+Lynn Regis 300
+
+Lyons 179
 
 M.
 
 Macclesfield prison 444
 
-bridewell 444 Macfarlan, Dr. quoted 35 Maelaine, Dr. his communications 55 Madrid 155
+bridewell 444
 
-Hospicio 158 Magdeburg 102
+Macfarlan, Dr. quoted 35
 
-Magistrates, in spedl weekly 99, 131, 144 neglect of 36
+Maelaine, Dr. his communications 55
 
-room for, in houses of correction 139 Maidstone county gaol 264
+Madrid 155
+
+Hospicio 158
+
+Magdeburg 102
+
+Magistrates, in spedl weekly 99, 131, 144
+
+neglect of 36
+
+room for, in houses of correction 139
+
+Maidstone county gaol 264
 
 bridewell 266
 
-Manchester 435 Manheim 133
+Manchester 435
 
-Mann, Sir Horace, his kindness 108 Manufactory for deserted children 152
+Manheim 133
 
-of military cloth in Denmark 78 Marlborough 377 Marshalsea prison 230
+Mann, Sir Horace, his kindness 108
 
-in Dublin 205 Matron to prison 231, 233 Mead, Dr. on the cause of contagion 31 m Mechlin 141
+Manufactory for deserted children 152
 
-Medical practice for sick prisoners 149, 283 Melton-Mowbray 3 13 Mentos 136
+of military cloth in Denmark 78
+
+Marlborough 377
+
+Marshalsea prison 230
+
+in Dublin 205
+
+Matron to prison 231, 233
+
+Mead, Dr. on the cause of contagion 31
+
+m Mechlin 141
+
+Medical practice for sick prisoners 149, 283
+
+Melton-Mowbray 3 13
+
+Mentos 136
 
 Merionethshire 434
 
-Middleburg 31 Middlewich 441 Milan, 120 Mildenhall 305
+Middleburg 31
 
-Minister of parish in Ireland to take care of prisoners allowance 33 Minuteness of description, reason for 122, 211 Monmouthshire 3^9 Monmouth county gaol 359 town gaol 361
+Middlewich 441
+
+Milan, 120
+
+Mildenhall 305
+
+Minister of parish in Ireland to take care of prisoners allowance 33
+
+Minuteness of description, reason for 122, 211
+
+Monmouthshire 3^9
+
+Monmouth county gaol 359
+
+town gaol 361
 
 INDEX
 
-Montgomeryshire 451 Montgomery county gaol 451
+Montgomeryshire 451
 
-bridewell 452 Moore, Dr. quoted 112, 174 Morals, vitiated in prisons 8, 10
+Montgomery county gaol 451
+
+bridewell 452
+
+Moore, Dr. quoted 112, 174
+
+Morals, vitiated in prisons 8, 10
 
 Morpeth county gaol 425
 
-bridewell 427 Mortality, bill of at Amsterdam 55 Moscow 92.
+bridewell 427
+
+Mortality, bill of at Amsterdam 55
+
+Moscow 92.
 
 Mounfey, Dr. found no gaol-fever in Russia 94
 
 Munich 129
 
-Nantwich debtors prison 444 town gaol 445 Naples 117 Newark upon Trent 325 Newcastle upon Tyne, Newgate 422 tower gaol 424 tallow-house 424 bridewell 424
+Nantwich debtors prison 444
+
+town gaol 445
+
+Naples 117
+
+Newark upon Trent 325
+
+Newcastle upon Tyne, Newgate 422
+
+tower gaol 424
+
+tallow-house 424
+
+bridewell 424
 
 Newgate 213
 
@@ -21956,9 +22704,15 @@ Newport, Essex 262
 
 Isle of Wight 372
 
-Monmouthshire 361 Newport Pagnel 282
+Monmouthshire 361
 
-New river company, their refusal of water 236 Nimeguen 64 Norfolk 293
+Newport Pagnel 282
+
+New river company, their refusal of water 236
+
+Nimeguen 64
+
+Norfolk 293
 
 Norman, Francis, eight years list of his prisoners
 
@@ -21968,13 +22722,17 @@ Norney, John, his legacy 440
 
 Northamptonshire 334
 
-Northampton county gaol 334 town gaol 336
+Northampton county gaol 334
+
+town gaol 336
 
 Northumberland 425
 
 Norwich castle 293
 
-city and county, gaol 296 bridewell 298
+city and county, gaol 296
+
+bridewell 298
 
 Nottinghamshire 321
 
@@ -21982,13 +22740,27 @@ Nottingham county gaol 321.
 
 town gaol 324
 
-bridewell 325 Number of executions at Amsterdam 56 inhabitants at Amsterdam 5 5 Naples 117 prisoners in Dublin 206
+bridewell 325
+
+Number of executions at Amsterdam 56
+
+inhabitants at Amsterdam 5 5
+
+Naples 117
+
+prisoners in Dublin 206
 
 England and Wales 17,
 
-486 — 492 Scotland 200 fufcany no
+486 — 492
 
-Nunnery with hospital for insane 145 Nuns, keep hospitals too close 165
+Scotland 200
+
+fufcany no
+
+Nunnery with hospital for insane 145
+
+Nuns, keep hospitals too close 165
 
 Nurenburg 130
 
@@ -22002,11 +22774,23 @@ Oakham county gaol 333
 
 Oakum, pieking, a salutary employment 236, 277
 
-Oath, solemn administration of 82, 126, 195 Objections to the improvement of prisons answered 43
+Oath, solemn administration of 82, 126, 195
+
+Objections to the improvement of prisons answered 43
 
 Odiam 372
 
-Oil of tar, board under the beds in an hospital brushed with 185 Order for attendance on divine service 223, 434 Orphan-house, Amsterdam 62 Antwerp 141 Berlin 101 Edinburgh 169
+Oil of tar, board under the beds in an hospital brushed with 185
+
+Order for attendance on divine service 223, 434
+
+Orphan-house, Amsterdam 62
+
+Antwerp 141
+
+Berlin 101
+
+Edinburgh 169
 
 Ofnalrug 67
 
@@ -22020,7 +22804,13 @@ Oxfordshire 341
 
 Oxford castle 341
 
-city bridewell 345 university bridewell 343 Oven proper in gaols 23 room called so 432
+city bridewell 345
+
+university bridewell 343
+
+Oven proper in gaols 23
+
+room called so 432
 
 P.
 
@@ -22028,11 +22818,17 @@ Padua 106
 
 Pamplona 162
 
-Pardoned criminal detained for fees 316, 322 Paris 165
+Pardoned criminal detained for fees 316, 322
+
+Paris 165
 
 Parole not granted to American officers 187
 
-English prisoners of war without security 183 Patroness of prisons 168 Peacock, Mr. his gift 410
+English prisoners of war without security 183
+
+Patroness of prisons 168
+
+Peacock, Mr. his gift 410
 
 a murderer, acquitted by delay of trial I Peasants, slaves 85
 
@@ -22046,7 +22842,9 @@ Penitentiary
 
 INDEX.
 
-Penitentiary houses, heads of regulations for 470 Pennant, Mr. his Tour quoted 439
+Penitentiary houses, heads of regulations for 470
+
+Pennant, Mr. his Tour quoted 439
 
 Tenryn borough-gaol 398
 
@@ -22078,7 +22876,9 @@ Petty, Sir William, quoted 55
 
 Petworth 272
 
-Peverel, honour of 325 Physician should be appointed to Newgate9
+Peverel, honour of 325
+
+Physician should be appointed to Newgate9
 
 Pitt, Moses, his Cry of the opprefed 313
 
@@ -22098,7 +22898,9 @@ Pontefract, liberty of the honour 416
 
 Poole town gaol 381
 
-bridewell 382 Popliam, Mr. his two bills 2
+bridewell 382
+
+Popliam, Mr. his two bills 2
 
 Poor-house at Copenhagen 79
 
@@ -22138,13 +22940,53 @@ Prison uniform, recommended 31
 
 Prisoner forty-three years 384
 
-Prisoners, acquitted, discharged in court 16, 197 allowed to beg abroad 376, 383 begging in the streets 92 burnt in a prison 32, 262 condemned, cells for in Newgate 22, 214
+Prisoners, acquitted, discharged in court 16, 197
 
-detained for fees 1, 13 evils from not separating 8 from bridewells, distressed I in England and Wales, number of 17, 486
+allowed to beg abroad 376, 383
 
-let out on parole 150 obliged to walh before they have allowance 241 on exchequer processes, and from eccle-lialfical courts, hard case of 6 perishing from cold 38 — 39, 173 proper allowance for conveying 381 should have a day-room 33 should sleep in separate rooms 22 Pick, liberally allowed 149 starved to death 39, 272 subsisted by voluntary contributions 87, 92, 133 tried out of irons 197 Prisoners of war, in general well treated 11 ,
+begging in the streets 92
 
-how treated in France the war before last u French, desirous of making their own bread 91 Prisoner's dog dellroyed by vermin 413 Prisoners of war, American 194 English, at
+burnt in a prison 32, 262
+
+condemned, cells for in Newgate 22, 214
+
+detained for fees 1, 13
+
+evils from not separating 8
+
+from bridewells, distressed I in England and Wales, number of 17, 486
+
+let out on parole 150
+
+obliged to walh before they have allowance 241
+
+on exchequer processes, and from eccle-lialfical courts, hard case of 6
+
+perishing from cold 38 — 39, 173
+
+proper allowance for conveying 381
+
+should have a day-room 33
+
+should sleep in separate rooms 22
+
+Pick, liberally allowed 149
+
+starved to death 39, 272
+
+subsisted by voluntary contributions 87, 92, 133
+
+tried out of irons 197
+
+Prisoners of war, in general well treated 11 ,
+
+how treated in France the war before last u French, desirous of making their own bread 91
+
+Prisoner's dog dellroyed by vermin 413
+
+Prisoners of war, American 194
+
+English, at
 
 Ardres 182
 
@@ -22156,7 +22998,9 @@ Calais 182
 
 Dunkirk 181
 
-Rotterdam 31 foreign, at
+Rotterdam 31
+
+foreign, at
 
 Belfast 192
 
@@ -22174,7 +23018,9 @@ Dublin 193
 
 Edinburgh 192
 
-Falmouth 191 Fort on 186
+Falmouth 191
+
+Fort on 186
 
 Hull 189
 
@@ -22192,15 +23038,43 @@ Shrewsbury 190
 
 Winchester 186
 
-Yarmouth 191 Profit of work should go to common flock 41
+Yarmouth 191
 
-to keeper, half 27Z, 323, 348, 356 one seventh 48 to prisoners, all 103, 103, 289, 344 part 116 two thirds 462 one third 121 fourth 73 fifth 147 sixth 394 surplus 131, 144 Proprietors of gaols, see gaols
+Profit of work should go to common flock 41
+
+to keeper, half 27Z, 323, 348, 356
+
+one seventh 48
+
+to prisoners, all 103, 103, 289, 344
+
+part 116
+
+two thirds 462
+
+one third 121
+
+fourth 73
+
+fifth 147
+
+sixth 394
+
+surplus 131, 144
+
+Proprietors of gaols, see gaols
 
 Public diversions taxed, for support of prisons 6o
 
 of hospitals 163
 
-Public houses not to be frequented by sheriff's officers 53 Pump necessary in gaols 23 Punishment for escape 78, 101, no, 117 modes of in Russia 86
+Public houses not to be frequented by sheriff's officers 53
+
+Pump necessary in gaols 23
+
+Punishment for escape 78, 101, no, 117
+
+modes of in Russia 86
 
 Purser's weights, faulty 465
 
@@ -22208,13 +23082,21 @@ Q.
 
 Quakers room 432
 
-Quarrels not to be permitted in gaols 34 Quas, a fermented liquor 91, 92
+Quarrels not to be permitted in gaols 34
+
+Quas, a fermented liquor 91, 92
 
 Quinze-vingti hospital for blind 178
 
 R.
 
-Radnorshire 459 Rags of felons should be buried 275 Raikes, Mr. his charity 363 Ransomers 181
+Radnorshire 459
+
+Rags of felons should be buried 275
+
+Raikes, Mr. his charity 363
+
+Ransomers 181
 
 Rasp and spin-houses, Dutch, management of 45
 
@@ -22250,15 +23132,31 @@ doubles allowance at a bridewell
 
 272
 
-Rigby, Henrietta, her legacy 434 Abigail, ditto 434 Ring, iron, on window bars 78 Rioters, prisons burnt by 2x5, 221, 245, 277 prison destroyed by 254 Ripon gaol 413 liberty 412
+Rigby, Henrietta, her legacy 434
+
+Abigail, ditto 434
+
+Ring, iron, on window bars 78
+
+Rioters, prisons burnt by 2x5, 221, 245, 277
+
+prison destroyed by 254
+
+Ripon gaol 413
+
+liberty 412
 
 Rivers, German prisons built near 66
 
 Rochester gaol 268
 
-bridewell 268 Rome hi Romney gaol 269
+bridewell 268
 
-Rotheram, Dr. his charity to prisoners 423 Rot have ll prison 416
+Rome hi Romney gaol 269
+
+Rotheram, Dr. his charity to prisoners 423
+
+Rot have ll prison 416
 
 Rotterdam 46
 
@@ -22268,11 +23166,21 @@ Rules and orders, tables of, should be hung up 35
 
 - for government of Foreign prisons 53, 57,
 
-65, 99, 109, 119, Ul> lll> 135> 140, 144, 143, 157, 165, 168 English, &c. 200, 220, 24^, 328, 385, 396, 401, 410, 412, 440, 447, 461 for House of Education 89
+65, 99, 109, 119, Ul> lll> 135> 140, 144, 143, 157, 165, 168
+
+English, &c. 200, 220, 24^, 328, 385, 396, 401, 410, 412, 440, 447, 461
+
+for House of Education 89
 
 Prisoners of war in France 181
 
-- England 473 for work-house 69, 73, 100 or bounds of a prison 217, 244, 398, 423, 458 3 T Russia
+- England 473
+
+for work-house 69, 73, 100
+
+or bounds of a prison 217, 244, 398, 423, 458 3
+
+T Russia
 
 ---
 
@@ -22308,7 +23216,9 @@ St. Peter, liberty of 411
 
 Salaries of magistrates small 128
 
-Sahffury county gaol 375 city gaol 3/8
+Sahffury county gaol 375
+
+city gaol 3/8
 
 Salpetriere 174
 
@@ -22342,9 +23252,13 @@ Sessions at towns where no prison, distress from 278
 
 Sewers and drains, want of in gaols 7
 
-general remark on 261 in gaols, how bell; conlhudled 24
+general remark on 261
 
-Sheffield, debtors prison 415 town gaol 416
+in gaols, how bell; conlhudled 24
+
+Sheffield, debtors prison 415
+
+town gaol 416
 
 Shepton Mallet county bridewell 402
 
@@ -22376,7 +23290,9 @@ Slaves, annual expence of 91
 
 Smith, Mr. his legacy 376
 
-Dr. his visits to prisons" 226 George, keeper, commended 25
+Dr. his visits to prisons" 226
+
+George, keeper, commended 25
 
 Spain 153
 
@@ -22384,11 +23300,19 @@ Spalding bridewell 330
 
 Spandau 101
 
-Spanish mantle, an engine of punishment 76, 99 Spectator quoted respecting cleanliness 31 Spirituous liquors cheap, an evil 206
+Spanish mantle, an engine of punishment 76, 99
 
-fine on gaolers who sell them 34 any who bring them 34
+Spectator quoted respecting cleanliness 31
 
-Squalor carceris, for compulsion of debtors 202 Soap and towels should be allowed in prisons 314
+Spirituous liquors cheap, an evil 206
+
+fine on gaolers who sell them 34
+
+any who bring them 34
+
+Squalor carceris, for compulsion of debtors 202
+
+Soap and towels should be allowed in prisons 314
 
 Society for discharge of persons confined for small debts 229, 233
 
@@ -22400,9 +23324,13 @@ Southampton bar-gate 373
 
 gaol 374
 
-bridewell 374 Southwark county gaol 473
+bridewell 374
 
-Southwell county bridewell 323 Stables, &c. not to be permitted in courts of gaols 32
+Southwark county gaol 473
+
+Southwell county bridewell 323
+
+Stables, &c. not to be permitted in courts of gaols 32
 
 in courts of gaols 297, 312, 376, 399, 450
 
