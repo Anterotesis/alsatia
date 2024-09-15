@@ -3646,7 +3646,7 @@ Des Petites Maisons.
 
 Paris Des Petites Maisons.
 
-a hundred and thirteen beds; a new room for forty beds is not yet occupied. The good fijiers kindly attend. The neatness and cleanliness I observed here engaged me often to repeat my visits. Rooms in the hospital and beds in the Tick wards are bought by the opulent, as asylums for aged domestics and poor friends.
+a hundred and thirteen beds; a new room for forty beds is not yet occupied. The good fijiers kindly attend. The neatness and cleanliness I observed here engaged me often to repeat my visits. Rooms in the hospital and beds in the sick wards are bought by the opulent, as asylums for aged domestics and poor friends.
 
 Madame Necker’s Hospital. Madame Necker’s hospital is a noble example of private charity. It has beds for seventy men and sixty women, who are attended by fourteen of the lifters. The medical and chirurgical patients are separated. I advised washing the men’s wards; but my advice has not been taken.
 
@@ -8286,7 +8286,7 @@ James Chappie.
 
 £3o.
 
-Debtors, £0: 17: 5. Felons, o: 13: 4.
+Debtors, £0: 17: 5. Felons, 0: 13: 4.
 
 none.
 
