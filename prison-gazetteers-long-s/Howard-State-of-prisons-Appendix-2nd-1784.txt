@@ -755,13 +755,17 @@ At Harburg, there were thirteen slaves working on the fortifications, with irons
 At Hamburg, in the Bütteley, there is no court-yard, and only one day-room on the ground-floor. Above stairs, are six or eight strong rooms about ten feet square. Allowance for each prisoner is four marks a week (a mark is 3d.). Divine service is constantly performed on Sundays and Thursdays. In 1781 there were here only two criminals and one debtor. I saw them at chapel, and they seemed very attentive and much affected. The prison was clean: but I perceived by the countenance of the gaoler and his unwillingness to shew me again the torture room, that he had seen my publication.
 
 [Work-house.]
+
 ---
+
 The Work-house, or great house of correction (Wert-und Tucht hause) is
 
 designed for the reception of the poor — beggars — and petty offenders. The rooms are fifteen feet wide, and have opposite windows. The task of logwood to a strong man is 451b. per day. Some men and horses worked at a fulling mill; and a smith was in constant employment.
 
 At my visit in 1781, the whole number in the house was about six hundred. I was happy to find a great alteration in the countenances of the inhabitants, and in the state of the house as to cleanliness. It is governed by eight directors (or regents) who must be married men. They meet every Saturday in a room
+
 ---
+
 26 APPENDIX.
 
 [Hamburg Work-house.]
@@ -769,7 +773,9 @@ At my visit in 1781, the whole number in the house was about six hundred. I was 
 appropriated to them, to examine and give orders. There is also a room for their ladies, who meet at the same time to deliver out the women’s work; and too much cannot be said in praise of their care and attention.
 
 In the chapel, the men have a room below, and the women above. An hour is spent in the service here every morning.
+
 ---
+
 There are several dark rooms for the confinement of the refractory, (thirteen feet by four feet nine inches) over which are the names Ethiopia, India, London, &c. — There is a spacious and convenient kitchen, and bake-house. But the sick rooms, both for the men and women, are too small. In the room where the regents meet, are their names and arms and also the regulations which Mr. Van Hajfel, one of the regents was so kind as to give me, together with a book containing an account of the institution, reprinted in 1766 from the original in 1622.
 
 This book contains instructions for the governors — orders for the officers of the house, (such as steward, school-master, talk-master, clerk, rasp-master, turnkey, and porter) — and regulations for the management of the poor, and of such as have been committed for offences. — The steward is to ring a bell every morning at five, (Sundays excepted) as a signal for the officers, the poor, &cc. to rife, and prepare for prayers; he is then to deliver the keys to the turnkey — -He and his wife are to distribute the meals, and fee that all in the house are properly inilrufted as to moral and religious duties — They are required to establish and preserve good order and harmony among the other officers — The steward must not permit the poor, or the wives, children, or servants of the other officers, to converse with such as are confined for offences, or to buy or fell any thing for them — The school-master must instruct the children in religion, and encourage them, at proper times to learn and repeat portions of Scripture — he must also teach them reading, writing, and accounts; and a decent behaviour to those that visit the house — He must take care that they attend divine service, and are orderly at it •, and his wife, with the wives of other officers, are required to examine the rooms in order to guard against mischief, and wicked contrivances, and the danger of fire — The tajk-master on Monday morning must give every person a particular tajk for the week, and on Saturday take an account of it — in giving their talks, attention must be paid to the trade in which they had been employed, and to their ability and skill — The talk-master is not permitted to undertake any work, either by himself or his wife, for his own private advantage — his wife has the care of
@@ -1242,7 +1248,7 @@ The knoot whip, is fixed to a wooden handle a foot long, and consists of several
 
 August 10, 1781, I saw two criminals, a man and a woman, fufter the punishment of the knoot. They were conducted from prison by about fifteen hussars and ten soldiers. When they arrived at the place of punishment, the hussars formed themselves into a ring round the whipping-post, the drum beat a minute or two, and then some prayers were read, the populace taking off their hats. The woman was taken first; and after being roughly stript to the waist, her hands and feet were bound with cords to a poll made for the purpose, a man standing before the post, and holding the cords to keep them tight. A
 
-* In the instructions for a new code of laws by the present Empress, however, a very just and humane distinction is made between prisoners of different classes. " One ought not to <c confine in the same pface, i. an accused person, against whom there are only appearances, " 2. a convidl, 3. a criminal who is condemned to prison as a punishment. The accused per-€t fon is only detained; the two others are imprisoned: but with respect to the former of them, t€ the prison is only a part of punishment; with respect to the latter, it is the punishment itself.”
+* In the instructions for a new code of laws by the present Empress, however, a very just and humane distinction is made between prisoners of different classes. " One ought not to <c confine in the same pface, i. an accused person, against whom there are only appearances, " 2. a convict, 3. a criminal who is condemned to prison as a punishment. The accused per-€t fon is only detained; the two others are imprisoned: but with respect to the former of them, t€ the prison is only a part of punishment; with respect to the latter, it is the punishment itself.”
 
 lnftruttion% Art, CLXXI.
 
@@ -1422,7 +1428,7 @@ riling ground near a river. On the ground-floor there are four lofty and spaciou
 
 * On conversing with the physician, concerning the treatment of the sick when the plague was at Moscow in 1772, he said, <€ it was nearly the same with ours in the gaol-fever, viz. " bark and good broths, with as much air as partible.”
 
-The late Sir John Pringle, President of the Royal Society, in his discourse at the Anniversary meeting, 30th November 1776, informs us at page 16, that 44 the late Dr. Mounfcy, F.R.S. who had lived long in Russia, and had been Arcbiaier under two successive sovereigns — hap* 44 pening to be at Moscow when he perused the Observations on the Jail-fever — was induced to 44 compare what he read in that treatise with what he should fee in the several prisons of that 44 large city: but to his surprize, after visiting them all, and finding them full of malefa&ors (for the late Empress then suffered none — to be put to death) he could discover no fever among them, nor learn that any acute distemper peculiar to jails had ever been known " there. — Upon his return to St. Petersburg, he made the same inquiry there, and with the same result.”
+The late Sir John Pringle, President of the Royal Society, in his discourse at the Anniversary meeting, 30th November 1776, informs us at page 16, that 44 the late Dr. Mounfcy, F.R.S. who had lived long in Russia, and had been Arcbiaier under two successive sovereigns — hap* 44 pening to be at Moscow when he perused the Observations on the Jail-fever — was induced to 44 compare what he read in that treatise with what he should fee in the several prisons of that 44 large city: but to his surprize, after visiting them all, and finding them full of malefactors (for the late Empress then suffered none — to be put to death) he could discover no fever among them, nor learn that any acute distemper peculiar to jails had ever been known " there. — Upon his return to St. Petersburg, he made the same inquiry there, and with the same result.”
 
 In this ancient capital of Russia, I found no traces of any such prisons or dungeons as were common, formerly in the cartles of England, and in several foreign countries (fee Burnys 7*ft ice, under gaol and gaoler, 8vo. edit. 1780, vol. II. p. 345.) That cruel mode of confinement in many of our prisons, has been a principal cause of the gaol-fever. I saw no symptoms of the gaol-fever in Moscow, or in any part of Russia.
 
@@ -1858,7 +1864,7 @@ ITALY 69
 
 At one end there are five rooms with single beds for sick priests. Three of them were occupied.
 
-The hospital S. Paolo della Convalefcenza for the reception of recovering patients, has clean and airy apartments, and a spacious refectory, or dining-hall. They continue here four days, and by the change of air and diet their health is confirmed before they go to their several occupations.
+The hospital S. Paolo della Convalescenza for the reception of recovering patients, has clean and airy apartments, and a spacious refectory, or dining-hall. They continue here four days, and by the change of air and diet their health is confirmed before they go to their several occupations.
 
 Here I would just mention an alms-house, S. , for infirm persons
 
@@ -2114,7 +2120,7 @@ ITALY. 77
 
 Florentines, that of S. Maria della Confolazio were clean, and perfectly free from any offensive scents. In this last-mentioned hospital, no patients are received except such as have wounds or fra&ures. The Gallicano, another hospital in this city, is solely for cutaneous disorders.
 
-Before we take our leave of Rome, it may be proper just to mention the hospital for pilgrims and convalej'cents.Recovering patients, when dismissed from the other hospitals, may enter into this, and reside here three days, lodge in airy wards, dine in the refectory, and be well attended.
+Before we take our leave of Rome, it may be proper just to mention the hospital for pilgrims and convales'cents.Recovering patients, when dismissed from the other hospitals, may enter into this, and reside here three days, lodge in airy wards, dine in the refectory, and be well attended.
 
 The Pope’s galleys are at Civita-vecchia. The slaves condemned to them are confined for different terms, according to the nature of their crimes: but the shortest time is three years for vagabonds, who are generally employed on board the pontons in clearing the harbour. For theft, the term is never under seven years. Persons convicted of forgery are always confined for life; and if found guilty of forging bank-notes, or any instruments by which large sums have been lost, they are punished with an iron glove. Prisoners for life are chained two and two together: those for limited terms have all a single chain, and, at their first arrival, of the same weight; but when they have no more than one or two years to serve, they have only a ring round their leg, which is lessened as the end of their term approaches. For escapes, they are obliged to finish their first condemnation, and then receive a frefti one for the same time as the former; but if the first was for life, the same is renewed, and they receive from a hundred to two hundred lashes a day, for three days after their arrival. None are fent to the galleys under the age of: criminals of a
 
@@ -2140,7 +2146,7 @@ vecchia.
 
 78 APPENDIX.
 
-Civita- vecchia. and every year, two feet and a half of woollen cloth to wrap round their legs instead of (lockings. The yearly expence of each Have for maintenance, clothing, and chains, is computed at fifteen Roman crowns and eighty-seven hatocs, about £3: 13:9. At the time of my being at Civita-vecchia, three of the galleys were out on a cruize, and two only remained. Through the whole night there was great silence (as I lay in a felucca close to them,) though about four hundred were chained in each of the galleys. The slaves here are constantly employed, and have what they earn for them-felves, being paid according to their abilities and the nature of their work. For Jawing in the arsenal, they are paid two pence a day each; for working as masons, two pence halfpenny ■, for carrying (tones and mortar, only a penny. Such as work at the canvass and calico m are paid from two pence to eight pence, according to the quality of the work, &c. At the public works they are allowed an hour for dinner, and in summer-time an hour for "breakfast. *
+Civita- vecchia. and every year, two feet and a half of woollen cloth to wrap round their legs instead of (lockings. The yearly expence of each Have for maintenance, clothing, and chains, is computed at fifteen Roman crowns and eighty-seven hatocs, about £3: 13:9. At the time of my being at Civita-vecchia, three of the galleys were out on a cruize, and two only remained. Through the whole night there was great silence (as I lay in a felucca close to them,) though about four hundred were chained in each of the galleys. The slaves here are constantly employed, and have what they earn for them-selves, being paid according to their abilities and the nature of their work. For Jawing in the arsenal, they are paid two pence a day each; for working as masons, two pence halfpenny ■, for carrying (tones and mortar, only a penny. Such as work at the canvass and calico m are paid from two pence to eight pence, according to the quality of the work, &c. At the public works they are allowed an hour for dinner, and in summer-time an hour for "breakfast. *
 
 Hospital. Here is a spacious hospital on shore for the (laves. None were in irons. All was clean. In the centre of the great room in this infirmary was an altar for public worship. A particular room was appropriated for such as had cutaneous disorders, and another for conf patients, f
 
@@ -2264,7 +2270,7 @@ the street; the others,only in the house.
 
 In L'ArgaJlro there were three hundred and fifty-nine prisoners, healthy and strong. A considerable number of them were at work in public: J but in the Correctio house there were at work shoe-makers, tailors, smiths, wheelwrights, cabinet- , makers, turners, nailers, rope-makers, leather-drdfers, painters on gauze, spinners and weavers. Many here learn trades, so that there is a probability, that when their term is finished, they will become members of society;
 
-which should be the grand objebl in all such houses. They receive for them-felves one third of what they earn, and two thirds go to the house.
+which should be the grand objebl in all such houses. They receive for them-selves one third of what they earn, and two thirds go to the house.
 
 Their dormitory is a spacious room, with three stages in it on which they lie. In the centre of the cieling are four large apertures, and sixteen small ones. ||
 
@@ -4210,7 +4216,7 @@ Dublin. Prisoners of War.
 
 Kilkenny.
 
-* A copy of the list of the sums which the French king grants to his subje&s detained in England, Sec. as a supplement to what they receive from the court of London.
+* A copy of the list of the sums which the French king grants to his subjects detained in England, Sec. as a supplement to what they receive from the court of London.
 
 AT LIBERTY.
 
@@ -4284,7 +4290,7 @@ SCOTLAND.
 
 It may not be improper, before I enter on a particular account of English prisons, to mention what further occurred to me worthy of observation, in my journeys into Scotland and Ireland in 1779, 1782, and 1783.
 
-The prisons which I saw in Edinburgh, Gla/gow, Haddington, Ayr, Kelso, Nairne, Bamff, Inverness, &c. were generally old buildings, dirty and offensive, and without courts.
+The prisons which I saw in Edinburgh, Glasgow, Haddington, Ayr, Kelso, Nairne, Bamff, Inverness, &c. were generally old buildings, dirty and offensive, and without courts.
 
 If a prisoner for debt declares upon oath that he has not wherewithal to maintain himself, the creditor must aliment him within ten days after notice is given for that purpose, with at leaf!; three pence a day,* but generally the magistrates order six pence. — By the process of CeJJio bonorum,-\ a debtor after being a month in prison, may obtain his liberty, and be secured against execution for any previous debts, by making a surrender of all his effects to be divided among his creditors: though if he afterwards comes into better circumstances, his effe&s may be attached for the payment of those debts. This compassionate law prevents a creditor putting his debtor in prison, unless he has good reason to believe he is a6ting fraudulently.
 
@@ -9182,7 +9188,7 @@ As the table of fees is of a late date, and fo comprehensive, I here give the co
 
 County of Chester, to wit. A Table of Fees, to be taken by sheriffs, under-sheriffs, bailiffs,
 
-or other officers within the county of Chejiermade, fettled and allowed, at the general quarter sessions — held by adjournment at the castle of in and for the said county, —
+or other officers within the county of Chestermade, fettled and allowed, at the general quarter sessions — held by adjournment at the castle of in and for the said county, —
 
 the fifteenth day of April, 1777, and in the 17th — George III. before Sir Thomas Baronet, George Heron, John TojunJhend, Charles Samuel Barrow, Samuel
 
@@ -11014,7 +11020,7 @@ Employment of prisoners, 2,10,25, 31,50, 61, 90, 103, 113, 198, 217, 223, 253.
 
 in cleaning llreets, 83, 87.
 
-in linen cloth manufa&ory, 84,99.
+in linen cloth manufactory, 84,99.
 
 in grinding corn, 61.
 
@@ -11048,7 +11054,7 @@ sacking for the East India Company, 18.
 
 weaving gauze, 84.
 
-woollen manufa&ory, 90,94,1 14.
+woollen manufactory, 90,94,1 14.
 
 of galley-slaves, 29, 69, 78, 79, 8i, 82.
 
@@ -11151,7 +11157,9 @@ Glamorganshire, 271.
 Glasgow, 152.
 
 Glocestershire, 231.
+
 ---
+
 Gorgona, 87.
 
 Gouda, 6.
@@ -11337,7 +11345,9 @@ Leghorn, 69.
 Leicestershire, 211.
 
 Leyden, 6.
+
 ---
+
 Licences in gaols, bad effect of, 37, 155, 160, 222, 231, 252, 267.
 
 Liege, 96.
