@@ -10438,7 +10438,7 @@ September 3, 4 - 2 - - 2 4
 
 - - 12, 1 * ■* 1 X
 
-25 1 - 3 3 5 5 s 5 26
+25 - 1 - 0 - 3 - 3 - 5 - 5 - 5 - 0 - 5 - 26
 
 ---
 
@@ -10935,8 +10935,10 @@ Dietary for the hulks, 217
 - proposed for prisoners, 238
 
 Donegal, 97, 107
----
-Dcrc’.'efer county gaol, 18$ town, 185
+
+Dorchester county gaol, 185
+
+- town gaol, 185
 
 Dorsetshire, 185
 
@@ -10946,19 +10948,17 @@ Down Patrick, 98
 
 Dublin county gaol, 83
 
-INDEX.
-
 Dublin prisons, Newgate, 79
 
-bridewell, 79
+- bridewell, 79
 
-police prison, 79
+- police prison, 79
 
-four-court marshalsea, So marshalsea, 80
+- four-court marshalsea, 80
 
-Thomas-court and Donore, 81
+- marshalsea, 80
 
----
+- Thomas-court and Donore, 81
 
 Dublin Hospitals, Mercer's 81
 
@@ -11060,9 +11060,7 @@ Exeter, 185
 
 F.
 
----
-
-Fees from debtors, greater than the debts* 76, 171# 210, 212
+Fees from debtors, greater than the debts, 76, 171, 210, 212
 
 Fermanagh, 93
 
@@ -11084,25 +11082,27 @@ Fordyce, Dr. quoted, 90
 
 Fothergill. Dr. his last interview with Judge Blackstone, 222
 
-his patronage of Ackvoorth school, 197
+- his patronage of Ackvoorth school, 197
 
-Foul bills, ships with, from the Levant, flop for trade, 22
+Foul bills, ships with, from the Levant, stop for trade, 22
 
-such trade should be strictly prohibited, 2a dreadful consequence of such trade, aa
+- such trade should be strictly prohibited, 22
+
+- dreadful consequence of such trade, aa
 
 Foundling Hospitals, remarks on, 82
 
-admission to them should be easy, 82
+- admission to them should be easy, 82
 
 France, 52
 
 Francfort house of correction, 71
 
-asylum for lunatics, 71
+- asylum for lunatics, 71
 
 Fraud, in supplying Mullingar gaol detected, 94
 
-Free schools in every parish in Ireland, as in Scotland* would be useful, 119
+Free schools in every parish in Ireland, as in Scotland, would be useful, 119
 
 Fumigation, at Plymouth, 117
 
@@ -11120,19 +11120,17 @@ Galway city and county gaol, 93
 
 Gaols too splendid, 78
 
-INDEX.
-
 Gaols, new in Ireland, remark on their pompous fronts, 78
 
-magistrates should have a room in them, 79
+- magistrates should have a room in them, 79
 
 Gaol distemper in the hulks at Portsmouth, 218
 
-fever, remarks on, 231
+Gaol fever, remarks on, 231
 
 Gaolers, their artifice to prevent their gaols being inspected, 232
 
-Garnish, (till continued, 142
+Garnish, still continued, 142
 
 Genoa, 5, 57
 
@@ -11140,19 +11138,19 @@ Germany, 65
 
 Glamorganshire, 215
 
-Glasgow, 7$
+Glasgow, 75
 
 Glasgow Tolbooth, 75
 
-house of correction, 75
+- house of correction, 75
 
 Gloucestershire, 177
 
 Gloucester county gaol, 177
 
-city gaol, 178
+- city gaol, 178
 
-county bridewell, LawfordVgate 178
+- county bridewell, Lawford's-gate 178
 
 Gordon, T. in Tolbooth, Edinburgh, five years and ten months, 76
 
@@ -11172,7 +11170,7 @@ Harwich, 144
 
 Haverfordwest county gaol, 213
 
-town gaol, 213
+- town gaol, 213
 
 Health-Office, Venice, 12
 
@@ -11182,17 +11180,17 @@ Herefordshire, 176
 
 Hereford county gaol, 276
 
-bridewell, 276
+Hereford county bridewell, 276
 
-infirmary, 276
+Hereford county infirmary, 276
 
-city gaol and bridewell, 276
+Hereford city gaol and bridewell, 276
 
 Hertfordshire, 142
 
 Hertford county gaol, 142
 
-bridewell, 142
+Hertford county bridewell, 142
 
 Hitchin, 142
 
@@ -11204,13 +11202,11 @@ Horsham, 146
 
 Hospitals, Royal:
 
-Edinburgh, 77
+- Edinburgh, 77
 
-Haflar, 180
+- Haslar, 180
 
-Plymouth, 187
-
----
+- Plymouth, 187
 
 Hospitals and Infirmaries, British:
 
@@ -11388,9 +11384,7 @@ Hospitals in London:
 
 Hospitals, set days for visiters, 180
 
-- each hospital in Ireland has £100
-
-a year from the king’s letter, 84
+- each hospital in Ireland has £100 a year from the king’s letter, 84
 
 - votes purchased to secure the election of surgeons, 97
 
@@ -11400,31 +11394,29 @@ a year from the king’s letter, 84
 
 - at Florence, its plan shews the form of many Roman-Catholic hospitals, 57
 
-the Jews’ at Salonica, 64
+- the Jews’ at Salonica, 64
 
----
+House of industry at Cork, 89
 
-House of industry at C*ri, 89
+- Dublin, 80
 
-Dublin, 80
+- Limerick, 91
 
-Limerick, 91
-
-Waterford, 88
+- Waterford, 88
 
 Hulks on Thames, 216
 
-at Plymouth, 216
+- at Plymouth, 216
 
-Gosport, 217
+- at Gosport, 217
 
-Lang ft on harbour, 217
+- at Langston harbour, 217
 
 Huntingdonshire, 150
 
 Huntingdon county gaol, 150
 
-bridewell, 151
+Huntingdon county bridewell, 151
 
 Husband, constancy of one to a wife in prison, 186
 
@@ -11432,19 +11424,19 @@ I.
 
 Jebb, Dr. on enclosing prisons, 65
 
-questions proposed by him upon the plague, 32
+- questions proposed by him upon the plague, 32
 
 Infection, great care to destroy it at Malta, 9
 
-a body dead of the plague, when cold, does not infect the air, 25
+- a body dead of the plague, when cold, does not infect the air, 25
 
-In'genhouze, Dr. quoted, 100
+Ingenhouze, Dr. quoted, 100
 
 Insolvent acts, effects of, 81, 186, 189, 202
 
 Inspector general to prisons in Ireland, 78
 
-to hulks necessary, 219
+- to hulks necessary, 219
 
 Johnson, Dr. his sermon quoted, 120
 
@@ -11452,27 +11444,25 @@ Johnstone, Dr. a martyr to the gaol-fever, 172
 
 Ipswich county gaol, 155
 
-bridewell, 155
+Ipswich county bridewell, 155
 
 Ireland, 78
 
 Irish prisons, 78
 
-hospitals, 81
+- hospitals, 81
 
-charter schools, 101
+- charter schools, 101
 
-gaols in general have no infirmaries nor baths, 99
+- gaols in general have no infirmaries nor baths, 99
 
 Iron glove, 208
 
-Jftington, proper situation for penitentiary houses, 223
+Islington, proper situation for penitentiary houses, 223
 
 Italy, 56
 
 Ivelchester county gaol, 189
-
----
 
 K.
 
@@ -11486,95 +11476,93 @@ Kerry county, 91, 110
 
 Kildare county, 86, 110, 112
 
----
+Kilsinane charter school, 110
 
-Kilfinane charter school, no Kilkenny county, 85, 102
+Kilkenny county, 85, 102
 
 Kilmainham county gaol, 83
 
-King9! Bench prison, 130
+King's Bench prison, 130
 
 King’s evidence, nothing similar in Holland, 73
 
 King’s County, 87, 105
 
-Kingsborough, Lady, her school, no Kingston upon Hull gaol, 193
+Kingsborough, Lady, her school, 110
 
-bridewell, 196
+Kingston upon Hull gaol, 193
 
-poor-house, 193
+- bridewell, 196
 
-King Jim upon Thames bridewell, 147
+- poor-house, 193
 
-town gad, 148
+Kingston upon Thames bridewell, 147
 
-Kin/ale, 90
+- town gaol, 148
 
-Kipp is. Dr. his Life of Cook quoted, 200
+Kinsale, 90
+
+Kippis, Dr. his Life of Cook quoted, 200
 
 Knights of Malta, institution of, 58
 
-L»
+L.
 
 Lancashire, 201
 
 Lancaster castle, 201
 
-town gaol, 206
+- town gaol, 206
 
 Launceston county gaol, 188
 
----
-
 Lazaretto at
 
-Castel Novo, 10
+- Castel Novo, 10
 
-Corfu, 10
+- Corfu, 10
 
-Genoa, 5
+- Genoa, 5
 
-Leghorn, 7
+- Leghorn, 7
 
-Malta, 8
+- Malta, 8
 
-Marseilles, 3
+- Marseilles, 3
 
-Messina, 8
+- Messina, 8
 
-Naples, 8
+- Naples, 8
 
-Spezia, 7
+- Spezia, 7
 
-Trieste, 23
+- Trieste, 23
 
-Vanice. 10
+- Venice. 10
 
-Zante, 9
+- Zante, 9
 
 Lazaretto in England, importance of, 26
 
 - proposed regulations and plan for, 23
 
----
-
 Lazarettos at Leghorn, best in Europe, 7
 
-at Triejle clean, a contrail to those at Venice, 23
+- at Trieste clean, a contrast to those at Venice, 23
 
 Lazaretto would be of great service to the Turkey trade, 26
 
-would prevent the danger of introducing the plague, 29
+- would prevent the danger of introducing the plague, 29
 
-letter from merchants in Smyrna on the subject, 26
+- letter from merchants in Smyrna on the subject, 26
 
-Lazarettos, description of a plan for, 23 •'
+Lazarettos, description of a plan for, 23
 
 Leeds town gaol, 192
 
-infirmary, 192
+- infirmary, 192
 
-work-house, 192
+- work-house, 192
 
 Leghorn, 7, 57
 
@@ -11584,11 +11572,11 @@ Leicestershire, 160
 
 Leicester county gaol, 160
 
-bridewell, 160
+- county bridewell, 160
 
-town gaol, 160
+- town gaol, 160
 
-county infirmary, 160
+- county infirmary, 160
 
 Leinster nursery, 116
 
@@ -11598,11 +11586,11 @@ Lepers, hospital for, 65
 
 Letter to.Dr. Fothergill, 223
 
-privy council, 226
+- privy council, 226
 
 Letters, how received at lazarettos, 3, 8
 
-how sent from lazarettos, 15
+- how sent from lazarettos, 15
 
 Lichfield city gaol, 174
 
@@ -11610,23 +11598,23 @@ Lifford county gaol, 96
 
 Lime-whiting, effects of in purifying the air, 11, 118
 
-Limerick county, 91, 109, no
+Limerick county, 91, 109, 110
 
 Limerick county and city gaol, 91
 
-house of industry, 91
+- house of industry, 91
 
-county hospital, 91
+- county hospital, 91
 
-Lincolnshire, 163;
+Lincolnshire, 163
 
 Lincoln county gaol, 163
 
-city gaol, 163
+- city gaol, 163
 
-bridewell, 163
+- city bridewell, 163
 
-spinning school, 163
+- spinning school, 163
 
 Lind, Dr. quoted, 104, 180
 
@@ -11636,7 +11624,7 @@ Lisburn county hospital, 98
 
 Liverpool gaol, 206
 
-bridewell, 206
+- bridewell, 206
 
 Locks that cannot be picked, 201
 
@@ -11646,15 +11634,13 @@ Londonderry county, 97, 106
 
 Londonderry county and city gaol, 97
 
-hospital, 97
+Londonderry county hospital, 97
 
 Longford county, 95, 106
 
-Lofstwithiel, 188
+Lostwithiel, 188
 
-Loughborough, Lord, interceded for the pardon
-
-of convicts, 199, 202
+Loughborough, Lord, interceded for the pardon of convicts, 199, 202
 
 Loughrea, 93
 
@@ -11662,25 +11648,19 @@ Louth county, 97, 108
 
 Ludlow town gaol, 17 3
 
-bridewell, 175
+Ludlow town bridewell, 175
 
-Lunatics,
-
-INDEX.
-
-Lunatics, hospitals for, 64, -68, 71, 82, 139
+Lunatics, hospitals for, 64, 68, 71, 82, 139
 
 Lying-in women, protection of, 73
 
-rooms for at Vienna, 68
+- rooms for at Vienna, 68
 
 Lyons, prison of St. Joseph, 5
 
-a
+- prison for vagabonds and beggars, {a general hospital, 5
 
-for vagabonds and beggars, {a general hospital, 5
-
-a ffoteLDieu, 53
+- Hotel-Dieu, 53
 
 M.
 
@@ -11692,37 +11672,37 @@ Macfarlane, Dr. quoted, 202
 
 Maidstone county gaol, 145
 
-bridewell, 145
+Maidstone county bridewell, 145
 
 Malta lazaretto, 8
 
-convent for travellers, 61
+- convent for travellers, 61
 
-foundling hospital, 61
+- foundling hospital, 61
 
-hospital, 58
+- hospital, 58
 
-hospital for women, 60
+- hospital for women, 60
 
-number of patients, and how they are served, 59
+- number of patients, and how they are served, 59
 
-prison, 58
+- prison, 58
 
-Haves, 58
+- slaves, 58
 
-the hall at the great hospital a security for criminals, 59
+- the hall at the great hospital a security for criminals, 59
 
 Manchester, 206
 
 Marine school at Amsterdam, 71
 
-Dublin, 83
+- Dublin, 83
 
 Marlborough, 184
 
 Marseilles lazaretto, 3
 
-prison, 54
+- prison, 54
 
 Marshalsea, 130
 
@@ -11736,15 +11716,13 @@ Meath county, 99, 111
 
 Meath hospital, 100
 
-MeJJina, in 1743
-
-the terrible plague there, 43
+Messina, in 1743 the terrible plague there, 43
 
 Meteorological Table for Vienna, 70
 
-Middlfwich, 208
+Middlewich, 208
 
-Mil bourne, Mrs. imprisoned by her husband at Carlifie, 200
+Milbourne, Mrs. imprisoned by her husband at Carlisle, 200
 
 Molita, isle of, 22
 
@@ -11756,20 +11734,22 @@ Monmouthshire, 177
 
 Monmouth county gaol, 177
 
-town gaol, 177
+Monmouth town gaol, 177
 
-Montague, Mr. performed quarantine at Zante, to Montgomeryshire, 212
+Montague, Mr. performed quarantine at Zante, 10
+
+Montgomeryshire, 212
 
 Montgomery county gaol, 212
 
-bridewell, 212
+Montgomery county bridewell, 212
 
-poor-house, 212
+Montgomery poor-house, 212
 
 Morpeth county gaol, 199
 
-bridewell, 199
----
+Morpeth county bridewell, 199
+
 Mortality in the hulks, 218
 
 Mullingar county gaol, 94
@@ -12710,9 +12690,9 @@ INTRODUCTION.
 
 IN the account of the principal Lazarettos in Europe, Which I published the beginning of the year 1789, I mentioned that it was my intention again to quit my country, for the purpose of re-visiting Russia, Turkey, and some other countries, and adding an Appendix to that work; as I wished to gain further knowledge on a subject that for some years had engaged my attention; and with the hope that the torch of philanthropy might be conveyed into remote countries. In confidence on God, who had been my help, I cheerfully set out on my journey, and dame to Amsterdam the 7th of July, 1789; where I first visited the hospitals for the sick.
 
-Holland.
+[Holland.]
 
-Amsterdam.
+[Amsterdam.]
 
 In the City Hospital, the apertures that have been lately made in the ceiling of the men’s ward, make that room fresher than the women’s lofty ward; and I observed to the physician, whom I met on one of my visits, that in such long wards, a window, such as was in Guy's Hospital, (of which I shewed him the model) from the ceiling to the floor, would be proper. All the wards were clean; but the patients, neither in their linen nor persons, were so attentive to cleanliness as might have been wished; a fault which the prejudice of the faculty, relative to the unsalutariness of fresh linen, has to answer for. The black stone or marble floor made the doctor put on flippers over his shoes: I could not but wish the floor was boarded round the patients beds.
 
@@ -12792,94 +12772,93 @@ In the Stadt-heuse at Utrecht, there were no prisoners for capital crimes. A few
 
 [Osnaburgh.]
 
----
-
-The prison at Osnaburgh is both the gaol and house of correction, the description of which I gave in my former publications. The floor below the ground is for capital offenders: the cells are close, dark, and offensive; they open into strong passages. In one of these was a poor object, who was ironed hands and feet, and also chained to the wall of his cell. His wife I found in an offensive and dark cell, in an upper floor, weeping and bitterly lamenting her unhappy situation. I waited on the chief magistrate, who very readily and kindly affined me, that orders should be immediately given to soften the rigour of her confinement, and that the door of her room should be kept open into the passage. On that floor, appropriated for correction, there were eight men and seven women; they were clothed in brown and blue coats, and were employed in spinning. They are properly fed in three meals, and have one pound and a half of bread, a good bowl of greens, and a pint and a half of beer a day, all of which I found good of the fort. These rooms also were, as on my former visits, very dirty and offensive; this I mentioned to Le Baron de Borsch; he said the prisoners should, as in Holland, have the Saturdays entirely devoted to the washing and cleaning the house; which is the more necessary as there is no court to this prison. These prisoners attend public worship, where there is service on Sundays, one part of the day for Protestants, the other for Roman Catholics; and each chaplain has his (proper) desk, for his books and ornaments. The Jews have every indulgence, as to their sabbath, diet, and clothes. I have formerly mentioned, that the mode of torture here, is more excruciating than in most other countries} and is known by the name of the Osnaburgh torture, and this has still been improved upon by a conseiller from Paderborn.
+The prison at Osnaburgh is both the gaol and house of correction, the description of which I gave in my former publications. The floor below the ground is for capital offenders: the cells are close, dark, and offensive; they open into strong passages. In one of these was a poor object, who was ironed hands and feet, and also chained to the wall of his cell. His wife I found in an offensive and dark cell, in an upper floor, weeping and bitterly lamenting her unhappy situation. I waited on the chief magistrate, who very readily and kindly assured me, that orders should be immediately given to soften the rigour of her confinement, and that the door of her room should be kept open into the passage. On that floor, appropriated for correction, there were eight men and seven women; they were clothed in brown and blue coats, and were employed in spinning. They are properly fed in three meals, and have one pound and a half of bread, a good bowl of greens, and a pint and a half of beer a day, all of which I found good of the sort. These rooms also were, as on my former visits, very dirty and offensive; this I mentioned to Le Baron de Borsch; he said the prisoners should, as in Holland, have the Saturdays entirely devoted to the washing and cleaning the house; which is the more necessary as there is no court to this prison. These prisoners attend public worship, where there is service on Sundays, one part of the day for Protestants, the other for Roman Catholics; and each chaplain has his (proper) desk, for his books and ornaments. The Jews have every indulgence, as to their sabbath, diet, and clothes. I have formerly mentioned, that the mode of torture here, is more excruciating than in most other countries; and is known by the name of the Osnaburgh torture, and this has still been improved upon by a conseiller from Paderborn.
 
 [Hanover.]
 
 At Hanover there were no criminals for capital offences in the prison on July 22d. In rooms up stairs there were seven prisoners; one a very pale object. On observing several chalk marks in his room, he said they were the weeks of his confinement (42) and his process not finished. Others were not begun. This I have hinted at before; but this well-known evil still continues. I also, in my last publication, said, that the execrable practice of torturing prisoners is here used. I am sorry to say it is not abolished, but still in the power of magistrates to inflict.
 
-In October 1781, I had the honor to wait on his royal highness the Bishop of Ofna-burgh in the castle. 1 then informed him, that his executioner had lately been brought hither to inflict the Osnaburgh torture on a criminal. His royal highness desired fbme description of it: the cruel mode struck his highness; and I then referred him to the judge, who was presentj adding, that in this tour I had been in Sweden, where, by a
+In October 1781, I had the honor to wait on his royal highness the Bishop of Osnaburgh in the castle. I then informed him, that his executioner had lately been brought hither to inflict the Osnaburgh torture on a criminal. His royal highness desired some description of it: the cruel mode struck his highness; and I then referred him to the judge, who was present; adding, that in this tour I had been in Sweden, where, by a
 
 HANOVER. 7
 
-late good and popular act of the king, torture was abolished, and that the door into that cellar in the prison at Stockholm was ordered to be closed and bricked up *. - I beg leave, on this subject, to copy the late king of Prussia’s order f for the abolition of the torture* who set the noble example the 3d of June 1740.
+late good and popular act of the king, torture was abolished, and that the door into that cellar in the prison at Stockholm was ordered to be closed and bricked up*. - I beg leave, on this subject, to copy the late king of Prussia’s order† for the abolition of the torture, who set the noble example the 3d of June 1740.
 
-# Have I not often reason, with a sigh, to say, u I labour in vain, and spend my drength for nought I" But I have resolved, by the help of God, to give myself wholly to this work-
+* Have I not often reason, with a sigh, to say, "I labour in vain, and spend my strength for nought?" But I have resolved, by the help of God, to give myself wholly to this work.
 
-Note. IO France, by the " Decret fur la reformation provisoire de la procedure criminelle,3T da Samedi 11 QQobre 1789, VAffemblee Nationale considere que "L'usage dt la fellette au dernier interrogatoireyet la question dam tout lee cat+ * font abolish*
+Note. In France, by the "Decret sur la reformation provisoire de la procedure criminelle," de Samedi 11 Octobre 1789, l'Assemblee Nationale considere que "L'usage de la fellette au dernier interrogatoire, et la question dans tout les cas, font abolis."
 
-f CC HIS ROYAL MAJESTY OF PRUSSIA, OUR MOST GRACIOUS SOVEREIGN',
+† "HIS ROYAL MAJESTY OF PRUSSIA, OUR MOST GRACIOUS SOVEREIGN,
 
-w Having been induced, by urgent reasons, to repeal entirely the torture in all his dominions in criminal cases, those of high treason, and treachery against the country excepted, also those of hideous murders, where the lives of many have been taken away, or where many criminals have become accomplices to one another, whole* connexions it is necessary to discover
+"Having been induced, by urgent reasons, to repeal entirely the torture in all his dominions in criminal cases, those of high treason, and treachery against the country excepted, also those of hideous murders, where the lives of many have been taken away, or where many criminals have become accomplices to one another, whose connexions it is necessary to discover;
 
-" In all other cases, where the delinquents, notwithstanding the cleared proofs and dronged evidence of many valid and legal witnedes, and the like, persist, by a malicious obstinacy, in not owning their guilt, they shall be punished according to the law*
+"In all other cases, where the delinquents, notwithstanding the cleared proofs and strongest evidence of many valid and legal witnesses, and the like, persist, by a malicious obstinacy, in not owning their guilt, they shall be punished according to the law.
 
-In consequence whereof, his Royal Majesty orders most graciously his actual privy minider of date, De Cocceji, to see the needful done*
+In consequence whereof, his Royal Majesty orders most graciously his actual privy minister of date, De Cocceji, to see the needful done.
 
 * Charlottenburg, (Was signed)
 
-the 3d June 1740. Fhiedbiick,’’
+the 3d June 1740. Friederick.",’’
 
-u To the minider of date, De Cocceji.”
+"To the minider of date, De Cocceji.”
 
-w FREDERICK KING OF PRUSSIA, &c. &c* &C.
+"FREDERICK KING OF PRUSSIA, &c. &c. &c.
 
-" The inclosed copy of a privy order, dated 3d indant, (hows more circumdandally, in how far it is our will to have the torture in criminal cases abolidied.
+"The inclosed copy of a privy order, dated 3d instant, shows more circumstantially, in how far it is our will to have the torture in criminal cases abolished.
 
-u In consequence hereof, you will conform yourselves most dutifully to the same, and act accordingly where it will be required.
+"In consequence hereof, you will conform yourselves most dutifully to the same, and act accordingly where it will be required.
+" Berlin, (Was signed).
 
-u Berlin, (Was signed).
+the 19th June 1740. Cocceji.”
 
-die 19th June 1740. C o c c 5; 1.”
+"To all colleges and courts of law.”
 
-4t To all colleges and courts of law.”
+"It is hereby attested, that the above copies, after a strict collation, have been found exactly corresponding with the original acts, that are reposited in the royal privy archive. To testify the truth, I have signed the presents by my own hand, and applied the seal of the privy archive.
 
-^ It is hereby atteded, that the above copies, after a drift collation, have been found exactly corresponding with the original acts, that are reposited in the royal privy archive. To tedify the truth, I have signed the presents by my own hand, and applied the feai of the privy archive.
+"Berlin, (Signed)
 
-" Berlin, (Signed)
+7th August 1789.
 
-7thAttgud 1789. , Chr. Aug. Lud. Valaproth,
+Chr. Aug. Lud. Valaproth,
 
-His Majesty’s privy keeper 9f records, and secretary.”
+His Majesty’s privy keeper of records, and secretary.”
 
 8 HANOVER.
 
-Brunswick.
+The orphan house and house of correction, which is out of the town, was in great order; but, on seeing the children at dinner, I could not help observing that, by their countenances, something was wrong in that house, as they had a pale and uneasy look. We afterwards found the bed-rooms dirty, the bedding scanty, and no linen to them; the children fed by the master, at 1 gros and 1 feng each, The good burgomaster Alemann, the noble founder of this institution, is dead since my last visit; but I am persuaded his kinsman, Mr. Conseiller Falke, the present director, will make some alterations for the benefit of this establishment.
 
-The orphan house and house of correction, which is out of the town, was in great order; but, on seeing the children at dinner, I could not help observing that, by their countenances, something was wrong in that house, as they had a pale and uneasy look. We afterwards found the bed-rooms dirty, the bedding scanty, and no linen to them; the children fed by the mailer, at i gro‘ and i fenZ each, The good burgomaster Alemann, the
+The orphan house and house of correction for the town, is an old building, and not very clean; yet, the children had a more healthy and cheerful look than those I last visited: they, I found, were better fed, and had linen on their beds. The prison part for men was empty; but the room for women, in which were 10 or 12, was very dirty, and intolerably offensive. In this house I saw Mr. Conseiller Falke, with the minister, and two or three other gentlemen, distribute the weekly allowance to the poor, who received what was given them with thankfulness, and retired in great order: those (poor) women, who did not refuse to sweep the streets, had a small addition made to their allowance. The town is divided into seven districts; to each of which is appointed a respectable person, to whom the poor, in case of sickness, make application, and he makes his report to a magistrate appointed for that purpose, who directly orders the physician of that district to attend such pauper. The physician makes his report every quarter.
 
-noble founder of this institution, is dead since my last visit; but I am persuaded his kinf-man, Mr. Conseiller Falke, the present director, will make some alterations for the benefit of this efhblishment.
+The hospital of St. Nicholas is an old and good institudon for freemen’s widows, wives, or daughters. Here are 16 apartments, each consisting of a small room for a kitchen, a little dining-room, and a bed-chamber. The inhabitants pay about £10 on entrance, and have their apartment for life, with a little garden; and gratefully enjoy some other small emoluments belonging to this charity.
 
-The orphan house and house of correction for the town, is an old building, and not very clean; yet, the children had a more healthy and cheerful look than those I last visited: they, I found, were better fed, and had linen on their beds. The prison part for men was empty; but the room for women, in which were io or ia, was very dirty, and intolerably offensive. In this house I saw Mr. Conseiller Falke, with the minister, and two or three other gendemen, distribute the weekly allowance to the poor, who received what was given them with thankfulness, and retired in great order: those (poor) women, who did not refuse to sweep the streets, had a small addition made to their allowance. The town is divided into seven districts; to each of which is appointed a respectable person, to whom the poor, in case of sickness, make application, and he makes his report to a magistrate appointed for that purpose, who directly orders the physician of that district to attend such pauper. The physician makes his report every quarter.
+The hospital for the sick is on one large room, crowded with beds, in which are patients of both sexes.
 
-The hospital of St. Nicholas is an old and good institudon for freemen’s widows, wives, or daughters. Here are 16 apartments, each confiding of a small room for a kitchen, a little dining-room, and a bed-chamber. The inhabitants pay about io on entrance, and have their apartment for life, with a little garden; and gratefully enjoy some other small emoluments belonging to this cha'-'^y.
+A new military hospital is now building, on an improper spot. It is too contracted, and on a bad plan, as the rooms will be only 17 feet by about 8½, and these will open into a dark passage about 6½ feet wide.
 
-The hospital for the sick is on one large room, crowded with beds, in which are patients of both fcxes.
+[Brunswick.]
 
-A new military hospital is now building, on an improper Ipot. It is too contracted, and on a bad plan, as the rooms will be only 17 feet by about 8f, and these will open into a dark passage about 6\ feet wide.
-
-BRUNSWICK. The tower over one of the gates, which was the prison for capital offences at my former visits, is now taken down, and such prisoners are sent to the Stadt-house. Here were on the three floors, only four prisoners; their allowance two bonne grosche a day each, which is about 2 Id. In the house of correction I read the order and conformed to it again with pleasure, viz. " That decent people may inspect the house; but no more than four at a time; that they must put a florin (about is. 6 into the box, for the prisoners whole term is expired, to assist them on passing on their journey, and prevent them from begging or stealing: lastly, nothing must be given to the keepers, or
+BRUNSWICK. The tower over one of the gates, which was the prison for capital offences at my former visits, is now taken down, and such prisoners are sent to the Stadt-house. Here were on the three floors, only four prisoners; their allowance two bonne grosche a day each, which is about 3¼d. In the house of correction I read the order and conformed to it again with pleasure, viz.  That decent people may inspect the house; but no more than four at a time; that they must put a florin (about 2s. 6d.) into the box, for the prisoners whose term is expired, to assist them on passing on their journey, and prevent them from begging or stealing: lastly, nothing must be given to the keepers, or
 
 BRUNSWICK. BERLIN. 9
 
 to the prisoners confined for punishment.” Here were 41 men and 50 women; the employment, spinning and weaving. The diet is in four classes and according to their work.
 
-I observed on the slate there were only two on the first class, or the best diet, and four on the lowest, which is 1 lb. of bread, a little soup and small beer. The house was very dirty, the floors never washed, though fb many women prisoners; the only clean room was the chapel on the upper floor. - But a proper attention to cleanliness ran through all the hospitals for the sick. In that for the military, there were nine rooms, but only two patients, the troops being at Maestricht. Though the torture is not abolished, I had the pleasure to hear that the last instance of a person suffering it was-about eighteen years ago, and that the room had not since been opened; but by the favour of Mr. Freder/dorfft conseiller de justice, it was opened. The descent is by fifteen steps, to a dark room, in which are some of the instruments of torture: through this room Is another arched room or cellar 18 feet by 15, very black and dark: at one end is a bench for the judge, lawyer, secretary and surgeon; opposite them is a table for candles, books &c. The prisoner who suffers the torture, the executioner and his man, are before them. This is done about midnight, though the thickness of the walls (three feet) the four doors (which I passed), the dirt floor, and depth under ground, must prevent the most agonizing cries from being heard any where but in that room. I saw all the remaining engines of torture, which are kept at the executioner’s house. He seemed with pleasure to shew the mode of application on the first, second and last question} and very readily answered any enquiries, having been several years in that occupation at Hanover; though here (he said) he had only beheaded four or five. On asking if nothing was put into the tortured person’s mouth, as I had in some places seen, he replied " No, the Osnaburgh executioner thinks they suffer lestand on his describing some of the modes of torture (which the wit of devils and men had invented,), he said, "Sir, the Osnaburgh torture is still ruder.”
+I observed on the slate there were only two on the first class, or the best diet, and four on the lowest, which is 1lb. of bread, a little soup and small beer. The house was very dirty, the floors never washed, though so many women prisoners; the only clean room was the chapel on the upper floor. - But a proper attention to cleanliness ran through all the hospitals for the sick. In that for the military, there were nine rooms, but only two patients, the troops being at Maestricht. Though the torture is not abolished, I had the pleasure to hear that the last instance of a person suffering it was about eighteen years ago, and that the room had not since been opened; but by the favour of Mr. Fredersdorff, conseiller de justice, it was opened. The descent is by fifteen steps, to a dark room, in which are some of the instruments of torture: through this room is another arched room or cellar 18 feet by 15, very black and dark: at one end is a bench for the judge, lawyer, secretary and surgeon; opposite them is a table for candles, books &c. The prisoner who suffers the torture, the executioner and his man, are before them. This is done about midnight, though the thickness of the walls (three feet) the four doors (which I passed), the dirt floor, and depth under ground, must prevent the most agonizing cries from being heard any where but in that room. I saw all the remaining engines of torture, which are kept at the executioner’s house. He seemed with pleasure to shew the mode of application on the first, second and last question; and very readily answered any enquiries, having been several years in that occupation at Hanover; though here (he said) he had only beheaded four or five. On asking if nothing was put into the tortured person’s mouth, as I had in some places seen, he replied " No, the Osnaburgh executioner thinks they suffer less;" and on his describing some of the modes of torture (which the wit of devils and men had invented,), he said, "Sir, the Osnaburgh torture is still ruder.”
 
-But I hasten to another country, where the torture has not been inflicted for above twice Birli.v. eighteen years, viz. BERLIN. In the court prison there were eighteen men, debtors and smugglers, and two women (pinning cotton to earn their allowance of one grosche and a half a day: the former in the upper rooms of the old prison, the latter in a new and separate part adjoining; the old dungeons being not now used. I have mentioned the punishment of smugglers Handing exposed at the gate with a machine round them, called a Spanish mantle, similar to a plate I gave of it at Copenhagen. Here also is a machine in which the hands and neck of women are fastened, called a fiddle, and they stand exposed for one hour for three successive days. This prison was quiet and in great order. In the city prison there were about ninety prisoners, many of them smugglers or debtors; several prisoners in the dungeons (11 feet 9 inches by nine) their precedes long; the whole prison dirty, never white-washed. In the court, there were men, women, and boys. The gaoler fells liquors of all forts. The allowance to debtors, paid by their creditors, is two grosche a day, about ^{d.: the criminals have if grosche.
+[Berlin.]
+
+But I hasten to another country, where the torture has not been inflicted for above twice eighteen years, viz. BERLIN. In the court prison there were eighteen men, debtors and smugglers, and two women spinning cotton to earn their allowance of one grosche and a half a day: the former in the upper rooms of the old prison, the latter in a new and separate part adjoining; the old dungeons being not now used. I have mentioned the punishment of smugglers standing exposed at the gate with a machine round them, called a Spanish mantle, similar to a plate I gave of it at Copenhagen. Here also is a machine in which the hands and neck of women are fastened, called a fiddle, and they stand exposed for one hour for three successive days. This prison was quiet and in great order. In the city prison there were about ninety prisoners, many of them smugglers or debtors; several prisoners in the dungeons (11 feet 9 inches by nine) their processes long; the whole prison dirty, never white-washed. In the court, there were men, women, and boys. The gaoler sells liquors of all sorts. The allowance to debtors, paid by their creditors, is two grosche a day, about 3¼d.: the criminals have 1½ grosche.
 
 10 BERLIN. SPANDAU.
 
-Spandau.
+The Maison de travail I found in the same good order as in my former visits; in July there were 480 persons, vagrants &c. confined; their chief employment carding and spinning wool. In their diet they are in three classes; but the very great number of men, women, and children who were at work together in one room, and in a house where a reparation might easily be made, must in several views be improper. - In the Orphan house there were 60 boys and 60 girls; the children clean and fresh; wash three times a day; bathe every Friday; the bed-rooms clean; the boys lie single. The infirmary an old house, and too far from the hospital. - In La Charite or General Hospital, several rooms contain ten beds, and the patients pay a florin, about 2s. 6d. a week. Here are rooms for lying-in women; and apartments of two rooms for persons who pay 100 florins. In a large room, a neat table was set out for the convalescent patients, which I have often wished for in other hospitals. Here is no military hospital, but each regiment has one or two sick rooms: in each were seven or eight beds. Those I visited were clean and most of them empty, which in great part is owing to the strict discipline, constant exercising and reviewing the men, and many having wives, who also have a small weekly pay, and with their husbands a room in each caserne.
 
-The Maison de travail I found in the same good order as in my former visits; in July there were 480 persons, vagrants &c. confined; their chief employment carding and spinning wool. In their diet they are in three dalles; but the very great number of men, women, and children who were at work together in one room, and in a house where a reparation might easily be made, mull in several views be improper. - In the Orphan house there were 60 boys and 60 girls; the children clean and fresh; walh three times a day; bathe every Friday; the bed-rooms clean; the boys lie Angle. The infirmary an old house, and too far from the hospital. - In La Charite or General Hospital, several rooms contain ten beds, and the patients pay a florin, about is. a week. Here are rooms for lying-in women; and apartments of two rooms for persons who pay 100 florins. In a large room, a neat table was set out for the convalescent patients, which I have often wished for in other hospitals. Here is no military hospital, but each regiment has one or two sick rooms: in each were seven or eight beds. Those I visited were clean and most of them empty, which in great part is owing to the drift discipline, constant exercising and reviewing the men, and many having wives, who also have a small weekly pay, and with their husbands a room in each caferne.
+[Spandau.]
 
-In the fortress at SPANDAU there were, August 4, 1789, a hundred and seventy-one prisoners: several of them are condemned for life: one had been here thirty-two years. Their allowance is only ilb. of bread and water, and after the first year a frock and breeches, a shirt, a pair of (lockings and one pair of shoes, annually. They are to work four hours a day for the king; and when the governor employs them as carpenters or masons, he gives them two grc/che a day, equal to about 3I d. Many of them were spinning cotton for their own emolument at their leisure hours; but several had an iron collar round their neck, the mark of their contentions and quarrels. Their rooms under the ramparts, very close, dirty, and crowded; and as the governor (Scott, our countryman) is desirous of softening the rigour of confinement, and has fitted up two rooms for the sick,
+In the fortress at SPANDAU there were, August 4, 1789, a hundred and seventy-one prisoners: several of them are condemned for life: one had been here thirty-two years. Their allowance is only 2lb. of bread and water, and after the first year a frock and breeches, a shirt, a pair of stockings and one pair of shoes, annually. They are to work four hours a day for the king; and when the governor employs them as carpenters or masons, he gives them two grosche a day, equal to about 3¼d. Many of them were spinning cotton for their own emolument at their leisure hours; but several had an iron collar round their neck, the mark of their contentions and quarrels. Their rooms under the ramparts, very close, dirty, and crowded; and as the governor (Scott, our countryman) is desirous of softening the rigour of confinement, and has fitted up two rooms for the sick,
 
-I will here take the liberty to drop a few hints. - The prisoners should not lie on shelves over the other prisoners; but there should be only one row of barrack beds, each person to be allowed two feet four inches, with an oak partition of ten inches at the head, and fix , inches at the feet': an aperture for light and air to be made in the centre of the vaulted rooms; and twice a year, the rooms walked by the prisoners with fresh lime and boiling water; each partition to have proper bedding, that the prisoners may not, as they now do, lie in their clothes; and also to be numbered; and no prisoner to change the place allotted him, without the consent of the governor. A room to be appropriated for a work room. The court enlarged by putting the pales 40 feet back; three or four done basons for washing their linen; and the reservoir for (baking timber, which seemed not used, would make the most proper and salutary cold bath for them. No spirituous liquors on any account to be sold to them. The rules and orders as to cleanliness, sobriety, work &c. to be signed by the governor, and read to them in the chapel the first Sunday in every
----
+I will here take the liberty to drop a few hints. - The prisoners should not lie on shelves over the other prisoners; but there should be only one row of barrack beds, each person to be allowed two feet four inches, with an oak partition of ten inches at the head, and six inches at the feet: an aperture for light and air to be made in the centre of the vaulted rooms; and twice a year, the rooms walked by the prisoners with fresh lime and boiling water; each partition to have proper bedding, that the prisoners may not, as they now do, lie in their clothes; and also to be numbered; and no prisoner to change the place allotted him, without the consent of the governor. A room to be appropriated for a work room. The court enlarged by putting the pales 40 feet back; three or four stone basons for washing their linen; and the reservoir for soaking timber, which seemed not used, would make the most proper and salutary cold bath for them. No spirituous liquors on any account to be sold to them. The rules and orders as to cleanliness, sobriety, work &c. to be signed by the governor, and read to them in the chapel the first Sunday in every
+
 SPANDAU. KONINGSBERG. 11
 
 month. In the upper room of one of the towers there was a state prisoner: underneath there was a dreadful dungeon; a prisoner had been removed from thence the morning I was there. I have formerly mentioned, that women are not permitted to continue a night in the castle; but whilst I was walking with the governor, the mother of one of the prisoners humbly petitioned that she might fee her son, which was readily granted, and a guard attended her.
