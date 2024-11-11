@@ -11552,7 +11552,7 @@ Blacket, Sir Walter, his benefaction - 421.
 
 Bodmin Bridewell - 383.
 
-- Sheriff’s Ward - 384.
+- Sheriff's Ward - 384.
 
 Borough Compter - 208.
 
@@ -11614,7 +11614,7 @@ C.
 
 Calcutta, fatal for want of air - 13.
 
-Calvert’s brewhouse, charity from - 167, 172, 176.
+Calvert's brewhouse, charity from - 167, 172, 176.
 
 Cambridgeshire - 248.
 
@@ -11658,7 +11658,7 @@ Cassel, Church there with seats for Criminals - 112.
 
 Cattle, Act in Ireland against keeping in Prisons - 60.
 
-Certificate from Parish for Debtor’s County allowance - 297, 396.
+Certificate from Parish for Debtor's County allowance - 297, 396.
 
 Chamber rents and furniture to be fixed - 57.
 
@@ -11802,13 +11802,13 @@ Condemned Prisoners, sent to a separate Prison in France - 81.
 
 Contempts, Prisoners so called - 344.
 
-Conveyance to Assize at Keeper’s Expense - 264, 454, 457.
+Conveyance to Assize at Keeper's Expense - 264, 454, 457.
 
 - to Quarter Sessions ditto - 285, 300.
 
 Conway, Great Sessions at - 462.
 
-Cook, Capt. notes the effect of cleanliness on the behaviour of his ship’s crew - 59.
+Cook, Capt. notes the effect of cleanliness on the behaviour of his ship's crew - 59.
 
 Copper and Bath - 45.
 
@@ -11878,7 +11878,7 @@ Debtors, why not permitted to work - 9.
 
 - work in the Crown and Shire Halls - 436.
 
-- refusing to submit to Gaoler’s commands - 454.
+- refusing to submit to Gaoler's commands - 454.
 
 Delays of trial in France, corrected by Parliament - 89.
 
@@ -11924,7 +11924,7 @@ Dover Castle - 227.
 
 - Town Gaol - ibid.
 
-Drunkenness, how punished in a Sheriff’s Officer - 130.
+Drunkenness, how punished in a Sheriff's Officer - 130.
 
 Dublin Gaoler non-resident - 53.
 
@@ -11996,7 +11996,7 @@ Executions, few in Holland - 120.
 
 Exeter High Gaol - 371.
 
-- Sheriff’s Ward - 373.
+- Sheriff's Ward - 373.
 
 - Bridewell - 376.
 
@@ -12070,7 +12070,7 @@ Fines, what Prisoners called so - 148.
 
 - no County allowance to - 344.
 
-Fire, Sheriff’s Officer to attend at - 130.
+Fire, Sheriff's Officer to attend at - 130.
 
 — escape from on the Leads - 171.
 
@@ -12132,7 +12132,7 @@ Gaol-Delivery, but once a year - 30, 258, 418, 422, 426, 431, 433.
 
 - once in 3 years - 411.
 
-Gaol-Distemper, Stowe’s account of - 2.
+Gaol-Distemper, Stowe's account of - 2.
 
 - destroys more than are executed - 17.
 
@@ -12330,7 +12330,7 @@ Jews, excused from working on their Sabbath - 114.
 
 - ward, Poultry Compter - 171.
 
-Ill language punished in Sheriff’s Officers - 130.
+Ill language punished in Sheriff's Officers - 130.
 
 Implements and Materials required in Bridewells by Act of Parliament - 70.
 
@@ -12348,7 +12348,7 @@ Inspectors necessary - 66.
 
 Instruction, religious, given in Dutch Houses of Correction - 122. 
 
-John of Gaunt’s grant from Edward III. - 409.
+John of Gaunt's grant from Edward III. - 409.
 
 Ipswich Gaol - 263.
 
@@ -12390,9 +12390,9 @@ Keeper, signs Table of Fees - 190, 244, 246, 437.
 
 - above forty years - 336.
 
-Keeper’s Freehold, a Bridewell - 349, 358, 432.
+Keeper's Freehold, a Bridewell - 349, 358, 432.
 
-- ’s Shop in a Bridewell - 348.
+- 's Shop in a Bridewell - 348.
 
 Kempe, Frances, her charity lost - 255.
 
@@ -12406,13 +12406,13 @@ Kidcots, Gaol so called - 404.
 
 King, Proprietor - 294, 296, 314, 443.
 
-- ’s Bounty offered to Cornwall - 382.
+- 's Bounty offered to Cornwall - 382.
 
-- ’s Evidence should be confined separate - 44.
+- 's Evidence should be confined separate - 44.
 
 King, Lord Chancellor, his declaration against severity - 28.
 
-King’s Bench Prison - 196.
+King's Bench Prison - 196.
 
 - allowance to from Lincoln Castle - 297.
 
@@ -12582,7 +12582,7 @@ Middlewich - 447.
 
 Minister of Parish in Ireland to take care of Allowance - 62.
 
-Mold Great Sessions, conveyance to at Gaoler’s expense - 454.
+Mold Great Sessions, conveyance to at Gaoler's expense - 454.
 
 Monmouthshire - 339.
 
@@ -12684,7 +12684,7 @@ Odiam - 337.
 
 Octagonal House of Correction - 140.
 
-Officer a Keeper (see Sheriff’s Officer).
+Officer a Keeper (see Sheriff's Officer).
 
 Ouse Bridge Gaol - 404.
 
@@ -12752,7 +12752,7 @@ Pool (Dorsetshire) Town Gaol - 370.
 
 - Bridewell ibid.
 
-- (Montgomeryshire) Great Sessions there, Conveyance at Gaoler’s expense - 460.
+- (Montgomeryshire) Great Sessions there, Conveyance at Gaoler's expense - 460.
 
 Popham, Mr. his two Bills - 3.
 
@@ -12776,7 +12776,7 @@ Prisoners, of different sorts, not separated - 16.
 
 - checked in sending out for liquor and other necessaries - 50.
 
-- almost starved by Gaoler’s farming allowance - 472.
+- almost starved by Gaoler's farming allowance - 472.
 
 - of war, liberal allowance to - 21.
 
@@ -12808,7 +12808,7 @@ Protestants excused from Mass - 81.
 
 Provinces, French, Prisons in - 94.
 
-Public houses, not to be frequented by Sheriff’s Officers - 130.
+Public houses, not to be frequented by Sheriff's Officers - 130.
 
 - one room of, a Prison - 359.
 
@@ -12898,15 +12898,15 @@ St. Alban's Borough Gaol - 214.
 
 St. Alban's Bridewell - 215.
 
-St. Briavel’s Gaol - 349.
+St. Briavel's Gaol - 349.
 
 St. Catharine's Prison - 191.
 
-St. Cross’s Hospital, Dole of Bread - 354.
+St. Cross's Hospital, Dole of Bread - 354.
 
 St. George's Fields Bridewell - 236.
 
-St. Peter’s Gaol, York - 407.
+St. Peter's Gaol, York - 407.
 
 Salary raised for abolished fees - 225.
 
@@ -12950,7 +12950,7 @@ Sherborn - 269.
 
 Sheriff of Town, Keeper - 469.
 
-Sheriff’s Officer, should not be Gaoler - 53.
+Sheriff's Officer, should not be Gaoler - 53.
 
 Sheriffs Officer, Keeper - 236, 253, 264, 357, 390, 394, 405, 458.
 
@@ -13038,7 +13038,7 @@ Stamford - 301.
 
 Star-chamber Prisoners, whither sent - 156.
 
-State House, so called, in King’s Bench Prison - 197.
+State House, so called, in King's Bench Prison - 197.
 
 Stepney Manor, its extent - 189.
 
@@ -13134,11 +13134,11 @@ Transports, the Contractors Property - 148.
 
 - their Fees paid by the County - 223.
 
-- have County bread, and King’s allowance - 223, 288.
+- have County bread, and King's allowance - 223, 288.
 
 - from Quarter Sessions allowed by County, as from Assize by the King - 228, 331.
 
-- not the King’s allowance - 312, 416, 426, 431, 436, 444, 468.
+- not the King's allowance - 312, 416, 426, 431, 436, 444, 468.
 
 - almost stifled - 380.
 
@@ -13154,7 +13154,7 @@ Truro - 385.
 
 Tub, inconvenient to bathe in - 288.
 
-Turfs, part of Keeper’s pay - 412.
+Turfs, part of Keeper's pay - 412.
 
 Turnkeys, their number should be increased - 29.
 
@@ -13254,7 +13254,7 @@ Wickedness in Prisons, and spread from them - 20.
 
 Wild beasts drawing a waggon, bas relief of - 108, 123.
 
-Williamson, Sir Hedworth, perpetual Sheriff by Bishop’s Patent - 417.
+Williamson, Sir Hedworth, perpetual Sheriff by Bishop's Patent - 417.
 
 Wiltshire - 360.
 
@@ -13272,7 +13272,7 @@ Winchcomb - 349.
 
 Windows, high ones proper - 183.
 
-- Gaoler’s, looking to Felons court - 220, 283, 474.
+- Gaoler's, looking to Felons court - 220, 283, 474.
 
 Window-tax, one cause of close rooms - 14.
 
@@ -13294,7 +13294,7 @@ Wives and children in no Dutch Prisons - 121.
 
 - in the Fleet - 160.
 
-- in the King’s Bench - 198.
+- in the King's Bench - 198.
 
 Wolverhampton Bridewell - 329.
 
