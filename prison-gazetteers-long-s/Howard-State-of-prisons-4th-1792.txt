@@ -550,14 +550,12 @@ SITUATION.
 
 A County Gaol, and indeed every prison, should be built on a spot that is airy, and if possible near a river, or brook. I have commonly found prisons situated near a river, the cleanest and most healthy. They generally have not (they could not well have) subterraneous dungeons, which have been so fatal to thousands: and by their nearness to running water, another evil, almost as noxious, is prevented, that is the stench of sewers.
 
----
+I said a gaol should be near a stream; but I must annex this caution; that it be not so near as that either the house or yard shall be within the reach of floods. This circumstance was so little thought of at Appleby in Westmorland, when their new gaol was first building, that I saw the walls marked from nine inches to three feet high by floods.
 
-I said a gaol should be near a stream; but I must annex this caution, that it be not so near as that either the house or yard shall be within the reach of doods. This circumstance was so little thought of at Appleby in Westmorland, when their new gaol was first building, that I saw the walls marked from nine inches to three feet high by floods.
-
-If it be not practicable to build near a stream; then an eminence should be chosen: for as the walls round a prison mud: be so high as greatly to obstruct a free circulation of air, this inconvenience should be lessened by a riling ground. And the prison should not be surrounded by other buildings; nor built in the middle of a town or city.
+If it be not practicable to build near a stream, then an eminence should be chosen: for as the walls round a prison must be so high as greatly to obstruct a free circulation of air, this inconvenience should be lessened by a rising ground: and the prison should not be surrounded by other buildings, nor built in the middle of a town or city.
 
 PLAN.
-
+---
 THE annexed engraving represents such a plan for a prison as, according to my ideas, unites the greatest advantages with regard to security, health, and order. By the assistance of the references, it will explain itself better than can be done by a verbal description. I shall only subjoin a few general remarks on some particulars in the structure.
 
 That part of the building which is detached from the walls, and contains the men-felons ward, may be square, or red angular, raised on Arcades, that it may be more airy, and leave under it a dry walk in wet weather. These wards over arcades are also belt for' safety, for I have found that escapes have been most commonly effected by under-mining cells and dungeons. When I went into Horsham gaol with the keeper, we saw a heap of Hones and rubbish. The felons had been for two or three days undermining the foundation of their room; and a general escape was intended that night. We were but just in time to prevent it; for it was almost night when we went in Our lives were at their mercy: but (thank God) they did not attempt to murder us, and rush out. — If felons should find any other means to break out of this raised ward, they will still be flopped by the wall of the court, which is the principal security; and the
@@ -598,15 +596,21 @@ also have their day-room or kitchen with afire-place; and their court and office
 
 Every court should be paved with flags or flat stones for the more convenient washing it; and have a good Pump, or water laid in; both if possible: and the pump and pipes pUMP. should be repaired as soon as they need it; otherwise the gaols will soon be offensive and unwholesome: as I have always found them to be in such cases. A small stream constantly running in the court is very desirable. In a room or shed near the pump or pipe, there should be a commodious Bath*with steps (as there is in some county hospi- Bath. tals) to wash prisoners that come in dirty, and to induce them afterwards to the frequent life of it j\ It should be filled every morning, and let off in the evening through the sewers into the drains. There should also be a copper in the shed, to heat a quantity of water sufficient to warm that in the bath; for washing those that are sickly. There should likewise be an Oven: nothing so effectually destroys vermin in clothes and bed- Oven. ding, nor purifies them so thoroughly when tainted with insection, as being a few hours in an oven moderately heated
 
-The Infirmary or lick wards should be in the most airy part of the court, quite Infir-detached from the rest of the gaol, and raised on arcades. These rooms should never MARY' be without crib-beds and bedding. In the middle of the floor of each room there should be a grate of twelve or fourteen inches square, for a current of air ||; covered with a shutter or hatch at night. The same contrivance might also be convenient in the other wards. Besides the grate, it may be necessary to have in the wards of the infirmary, hand-ventilators to freshen them every day. This machine is of ex- Venti-cellent use when most wanted, and when the wind or fail-ventilator is of no service, LAT0R"* that is, in calm weather. Dr. Hales (on the subject, page 12) shews that it will supply seventy-five tons of ait in a minute. But on farther observation, I am persuaded that ventilators are of little use in those gaols, where there are no dungeons; for if they have courts, and the rooms are a proper size, and have apertures, and are kept clean; and also lime-whited twice a year, there will be no danger of infectious disorders.
+[Infirmary.]
 
-# 14th George III. Cap. XLIII.
+The Infirmary or sick wards should be in the most airy part of the court, quite detached from the rest of the gaol, and raised on arcades. These rooms should never be without crib-beds and bedding. In the middle of the floor of each room there should be a grate of twelve or fourteen inches square, for a current of air ||; covered with a shutter or hatch at night. The same contrivance might also be convenient in the other wards.
 
-+ I might mention as an evidence of the advantage of Baths in prisons, that I have known instances where persons supposed to be dead of the gaol-fever, and brought out for burial; on being washed with cold water, have shewn signs of life, and soon after recovered. Even persons with the small-pox have found advantage by the cold bath. See some remarkable instances in the appendix to Dr. Wat/on's Account of a Series of Experiments.
+[Venyilator
 
-J See Dr. Lind's Essay on the Health of Seamen, p. 320 and 336.
+Besides the grate, it may be necessary to have in the wards of the infirmary, hand-ventilators to freshen them every day. This machine is of excellent use when most wanted, and when the wind or fail-ventilator is of no service, that is, in calm weather. Dr. Hales (on the subject, page 12) shews that it will supply seventy-five tons of ait in a minute. But on farther observation, I am persuaded that ventilators are of little use in those gaols, where there are no dungeons; for if they have courts, and the rooms are a proper size, and have apertures, and are kept clean; and also lime-whited twice a year, there will be no danger of infectious disorders.
 
-|| Dr. Leitfom's successful method has proved the benefit of fresh air in putrid fevers. See his Medical Memoirs, p. 19, 57, 38, 62r, &c. A putrid fever was lately in the poor-house at Yarmouth, but by the airiness of the situation was so mild, that many of the patients walked out with the spots on them.
+* 14th George III. Cap. XLIII.
+
+† I might mention as an evidence of the advantage of Baths in prisons, that I have known instances where persons supposed to be dead of the gaol-fever, and brought out for burial; on being washed with cold water, have shewn signs of life, and soon after recovered. Even persons with the small-pox have found advantage by the cold bath. See some remarkable instances in the appendix to Dr. Was/on's Account of a Series of Experiments.
+
+‡ See Dr. Lind's Essay on the Health of Seamen, p. 320 and 336.
+
+‖  Dr. Lettsom's successful method has proved the benefit of fresh air in putrid fevers. Sec his Medical Memoirs, p. 19, 57, 58, 62, &c. A putrid fever was lately in the poor-house at Yarmouth, but by the airiness of the situation was so mild, that many of the patients walked out with the spots on them.
 
 6'
 
@@ -826,7 +830,7 @@ In the act 24th George 11. which prohibits the use of spirituous liquors in pris
 
 # 32d George II.
 
-+ In the prohibiting clauses, a line of one hundred pounds is laid upon any gaoler, keeper, master. &c. who shall sell, use, lend, or give away any such liquors; or knowingly permit them to be sold, used, &c. in the house; except they be prescribed by a regular physician, surgeon, or apothecary, to be used medicinally. — And a fine of ten pounds to twenty pounds, or any time not exceeding three months imprisonment, for any person who shall bring such liquors into the house.' One moiety of these fines, as well as of that mentioned above, to the informer: the other moiety of each of the two {mailer fines to the prisoners; or, in the work-hduse, to the poor.
++ In the prohibiting clauses, a line of one hundred pounds is laid upon any gaoler, keeper, master. &c. who shall sell, use, lend, or give away any such liquors; or knowingly permit them to be sold, used, &c. in the house; except they be prescribed by a regular physician, surgeon, or apothecary, to be used medicinally. — And a fine of ten pounds to twenty pounds, or any time not exceeding three months imprisonment, for any person who shall bring such liquors into the house.' One moiety of these fines, as well as of that mentioned above, to the informer: the other moiety of each of the two {mailer fines to the prisoners; or, in the work-house, to the poor.
 
 I have
 
@@ -856,31 +860,19 @@ Alarm
 
 Bell.
 
-Finally j
-
 PROPOSED IMPROVEMENTS.
 
 Inspector.
 
 Finally; The care of a prison is too important to be left wholly to a gaoler; paid indeed for his attendance, but often tempted by his passions, or interest, to fail in his duty. To every prison there should be an Inspector appointed; either by his colleagues in the magistracy, or by parliament*. Sheriffs and magistrates have indeed this power already; and prisons are their immediate care. But some sheriffs excule themselves from attention to this part of their duty, on account of the short duration, expence, and trouble of their office; and these gentlemen, as well as gentlemen in the commission of the peace, have no doubt been fearful of the consequence of looking into prisons. But the danger from such inspection is in great measure abated: and it may be expected that sheriffs will now engage in this business; and that among justices, and town magistrates, there may always be found one man generous enough to undertake this important service. Or if the constant trouble be thought too much for one person, it may proceed by annual, quarterly, or monthly rotation. The inspector should make his visit once in a week, changing his days. He should take with him a memorandum of all the rules, and inquire into the observance or neglect of them. He should (as is done in some of our hospitals) look into every room, to see if it be clean, &c. He should speak with every prisoner; hear all complaints; and immediately correct what he finds manifestly wrong; what he doubts of, he may refer to his brethren in office, at their next meeting. — A good gaoler will be pleased with this scrutiny; it will do him honour, and confirm him in his station; in case of a less worthy gaoler, the examination is more needful, in order to his being reprimanded; and, if he be incorrigible, he should be discharged. This honourable delegate should have no salary: he should engage from the noble motive of doing justice to prisoners, and service to his country. — The great Dr. Young fays, " If half the misery that is felt by some, were seen by others, it would shock them with horror.” And the author of Yelemachui makes this delicate remark, " The prosperous turn away their eyes from the miserable, not through insensibility, but because the fight is an interruption of their gaiety.” If such motives prevail with those who think themselves under no obligation to shew pity to prisoners; surely magistrates should ad upon a more righteous principle, and consider what is due from them.
 
-I have osten, inquired of gaolers, whether the sheriffs, justices, or town-magistrates insped their gaols ? Many of the oldest have answered, " None of those gentlemen ever looked into the dungeons, or even the wards of my gaol.” Others have said, " Those gentlemen think that if they came into my gaol, they should footi be in.
+I have ofen, inquired of gaolers, whether the sheriffs, justices, or town-magistrates insped their gaols ? Many of the oldest have answered, " None of those gentlemen ever looked into the dungeons, or even the wards of my gaol.” Others have said, " Those gentlemen think that if they came into my gaol, they should footi be in.
 
-The Vagrant act 17th George II. requires that two justices visit the houses of correction " twice, or oftener if need be, in every year; and to examine into the estate and management thereof, and to report, &c.” And that the justices at quarter-sessions impose fines and penalties on the governors or mailers who do not keep their prisoners to hard labour, and punish and correct them according to the directions of the warrants, &c.
-
-7
-
-y
+The Vagrant act 17th George II. requires that two justices visit the houses of correction " twice, or oftener if need be, in every year; and to examine into the estate and management thereof, and to report, &c.” And that the justices at quarter-sessions impose fines and penalties on the governors or masters who do not keep their prisoners to hard labour, and punish and correct them according to the directions of the warrants, &c.
 
 e/Mfosi*
 
-2.
-
-B
-
-PROPOSED IMPROVEMENTS.
-
-37
+PROPOSED IMPROVEMENTS. 37
 
 their graves.” Others, cc The justices think the inside of my house too close for them; they satisfy themselves with viewing the outside.” Now if magistrates continue thus negligent of their duty, a general thorough reformation of our prisons must be despaired of What has been already obtained will soon be loft; and all will fink again into the former dreadful condition.
 
@@ -934,9 +926,9 @@ scanty provision, has been the cause of great mortality in our prisons during th
 
 Boys confined for correction should always be separate from other prisoners, and indeed from one another. A kind and tender monitor should often see them, and without tiring their attention, converse with them as a parent or a friend.
 
-f In all prisons, it would be an excellent improvement to have crib beds for each person, like those at Haflar, and the royal hospital at Plymouth. (See Plate II. B.) These may be made of call iron, without fides, nearly as cheap as of oak. The beds or cradles at Plymouth are fourteen inches from the floor: three feet one inch high at the head, and two feet three inches at the feet: six feet two inches long, and three feet one inch wide in the clear. The boards on the sides (three feet eight inches long) slide in an inch groove. A medicine box hangs by two hooks at the back of each cradle, which is necessary only in infirmaries. To these cradles are hair mattresses, bedding, &c. If offenders have only loose straw, though with a coverlet, they muff lie in their clothes, and of necessity be dirty and sickly objects. Therefore proper bedding is necessary. Without this, how can habits of cleanliness be produced and promoted in young creatures ? or what disposition can such have for work?
+f In all prisons, it would be an excellent improvement to have crib beds for each person, like those at Haflar, and the royal hospital at Plymouth. (See Plate II. B.) These may be made of call iron, without sides, nearly as cheap as of oak. The beds or cradles at Plymouth are fourteen inches from the floor: three feet one inch high at the head, and two feet three inches at the feet: six feet two inches long, and three feet one inch wide in the clear. The boards on the sides (three feet eight inches long) slide in an inch groove. A medicine box hangs by two hooks at the back of each cradle, which is necessary only in infirmaries. To these cradles are hair mattresses, bedding, &c. If offenders have only loose straw, though with a coverlet, they must lie in their clothes, and of necessity be dirty and sickly objects. Therefore proper bedding is necessary. Without this, how can habits of cleanliness be produced and promoted in young creatures ? or what disposition can such have for work?
 
-J The notion, that convicts are ungovernable, is certainly erroneous. There is a mode of managing some of the most desperate, with ease to yourself, and advantage to them. Many of them are Ihrewd and sensible;: manage them with calmness, yet with ffeadiness: shew them that you. have humanity, and that you aim.to make them useful members of society: let them see and hear the rules and orders of the prison, and be convinced that they are not defrauded in their provisions or clothes by contrndlors or gaolers. When they are sick, let them be treated with tenderness. Such conduct would prevent mutiny in prisons, and attempts to escape; which I am fully persuaded are often owing to prisoners being made desperate, by the inhumanity and ill usage of their keepers.
+J The notion, that convicts are ungovernable, is certainly erroneous. There is a mode of managing some of the most desperate, with ease to yourself, and advantage to them. Many of them are shrewd and sensible;: manage them with calmness, yet with ffeadiness: shew them that you. have humanity, and that you aim.to make them useful members of society: let them see and hear the rules and orders of the prison, and be convinced that they are not defrauded in their provisions or clothes by contrndlors or gaolers. When they are sick, let them be treated with tenderness. Such conduct would prevent mutiny in prisons, and attempts to escape; which I am fully persuaded are often owing to prisoners being made desperate, by the inhumanity and ill usage of their keepers.
 
 40 PROPOSED IMPROVEMENTS.
 
@@ -1596,7 +1588,7 @@ Orphan-
 
 house.
 
-I must not omit the Dol-huis, an hospital for the insane, as it is the bed of the kind I ever saw, and would be a good plan for a bridewell, with the addition of working rooms. The ground plot is rectangular (eighty feet by fifty-five): the keeper's house takes up. one of the fnorter fides: the other three sides have, on the ground-floor, rooms in the recess of a walk eight feet and a half wide under arcades, enclosed from the area or garden by a wall to the height of near four feet; the upper part, to the crown of the arch, open. Each person has a separate room ten feet four inches by seven feet, and ten high, with two doors: some of the inner doors are latticed; the outer frequently Hand open. Over the door is an aperture in the wall of about a foot diameter, with a shutter.
+I must not omit the Dol-huis, an hospital for the insane, as it is the bed of the kind I ever saw, and would be a good plan for a bridewell, with the addition of working rooms. The ground plot is rectangular (eighty feet by fifty-five): the keeper's house takes up. one of the shorter sides: the other three sides have, on the ground-floor, rooms in the recess of a walk eight feet and a half wide under arcades, enclosed from the area or garden by a wall to the height of near four feet; the upper part, to the crown of the arch, open. Each person has a separate room ten feet four inches by seven feet, and ten high, with two doors: some of the inner doors are latticed; the outer frequently Hand open. Over the door is an aperture in the wall of about a foot diameter, with a shutter.
 
 In a small court there are twelve rooms (marked with the letters of the alphabet) for the outrageous. Each has one strong door, always shut, with an aperture for the introduction of victuals, which are put into a clean copper bason chained on the outside. There were also apertures over the doors as in the other court. The rooms in both courts are for the poor. At all my visits I observed every thing remarkably neat and clean. Over the rooms of the first court, there are larger rooms for those whose friends can pay for them. Common visitants are not allowed to go up: but, injudiciously, every one that pays four stivers is admitted below. — The windows all open to the court, none outwards.
 
@@ -1622,7 +1614,7 @@ In the prison at Leeuwarden several were confined for petty offences; but there 
 
 At my former visit there were thirty-four men in the Rasp-houJey and in November 1781 there were forty-five. A few of them were rasping logwood with an instrument composed of ten saws: others combing and spinning black wool: others spinning twine, weaving sacks, and coarse linen cloth, &c. At their leisure they make shoe-pegs, tobacco-stoppers, sugar-saucers of brass wire, &c. and sell them to visitants. In the Spin-house adjoining, were thirty-six women, and in November 1781, twenty-nine: all at work, preparing thread, spinning, &c. except one, whom the mistress going up with me from her breakfast found idle in a warehouse; and not only chided her for it sufficiently, but entertained me with her murmurs upon the offence a good while after; from whence I concluded the fault was not a very common one.
 
-For the refractory, here are two closets, the bottoms and sides of which are pieces of wood placed edgeways, where being confined without shoes, they muff be in a painful situation.
+For the refractory, here are two closets, the bottoms and sides of which are pieces of wood placed edgeways, where being confined without shoes, they must be in a painful situation.
 
 In the prison for the Military at Groningen there were two prisoners. The gallows joins to the prison.
 
@@ -1716,7 +1708,7 @@ Sect. IV. HOLLAND.
 
 The overseer or keeper has a house for the residence of himself and his family, and an annual salary of a thousand guilders from the dates,' and a hundred and thirty from the city, clear of all deductions. According to the copy of instructions, he mull not be absent a night out of the city, without leave from the chief officer and the regents. He must, with assistants, search every part of the cells twice a week, to see whether any thing be done — attempted — or introduced, that is not permitted: and he must carefully inspect all things that are conveyed to the prisoners, that no tools, or glass, no gin or other Jirong liquors may be concealed: and he must himself, or one of his family, be present when any persons come to see the house, and no more than six visitants are to be admitted at one time. He must see that the provisions for the prisoners be good; and take care that the manufacturer pays the same for their work, as he would if he employed others. He must confine those condemned for a long term, in strong rooms separate from the rest. He may correct moderately; but if the prisoners are refractory, and deserve severer punishment, he must inform the regents. By a particular permission from the magistrates, he may take in as boarders, persons of bad behaviour, at the desire of their parents, guardians or relations. — The regents only can appoint, or discharge, a servant, or turnkey.
 
-Leewenberch Gast-huys3 in the suburbs of the city, was endowed (as appears by an inscription upon it) by a lady of that name for a pest-house, and built in 1567. I choose to give a plan and description of it, because I think it capable of being improved into a model for a good county hospital. There is an ascent of two steps into the vestibule, which has two folding-doors on both fides, and windows over them, and a staircase to rooms above. On the sides of an extensive passage there are four spacious wards, thirty feet high. A part of one of these has been converted into a kitchen; and in each of the other three there are twelve beds. They have galleries for opening the windows; and two flues from each chimney meet over the middle windows. Like the hospitals in Italy there are no rooms over the wards; this is a circumstance very -favourable to the health of the patients. The floors consist of square bricks, and are supported by strong pillars and arches ten feet wide. From the rooms over the vestibule is the entrance to an open gallery (eight feet wide) over the paflsage, from which all the wards may be seen. By opening the opposite doors, this house may be always kept cool and frefti. It is one of the driest I ever visited. The rain-water is conducted from the roof through vaults built on the outside of the wards, to prevent them from being offensive.
+Leewenberch Gast-huys3 in the suburbs of the city, was endowed (as appears by an inscription upon it) by a lady of that name for a pest-house, and built in 1567. I choose to give a plan and description of it, because I think it capable of being improved into a model for a good county hospital. There is an ascent of two steps into the vestibule, which has two folding-doors on both sides, and windows over them, and a staircase to rooms above. On the sides of an extensive passage there are four spacious wards, thirty feet high. A part of one of these has been converted into a kitchen; and in each of the other three there are twelve beds. They have galleries for opening the windows; and two flues from each chimney meet over the middle windows. Like the hospitals in Italy there are no rooms over the wards; this is a circumstance very -favourable to the health of the patients. The floors consist of square bricks, and are supported by strong pillars and arches ten feet wide. From the rooms over the vestibule is the entrance to an open gallery (eight feet wide) over the paflsage, from which all the wards may be seen. By opening the opposite doors, this house may be always kept cool and frefti. It is one of the driest I ever visited. The rain-water is conducted from the roof through vaults built on the outside of the wards, to prevent them from being offensive.
 
 At Deventer, the prison is near the river Iflel. It consists of four, rooms, which were all clean and sanded, but had no prisoners. When there are any, sixteen ftjyers a day are paid for each; which the gaoler receives, as at moil other' towns.
 
@@ -2014,10 +2006,12 @@ Some criminals are punished by being whipped in the market-place, and banished. 
 
 The place of execution is out of the City. Decollation is reckoned more honourable by the sword than by the axe. This is the common mode of execution; but of some more heinous crimes the punishment is breaking on the wheels and in executing this on state prisoners, it has been the practice sometimes to begin with cutting off their right hands. — After the sentence of a criminal is confirmed, he is allowed time to prepare for death, from eight to fourteen days, as the chaplain attending him thinks necessary. He is confined in a cell (or dungeon) at night, but is allowed to be in an upper room in the day.
 
-Executions are rare. A great number for child-murder are condemned to work in spin-houses for life, and to be whipped annually on the day when, and the spot where, the crime was committed. This mode of punishment is dreaded more than death, and lince it has been adopted has greatly prevented the frequency of the crime. — The punishment for grand-larceny has been, lince 1771, whipping and llavery for life.
+Executions are rare. A great number for child-murder are condemned to work in spin-houses for life, and to be whipped annually on the day when, and the spot where, the crime was committed. This mode of punishment is dreaded more than death, and since it has been adopted has greatly prevented the frequency of the crime. — The punishment for grand-larceny has been, since 1771, whipping and slavery for life.
 
-At Rendsburg in Holstein, in the guard-room at the entrance of the prison, on a Hate was a list of seventy seven Haves; sixty well, and seventeen lick. They are distinguished by a brown coat with red lleeves, and irons on one leg, with a chain fattened to their waists. They work on the fortifications; in summer from five to eleven, and from one to fix. Their bread was coarse and black, and seemed by the taste, to be made of buck-wheat. Besides an allowance of bread, they have a pay of one stiver (a penny) a day *. They lie on barrack-beds. Their countenances were more clear and healthy than those of the common people, postillions. See. who have opportunities of procuring spirituous liquors.
+---
 
+At Rendsburg in Holstein, in the guard-room at the entrance of the prison, on a slate was a lift of seventy-seven slaves; sixty well, and seventeen sick. They are distinguished by a brown coat, with red sleeves, and irons on one leg, with a chain fastened to their waists. They work on the fortifications; in summer from five to eleven, and from one to six. Their bread was coarse and black, and seemed by the taste, to be made of buck-wheat. Besides an allowance of bread, they have a pay of one stiver (a penny) a day.* They lie on barrack beds. Their countenances were more clear and healthy than those of the common people, postillions, &c. who have opportunities of procuring spirituous liquors.
+---
 At Copenhagen, the State-prison is in the citadel. In this prison there are five or six rooms, about fifteen feet by fourteen, with one window, and a case (or bed)
 
 The Danish soldiers have the same fort and quantity of bread, and only two stivers a day.
@@ -2168,7 +2162,7 @@ Copenhagen.
 
 Frederick's Hospital.
 
-every story, by a gallery open on the fides; which prevents the floors from being offensive. The passages of the several floors open into the galleries of the chapel, which is in the centre. The chaplain has six rooms and a kitchen. He officiates on Sundays, and has a salary of three hundred dollars a year, (a Danish dollar is 3J. gd.) besides some perquisites; but he has no other charge to attend. A clerk officiates at eight, every morning, and is allowed two dollars a week.
+every story, by a gallery open on the sides; which prevents the floors from being offensive. The passages of the several floors open into the galleries of the chapel, which is in the centre. The chaplain has six rooms and a kitchen. He officiates on Sundays, and has a salary of three hundred dollars a year, (a Danish dollar is 3J. gd.) besides some perquisites; but he has no other charge to attend. A clerk officiates at eight, every morning, and is allowed two dollars a week.
 
 Frederick's Hospital, (or the royal infirmary,) is an elegant building, and has a spacious area, with pleasant walks for the patients. Many of the poor citizens are admitted and maintained gratis: others, on paying seven Danish marks (a mark nine-pence) a week, or if they have separate rooms, fourteen. Thirty soldiers may also be admitted, who, if single, are obliged to give up their whole pay to the hospital, and if married, half. The patients wear the clothes of the house. Each of them has a bed to himself; and their number was one hundred and forty-two men, and eighty-five women. Of these, one hundred and fifty-eight were under the care of the physician, and sixty-nine under the surgeon. Here, a proper separation is made between these two forts of patients. The wards are not crowded; and it is the custom to white-waflh them once every year. If this were universally practised in their hospitals and prisons, it would have a very beneficial effect. — The Diet table which was hung up in the wards was as follows.
 
@@ -3248,7 +3242,7 @@ Sect. IV. ITALY.
 
 In this City, as in most parts of Italy, is a Confraternita della misericordia, called
 
-S. Giovanni di Fiorentini: as many of Florentine extraction were the founders. This institution is ancient, for the church of S. Gio Batlijla Decollato belonged to them in 1450. It consists of about seventy, chiefly nobles, of the belt families. After a prisoner is condemned, one or two of them come to him the midnight before his execution, inform him of the sentence, and continue with him till his death. They, with the confessor, exhort and comfort him, and give him his choice of the most delicious food. All the fraternity attend the execution, dressed in white. When the prisoner is dead, they leave him hanging till the evening; then one of the fraternity, generally a noble, cuts him down, and orders him to be conveyed to the burying-place which they have appropriated to malefactors. I was there the twenty-ninth of August, the only day in the year when this burying-place is opened to the public. Adjoining to an elegant church is a chapel, which makes one side of a court, and on each of the other three fides, is a portico supported by doric pillars. In the middle of the pavement* of the front portico the women, and in one of the side porticos the men are buried. The latter are interred in the same dress in which they were hanged i for in Italy, coffins are not in general use.
+S. Giovanni di Fiorentini: as many of Florentine extraction were the founders. This institution is ancient, for the church of S. Gio Batlijla Decollato belonged to them in 1450. It consists of about seventy, chiefly nobles, of the belt families. After a prisoner is condemned, one or two of them come to him the midnight before his execution, inform him of the sentence, and continue with him till his death. They, with the confessor, exhort and comfort him, and give him his choice of the most delicious food. All the fraternity attend the execution, dressed in white. When the prisoner is dead, they leave him hanging till the evening; then one of the fraternity, generally a noble, cuts him down, and orders him to be conveyed to the burying-place which they have appropriated to malefactors. I was there the twenty-ninth of August, the only day in the year when this burying-place is opened to the public. Adjoining to an elegant church is a chapel, which makes one side of a court, and on each of the other three sides, is a portico supported by doric pillars. In the middle of the pavement* of the front portico the women, and in one of the side porticos the men are buried. The latter are interred in the same dress in which they were hanged i for in Italy, coffins are not in general use.
 
 The Hospital of S. Michele is a large and noble edifice. The back front is near three hundred yards long. It consists of several courts with buildings round them. In the apartments on three sides of one of the most spacious of these courts, are rooms for various manufactures-and arts, in which boys who are orphans or destitute are educated and instructed. When I was there, the number was about two hundred, all learning different trades according to their different abilities and genius. Some were educated for printers, some for book-binders, designers, smiths, carpenters, tailors, ffioe-makers, and barbers; and some for weavers and dyers, a cloth manufacture being carried on here in all its branches. When the boys arrive at the age of twenty years, they are completely clothed, and a certain sum is given to set them up in the business they have learned. In the middle of the court is a noble fountain, and several inscriptions to the honour of the founders of this excellent institution.
 
@@ -3464,7 +3458,7 @@ The Albergo hospital, situated on an eminence within fight of the harbour, is an
 
 Silentium et Obedientia.
 
-At Milan, in the great Prison, there are twenty secrete chambers. The general size of these rooms is eleven feet by twelve to fifteen. In some were only one or two persons, but in others six or eight: the windows are towards a high wall eleven feet distant. These are some of the flrongefi: and most retired rooms in the Italian prisons, in which the most atrocious offenders, and those who are imprisoned for life, are confined. They are inaccessible but by a special order. The entrance is guarded by two doors, between which is a narrow space, just sufficient to admit two persons. Into this you are locked before the turnkey opens the inner door, for fear these desperate criminals should murder the keeper for the keys, and attempt to rush out.
+At Milan, in the great Prison, there are twenty secrete chambers. The general size of these rooms is eleven feet by twelve to fifteen. In some were only one or two persons, but in others six or eight: the windows are towards a high wall eleven feet distant. These are some of the strongest*: and most retired rooms in the Italian prisons, in which the most atrocious offenders, and those who are imprisoned for life, are confined. They are inaccessible but by a special order. The entrance is guarded by two doors, between which is a narrow space, just sufficient to admit two persons. Into this you are locked before the turnkey opens the inner door, for fear these desperate criminals should murder the keeper for the keys, and attempt to rush out.
 
 In the Prison for debtors, in this great trading city, there were only four persons confined for debt.
 
@@ -3512,9 +3506,7 @@ Hospitals.
 
 Ratisbon.
 
-Nuren-
-
-BURG.
+Nurenburg.
 
 In the house of correction were about forty men and thirty women; some weaving wide cloth, but most of them spinning. The keeper ordered his servant to attend me with charcoal and frankincense; a certain sign of negligence and inattention, which the countenances of the prisoners confirmed.
 
@@ -3898,7 +3890,7 @@ In the House of correction in 1778, the prisoners were all employed; and had the
 
 The Hospitals of St. Jaqnes and St. Guilliaume, for the maintenance of poor travellers for three days, have been shut these three years; yet the beds still continue in the two rooms of the latter*.
 
-The House of correction which was building in 1778, near Vilvorde, for the provinces of Austrian Brabant, is upon as large a scale as any structure of the kind that I have seen. It is situated near the great canal leading to Brussels; and is almost surrounded by water. The ground plot is rectangular, except a sweep before the court of the governor's house. The longer sides are about two hundred and ten yards; the shorter, about one hundred and sixty-seven. At the back of one of the longer fides, fronting the west, I counted eighty windows on a floor, each two feet by one. There are the same number opposite, looking inwards towards the courts. Each of these belongs to a separate room or cell, near six feet and a half by five and a half, and eight feet high; and a long eight feet and a half wide runs through each floor, into which all the opposite rooms open. Two floors of this side were finished, making three hundred and twenty rooms; there were two more unfinished, of the same nCimber of rooms. Each of the two shorter sides has one hundred and seventy-six rooms, of the same size as the others, and on as many floors. Part of these sides were finished; so that, including some rooms on each side of the governor's house, about five hundred were ready of the nine hundred and
+The House of correction which was building in 1778, near Vilvorde, for the provinces of Austrian Brabant, is upon as large a scale as any structure of the kind that I have seen. It is situated near the great canal leading to Brussels; and is almost surrounded by water. The ground plot is rectangular, except a sweep before the court of the governor's house. The longer sides are about two hundred and ten yards; the shorter, about one hundred and sixty-seven. At the back of one of the longer sides, fronting the west, I counted eighty windows on a floor, each two feet by one. There are the same number opposite, looking inwards towards the courts. Each of these belongs to a separate room or cell, near six feet and a half by five and a half, and eight feet high; and a long eight feet and a half wide runs through each floor, into which all the opposite rooms open. Two floors of this side were finished, making three hundred and twenty rooms; there were two more unfinished, of the same nCimber of rooms. Each of the two shorter sides has one hundred and seventy-six rooms, of the same size as the others, and on as many floors. Part of these sides were finished; so that, including some rooms on each side of the governor's house, about five hundred were ready of the nine hundred and
 
 The ajfiz.e of bread was hung up on the front of the Maison de Ville.
 
@@ -4244,7 +4236,7 @@ In the Hospital of San Juan de Bios there is only one ward, in which there were 
 
 The Hospital of San Juan Baptista (founded by one of the archbishops) is finely fimated at a little distance from the city. It has summer and winter wards for each sex, exaflly similar, except that the wards for summer are more airy: the windows opening to the floor. The men's wards are twenty-four feet wide, with two rows of beds in lofty recejfest in each of which is a window for fresh air. The women's wards were clean, the furniture of their beds linen, but not placed, as the beds of the men were, in recesses. Adjoining to the wards there is a spacious corridor for walking.
 
-The principal Prison (La Car cel de Corte) at Madrid, has an elegant front*, with this inscription, Reynando la Majestad de Felipe IV. anno de 1634, con acuerdo del Consejo se fabrico este Cane.I de Corte para comodidady y seguridad de los presos. "In the reign of his majesty Philip IV. A.D. 1634, by direction of the Council, this Court Prison was erected for the convenience and security of prisoners.” The number of prisoners, March 22, 1783, was one hundred and forty men and forty women. There are many rooms on the upper floors about fifteen feet by ten, some with stone bedsteads, and iron hooks for chaining the prisoners. In some of the rooms there were three or four prisoners, in others but one. Here are two courts; one of them, in which were most of the prisoners, was paved and had arcades on two fides, and a fountain in the middle j*. Some of the prisoners had irons on both legs, with a strong bolt between. These lay on barracks in dungeons down twenty-two steps. In one of the dungeons the gaoler has beds, which he lets to those who will pay him a real vellon and a half (4d.) a night. The women were in one large room; none of them in irons. In the infirmary, which was a large and clean room, the men lay single, and were not in irons. — The provisions were good; the bread fine, the allowance exactly one pound per day. The gaoler has the liberty of taking some prisoners into his house, each of whom pays twenty-five doubloons for the
+The principal Prison (La Car cel de Corte) at Madrid, has an elegant front*, with this inscription, Reynando la Majestad de Felipe IV. anno de 1634, con acuerdo del Consejo se fabrico este Cane.I de Corte para comodidady y seguridad de los presos. "In the reign of his majesty Philip IV. A.D. 1634, by direction of the Council, this Court Prison was erected for the convenience and security of prisoners.” The number of prisoners, March 22, 1783, was one hundred and forty men and forty women. There are many rooms on the upper floors about fifteen feet by ten, some with stone bedsteads, and iron hooks for chaining the prisoners. In some of the rooms there were three or four prisoners, in others but one. Here are two courts; one of them, in which were most of the prisoners, was paved and had arcades on two sides, and a fountain in the middle j*. Some of the prisoners had irons on both legs, with a strong bolt between. These lay on barracks in dungeons down twenty-two steps. In one of the dungeons the gaoler has beds, which he lets to those who will pay him a real vellon and a half (4d.) a night. The women were in one large room; none of them in irons. In the infirmary, which was a large and clean room, the men lay single, and were not in irons. — The provisions were good; the bread fine, the allowance exactly one pound per day. The gaoler has the liberty of taking some prisoners into his house, each of whom pays twenty-five doubloons for the
 
 See Plate XVII.
 
@@ -4410,7 +4402,7 @@ Pegna, a famous Spanish inquisitor, calls the procession, Korrendum ac iremendum
 
 Sect. IV. SPAIN.
 
-shelves, many prohibited books, some of which were English: in another room, I saw multitudes of erodes, beads, and small pictures. The painted cap was also Chewed me, and the vestments for the unhappy victims. After several consultations, I was permitted to go up the private staircase, by which prisoners are brought to the tribunal; this leads to a passage with several doors in it, which I was not permitted to enter. On one of the secretaries telling me, " none but prisoners ever enter these rooms I answered, I would be confined for a month to satisfy my curiosity; he replied, "none come out under three year, and they take the oath of secrecy.” I learned, by walking in the court, and conversing with the inquisitors, that the cells have double doors, and are separated by two walls, to prevent prisoners conversing together, and that over the space between the walls there is a fort of chimney or funnel, enclosed at the top, but having perforations on the fides, through which some air and a glimmering of light enter. These funnels, the inquisitors told me, are double barred: and one of them serves two cells. Both the inquisitors allured me that they did not put irons on any of their prisoners. The passages into which some of the cells open, have small apertures for the admission of light. — In a gloomy area at the back of the prison, there was nothing but a great mastiff dog.
+shelves, many prohibited books, some of which were English: in another room, I saw multitudes of erodes, beads, and small pictures. The painted cap was also Chewed me, and the vestments for the unhappy victims. After several consultations, I was permitted to go up the private staircase, by which prisoners are brought to the tribunal; this leads to a passage with several doors in it, which I was not permitted to enter. On one of the secretaries telling me, " none but prisoners ever enter these rooms I answered, I would be confined for a month to satisfy my curiosity; he replied, "none come out under three year, and they take the oath of secrecy.” I learned, by walking in the court, and conversing with the inquisitors, that the cells have double doors, and are separated by two walls, to prevent prisoners conversing together, and that over the space between the walls there is a fort of chimney or funnel, enclosed at the top, but having perforations on the sides, through which some air and a glimmering of light enter. These funnels, the inquisitors told me, are double barred: and one of them serves two cells. Both the inquisitors allured me that they did not put irons on any of their prisoners. The passages into which some of the cells open, have small apertures for the admission of light. — In a gloomy area at the back of the prison, there was nothing but a great mastiff dog.
 
 It is well known that from this court there is no appeal. — I need not say how horrid the secrecy and severity of it appear. I could not but observe, that even the fight of it {truck terror into the common people as they passed. It is stiled, by a monstrous abuse of words, the holy and apostolic court of inquisition.
 
@@ -4472,11 +4464,11 @@ Sect. IV. SPAIN.
 
 barracks, but no bedding. There is the same allowance to all, one pound and a half of brown bread and about five farthings each in money. A loaf, weighing exactly three pounds, is given to every soldier every other day; but for the prisoners, it is divided, and one half given them everyday, to prevent them from selling it*.-Those
 
-who have only a ring, find securities for not escaping, and sometimes are employed in the houses in the citadel, and paid for their labour. If they escape, their securities arc obliged to put on the chain and to take their places. If they are retaken, their term is doubled.
+who have only a ring, find securities for not escaping, and sometimes are employed in the houses in the citadel, and paid for their labour. If they escape, their securities are obliged to put on the chain and to take their places. If they are retaken, their term is doubled.
 
 Some for more atrocious crimes are sent to Carthagena, and others to the African settlements.
 
-Here is a large building called the Mifeericordia, similar to the hofepicio in Madrid, in which are confined beggars, vagrants, and refractory children. Workmen also are here employed, and apprentices taken, to carry on a manufactory of coarse cloth.
+Here is a large building called the Mifeericordia, similar to the hosepicio in Madrid, in which are confined beggars, vagrants, and refractory children. Workmen also are here employed, and apprentices taken, to carry on a manufactory of coarse cloth.
 
 Near the Mifeericordia there is an Hofepital for Orphan* or children of the poor (los ninos de la doSlrina). They are taught to read and work, and the boys serve in the churches. Their number was forty-five boys and thirteen girls. This house is in part supported by the contributions of those who play at ball, in a building erected by the city for that diversion, which is here a favourite one-f.
 
@@ -4642,7 +4634,7 @@ attended to The substitutes of the attorney-general (should) visit the-prisons o
 
 [Paris.]
 
-the attorney-general, and two clerks. They go at Christmas, Easter, Whitsuntidey one day before 15th August, St. Simon and Jude. There is in each prison (as in other foreign gaols) a room for their reception called the council-chamber. It is occupied at other times by the head-gaoler.
+the attorney-general, and two clerks. They go at Christmas, Easter, Whitsuntide, one day before 15th August, St. Simon and Jude. There is in each prison (as in other foreign gaols) a room for their reception called the council-chamber. It is occupied at other times by the head-gaoler.
 
 The arrival of this deputation is announced by boys, who, though offenders, are allowed to do little errands in the prison: these go round the court and into every room, giving notice of it aloud. The deputies go, without the gaoler or turnkeys, into every room and dungeon, and
 
@@ -4786,7 +4778,7 @@ The French are now sensible of the bad police of confining persons in idleness; 
 
 Sal- The great hospital, or Salpetnere, near the city, is for women and girls, their
 
-pe3riere. number is upwards of five thousand. Many of the girls are employed on the fined embroidery. Here are numbers of poor and in fane; and a sisterhood of religieuses reside in the house. The criminals arc quite separate from the others, and seldom seen by firangers. There are but few of these employed- — At my last visit there were eight hundred and twenty confined, most of them by their parents or relations. Many of their lodging-rooms are six feet ten inches by five feet seven. There are three infirmaries; in two of them the patients lay in single beds, but the other (for criminals) was crowded, and had three in a bed. The whole house was kept clean and quiet by the great attention of the good fillers.
+pe3riere. number is upwards of five thousand. Many of the girls are employed on the fined embroidery. Here are numbers of poor and in fane; and a sisterhood of religieuses reside in the house. The criminals are quite separate from the others, and seldom seen by firangers. There are but few of these employed- — At my last visit there were eight hundred and twenty confined, most of them by their parents or relations. Many of their lodging-rooms are six feet ten inches by five feet seven. There are three infirmaries; in two of them the patients lay in single beds, but the other (for criminals) was crowded, and had three in a bed. The whole house was kept clean and quiet by the great attention of the good fillers.
 
 Bastille, The Bastille may occur to some of my readers, as an object concerning which some information would be acceptable- I am happy to be able to give this, by means of a pamphlet published in 1774, written by a person who was long confined in this prison. It is reckoned the bell account of this celebrated structure ever published; and the sale of it being prohibited in France under very severe penalties, it is become extremely scarce. I have extracted the most material circumstances of the description, and have caused the plate to be copied from that in the work.
 
@@ -4822,7 +4814,7 @@ sometimes permitted to walk, attended by a guard. On this platform are thirteen 
 
 " The dungeons at the bottom of the towers exhale the most offensive scents, and are the receptacles of toads, rats, and other kinds of vermin. In the corner of each is a camp-bed, made of planks laid on iron bars that are fixed to the walls, and the prisoners are allowed some straw to lay on the beds. These dens are dark, having no windows, but openings into the ditch: they have double doors, the inner ones plated with iron, with large bolts and locks.
 
-" Of the five classes of chambers, the most horrid next to the dungeons are those in which arc cages of iron. There are three of them. They are formed of beams with llrong plates of iron, and are each eight feet by fix.
+" Of the five classes of chambers, the most horrid next to the dungeons are those in which are cages of iron. There are three of them. They are formed of beams with llrong plates of iron, and are each eight feet by fix.
 
 " The calottes, or chambers at the top of the towers, are somewhat more tolerable.
 
@@ -4944,7 +4936,7 @@ I cannot leave this city without giving a short account of the Hotel-Dieu, as it
 
 They are printed in quarto. The arret for the city is dated 18th June: it contains thirty-nine articles. The title is Arreji de la Cour du Parlement, portant RegLment general pour les Prisons, droits et fonSlions des Greffiers des Geales, Geoliers et Guichetiers defdites Prisons: Avec le Tarif des droits attribute aufdits Geoliers. The arret for the provinces, dated ill September, has the same title, except the farif. It contains thirty-three articles. To this arret is annexed three others, viz. the office of clerks, gaolers and turnkeys — the aliment of prisoners — -and their attendance at mass.
 
-+ The foundation of this was probably the first article upon prisons in the excellent criminal Ordonnance de Louis XIV. 1670, which directs that they shall be fodisposed that the health of prisoners shall not be incommoded.
++ The foundation of this was probably the first article upon prisons in the excellent criminal Ordonnance de Louis XIV. 1670, which directs that they shall be so disposed that the health of prisoners shall not be incommoded.
 
 *79
 
@@ -4958,15 +4950,11 @@ Hotel-
 
 Dieu.
 
-that
-
 FOREIGN PRISONS.
 
 Lyons
 
-Hotel-
-
-Dieu.
+Hotel-Dieu.
 
 Bordeaux
 
@@ -5055,31 +5043,29 @@ Art. IX. In every prison the prisoners may appoint three or five of themselves, 
 Art. X. It shall be allowed to tradesmen or sellers of ware (except such as deal in things that are not fit to be sold to prisoners) to wait at the great gate of the prisons from ten o'clock in the morning till three in the afternoon, in order to sell their ware to such prisoners as have wherewithal to pay for them on the spot.
 
 Art. XI. Whatever prisoner shall dare by this means to take or bring in strong liquors or other thing* that are not fit for prisoners, or shall receive or deliver any letter, shall be punished for the abuse he has made of this facility.
-
+---
 A TABLE OF VICTUALLING.
 
-Days of the Week. Middling Beer or Cider. Bread. Beef. Butter. Cheese. Pease or Beans.
+Days of the Week. - Middling Beer or Cider. - Bread. - Beef. - Butter. - Cheese. - Pease or Beans.
 
-A Pot containing a quart and half Pounds Avoirdupois Pounds Avoirdupois Ounces. Ounces. A Pint Half a Pound
+A Pot containing a quart and half Paris measure. - Pounds Avoirdupois Weight. - Pounds Avoirdupois Weight. - Ounces. - Ounces. - Half a Pound Avoirdupois
 
-Monday Paris measure. I Weight. i4 Weight. 3 - Avoirdupois Wt. 4
+Monday - 1 - 1½ - ¾ - 0 - 0 - ½
 
-Tuesday I ii -
+Tuesday - 1 - 1½ - ¾ - 0 - 0 - 0
 
-Wednesday I is - 4
+Wednesday - 1 - 1½ - ¾ - 0 - 0 - ½
 
-Thursday I iir 3 4 - "
+Thursday - 1 - 1½ - ¾ - 0 - 0 - ½
 
-Friday I *4 - 4 or 6
+Friday - 1 - 1½ - 0 - 4 - or 6 - ½
 
-Saturday I i -
+Saturday - 1 - 1½ - ¾ - 0 - 0 - 0
 
-Sunday I *4 I - X
+Sunday - 1 - 1½ - ¾ - 0 - 0 - ½
 
-7 Pots,or jo^Qu. io£ 4» 4 6 2
-
-In such places where beer or cider cannot be had, there shall be delivered to each prisoner three quarters of a quart of wine per day, Paris measure.
-
+7 Pots, or 10½ Qu. - 10½ - 4½ - 4 - 6 - 2
+---
 That room was nineteen feet by twelve. In another smaller room, in two tiers, were twenty-three hammocks belonging to the sailors; for sometimes their hammocks were given them. The court of this prison was only twenty-five feet by fourteen and a half.
 
 FRANCE.
@@ -5366,7 +5352,7 @@ Full Diet. Breakfast as above. For dinner, one pound of meat, one pint of broth,
 
 Rice milk, orange whey, orange and lemon water, tamarind whey, vinegar whey, balm and sage tea to be discretionally used by the surgeon.
 
-+ I have since heard that a bounty was paid by the court of England to their prisoners in France, at the following rates, viz. captains, mates, failing mailers, surgeons, and stewards, three pence per day each; common sailors, boys, and passengers of inferior rank, three halfpence per day each; which payment was made every twenty-eight days.
++ I have since heard that a bounty was paid by the court of England to their prisoners in France, at the following rates, viz. captains, mates, failing masters, surgeons, and stewards, three pence per day each; common sailors, boys, and passengers of inferior rank, three halfpence per day each; which payment was made every twenty-eight days.
 
 Sect. V. PRISONERS OF WAR. 191
 
@@ -5484,7 +5470,7 @@ Merchant pips. Captains, at liberty, or confined - 0 03
 
 -.....- Sailors, soldiers, volunteers and ship boys. - , . o o r
 
-They arc also supplied when destitute of clothing, each of them to the amount of one pound two Ihi!-lings and five pence halfpenny Irip, for jacket, waistcoat, shirt, shoes, stockings and hat.
+They are also supplied when destitute of clothing, each of them to the amount of one pound two shillings and five pence halfpenny Irip, for jacket, waistcoat, shirt, shoes, stockings and hat.
 
 C c AMERICAN
 
@@ -5998,7 +5984,7 @@ Having taken notice of several of the orphan-schools abroad, I cannot help addin
 
 Their number is forty-one, besides four nurseries to supply them with children. In visiting them I carried with me a sermon preached before the incorporated society, (to which is added an account of the several schools) published in 1781, at the request of the society. In the two schools near Dublin, that at Clontarf-Strand for boys, and at Santry for girls, I was greatly surprised to find but forty-six in the farmer, and thirty-four in the latter, though the numbers given in the published account were a hundred boys and forty girls. At Kilkenny and Castledermot the deficient numbers were twenty-six in the former, and seventeen in the latter; and there was a like deficiency in some of the other schools. These schools are managed by a committee of fifteen, who meet every week in Dublin f. This committee has lately discovered a consciousness of their error in publishing such false accounts, and suffering them to be delivered from the pulpit; for in the last ephemeris the true numbers seem to be given; and they amount to about seven hundred (or near a third) less than the numbers which had been before stated.
 
-The mailers of these schools hold a certain quantity of land belonging to the society, for which they pay no higher rent than was paid when the ground was originally granted. Every matter is allowed a salary of £12 Irish; and contracts for the clothing, diet, and work of the children. These contracts are so low (viz. annual clothing /1; 5; o Irish; diet £3: 2: 6) that the state of most of the schools which I visited was so deplorable, as to disgrace protestantism and encourage popery in Ireland, rather than the contrary.
+The masters of these schools hold a certain quantity of land belonging to the society, for which they pay no higher rent than was paid when the ground was originally granted. Every matter is allowed a salary of £12 Irish; and contracts for the clothing, diet, and work of the children. These contracts are so low (viz. annual clothing /1; 5; o Irish; diet £3: 2: 6) that the state of most of the schools which I visited was so deplorable, as to disgrace protestantism and encourage popery in Ireland, rather than the contrary.
 
 If the committee finds a decteafe in their funds, a less number of these schools with proper attention, will do the society much more credit than a large number of such frckly, naked and half starved children as I found in them. In short; these schools demand a thorough parliamentary inquiry.
 
@@ -6016,7 +6002,7 @@ Sect. VI. IRELAND. 209
 
 ---
 
-bath — A larger allowance to the mailers* for diet, and for walking, fire and caidles — A crib bedstead for each child — Rooms appropriated to the sick, and an apothecary for each house — Didinft school-rooms, work-rooms and dining-rooms, and an area enclosed for play — A dairy and pantry — The mailer's and millrefs's bed-room situated so as to look into the children's dormitory — The provincial nurseries abolished, and that at Dublin put on a larger plan (since if proper attention were paid to the children, the admission of a child would be a matter of favour and intreaty j-) — That a check should be kept on the local committees by the occasional inspection of one of the committee of fifteen, whose travelling expences might be paid by the society — That the rules and orders for every department should be conspicuously hung up — That premiums and every encouragement should be given to the most cleanly and diligent children — And the houses lime-whitened once a year.
+bath — A larger allowance to the masters* for diet, and for walking, fire and caidles — A crib bedstead for each child — Rooms appropriated to the sick, and an apothecary for each house — Didinft school-rooms, work-rooms and dining-rooms, and an area enclosed for play — A dairy and pantry — The master's and millrefs's bed-room situated so as to look into the children's dormitory — The provincial nurseries abolished, and that at Dublin put on a larger plan (since if proper attention were paid to the children, the admission of a child would be a matter of favour and intreaty j-) — That a check should be kept on the local committees by the occasional inspection of one of the committee of fifteen, whose travelling expences might be paid by the society — That the rules and orders for every department should be conspicuously hung up — That premiums and every encouragement should be given to the most cleanly and diligent children — And the houses lime-whitened once a year.
 
 I beg leave further to fugged, that it seems highly de fir able that these schools should be in the vicinity of large towns; both for a more easy supply of provisions, medical assistance, &c; and, more particularly, for the convenience of frequent visits from the local committees, without whose unremitting attention to enforce the prescribed rules> all the endeavours of the gentlemen in Dublin will be absolutely fruitless. I have generally found that in schools so situated, more attention has been paid to the children by the persons concerned in their education, than in those at some miles distance.
 
@@ -6242,9 +6228,9 @@ For every felon's discharge - 0 18 10
 
 For every misdemeanour - 0 >4 10
 
-Every debtor's entrance on the mailer's side - 0 3 0
+Every debtor's entrance on the master's side - 0 3 0
 
-Every felon's entrance on the mailer's side - 0 10 6
+Every felon's entrance on the master's side - 0 10 6
 
 Every person admitted into the press-yard - 3 3 0
 
@@ -6318,7 +6304,7 @@ LONDON.
 
 rooms for debtors), a room for the turnkey, another for the watchman, and eighteen rooms for prisoners. — Besides the coffee-room and tap-room, two of those eighteen rooms, and all the cellar-floor, except a lock-up room to confine the disorderly, and another room for the turnkey, were held by the tapfier, John Cartwright, who bought the remainder of the lease at public auction in 1775. The cellar-floor is sixteen steps below the hall-gallery. It consists of the two rooms just now mentioned, the tapster's kitchen, his four large beer and wine cellars, and fifteen rooms for prisoners. These fifteen, and the two before-mentioned on the hall-gallery, the tapster lets to prisoners for from four to eight shillings a week*.
 
-On the first gallery (that next above the hall-gallery) are twenty-five rooms for prisoners. On the second gallery twenty-seven: one of them, fronting the staircase, is their committee-room. A room at one end is an infirmary. At the other end, in a large room over the chapel, is a dirty billiard-table; kept by the prisoner who sleeps in that room. On the highest story are twenty-seven rooms. Some of these upper rooms, viz. those in the wings, are larger than the rest; being over the chapel, the tap-room, &c. All the rooms I have mentioned are for master's-side debtors. The weekly rent of those not held by the tapster is is. $d. unfurnished. They fall to the prisoners in succession, thus: when a room becomes vacant, the first prisoner upon the list of such as have paid their entrance-fees, takes possession of it. When the prison was built, the warden gave each prisoner his choice of a room according to his seniority as prisoner. If all the rooms be occupied, a new comer must hire of some tenant a part of his room; or ftiift as he can. Prisoners are excluded from all right of succession to the rooms held by the tapster, and let at the high rents aforesaid. — The apartments for common-side debtors are only part of the right wing of the prison. Besides the cellar (which was intended for their kitchen, but is occupied with lumber, and (hut up) there are four floors. On each floor is a room about 24 or 25 feet square, with a fire-place; and on the fides, seven closets or cabins to lleep in Such of these prisoners as swear in court or before a commissioner that they are not worth five pounds, and cannot subsist without charity, have the donations which are sent to the prison, the begging-box, and the grate. Of them there were at one of my viiits sixteen, at some other times not so many.
+On the first gallery (that next above the hall-gallery) are twenty-five rooms for prisoners. On the second gallery twenty-seven: one of them, fronting the staircase, is their committee-room. A room at one end is an infirmary. At the other end, in a large room over the chapel, is a dirty billiard-table; kept by the prisoner who sleeps in that room. On the highest story are twenty-seven rooms. Some of these upper rooms, viz. those in the wings, are larger than the rest; being over the chapel, the tap-room, &c. All the rooms I have mentioned are for master's-side debtors. The weekly rent of those not held by the tapster is is. $d. unfurnished. They fall to the prisoners in succession, thus: when a room becomes vacant, the first prisoner upon the list of such as have paid their entrance-fees, takes possession of it. When the prison was built, the warden gave each prisoner his choice of a room according to his seniority as prisoner. If all the rooms be occupied, a new comer must hire of some tenant a part of his room; or ftiift as he can. Prisoners are excluded from all right of succession to the rooms held by the tapster, and let at the high rents aforesaid. — The apartments for common-side debtors are only part of the right wing of the prison. Besides the cellar (which was intended for their kitchen, but is occupied with lumber, and (hut up) there are four floors. On each floor is a room about 24 or 25 feet square, with a fire-place; and on the sides, seven closets or cabins to lleep in Such of these prisoners as swear in court or before a commissioner that they are not worth five pounds, and cannot subsist without charity, have the donations which are sent to the prison, the begging-box, and the grate. Of them there were at one of my viiits sixteen, at some other times not so many.
 
 I have in the Report of the Committee of the House of Commons 1728, a table of some charities: but no such table was hung up in the prison -f\
 
@@ -6918,7 +6904,7 @@ The bread allowance is from the chamber of London. Debtors (some of whom are fro
 
 There are many legacies for common-side debtors, who receive them quarterly.
 
-The annual amount is £59: 2: 11. The mailer, &c. of the drapers' company
+The annual amount is £59: 2: 11. The master, &c. of the drapers' company
 
 As I shall frequently have occasion to rrwntlon this class of Debtors, who are generally working people with large families, I think it may be proper to-give some account of what are called Courts of Conscience. — In 1518, the Common Council of the city of London passed an act for the recovery of debts under forty shillings due to citizens, by a court to be called a Court of Conscience, held in Guildhall; and the debtors who refused to obey the award of that court, were to be imprisoned in one of the City-Compters until they complied, although it were durante vita. In 1605, the powers of that court were established by act of parliament. In 1750, Alderman Dickenson brought in a bill for extending similar powers to the whole county of Middlesex; with this difference, that all persons refusing to submit to the decision of the court, were liable to be imprisoned in Newgate for three calendar months, which cancelled the debt. From these several adis, others have been framed for various parts of the kingdom, in some of which the term of confinement has been limited to forty days. I' have collected most of these, and find the expences, fees, &c. to be very different; in some instances amounting to three or four times the original debt.
 
@@ -7126,7 +7112,7 @@ A generous benefactor (Mr. Wildman, a salesman in Smithfield) constantly fends t
 
 The fines have only the prison allowance *. — The king's evidence are put with the women in their ward, to secure them from the resentment of the other prisoners.
 
-In December 1782, I found the county debtors were on the men's fidef, till their apartments in Newgate were rebuilt. The Ihed in the court was inclosedj the wards were glazed and had stoves.
+In December 1782, I found the county debtors were on the men's sidef, till their apartments in Newgate were rebuilt. The Ihed in the court was inclosedj the wards were glazed and had stoves.
 
 In the keeper's garden there is inclosed a bath and a copper, designed for this prison and the bridewell, but being incommodious is not used.
 
@@ -12054,15 +12040,15 @@ That what to us ye give, to God ye lend.
 
 ---
 
-THIS gaol is too small for the general number of prisoners. Debtors and felons have their courts separated only by iron rails. The former have a kitchen: and for the master's-side many rooms; and now a free ward. Felons, one day-room for mem and women. The night-room for men is a large dungeon- down four steps: the prisoners broke out lately. A separate night-room for women. The turnkey has now a lodging-room, over the felons dungeon, with an alarm-bell; so that an escape will be more difficult. Near this is the condemned room (n feet by io). There is lately fitted up a small room for an infirmary; and another room or. two: but no provision made for separating men-felons at night, except the convicts,. who have now two rooms and a small court on the debtors side. Transports have not the king's allowance of is. 6d. a week. Clauses against spirituous liquors not hung up, Na straw: offensive sewers- The chapel is much too small. The act for preserving the health of prisoners was painted on a board in the debtors, court; and at my laffc visit, the rules and orders. At the Lent assize in 1782, none o$»the prisoners attended at church. I observed that the women were not only chained together by their hands, but had heavy irons also on their legs, as they were conducted to the sessions-house.
+THIS gaol is too small for the general number of prisoners. Debtors and felons have their courts separated only by iron rails. The former have a kitchen: and for the master's-side many rooms; and now a free ward. Felons, one day-room for men and women. The night-room for men is a large dungeon- down four steps: the prisoners broke out lately. A separate night-room for women. The turnkey has now a lodging-room, over the felons dungeon, with an alarm-bell; so that an escape will be more difficult. Near this is the condemned room (n feet by io). There is lately fitted up a small room for an infirmary; and another room or. two: but no provision made for separating men-felons at night, except the convicts,. who have now two rooms and a small court on the debtors side. Transports have not the king's allowance of is. 6d. a week. Clauses against spirituous liquors not hung up, Na straw: offensive sewers- The chapel is much too small. The act for preserving the health of prisoners was painted on a board in the debtors, court; and at my laffc visit, the rules and orders. At the Lent assize in 1782, none o$»the prisoners attended at church. I observed that the women were not only chained together by their hands, but had heavy irons also on their legs, as they were conducted to the sessions-house.
 
-When felons come to this prison, they are washed,. and clothes provided by the county are put on. The men have a Russia-drab coat and breeches, a flannel waistcoat, two check shirts, and two pair of yam hofe the women, a linfey woolfey gown and petticoat, a flannel petticoat, two dowlas shists, two pair of yarn hose. Their own; clothes are ticketed and hung up till the quarter sessions or assizes; when they put them on again to appear in on trial. Afterwards the county-clothes are washed, mended, and purified in an oven, for the use of future criminals. The clothing aforesaid for twenty men and five women coll only £16 :.6: 8. — A gentleman sent to this gaol for the prisoners thirty-six rugs or coverlets which, are now worn out.
+When felons come to this prison, they are washed,. and clothes provided by the county are put on. The men have a Russia-drab coat and breeches, a flannel waistcoat, two check shirts, and two pair of yarn hose the women, a linsey woolsey gown and petticoat, a flannel petticoat, two dowlas shists, two pair of yarn hose. Their own; clothes are ticketed and hung up till the quarter sessions or assizes; when they put them on again to appear in on trial. Afterwards the county-clothes are washed, mended, and purified in an oven, for the use of future criminals. The clothing aforesaid for twenty men and five women cost only £16 :.6: 8. — A gentleman sent to this gaol for the prisoners thirty-six rugs or coverlets which, are now worn out.
 
-The Rules and Orders of this Gaol as settled, by the High-Sheriff and Justices for this County i78 r.
+The Rules and Orders of this Gaol as settled, by the High-Sheriff and Justices for this County 178 r.
 
-£. S.
+£. S. D.
 
-Lodging for each debtor per week if furnished by the gaoler, for each bed - 03
+Lodging for each debtor per week if furnished by the gaoler, for each bed - 0 3
 
 If occupied by two prisoners, each prisoner - 0 1
 
@@ -12242,13 +12228,13 @@ Oxfordshire, to<wit. Michaelmas Sessions — 8th George II. — 1734.'
 
 Debtors &c.
 
-To the mailer-keeper for every warrant charged upon any debtor
+To the master-keeper for every warrant charged upon any debtor
 
 To the under-keeper
 
 To him for every other warrant -
 
-To the mailer-keeper for every prisoner committed by any justice of peace for treason, felony, or any other misdemeanour; or committed in court -
+To the master-keeper for every prisoner committed by any justice of peace for treason, felony, or any other misdemeanour; or committed in court -
 
 To the under-keeper -
 
@@ -12652,7 +12638,7 @@ For the under keeper or turnkey upon discharging of each prisoner by /uper/edeas
 
 LODGINGS.
 
-Every prisoner that lies in the mailer's side of the gaol in a bed provided by the keeper of the gaol shall pay per week if a bed to himself - 02
+Every prisoner that lies in the master's side of the gaol in a bed provided by the keeper of the gaol shall pay per week if a bed to himself - 02
 
 If two prisoners or more lye together in one bed then between them all - 02
 
@@ -13700,11 +13686,13 @@ To him for the fircond and every other indictment
 
 At the discharge of every felon to the turnkey - For the second and every other indictment to him -
 
-To the gaoler for every felon for his bed on the mailer's side weekly If two lye in the same bed he may take of each for lodging in such bed
+To the gaoler for every felon for his bed on the master's side weekly
+
+If two lye in the same bed he may take of each for lodging in such bed
 
 At the entrance of every debtor for cleansing the gaol and finding candle and other necessaries o.
 
-Of every debtor for each week's lodging in the gaoler's bed on the mailer's side For each debtor discharged to the gaoler -
+Of every debtor for each week's lodging in the gaoler's bed on the master's side For each debtor discharged to the gaoler -
 
 Of him for the second and every other action -To the turnkey at the discharge of every debtor -
 
@@ -13794,9 +13782,7 @@ HAMPSHIRE. Western Circuit.
 
 37*
 
-Bride.
-
-WEILS.
+Bridewells.
 
 bread a day (weight Nov. 6, 1782, exactly I lb.): no employment. Clauses of ad against spirituous liquors hung up.
 
@@ -14026,8 +14012,6 @@ H Coker J Montague In°. Cooper In°. Eyles
 
 Tho‘. Phipps Edwd JJhe Edwd Tounge
 
-other-
-
 Western Circuit. WILTSHIRE. 377
 
 OTHER
@@ -14172,9 +14156,7 @@ Imprimis for the commitment fee of every prisoner for debt damage contempt or ot
 
 in civil suits though it be on several actions - 0134
 
-For the chamber rent of every prisoner so committed who shall have a bed to himself and although there are more beds in the same room and who finds himself bed bedding and
-
-sheets weekly and every week - 020
+For the chamber rent of every prisoner so committed who shall have a bed to himself and although there are more beds in the same room and who finds himself bed bedding and sheets weekly and every week - 020
 
 If there be two prisoners and no more in one bed finding their own bed bedding and sheets
 
@@ -14420,13 +14402,13 @@ No prisoner to abuse the turnkeys — if they do — to be confined.
 
 If turnkeys use them ill — to complain to under-sheriff or keeper.
 
-Doors of lodging-rooms — to be unlocked — in winter — at sun-rising — in summer at fix.
+Doors of lodging-rooms — to be unlocked — in winter — at sun-rising — in summer at six.
 
 Prisoners to be called over within the fore-door — at candle-lighting — and locking up in their several rooms at nine at night.
 
 Fore-gate to be locked at nine at night in summer, at eight in winter.
 
-No prisoner — to go outside of the rails towards the fore- gate.
+No prisoner — to go outside of the rails towards the fore-gate.
 
 No comber or weaver to work in lodging-rooms.
 
@@ -14436,7 +14418,7 @@ No prisoner to be without the fore-door of the prison-house on Sundays in time o
 
 No person to bring any spirituous liquo.s into the prison.
 
-After the door is shut at night no la.-ge jugs of beer to be brought, but pints or quarts may be put in at the window.
+After the door is shut at night no large jugs of beer to be brought, but pints or quarts may be put in at the window.
 
 No prisoner to throw any rubbish in the pump-yard.
 
@@ -15952,7 +15934,7 @@ ROTHWELL Prison, for Debtors, Belongs to the liberty of the honour of Pontefract
 
 A new prison is lately built at
 
-BATLEY. Behind a house for the keeper is the prison. Plan rectangular: the front is the wall and gate. On three sides are rooms for men-debtors; five or six about 10 feet square; four much larger for two beds in each. Two day-rooms; two work-rooms; and a dark room for the unruly: but at my last visit the day and workrooms were used for lodging-rooms. There arc in a separate court two rooms for women-debtors: a provision very kind and prudent, and, I believe, peculiar to this prison. All the prison rooms are on the ground-floor. The keeper is a bailiff: has no salary. Licence for beer and wine. Fees, fee table. He pays the chief bailiff fix per annum: and rent £60.*
+BATLEY. Behind a house for the keeper is the prison. Plan rectangular: the front is the wall and gate. On three sides are rooms for men-debtors; five or six about 10 feet square; four much larger for two beds in each. Two day-rooms; two work-rooms; and a dark room for the unruly: but at my last visit the day and workrooms were used for lodging-rooms. There are in a separate court two rooms for women-debtors: a provision very kind and prudent, and, I believe, peculiar to this prison. All the prison rooms are on the ground-floor. The keeper is a bailiff: has no salary. Licence for beer and wine. Fees, fee table. He pays the chief bailiff fix per annum: and rent £60.*
 
 1774, Nov. 4, Prisoners 25.
 
@@ -18510,11 +18492,11 @@ I. TES ordres donnes par l'Agent, aiant foin des prisonniers, doi'rent etre obse
 
 II. Tous les prisonniers, Iors que l'agent en fera la revue, repondront a leurs noms; et fi dans la liste donnee a l'agent quelque erreur fe trouve, ils l'indiqueront, afin de la corriger; et ainsi prevenir la confusion qui resultcroit des meprises des noms.
 
-III. Tous les prisonniers refufants de repondre a leurs noms a la revue, feront punis par la privation de leurs vivres, jufqu' a ce qu'ils s'y foumettent.
+III. Tous les prisonniers refufants de repondre a leurs noms a la revue, feront punis par la privation de leurs vivres, jusqu' a ce qu'ils s'y foumettent.
 
 IV. S'il arrive du dommage aux lieu cu les prisonniers feront gardes, soit en voulant s'echapper, ou autrement, de propos de'ibere; les frais de la reparation feront payes des vivres de ceux qui auront ainsi contrevcnu; et fr les coupables ne peuvent etre decouverts, tous les prisonniers ensemble contribueront de leurs vivres, aux frais de cette reparation.
 
-V. Quiconque s'cchappera de prison, etant repris, y fera mis au cachot; et n'y aura que demiration de vivre:, jufqu' a ce qu'il aura ainsi paye les frais faits pour le saisir et le ramener; et de plus il perdra son tour d'echangc; un olficier ainsi contrevenant, fera des-lors regarde et traite comrne simple matelot.
+V. Quiconque s'cchappera de prison, etant repris, y fera mis au cachot; et n'y aura que demiration de vivre:, jusqu' a ce qu'il aura ainsi paye les frais faits pour le saisir et le ramener; et de plus il perdra son tour d'echangc; un olficier ainsi contrevenant, fera des-lors regarde et traite comrne simple matelot.
 
 VI. Il est defendu de fe battre, fe quereller, ou faire desordre dans les prisons, ou aux endroits ou il fera permis aux prisonniers de prendre l'air, sous peine de punition felon que l'offence l'exigera.
 
@@ -18526,7 +18508,7 @@ VIII. Les prisonniers doivent informer l'agent, des hardes, ou autres choses don
 
 IX. Dans chaque 'prison les prisonniers pourront nommer trois, ou cing d'entre eux, et les changer quand il leur plaira, pour l'examen des vivres; afin de voir s'ils font bons, & s'ils ont leur ration, soit pour le poids, soit pour la mesure; suivant la table d'avituaillement ci-defibus. Et s'il fe trouve quelque sujet de plainte, soit fur la maniere de les appreter, servir, ou dans quelqu'autre chose; ils doivent, avec bienseance, le faire savoir a l'agent; qui, trouvant la plainte fondee, doit immediatement y mettre ordre. S'il le neglige, ils doivent en avertir Messieurs les Commissaires, qui ne manqueront pas de leur rendre justice, a tous egards.
 
-X. Les boutiquiers (excepte ceux qui trafiquent dans des choses qu'il ne convient pas de vendre a des prisonniers) feront permis de rester a la grande porte, depuis dix heures du matin jufqu' a trois heures de l'apres midi, pour vendre leur merchandises, a tels prisonniers, qui font en fonds pour les payer fur le champ.
+X. Les boutiquiers (excepte ceux qui trafiquent dans des choses qu'il ne convient pas de vendre a des prisonniers) feront permis de rester a la grande porte, depuis dix heures du matin jusqu' a trois heures de l'apres midi, pour vendre leur merchandises, a tels prisonniers, qui font en fonds pour les payer fur le champ.
 
 XI. Celui d'entre les prisonniers qui ofera par ce moyen procurer des liqueurs, ou autre choses &ca. qui ne conviennent pas a un prisonnier d'avoir, ou qui recevra, ou livrera aucune lettre, fera puni de Tabus qu'il aura salt de cette indulgence.
 
@@ -21414,7 +21396,7 @@ Harwich 263
 
 Haulton castle 446
 
-Harverfordwest county gaol 456
+Haverfordwest county gaol 456
 
 - town gaol 457
 
