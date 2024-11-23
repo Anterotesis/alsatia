@@ -3732,47 +3732,38 @@ Hospitals.
 
 Lyons,
 
-i3-
-
-St. Omer's.
-
-Dunkirk.
-
-Prison.
-
-English
-
-Prisoners.
+---
 
 132 APPENDIX.
 
-At La Prison Royale> or the new prison, at St. Omer's, the daily allowance is a pound and a half of bread, and soup. The prisoners have clean linen every week, which is the only reason why I mention this prison.
+[St. Omer's.]
+
+At La Prison Royale, or the new prison, at St. Omer's, the daily allowance is a pound and a half of bread, and soup. The prisoners have clean linen every week, which is the only reason why I mention this prison.
+
+[Dunkirk Prison.]
 
 In the prison at Dunkirk, the French prisoners were in two or three rooms by themselves.
 
+[English Prisoners.]
+---
 Here (January 1779) I found many of my countrymen prisoners of war. In five rooms there were a hundred and thirty-three — captains, mates, passengers and common sailors all crowded together — who lay on draw with one coverlet for every three persons. In three other rooms there were thirteen accommodated in a better manner, because most of them were ranjomers,* and capable of paying six sous a night for their beds. The court was small, being only forty-two feet by twenty-six; nor was there sufficient plenty of water. The bread, beer, and soup were good, and the beef tolerable, j- Each room was supplied with two small faggots a day for firing. The sick (of whom there were only three) were taken to the military hospital, and great attention was paid to them. The regulations were hung up in English\ and French.
-
-In
 
 # A ransomer is a person confined as a security, till the sum is paid for which a (hip has been ransomed.
 
 t In a former war, the contract here was twelve sous a man; in the lad it was fifteen.
 
 Jby the king.
-
+---
 RULES to be observed by all Prisoners of War in the Kingdom of France.
 
-Article i. The orders given by the commissary of the marines encharged with the care of the prisoners are to be ftri&ly complied with unargued and undisputed. None of the priT foners shall insult, threaten or abuse, much less strike the turnkey, nor any of those appointed to do business in the prison, under the penalty of incurring such punishment as shall %e ordered by the commissary of the marines, and of losing turn of being exchanged; nay, further, they shall be close confined and deprived of one half of their food or pittance.
+Article I. THE orders given by the commissary of the marines encharged with the care of the prisoners are to be strictly complied with unargued and undisputed. None of the prisoners shall insult, threaten or abuse, much less strike the turnkey, nor any of those appointed to do business in the prison, under the penalty of incurring such punishment as shall be ordered by the commissary of the marines, and of losing turn of being exchanged; nay further they shall be close confined and deprived of one half of their food or pittance.
+---
+Art. II. All and every prisoner, when the commissary makes review, shall answer to their name or names, and if in the lift delivered to the commiflfary there be found any error, they shall point it out, that it may be re&ified, in order to prevent the confusion that might result from mistaking of names.
 
-art. 11. All and every prisoner, when the commissary makes review, shall answer to their name or names, and if in the lift delivered to the commiflfary there be found any error, they shall point it out, that it may be re&ified, in order to prevent the confusion that might result from mistaking of names.
+Art. III. All prisoners that shall refuse to answer to their names at the review, shall be punished by being deprived of their food till such time as they submit to the call.
 
-art. hi. All prisoners that shall refuse to answer to their names at the review, shall be punished by being deprived of their food till such time as they submit to the call.
 
-art.
-
-FRANCE.
-
-133
+FRANCE. 133
 
 In the prison at Bergues I found forty-seven English prisoners. The'table of victualling was hung up here as at Dunkirk, but the provisions were not fo good. There were twelve on their parole in this town, nine at and two at
 
@@ -4080,7 +4071,7 @@ Liverpool.
 
 142 APPENDIX.
 
-Liverpool Prisoners of V/ar.
+Liverpool Prisoners of War.
 
 Hull.
 
