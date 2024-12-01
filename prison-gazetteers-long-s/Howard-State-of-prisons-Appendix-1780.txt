@@ -922,7 +922,7 @@ On the death of the Pope, the prisoners are brought hither from the great prison
 
 I can give but little information respecting the prison of the inquisition. It is situated near the great church of St. Peter's. On one
 
-• There is a table of regulations by the authority of the magistrates hung up in this prison, ordering the exact times, of opening the prison and the court of saying mass daily, and of distributing the alms. The times vary twice in a month, according to the different length of the days. In the same table, the physician is ordered to visit the sick in the infirmary every morning, and in case of extraordinary illness, in the evening.
+* There is a table of regulations by the authority of the magistrates hung up in this prison, ordering the exact times, of opening the prison and the court of saying mass daily, and of distributing the alms. The times vary twice in a month, according to the different length of the days. In the same table, the physician is ordered to visit the sick in the infirmary every morning, and in case of extraordinary illness, in the evening.
 
 ITALY. 47
 
@@ -1068,7 +1068,7 @@ For their cloathing, they have once in two years, a striped woollen capotto and 
 
 The slaves here are constantly employed, and have what they earn for themselves, being paid according to their abilities and the nature
 
-• The yearly expense of each slave for maintenance, cloathing, and chains, is computed at fifteen Roman crowns and eighty-seven baiocs, about £3: 13: 9.
+* The yearly expense of each slave for maintenance, cloathing, and chains, is computed at fifteen Roman crowns and eighty-seven baiocs, about £3: 13: 9.
 
 At the time of my being at Civita-vecchia, three of the galleys were out on a cruize, and two only remained. Through the whole night there was great silence, though about four hundred were chained in each of the galleys.
 
@@ -1558,7 +1558,7 @@ Executions are not frequent in this city.* Citizens are always executed by decol
 
 The two prisons (distinguished by the names of the old and the new) near La Porte de St. Leonard in Liege, are on the ramparts. - In two rooms of the old prison I saw six cages made very strong with iron,f four of which were empty. These were dismal places of confinement i but I soon found worse. In descending deep below ground from the gaoler's apartments, I heard the moans of the miserable
 
-• In this and many other cities, the convict knows not of his execution, till three days before the time. Then he is constantly attended by his confessor, and indulged in the choice of food.
+* In this and many other cities, the convict knows not of his execution, till three days before the time. Then he is constantly attended by his confessor, and indulged in the choice of food.
 
 † The dimensions were seven feet by six feet nine inches, and six feet and a half high. On one side was an aperture of six inches by four, for giving in the victuals.
 
@@ -1952,11 +1952,11 @@ The hospital wards here are lofty, and upwards of twenty feet wide. Each patient
 
 FRENCH PRISONERS. 97
 
-[Forton.]
+[For ton.]
 
 [French Prisoners]
 
-In a prison not very convenient at Forton near Gosport, there were a hundred and seventy-seven French prisoners, March 2, 1779. On that day the meat was very bad, and had been killed, as the butcher's servant said, that morning: but it was returned, and Mr. Newsham the agent procured them good meat instead of it. - Most of the six pound loaves wanted weight. I saw the bread weighed for a hundred and forty-two prisoners, and observed a deficiency of three pounds. - The straw, by long use, was turned to dust in the mattresses, and many of them here, and at other places, had been emptied to clear them of vermin. The floors of the bed-rooms and hospitals could not but be dirty and offensive, the boards having been laid rough. I took notice of this kind of bad policy in all the floors of the new prison which was then building here, and almost finished.
+In a prison not very convenient at For ton near Gosport, there were a hundred and seventy-seven French prisoners, March 2, 1779. On that day the meat was very bad, and had been killed, as the butcher's servant said, that morning: but it was returned, and Mr. Newsham the agent procured them good meat instead of it. - Most of the six pound loaves wanted weight. I saw the bread weighed for a hundred and forty-two prisoners, and observed a deficiency of three pounds. - The straw, by long use, was turned to dust in the mattresses, and many of them here, and at other places, had been emptied to clear them of vermin. The floors of the bed-rooms and hospitals could not but be dirty and offensive, the boards having been laid rough. I took notice of this kind of bad policy in all the floors of the new prison which was then building here, and almost finished.
 
 The regulations are in the French language, and are the same with those published last war. They are evidently the original from which those printed in page 90 are translated. For the sake of greater accuracy, they will be given at the end of the book. I was informed both here and at Winchester, that they had been hung up, but were torn down. - Would it not be better, to paint them on a board, which should be fastened in some conspicuous place in every prison?
 
@@ -2048,11 +2048,11 @@ In the Mill-prison near Plymouth, there were two hundred and ninety-eight Americ
 
 102 APPENDIX.
 
-[Forton.]
+[For ton.]
 
 [American Prisoners.]
 
-The Americans were equally well accommodated at Forton near Gosport, where I found two hundred and fifty-one prisoners, March 2, 1779.
+The Americans were equally well accommodated at For ton near Gosport, where I found two hundred and fifty-one prisoners, March 2, 1779.
 
 The table of regulations is almost the same with that for the French prisoners. The principal difference is, that in the victualling table, the bread allowance is but one pound a day.
 
@@ -6042,7 +6042,7 @@ Prisons, foreign, arched - 34, 45.
 
 Prisoners, American, at Plymouth, - 101.
 
-- Forton - 102.
+- For ton - 102.
 
 - Pembroke - 102.
 
@@ -6096,7 +6096,7 @@ Prisoners of war, French, at Belfast - 101.
 
 - Edinburgh - 100.
 
-- Forton - 97.
+- For ton - 97.
 
 - Pembroke - 98.
 
