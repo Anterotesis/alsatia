@@ -4868,25 +4868,25 @@ REGLES que tous les Prisonniers de Guerre, dans la Grande Bretagne, & l'Irlande,
 
 I.
 
----
-
-I. LES ordres donnés par l'Agent, aiant soin des prisonniers, doivent être observés sans replique ou dispute. Qu'aucun des prisonniers ose insulter, menacer, maltraiter, & encore moins frapper le guichetier, ni personne par l'Agent employè aux affaires de la prison, sous peine de la punition qu'ordonneront Messieurs les Commissaires, et de perdre leur tour d'être echangés; detre etroitement enfermés, et privés de la moitié de leur vivres.
+I. LES ordres donnés par l'Agent, aiant soin des prisonniers, doivent être observés sans replique ou dispute. Qu'aucun des prisonniers ose insulter, menacer, maltraiter, & encore moins frapper le guichetier, ni personne par l'Agent employè aux affaires de la prison, sous peine de la punition qu'ordonneront Messieurs les Commissaires, et de perdre leur tour d'être echangés; dêtre étroitement enfermés, et privés de la moitié de leur vivres.
 
 II.
 
-Tous les prisonniers, lors que l'agent en fera la revue, repondront a leurs noms; et fi dans la lisle donnce a l'agent quelque erreur fe trouve, ils 1'indiqueront, afin de la corriger; et ainli prevoir la confusion qui resulteroit des meprises des noms.
+Tous les prisonniers, lors que l'agent en sera la  revùe, repondront à leurs noms; et si dans la lisle donnée à l'agent quelque erreur se trouve, ils l'indiqueront, afin de la corriger; et ainsi prévoir la confusion qui resulteroit des méprises des noms.
 
 III.
 
-Tous les prisonniers refufants de repond-e a leurs noms a la revue, feront punis par la privation de leurs vivres, jusqu' a ce qu'ils s'y foumettent.
+Tous les prisonniers refusants de répondre à leurs noms à la revùe, seront punis par la privation de leurs vivres, jusqu' à ce qu'ils s'y soumettent.
 
 IV.
 
-S'il arrive du dommage aux lieu ou les prisonniers feront gardes, soit en voulant s'echapper, ou autrement, de propos delibere; les frais de la reparation feront payes
+S'il arrive du dommage aux lieu où les prisonniers seront gardés, soit en voulant s'echapper, ou autrement, de propos délibéré; les frais de la reparation seront payés
 
 TABLES. 197
+---
+des vivres de ceux qui 
 
-des vivres de ceux qui auront ainsi contrevenu; et fi les coupables ne peuvent etre decouverts, tous les prisonniers ensemble contribueront de leurs vivres, aux frais de cette reparation.
+auront ainsi contrevenu; et fi les coupables ne peuvent etre decouverts, tous les prisonniers ensemble contribueront de leurs vivres, aux frais de cette reparation.
 
 V.
 
@@ -4907,14 +4907,14 @@ Les prisonniers doivent informer l'agent, des hardes, ou autres choses dont ils 
 IX.
 
 Dans chaque prison les prisonniers pourront nommer trois, ou cing d'entre eux, et les changer quand il leur plaira, pour Pexamen des vivres; afin de voir s'ils font bons, & s'ils ont leur ration, soit pour le poids, soit pour la mesure; suivant la table d'avituaillement ci-deflous. Et s'il fe trouve quelque sujet de plainte, soit fur la maniere de les appreter, servir, ou dans quelqu'autre chose; ils doivent, avec bienfeance, le faire savoir a 1'agent; qui, trouvant la plainte fondee, doit immediatement y mettre ordre. S'il le neglige, ils doivent en avertir Messieurs les Commissaires, qui ne manqucront pas de leur rendre justice, a tous egards.
-
+---
 X.
 
-Les boutiquiers (excepte ceux qui trafiquent dans des choses qu'il ne convient pas de vendre a des prisonniers,) feront'permis de rester a la grande porte, depuis dix
----
+Les boutiquiers (excepté ceux qui trafiquent dans des choses qu'il ne convient pas de vendre à des prisonniers,) seront permis de rester à la grande porte, depuis dix
+
 198 TABLES.
 
-heures du matin jusqu' à trois heures de l'apres midi, pour vendre leur merchandises, à tels prisonniers, qui font en fonds pour les payer sur le champ,
+heures du matin jusqu' à trois heures de l'apres midi, pour vendre leur merchandises, à tels prisonniers, qui font en fonds pour les payer sur le champ.
 
 XI.
 
@@ -4956,21 +4956,23 @@ NORTHERN CIRCUIT. SOUTHERN CIRCUIT. WESTERN CIRCUIT.
 
 Edinburgh. Aberdeen. Perth. Inverness. - Jedburgh. Dumfries. Air. - Glasgow. Stirling - Crimes.
 
-1768 - 1 - 0 - 0  - 0 - 0 - 0 - 0 - 0 - Forgery.
+1768 - 1 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - Forgery.
 
-1769 - *1 - 0 - 0  - 0 - 0 - 0 - 0 - 0 - Horse-dealing.
+1769 - *1 - 0 - 0 -0 - 0 - 0 - 0 - 0 - 0 - Horse-stealing.
+
+1769 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 1 - 0 - Murder and Robbery.
+
+1770 - 1 - 1 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - Murder.
+
+1770 - 1 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - Street-robbery.
+
+1770 - 1 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - Forgery.
+
+1770 - 2 - 1 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - House-breaking and Theft.
+
+1770 - 0 - 0 - 0 - 0 - 1 - 0 - 0 - 0 - 0 - Sheep-stealing.
 ---
-1769 -- -- - - - I - Murder and Robbery.
-
-I I - - - Murder.
-
-I -- - - - Street-robbery.
-
-1770 I - -- -- - Forgery.
-
-2 I - House-breaking and Theft.
-
-- - -- 1 - - Sheep-dealing.
+1771
 
 I - __ - - Robbery.
 
@@ -4982,7 +4984,7 @@ I - __ - - Robbery.
 
 *T __ - - Child-murder.
 
-1772 - , - Horse-dealing.
+1772 - , - Horse-stealing.
 
 - - - -- - - *2 - House-breaking and Theft.
 
@@ -4992,7 +4994,7 @@ I - ~ - House-breaking and Theft.
 
 2 - __ - - Murder and Robbery.
 
-- -- I - *1 Horse-dealing,
+- -- I - *1 Horse-stealing,
 
 1773 - - I *1 1 - - Murder.
 
@@ -5084,8 +5086,6 @@ An Account of the Number of Prisoners in the Gaols and Prisons of England and Wa
 
 AS some County gaols are also the county bridewells, where petty offenders are not always separated from felons; in those places I include petty offenders under the article felons &c. The reason of my distinguishing the women debtors, is to shew that a room or two in the gaoler's house may probably be sufficient for them, instead of a separate ward, as proposed in my general plan for a county gaol (edit. 1.) I have omitted mentioning all those prisons in which, at the time of my visiting, there were no persons confined.
 
----
-
 Debtors Men. - Debtors Women. - Felons &c. - Petty Offenders.
 
 Abingdon - 1 0 0 0
@@ -5106,7 +5106,7 @@ Basford - 2 0 0 0
 
 Bath - 10 0 0 2
 
-Bailey - 17 1 0 0
+Batley - 17 1 0 0
 
 Beaumaris - 4 0 1 0
 
@@ -5120,7 +5120,7 @@ Berkhamsted - 0 0 0 1
 
 Berwick - 2 0 0 0
 
-Running total - 56 2 17 25
+[Sub Total] - 56 2 17 25
 
 Beverley - 0 0 0 1
 
@@ -5130,36 +5130,36 @@ Beverley - 0 0 0 1
 
 Birmingham - 0 0 0 8
 
-Bodmin 0 0 0 13
+Bodmin - 0 0 0 13
 
 - Sheriff's Ward - 12 1 0 0
 
-Boston 0 0 2 0
+Boston - 0 0 2 0
 
-Bradford 11 1 0 0
+Bradford - 11 1 0 0
 
-Brecon 3 0 3 0
+Brecon - 3 0 3 0
 
-Bristol 41 6 9 0
+Bristol - 41 6 9 0
 
-- Bridewell 0 0 0 8
+- Bridewell - 0 0 0 8
 
-- Lawford's-gate 0 0 0 5
+- Lawford's-gate - 0 0 0 5
 
-Buntingford 0 0 0 1
+Buntingford - 0 0 0 1
 
-Bury St. Edmunds 18 0 5 0
+Bury St. Edmunds - 18 0 5 0
 
-- Bridewell 0 0 0 2
+- Bridewell - 0 0 0 2
 
-Cambridge 20 1 2 0
+Cambridge - 20 1 2 0
 
-Running Total - 108 9 21 38
+[Sub Total] - 108 9 21 38
 
 202 TABLES
 
 Debtors Men. - Debtors Women. - Felons &c. - Petty Offenders.
-
+---
 Cambridge Bridewell o 0 0 7
 
 - Town 1 0 2 0
@@ -5279,21 +5279,21 @@ Horsham 12 0 6 0
 Hull 8 0 1 0
 
 - Bridewell 0 0 0 1 I
+---
+Huntingdon - 10 1 14 0
 
-Huntingdon IO 1 *4 0
+Ipswich - 22 2 23 0
 
-Ipswich 22 2 23 0
+Ivelchester - 32 1 15 0
 
-Ivelchester 32 1 15 0
-
-190 10 >74 74
+[Sub Total] - 190 10 74 74
 
 TABLES 203
 
 Debtors Men. - Debtors Women. - Felons &c. - Petty Offenders.
 
-Kettering O O 0 2 Ludlow O O 2 O
-
+Kettering - 0 0 0 2
+---
 Kingston 3 0 0 0 Lynn Regis 3 O 2 O
 
 - - Bridewell O 0 0 6 Maidstone * 5 O 23 0
@@ -5352,13 +5352,19 @@ Bridewell s - Bridewell O 0 O I
 
 - Whitechapel 5 0 0 0 Petworth O 0 O 2
 
-- Wood-street -i 3Z 6 ] 1 0 Plymouth I 0 O O
+- Wood-street -i 3Z 6 ] 1 0 
 
 Compter J
 
-I03S 62 241 39* 146 s I 12 69
+I03S 62 241 39* 
+
+Ludlow O O 2 O
+
+146 s I 12 69
 
 ---
+
+Plymouth - 1 0 0 0
 
 Portsmouth - 6 - 0 - 1 - 0
 
@@ -5386,6 +5392,16 @@ Rochester - 2 - 0 - 0 - 0
 
 Ruthin - 2 - 0 - 2 - 0
 
+St. Alban's Liberty - 0 0 1 0
+
+- Bridewell - 0 0 0 3
+
+St. George's Fields Bridewell - 0 0 0 44
+
+Salisbury - 16 1 15 0
+
+- City - 1 0 1 0
+
 ---
 
 Stafford Bridewell - 0 - 0 - 0 - 9
@@ -5406,17 +5422,15 @@ Walsingham 0 0 0 2
 
 Warwick 21 I 28 O
 
-Si. Alban's Liberty 0 0 1 0 - Bridewell O 0 0 I Z
-
 - Bridewell 0 0 0 3 Winchester 12 0 26 O
 
-St. George's Fields 1 0 0 0 44 - Bridewell O 0 0 I I
+ 1 0 0 0 44 - Bridewell O 0 0 I I
 
-Bridewell J U'indjor Csitle I 0 0 0
+Bridewell J Windjor Csitle I 0 0 0
 
-Salisbury 16 I •5 0 Town O 0 I O
+ Town O 0 I O
 
-- - City 1 0 1 0 Wijleaeh I 1 0 O
+ Wijleaeh I 1 0 O
 
 Sheffield s 0 0 0 Witney O 0 0 7
 
@@ -5434,21 +5448,31 @@ Southampton Wrexham 0 0 O 2
 
 Sheriff's Ward 3 3 Wymundham O 0 O 5
 
-Town 0 0 1 0 Yarmouth 4 0 4 0
+Town 0 0 1 0 
 
-- - Bridewell 0 0 0 I York 64 9 16 0
+- - Bridewell 0 0 0 I 
 
-Southwark 20 3 •4 O City 9 3 2 0
+Southwark 20 3 •4 O 
 
-Southwell 0 0 0 •7 " St. Peter's 5 0 1 0
+Southwell 0 0 0 •7 " 
 
-Spalding 0 0 0 2 - - Bridewell O 0 O 8
+Spalding 0 0 0 2 - 
 
-Stafford 40 O •4 O
+Stafford - 40 0 14 O
 
-•33 9 69 130 140 16 91 114
-
+132 9 69 130
 ---
+Yarmouth - 4 0 4 0
+
+York - 64 9 16 0
+
+- City - 9 3 2 0
+
+- St. Peter's - 5 0 1 0
+
+- Bridewell - 0 0 0 8
+
+140 16 91 114
 
 Though I have visited all the County gaols, and I think all the County bridewells, as also many of the corporation and private-property prisons, yet as there are some few of the two latter which I did not see in 1779, we may add sixty more prisoners on their account; and then probably we shall have nearly the average number of persons confined at one time in the prisons of this kingdom.
 

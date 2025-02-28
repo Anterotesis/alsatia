@@ -1902,7 +1902,7 @@ Deputy Warden and Clerk of the Papers, Daniel Hopkins.
 
 Salary,
 
-Fees, £ 1: 6: 8 } on entrance, per account from the Prisoners.
+Fees, £1: 6: 8 } on entrance, per account from the Prisoners.
 
 0: 2: 0 Turnkey, } 
 
@@ -4528,7 +4528,7 @@ There is a small court-yard; of no use to the Prisoners, because not secure. No 
 
 College, or Vice-Chancellor Prisoners, have four-pence on Sunday, to prevent the necessity of their working on that day as formerly. Those of them that are ill are properly attended, and have three-pence a day. No allowance of bread for Town Prisoners.
 
-Keeper's Salary £30: no Fees. Straw £ 1: 1: o a year.
+Keeper's Salary £30: no Fees. Straw £1: 1: 0 a year.
 
 The Bridewell stands in the back yard of the Keeper's house; which was bought and endowed for the encouragement of wool-combers and spinners of this town. The basis of the Institution was a Legacy of the famous Carrier Thomas Hobson. To answer the intention, the Keeper appointed is a Clothier: he employs not only several hands upon the Foundation of the Charity, but many others; among them his Prisoners.
 
@@ -4990,7 +4990,7 @@ BECCLES. A room on the ground-floor; and a dungeon seven steps under ground. Kee
 
 1776, Feb. 6, Prisoners 3.
 
-LAVENHAM. A work-room below: a chamber for men, another for women: none of them secure. Prisoners always kept within doors, and a padlock on each. A court-yard: no water. Keeper's Salary £ 15: 14: 8. No Fees. The Prisoners were spinning.
+LAVENHAM. A work-room below: a chamber for men, another for women: none of them secure. Prisoners always kept within doors, and a padlock on each. A court-yard: no water. Keeper's Salary £15: 14: 8. No Fees. The Prisoners were spinning.
 
 1776, Nov. 185 Prisoners 2 Men.
 
@@ -7336,7 +7336,7 @@ Oxford Circuit. GLOUCESTERSHIRE. 347
 
 [Bridewells.]
 
-in their rooms. It may be enlarged from the Keeper's Garden; and should be made secure, that Prisoners may use it, and have access to the pump. The Keeper readily agreed with me in that opinion. He is a Sheriff's Officer: Salary £ 10: Fees 6s. 8d. no Table. Straw ten shillings a quarter: allowance, if a Prisoner be very poor, 2d. a day: no employment. Clauses of Act against Spirituous Liquors not hung up. By a Register kept in the Prison, it appears that in eight years and a half to September 1776 there were committed to it 572 Prisoners.
+in their rooms. It may be enlarged from the Keeper's Garden; and should be made secure, that Prisoners may use it, and have access to the pump. The Keeper readily agreed with me in that opinion. He is a Sheriff's Officer: Salary £10: Fees 6s. 8d. no Table. Straw ten shillings a quarter: allowance, if a Prisoner be very poor, 2d. a day: no employment. Clauses of Act against Spirituous Liquors not hung up. By a Register kept in the Prison, it appears that in eight years and a half to September 1776 there were committed to it 572 Prisoners.
 
 1774, Aug. 23, Prisoners 2,
 
@@ -9704,7 +9704,7 @@ Fees, Debtors, } £0: 11: 0.
 
 Felons, }
 
-Transports, £ 1 each to Whitehaven.
+Transports, £1 each to Whitehaven.
 
 Licence for Beer. The Tap let.
 
@@ -10408,7 +10408,7 @@ Fees, Debtors, £0: 6: 0.
 
 Felons, 0: 3: 6.
 
-Transports, £ 1 each to Chester.
+Transports, £1 each to Chester.
 
 Licence, none.
 
