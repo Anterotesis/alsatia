@@ -878,7 +878,7 @@ required, that every Gaoler, Keeper, Master, &c. shall procure one or more copie
 
 There should also be a list of the Allowance to prisoners: for want of which I have known them defrauded of a considerable part of their food: the whole of which is no where more than sufficient. The same list should exhibit the particulars of bedding, or straw.
 
-The Act for preferring the health of prisoners requires that it be painted on a board, &c. as aforesaid: not merely written or printed on paper, because that is more perishable,
+The Act for preserving the health of prisoners requires that it be painted on a board, &c. as aforesaid: not merely written or printed on paper, because that is more perishable,
 
 * In the prohibiting clauses, a fine of one hundred pounds is laid upon any Gaoler, Keeper, Master, &c. who shall sell, use, lend, or give away any such liquors; or knowingly permit them to be sold, used, &c. in the House; except they be prescribed by a regular Physician, Surgeon, or Apothecary, to be used medicinally. And a fine of ten pounds to twenty pounds, or any time not exceeding three months imprisonment, for any person who shall bring such liquors into the House. One moiety of these fines, as well as of that mentioned above, to the informer: the other moiety of each of the two smaller fines to the prisoners; or, in the Work-house, to the poor.
 
@@ -4110,7 +4110,7 @@ St. GEORGE'S FIELDS. Built 1772. Separate wards and court-yards for men and wome
 
 Home Circuit. SURRY. 237
 
-The Clauses of the Act against Spirituous Liquors, and the Act for preferring the health of Prisoners, are both hung up.
+The Clauses of the Act against Spirituous Liquors, and the Act for preserving the health of Prisoners, are both hung up.
 
 1776, March 14, Prisoners 25,
 
@@ -4874,7 +4874,7 @@ TOWN GAOL. The rooms are convenient, and kept clean. Straw and two coverlids; co
 
 1774, Dec. 11. Debtor 1.
 
-Norfolk Circuit, SUFFOLK. 263
+Norfolk Circuit. SUFFOLK. 263
 
 COUNTY GAOL at IPSWICH.
 
@@ -5466,7 +5466,7 @@ Mr. Simpson observed to me very judiciously, that "Licences in Gaols occasion mu
 
 A person goes round the County about Christmas to Gentlemen's houses, and begs for the Debtors. He carries a book, in which the Giver enters his name, and donation. The whole amount generally about £14.
 
-284 DERBYSHIRE. Midland Circuit,
+284 DERBYSHIRE. Midland Circuit.
 
 TABLE OF FEES.
 
@@ -6994,7 +6994,7 @@ SURGEON, Mr. William Cam.
 
 Salary, £15.
 
-336 HEREFORDSHIRE. Oxford Circuit,
+336 HEREFORDSHIRE. Oxford Circuit.
 
 HEREFORD.
 
@@ -10158,7 +10158,7 @@ We do approve of these Rules
 
 J WILLES W JESSOP
 
-Chester Circuit, CHESHIRE. 447
+Chester Circuit. CHESHIRE. 447
 
 COUNTY BRIDEWELL at MIDDLEWICH.
 
