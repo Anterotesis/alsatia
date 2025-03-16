@@ -682,7 +682,7 @@ The prison was too much crowded,† the house not being built for the purpose to
 
 † One or two of the women were crying, and charging others with rising in the night and stealing some of their cotton. The mistress believed the complaint, but said she was not able to prevent such frauds, because there was not the convenience of separate apartments.
 
-‡ It is the general rule in Dutch and German houses of correction, to white-wash them once or twice a year. I seldom neglected to enquire about this practice, as we have a clause relative to it in a late act for preferring the health of prisoners in gaol.
+‡ It is the general rule in Dutch and German houses of correction, to white-wash them once or twice a year. I seldom neglected to enquire about this practice, as we have a clause relative to it in a late act for preserving the health of prisoners in gaol.
 
 GERMANY. 33
 
@@ -2940,7 +2940,7 @@ AYLSHAM. In the floor of the work or day-room is a trapdoor into a dungeon, whic
 
 [Norfolk.]
 
-ACLE. A day-room and a room over it. Down nine steps are two dark dungeons, eight feet by five feet ten inches. This prison is quite out of repair. The date on it is 1633. No court: no water accessible to prisoners: no allowance: no draw. The keeper's salary, £16.
+ACLE. A day-room and a room over it. Down nine steps are two dark dungeons, eight feet by five feet ten inches. This prison is quite out of repair. The date on it is 1633. No court: no water accessible to prisoners: no allowance: no straw. The keeper's salary, £16.
 
 1779, April 2, Prisoners none.
 
@@ -5304,7 +5304,7 @@ Launceston O O 4 0 Manchester 0 O O I I
 
 Lavenham 0 0 O 3 Marlborough 0 0 0 4
 
-Leicester 22 I IO O Middlewich 0 0 O 5
+Leicester 22 1 10 O Middlewich 0 0 O 5
 
 - Bridewell 0 0 O 8 Monmouth 6 0 1 2 O
 
@@ -5320,7 +5320,7 @@ Litchfield 3 0 1 0 Nantwich 2 0 O O
 
 Liverpool 22 3 0 0 Newcastle 13 1 4 O
 
-- Bridewell O 0 0 8 - small Gaol O 0 O I
+- Bridewell O 0 0 8 - small Gaol O 0 0 1
 
 London Bridewell O 0 0 13 Bridewell O 0 O 7
 
@@ -5454,7 +5454,7 @@ Town 0 0 1 0
 
 Southwark 20 3 •4 O 
 
-Southwell 0 0 0 •7 " 
+Southwell 0 0 0 •7
 
 Spalding 0 0 0 2 - 
 
