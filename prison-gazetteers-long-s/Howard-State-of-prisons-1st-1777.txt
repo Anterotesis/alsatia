@@ -4106,7 +4106,7 @@ N. Herdidge
 
 COUNTY BRIDEWELLS.
 
-St. GEORGE'S FIELDS. Built 1772. Separate wards and court-yards for men and women. In the men's ward, two rooms, and a workshop, which is about twenty feet square, below; and three rooms above: in one of these are beds at two shillings and six-pence a week. The women's ward has, below, one room, and a workshop, which is about twenty feet square; and three rooms above: in one of them beds at two shillings and six-pence a week. There is a separate room for faulty apprentices. All the rooms are planked. Window-shutters, and iron bars: no glass. There is no Infirmary. In March 1776 I saw several sick on the floors: the County allows no bedding nor straw. In April only one sick, on a bed which he paid for. In December a woman sick on the floor. The rooms are dirty: in two or three of them were fowls. Prisoners allowance three halfpence a day in bread (weight Dec. 1776, 17 ounces). No firing. I did not fee any at work. Keeper a Sheriff's Officer: Salary £25: Licence for Beer.
+St. GEORGE'S FIELDS. Built 1772. Separate wards and court-yards for men and women. In the men's ward, two rooms, and a workshop, which is about twenty feet square, below; and three rooms above: in one of these are beds at two shillings and six-pence a week. The women's ward has, below, one room, and a workshop, which is about twenty feet square; and three rooms above: in one of them beds at two shillings and six-pence a week. There is a separate room for faulty apprentices. All the rooms are planked. Window-shutters, and iron bars: no glass. There is no Infirmary. In March 1776 I saw several sick on the floors: the County allows no bedding nor straw. In April only one sick, on a bed which he paid for. In December a woman sick on the floor. The rooms are dirty: in two or three of them were fowls. Prisoners allowance three halfpence a day in bread (weight Dec. 1776, 17 ounces). No firing. I did not see any at work. Keeper a Sheriff's Officer: Salary £25: Licence for Beer.
 
 Home Circuit. SURRY. 237
 
@@ -6902,7 +6902,7 @@ To the Turnkey for the discharge on every action upon such Debtor — 0: 0: 6
 
 For the Copy of every Sheriff's Warrant if demanded — 0: 1: 0
 
-But the Debtor to have recourse to fee the book of Commitments (if desired) gratis — 0: 0: 0
+But the Debtor to have recourse to see the book of Commitments (if desired) gratis — 0: 0: 0
 
 To the Gaoler for every Debtor if charged with more actions than one, to pay at his discharge (and no more) 0: 15: 0
 
