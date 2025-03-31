@@ -3114,7 +3114,7 @@ For the more secure and better custody of criminals,.
 
 Pope Innocent X. erected this New Prison In the year of our Lord 1655*
 
-On the ground-floor; on one side are the slaves for the galleys at Civita-veccKia-: on the other side is a sort of cook's shop, and a tap-room, over which are the women's-apartments, five of whom were in the secrete chambers, and twenty more at large. — There are eighteen of these strong rooms for the men, which are close and offensive, each of them having but one window for admitting air and light. These rooms are never opened without an order from the governor of the city. There were sixty-eight prisoners. They are not permitted to go out of their rooms at any time, but-for examination. Some having been confined there many years, appeared with pale sickly countenances; but none were in irons. — Here is a chamber for distracted' prisoners, in which were seven miserable objects. There are several chambers with beds for those who are called prisoners at large, for which each pays one paule and a half (about eight pence) a night. There is a chamber for priejls, one for boys, one for Jews, and one for prisoners who have' cutaneous disorders. — On.the upper-floor are two infirmaries: one, appropriated to the prisoners in the secrete, in which were four patients. In the other, which is for the rest of the prisoners, were ten patients the first time I was there, and the last time only seven. This infirmary is a spacious airy ward, seventy-three feet by twenty-three, with seventeen beds, three feet three inches asunder; was clean, and had every thing proper for the sick. The whole prison is arched with brick, for security in case of fire. The passages are seven feet two inches wide, and light. The ascent to each story, is by two flights of seventeen stone steps. These staircases are seven feet three inches wide; the rises five inches: this I mention, as generally, in our prisons (even those that are lately built) the stairs are narrow, the rises high, and the passages dark and inconvenient. There
+On the ground-floor; on one side are the slaves for the galleys at Civita-vecchia.: on the other side is a sort of cook's shop, and a tap-room, over which are the women's-apartments, five of whom were in the secrete chambers, and twenty more at large. — There are eighteen of these strong rooms for the men, which are close and offensive, each of them having but one window for admitting air and light. These rooms are never opened without an order from the governor of the city. There were sixty-eight prisoners. They are not permitted to go out of their rooms at any time, but-for examination. Some having been confined there many years, appeared with pale sickly countenances; but none were in irons. — Here is a chamber for distracted' prisoners, in which were seven miserable objects. There are several chambers with beds for those who are called prisoners at large, for which each pays one paule and a half (about eight pence) a night. There is a chamber for priests, one for boys, one for Jews, and one for prisoners who have' cutaneous disorders. — On.the upper-floor are two infirmaries: one, appropriated to the prisoners in the secrete, in which were four patients. In the other, which is for the rest of the prisoners, were ten patients the first time I was there, and the last time only seven. This infirmary is a spacious airy ward, seventy-three feet by twenty-three, with seventeen beds, three feet three inches asunder; was clean, and had every thing proper for the sick. The whole prison is arched with brick, for security in case of fire. The passages are seven feet two inches wide, and light. The ascent to each story, is by two flights of seventeen stone steps. These staircases are seven feet three inches wide; the rises five inches: this I mention, as generally, in our prisons (even those that are lately built) the stairs are narrow, the rises high, and the passages dark and inconvenient. There
 
 5- The elegance and simplicity of the front of this prison occasioned me to give a plate of it.
 
@@ -3136,7 +3136,7 @@ San
 
 An-celo.
 
-ie a table of regulations by the authority of the magistrates hung up in this prison, ordering the exa<ft times, of opening the prison and the court of saying mass daily, and of distributing the alms. The times vary twice in a month, according to the different length of the days. In the same table, the physician is ordered to visit the sick in the infirmary every morning; and in case of extraordinary illness, in the evening. — I wish I could say I had fcen no torture-chamber. — On the side of the great prison there is a pulley and rope (fee the plate) to draw up malefactors by their hands which are tied behind them; after they have been suspended some time, by being suddenly let down part of the way, their arms are dislocated*.
+ie a table of regulations by the authority of the magistrates hung up in this prison, ordering the exa<ft times, of opening the prison and the court of saying mass daily, and of distributing the alms. The times vary twice in a month, according to the different length of the days. In the same table, the physician is ordered to visit the sick in the infirmary every morning; and in case of extraordinary illness, in the evening. — I wish I could say I had seen no torture-chamber. — On the side of the great prison there is a pulley and rope (see the plate) to draw up malefactors by their hands which are tied behind them; after they have been suspended some time, by being suddenly let down part of the way, their arms are dislocated*.
 
 In the Prison at the Capital, are two rooms for debtors, and for criminals whose offences are not so great as to cause them to be confined in the secrete. The prisoners in one of these rooms, have the privilege of asking alms of the passengers. There
 
@@ -3144,9 +3144,7 @@ were five debtors in rooms which they paid for, and two criminals in the secrete
 
 The (late prisoners are confined in the castle of San Angelo. The rooms appropriated to that purpose were all empty, except one, in which was a bishop, who had been confined upwards* of twenty years, and was distracted. Here were also eighteen con-dannati who work in the fortress, and had each a light chain. They seemed healthy and well. — On the death of the Pope, the prisoners are brought hither from the great prison, for upon such occasions the prisons are thoroughly cleaned.
 
-I can give but little information respecting the prison of the inquisition. It is
-
-situated near the great church of St. Peter's. On one side of the court round which
+I can give but little information respecting the prison of the inquisition. It is situated near the great church of St. Peter's. On one side of the court round which
 
 it is built, is the inquisitor-general's palace. Over the gate is an inscription importing " that it was erected by Pope Pius V. in the year 1569." The windows of the prison have wooden blinds, and at a small distance is a high wall. The chambers of this silent and melancholy abode were quite inaccessible to me: and yet I spent near two hours about the court and the priests apartments, till my continuance there began to raise suspicion.
 
@@ -3190,7 +3188,7 @@ Michele.
 
 foreign prisons.
 
-Another part of the hospital is a Prison for boys or young men. Over tli£ door is this inscription:
+Another part of the hospital is a Prison for boys or young men. Over this door is this inscription:
 
 CLEMENS XI. PONT. MAX.
 
@@ -3220,11 +3218,15 @@ In the room is inscribed the following admirable sentence, in which the grand pu
 
 PARUM EST COERCERE IMPROBCS POENA NISI PROBOS EF FI CIA'S DISCIPLINA.
 
-It is of little advantage' To refrain the Bad
+It is of little advantage
+
+To restrain the Bad
 
 By Punishment,
 
-Unless you render them Good By Discipline.
+Unless you render them Good
+
+By Discipline.
 
 Here were fifty boys spinning, and in the middle of the room an inscription hung
 
