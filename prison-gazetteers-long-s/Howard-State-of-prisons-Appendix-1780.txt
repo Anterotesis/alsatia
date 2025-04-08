@@ -1484,7 +1484,7 @@ And in winter, pease and peeled barley.
 
 Further. Unto each of the said prisoners in the evenings, butter; and daily two pounds of bread and half a measure of beer.
 
-For those who are put to slight labour the diet is similar, except that each has only a pound and half of bread daily, and no butter or beer: and on Mondays and Fridays, they have frumenty gruel, instead of dumplings.
+For those who are put to slight labour the diet is similar, except that each has only a pound and half of bread daily, and no butter or beer: and on Mondays and Fridays, they have frument, gruel, instead of dumplings.
 
 To vagrants, and those who earn their bread by slight labour.
 
@@ -2128,15 +2128,15 @@ The incarcerator of any debitor for any sum of money shall pay at incarceration 
 
 Scots. £. S. D.
 
-Item, Each person imprisoned for a civil debt or otherwise not being a burgess, shall pay to the jailor of house dues each night attour what is above - 0  6 8
+Item, Each person imprisoned for a civil debt or otherwise not being a burgess, shall pay to the jailor of house dues each night attour what is above - 0 6 8
 
-Item, Each burgess imprisoned for a civil debt or otherwise, shall pay also to the jailor of house dues each night attour what is above  - 0 3 4
+Item, Each burgess imprisoned for a civil debt or otherwise, shall pay also to the jailor of house dues each night attour what is above - 0 3 4
 
 Item, The incarcerator of any person or persons by the Lord's letters of Laburrows shall pay at incarceration - 1 0 0
 
 Item, The incarcerator of any person or persons on Laburrows by a magistrate, sheriff, or justice of peace, shall pay at incarceration - 1 10 0
 
-Item, The incarcerator of any person for exhibition of papers, or for implementing of writs (captions for reproduction of processes before the inferior courts excepted) shall pay at incarceration  1 10 0
+Item, The incarcerator of any person for exhibition of papers, or for implementing of writs (captions for reproduction of processes before the inferior courts excepted) shall pay at incarceration 1 10 0
 
 SCOTLAND. 107
 
@@ -4872,7 +4872,7 @@ I. LES ordres donnés par l'Agent, aiant soin des prisonniers, doivent être obs
 
 II.
 
-Tous les prisonniers, lors que l'agent en sera la  revùe, repondront à leurs noms; et si dans la lisle donnée à l'agent quelque erreur se trouve, ils l'indiqueront, afin de la corriger; et ainsi prévoir la confusion qui resulteroit des méprises des noms.
+Tous les prisonniers, lors que l'agent en sera la revùe, repondront à leurs noms; et si dans la lisle donnée à l'agent quelque erreur se trouve, ils l'indiqueront, afin de la corriger; et ainsi prévoir la confusion qui resulteroit des méprises des noms.
 
 III.
 
@@ -4883,8 +4883,10 @@ IV.
 S'il arrive du dommage aux lieu où les prisonniers seront gardés, soit en voulant s'echapper, ou autrement, de propos délibéré; les frais de la reparation seront payés
 
 TABLES. 197
+
 ---
-des vivres de ceux qui 
+
+des vivres de ceux qui
 
 auront ainsi contrevenu; et fi les coupables ne peuvent etre decouverts, tous les prisonniers ensemble contribueront de leurs vivres, aux frais de cette reparation.
 
@@ -4907,7 +4909,9 @@ Les prisonniers doivent informer l'agent, des hardes, ou autres choses dont ils 
 IX.
 
 Dans chaque prison les prisonniers pourront nommer trois, ou cing d'entre eux, et les changer quand il leur plaira, pour Pexamen des vivres; afin de voir s'ils font bons, & s'ils ont leur ration, soit pour le poids, soit pour la mesure; suivant la table d'avituaillement ci-deflous. Et s'il fe trouve quelque sujet de plainte, soit fur la maniere de les appreter, servir, ou dans quelqu'autre chose; ils doivent, avec bienfeance, le faire savoir a 1'agent; qui, trouvant la plainte fondee, doit immediatement y mettre ordre. S'il le neglige, ils doivent en avertir Messieurs les Commissaires, qui ne manqucront pas de leur rendre justice, a tous egards.
+
 ---
+
 X.
 
 Les boutiquiers (excepté ceux qui trafiquent dans des choses qu'il ne convient pas de vendre à des prisonniers,) seront permis de rester à la grande porte, depuis dix
@@ -4925,23 +4929,27 @@ TABLE D'AVITUAILLEMENT.
 Jours. Bierre. Pain. Boeuf. Beurre. Fromage. Pois.* Sel.
 
 Quartes. Livres. Livres. Onces. Onces. Pintes. Onces.
+
 ---
+
 Dimanche - 1 - I 3 _ - I I
 
-Lundi - 1 -  I 3 + - - I T
+Lundi - 1 - I 3 + - - I T
 
-Mardi - 1 -  I 14 3 T - - I T 1 T
+Mardi - 1 - I 14 3 T - - I T 1 T
 
-Mecredi - 1 -  I r J-- z 3 T - - 1 T
+Mecredi - 1 - I r J-- z 3 T - - 1 T
 
-Jeudi - 1 -  I It T - - 1 T 1 i
+Jeudi - 1 - I It T - - 1 T 1 i
 
-Vendredi - 1 -  I It 3 T - - 1 SI.
+Vendredi - 1 - I It 3 T - - 1 SI.
 
-Samedi - 1 -  I It - 4 ou 6 1 o' I T
+Samedi - 1 - I It - 4 ou 6 1 o' I T
 
-Total - 7 -  7 I°4 4f 4 6 n 2r
+Total - 7 - 7 I°4 4f 4 6 n 2r
+
 ---
+
 * Ou un livre de bon chou chacun.
 
 The allowance of salt, and the note to pease, I saw once only, in a table that seemed newly printed off.
@@ -4971,7 +4979,9 @@ Edinburgh. Aberdeen. Perth. Inverness. - Jedburgh. Dumfries. Air. - Glasgow. Sti
 1770 - 2 - 1 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - House-breaking and Theft.
 
 1770 - 0 - 0 - 0 - 0 - 1 - 0 - 0 - 0 - 0 - Sheep-stealing.
+
 ---
+
 1771
 
 I - __ - - Robbery.
@@ -5043,7 +5053,9 @@ I -- - - Child-murder.
 1779 - *1 - Murder.
 
 1779 - I - - Murder and Robbery.
+
 ---
+
 23 - 5 - 7 - 5 - 5 - 1 - 1 - 7 - 3 - 57 - Total Condemned.
 
 6 - 2 - 0 - 3 - 2 - 1 - 0 - 2 - 2 - 18 - Total Pardoned.
@@ -5159,7 +5171,9 @@ Cambridge - 20 1 2 0
 202 TABLES
 
 Debtors Men. - Debtors Women. - Felons &c. - Petty Offenders.
+
 ---
+
 Cambridge Bridewell o 0 0 7
 
 - Town 1 0 2 0
@@ -5279,7 +5293,9 @@ Horsham 12 0 6 0
 Hull 8 0 1 0
 
 - Bridewell 0 0 0 1 I
+
 ---
+
 Huntingdon - 10 1 14 0
 
 Ipswich - 22 2 23 0
@@ -5293,7 +5309,9 @@ TABLES 203
 Debtors Men. - Debtors Women. - Felons &c. - Petty Offenders.
 
 Kettering - 0 0 0 2
+
 ---
+
 Kingston 3 0 0 0 Lynn Regis 3 O 2 O
 
 - - Bridewell O 0 0 6 Maidstone * 5 O 23 0
@@ -5352,11 +5370,11 @@ Bridewell s - Bridewell O 0 O I
 
 - Whitechapel 5 0 0 0 Petworth O 0 O 2
 
-- Wood-street -i 3Z 6 ] 1 0 
+- Wood-street -i 3Z 6 ] 1 0
 
 Compter J
 
-I03S 62 241 39* 
+I03S 62 241 39*
 
 Ludlow O O 2 O
 
@@ -5424,13 +5442,13 @@ Warwick 21 I 28 O
 
 - Bridewell 0 0 0 3 Winchester 12 0 26 O
 
- 1 0 0 0 44 - Bridewell O 0 0 I I
+1 0 0 0 44 - Bridewell O 0 0 I I
 
-Bridewell J Windjor Csitle I 0 0 0
+Bridewell J Windsor Csitle I 0 0 0
 
- Town O 0 I O
+Town O 0 I O
 
- Wijleaeh I 1 0 O
+Wijleaeh I 1 0 O
 
 Sheffield s 0 0 0 Witney O 0 0 7
 
@@ -5448,20 +5466,22 @@ Southampton Wrexham 0 0 O 2
 
 Sheriff's Ward 3 3 Wymundham O 0 O 5
 
-Town 0 0 1 0 
+Town 0 0 1 0
 
-- - Bridewell 0 0 0 I 
+- - Bridewell 0 0 0 I
 
-Southwark 20 3 •4 O 
+Southwark 20 3 •4 O
 
 Southwell 0 0 0 •7
 
-Spalding 0 0 0 2 - 
+Spalding 0 0 0 2 -
 
 Stafford - 40 0 14 O
 
 132 9 69 130
+
 ---
+
 Yarmouth - 4 0 4 0
 
 York - 64 9 16 0

@@ -1029,7 +1029,9 @@ Great care is taken to give them moral and religious instruction, and reform the
 54 FOREIGN PRISONS.
 
 Some have even chosen to continue and work in the house after their discharge.
+
 ---
+
 Offenders are sentenced to these houses, according to their crimes, for seven, ten, fifteen, twenty years and upwards: but, to prevent despair, seldom for life. As an encouragement to sobriety and industry, those who distinguish themselves by such behaviour, are discharged before the expiration of their term. A prisoner who gives information of an intended escape is favoured much in this respect: his term is considerably shortened. A little before the election of new magistrates, those who are in office inspect these prisons; and inquire of the keeper which prisoners, of those who have been confined a few years, have been diligent and orderly; and of the minister, which of them have been most attentive to public and private instructions. According to the accounts, they abridge the appointed time of punishment: so that fourteen years will sometimes be reduced to eight or ten; and twelve years to six or seven. This practice is in every view wife and beneficial. Indeed, I have some reason to think that criminals are often doomed to a longer term, with an intention to make such deductions upon their amendment.
 
 I was informed that the work done in the houses of correction docs not maintain those houses: though the men that are rebuff earn from eight to ten stivers a day; and healthy women*by spinning &c. from four to six. But some earn less; those who are infirm, very little: none however are quite idle but the sick. This is surely excellent policy; for besides guarding against the pernicious effects of idleness in a prison, and breaking criminals to habits of industry, if work so constant does not support the houses, how much heavier would be the public burthen, maintaining the numerous offenders in these prisons, if, as in many of our bridewells, no work at all were done there
@@ -2388,7 +2390,7 @@ Hospitals.
 
 a
 
-the time of Their ad mini on, shall be taken and kept, with the assistance of the phyficlzn, chipiain, and surgeon. - That the secretary shall keep a reg.tier ol all thin: »s necessary to be provided;bread, wine, meat,
+the time of Their ad mini on, shall be taken and kept, with the assistance of the physiclzn, chipiain, and surgeon. - That the secretary shall keep a reg.tier ol all thin: »s necessary to be provided;bread, wine, meat,
 
 pease.
 
@@ -5184,7 +5186,7 @@ A Table of Fees to be taken by the Keeper of this Prison.
 
 For the discharge of every person upon any civil action, process or execution - 0 8 1
 
-For every person whochoofes to lay on the matter-tide, for the first night o»o For every person who chooses to lie on the matter-tide after the fiift night
+For every person whochoofes to lay on the matter-tide, for the first night o»o For every person who chooses to lie on the matter-tide after the first night
 
 to pay every week - '-026
 
@@ -5776,12 +5778,14 @@ SURGEON, None.
 
 ---
 
-THIS prison, in Tooley-street, for the borough of Southwark, which contains four parishes and a part of a fifth, has, 
+THIS prison, in Tooley-street, for the borough of Southwark, which contains four parishes and a part of a fifth, has,
 
-for master's side debtors seven rooms for common fide debtors a room on the ground floor in which felons & c are with them night and day a long room up stairs the Rookery and a room over it useless because not fecure The women are in the stone kitchen now divided into two rooms Three of the common fide rooms have barrack beds Among the debtors are many poor creatures from the court of confcience who lie there till their debts are paid There is a small court and a chapel but no chaplain is appointed.
+for master's side debtors seven rooms for common fide debtors a room on the ground floor in which felons & c are with them night and day a long room up stairs the Rookery and a room over it useless because not secure The women are in the stone kitchen now divided into two rooms Three of the common fide rooms have barrack beds Among the debtors are many poor creatures from the court of conscience who lie there till their debts are paid There is a small court and a chapel but no chaplain is appointed.
 
-The whole prifon is much out of repair and ruinous No infirmary No bedding or straw The keeper an officer pays tax and land tax He is put in by the high bailiff office is in the disposal of the court of aldermen An over the gate dated 1716 calls it the Borough Court the courts are now held at St Margaret's Hill.
+The whole prison is much out of repair and ruinous No infirmary No bedding or straw The keeper an officer pays tax and land tax He is put in by the high bailiff office is in the disposal of the court of aldermen An over the gate dated 1716 calls it the Borough Court the courts are now held at St Margaret's Hill.
+
 ---
+
 SOUTHWARK. 215
 
 [Borough Compter.]
@@ -5919,7 +5923,9 @@ Hitchin. In the work-house yard, a room for men 20½ feet by 10½; and over it t
 1776, Feb. 14, Prisoners 2.
 
 1779, Oct. 21, None.
+
 ---
+
 Berkhamsted. A work-room for men, and another for women. A dungeon down 9 steps, 13 feet by 94: earth floor, very damp, no window. - No straw: no court: no water. Keeper's salary, £20: no fees: he has the profit of the prisoners work. They are sometimes employed in chopping rags. Allowance, a pound of bread a day.
 
 1776, Nov. 2, No prisoners.
@@ -7218,7 +7224,7 @@ Licence, Beer and Wine.
 
 PRISONERS,
 
-Allowance, Debtors, 7 a two-penny loaf each per day (weight Felons, $ in Dec. 1774.,- ao ounces) and every week in common a ftoiie of cheese *, in winter twelve hulKeli of coals, in summer six hufhels.
+Allowance, Debtors, 7 a two-penny loaf each per day (weight Felons, $ in Dec. 1774.,- ao ounces) and every week in common a ftoiie of cheese *, in winter twelve hulKeli of coals, in summer six bushels.
 
 Garnish, Debtors, £0: 5: 0.
 
@@ -9137,7 +9143,9 @@ Debtors. Felons &c.
 Debtors. Felons &c.
 
 5-
+
 ---
+
 CHAPLAIN, None.
 
 SURGEON, Mr. Bullivant, now Mr. Berry.
@@ -9267,7 +9275,9 @@ G. Nares.
 COUNTY BRIDEWELLS.
 
 [Bridewells.]
+
 ---
+
 Kettering. This prison is in the back court of the keeper's public house. A room for men 18 feet by 15 Down 3 steps a lodging room 8 feet by 5 with an aperture in the door 15 inches by n. Court 19^ feet square. For women, a separate court and a room about the same size as the men's day-room: clay floors: windows close glazed. No water: no sewer. Clauses against spirituous liquors not hung up. Keeper's salary, 12. Fees, 2 6 Receives
 
 rent of the county/15: 10: o.
@@ -12175,7 +12185,9 @@ The right honourable Richard earl of Burlington and Sir George Savile Bart, gave
 COUNTY BRIDEWELLS.
 
 [Bridewells.]
+
 ---
+
 West-Riding, Wakefield. This prison is unfortunately built upon low ground; so that it is damp, and exposed to Hoods. Four of the wards are spacious; but all the wards are made very offensive by sewers, which are dark. Prison and court out of sight from the keeper's house, though adjoining; and some prisoners have escaped. They are now let out to the court only half an hour in the day. The wards are dirty: a prison on ground so low as this, requires the utmost attention to clean liness. - Keeper's salary lately,raised from £$o to £105; he contracting to supply Jlraw and coals. No fees. Allowance, two pence a day: little or no employment. - The infirmary is now finished, confining of two good rooms arched with brick, 21 i feet by 17.
 
 1774, Nov. 4, Prisoners 27. 1776, Oct. 27, Prisoners 19.
@@ -12239,7 +12251,9 @@ SURGEON, Mr. Wallis, occasionally.
 THIS gaol upon Ouse-bridge, called the , has on one side of the bridge four convenient chambers for debtors, about 11 feet square: for these they pay six pence a week.
 
 Below them is a free ward with barrack beds; and a room to the street. At the window they fell nets, purses, laces &c: over it is an inscription on a stone tablet, " the poor, lendeth to the Lord.* The act for preserving the health of prisoners, painted on a board, is hung up in the debtors hall.
+
 ---
+
 The men-felons ward on the other side is down 11 steps: that adjoining, for women, down 10. There is a new room, level with the ground, 31 feet by 14, with opposite and lofty windows, for prisoners committed on suspicion of felony. At the inner door of this prison, which is of iron grates, I have seen liquors handed to those who seemed to have had enough before. - Formerly there was no water in this prison, but when there was too much; that is, in a very high flood;
 
 368 YORKSHIRE. Northern Circuit.
@@ -12249,10 +12263,12 @@ The men-felons ward on the other side is down 11 steps: that adjoining, for wome
 then it flows into the rooms: now water is laid in - Gaoler, a sheriff's officer for city and county.
 
 It were in vain to offer any hints of improvement. This gaol cannot be made a good one.
+
 ---
+
 The corporation pays free-ward debtors is. nd.^z week by a legacy of Mr. Peacock. No memorial of this in the gaol. But there is a memorandum of another legacy, of Elizabeth Taylor, who by her will dated 21st of October 1580, left 3*. 4 d.to be.divided equally among the prisoners in Ouse-bridge gaol on Lady-day. This has not been received by them for some years.
 
-City of York. At the General Quarter Seffions - at Guildhall - 15th July - 1737 before the Right Honourable Sir John Lifter Kaye Bart. Lord Mayor - Thomas Place Esqr. Recorder - Charles Slingby Esq,r. of Coonfel - Sir Tancred Robinson Bart - &c.
+City of York. At the General Quarter Sessions - at Guildhall - 15th July - 1737 before the Right Honourable Sir John Lifter Kaye Bart. Lord Mayor - Thomas Place Esqr. Recorder - Charles Slingby Esq,r. of Coonfel - Sir Tancred Robinson Bart - &c.
 
 Gaoler's Fees settled and Orders made fire.
 
@@ -14639,7 +14655,9 @@ THIS gaol is also the county bridewell. Both the old and new cells for criminals
 The day-room is used as a chapel. Over it is a free ward: and over that a room for the sick. The condemned dungeon is damp j a small window. One court-yard j but it is spacious.
 
 A house for the gaoler, lately built in the court; but he (till lives distant, as before. It has convenient rooms for master's-
+
 ---
+
 422 CARMARTHENSHIRE. Carmarthen Circuit.
 
 [Carmarthen Castle.]
@@ -14655,9 +14673,13 @@ At two of my visits, here were a number of idle and profane people playing at te
 At Carmarthen is also the
 
 COUNTY-BOROUGH-GAOL.
+
 ---
-To the four rooms of this gaol at the gate, you ascend by stone steps on the outlidc. No court: no water. Keeper, one of the town sheriffs, lives distant. At my first visit, a young creature committed for a petty theft had been there four months, and was sick on the floor. At another visit, a debtor sick in bed. Bcfldcs the four prisoners whom I saw, the sheriff told me he had one in the rules, which are of finall extent. Food &c. for the prisoners is put through an aperture at bottom of the door: a little girl, the daughter of a prisoner, could just get through it to fetch water &c. Clauses against spirituous liquors not hung up. - At my last visit, very dirty, and full of vermin.
+
+To the four rooms of this gaol at the gate, you ascend by stone steps on the outlidc. No court: no water. Keeper, one of the town sheriffs, lives distant. At my first visit, a young creature committed for a petty theft had been there four months, and was sick on the floor. At another visit, a debtor sick in bed. Besides the four prisoners whom I saw, the sheriff told me he had one in the rules, which are of finall extent. Food &c. for the prisoners is put through an aperture at bottom of the door: a little girl, the daughter of a prisoner, could just get through it to fetch water &c. Clauses against spirituous liquors not hung up. - At my last visit, very dirty, and full of vermin.
+
 ---
+
 1774, Aug. 15, Debtors 0. Felon &c. 1.
 
 1776. Sep. 8, Debtors 3. Felon &c. 1.
@@ -14793,7 +14815,7 @@ PRISONERS
 Allowance, Debtors, none but on application to the justices.
 
 Felons, ten pence halfpenny each on Saturday.
- 
+
 Garnish, £0: 2: 6.
 
 Number, Debtors. Felons &c.
@@ -14949,7 +14971,9 @@ TABLES.
 TABLE I.
 
 Regulations for Prisoners of War in England.
+
 ---
+
 De par les Commissaires pour le Soin des Malades & des Blesses de la Marine, et pour l'Echange des Prisonniers de Guerre.
 
 Reg les questous les Prisonniers de Guerre, dans la Grande Bretagne, et l'lrlande, doivent observer.
@@ -15005,7 +15029,9 @@ Vendredi z 4 1 - i T
 Samedi I 4 ou 6 X Y i T
 
 Total 7 i°I- 1 i 4 6 % 2j
+
 ---
+
 * Ou un livre de bon chou chacun.
 
 The allowance of salt, and the note to pease, I saw once only, in a table that seemed newly printed off.

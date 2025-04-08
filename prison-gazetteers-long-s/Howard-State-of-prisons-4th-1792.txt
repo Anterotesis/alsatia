@@ -771,7 +771,9 @@ be supplied by the county or town: otherwise gaols will never be kept clean and 
 No stable, hogcote or dunghill should be suffered in the court†; nor any fowls kept there, which I have often seen not only in the courts, but also in the rooms of many prisons. No gaoler should keep more than one dog, and none should be kept by any prisoner whatever. Sweepings, ashes, &c. should be taken away twice a week.
 
 [Bedding.]
+
 ---
+
 If the Bedding is straw, it should be put in coarse canvass; if it is not so enclosed, it ought to be changed every week. Each bed should have a blanket and coarse coverlet, and not be laid on the floor, but on a crib-bedstead, which should be moveable for washing the room. This would prevent infection by cutaneous disorders, which are common in prisons. — Sir John Pringle observes, page 51, " There being no straw at Fort-Augustus, the men were ordered to cut the heath for " bedding; and it was observable, that such as were most careful in providing " themselves with a due quantity, and renewing it often, were least sickly." May
 
 As fumigation may sometimes be necessary in the rooms of prisons, I here give some extracts from the account with which the ingenious Dr. Lind favoured me, of his successful method of purifying infected* ships. "Charcoal fires should be lighted in the morning, and allowed to remain till evening, and half a pound of brimstone thrown upon each; their smoke in the mean time being closely confined. They may be made in iron pots. This fumigation should be repeated every day for a fortnight. Every evening after the fumigation, the ports and hatchways should be opened, and the inside of the ship washed with warm vinegar: and after the last fumigation, before the men return to the ship, the decks should be thoroughly scraped and cleaned. If the infection has been very violent, the parts of the ship most exposed to it may also be white-washed. Every thing ragged and dirty should be destroyed, as also the clothes and bedding of such as brought the infection into the ship, the bedding of such as have died of the fever, and unless the infection has been very mild, the bedding of such as have had the fever though recovered. The remaining clothes and bedding should be purified by being exposed twice a week to the steams of the brimstone and charcoal; or when the brimstone might be supposed to injure the clothes, they may be hung up in a dose* place — exposed to the smoke of tobacco strewed on charcoal fires. Linens, and such articles as will admit of being wet, should, after the first fumigation, be sleeped* for several hours in cold water or leys, be well washed, and then dried in the open air. If, during the fortnight of this fumigation, any person is taken ill of the fever, the fortnight should again commence from the day on which such person leaves the ship. Strict attention should be paid to the cleanliness of the men both in their persons and apparel: such as are sluggish and dirty should be made to bathe and clean themselves; and a sufficient quantity of flops should be issued, that every man may have a change of clothes."
@@ -3514,7 +3516,7 @@ Bern.
 
 *v
 
-eight to eleven, and from one to four. I asked the men, <c Whether they would choose to work fo, or be confined within doors ?” “ Much rather * they said, “ work “ thus.” The less criminal are in separate wards: these work within doors, spinning, &c. in a large room ; and have not the iron collar *. Fifteen I was sorry to fee miserable for want of employment f. The prison is not commodious, nor kept very clean. The daily allowance, two pounds of bread ; and twice a day a pint and half of soup, made of barley, beans, &c. which they fetch from the great hospital. In their leisure hours they make and mend shoes, make ftravv hats, &c. and deliver them as they pass on at work. They are not buffered to pradtife gaming of any fort. Indeed this is forbidden to all the common people; as playing for any considerable fum is to those of higher rank. The keeper and turnkey are to fee that the prisoners perform their devotions every morning and evening. The chaplains pray with them and instruct them on Sunday and Thursday. Once a month other clergymen superin-rend the service. No visitant admitted on Sunday. Thus a principal object here is to make them better men.
+eight to eleven, and from one to four. I asked the men, <c Whether they would choose to work fo, or be confined within doors ?” “ Much rather * they said, “ work “ thus.” The less criminal are in separate wards: these work within doors, spinning, &c. in a large room ; and have not the iron collar *. Fifteen I was sorry to fee miserable for want of employment f. The prison is not commodious, nor kept very clean. The daily allowance, two pounds of bread ; and twice a day a pint and half of soup, made of barley, beans, &c. which they fetch from the great hospital. In their leisure hours they make and mend shoes, make ftravv hats, &c. and deliver them as they pass on at work. They are not buffered to practise gaming of any fort. Indeed this is forbidden to all the common people; as playing for any considerable fum is to those of higher rank. The keeper and turnkey are to fee that the prisoners perform their devotions every morning and evening. The chaplains pray with them and instruct them on Sunday and Thursday. Once a month other clergymen superin-rend the service. No visitant admitted on Sunday. Thus a principal object here is to make them better men.
 
 Great care is to be taken of the sick. No futling place to be kept in this house of correction. The keeper is strictly forbidden to fell the prisoners wine, brandy, or other provisions; and required entirely to forego any such emolument. The bedding and clothing are minutely described, both as to quality and value. I have a copy of alt the orders, twenty-seven in number, dated March 14, 1741. These which I have mentioned may serve for a specimen.
 
@@ -3532,7 +3534,7 @@ Sect. IV.
 
 SWITZERLAND.
 
-(< way, pour contenir la verite, ainfi que je desire que Dieu me foit en aide fur la fin de mes “ jours. Sans dol ni frauded*—“ My deposition, which has now been read to me, I “ confirm before the face of God omnipotent, omnifcient and true, to contain the u truth, as I desire that God may be my help at the end of my days. Without de-cc ceit or fraud.” Perjury, I was told, is very uncommon among them *.
+(< way, pour contenir la verite, ainfi que je desire que Dieu me foit en aide fur la fin de mes “ jours. Sans dol ni frauded*—“ My deposition, which has now been read to me, I “ confirm before the face of God omnipotent, omniscient and true, to contain the u truth, as I desire that God may be my help at the end of my days. Without de-cc ceit or fraud.” Perjury, I was told, is very uncommon among them *.
 
 In this city I had some discourse with the great Dr. Haller. He ascribed the sick-ness in English gaols to their being over-crowded.
 
@@ -3540,7 +3542,7 @@ At Solothurn, the prison (dated 1756) is built of a fort of marble from a quarry
 
 The magistrates thought a constant supply of water within the prison-walls *fo needful, that although there is a fountain in the street about ten yards from the prison-door, they have placed another in the court.
 
-At Basil, the gaol for felons is in one of the towers. No prisoners; but many rooms ready with clean flraw and blankets. Each prisoner (they said) has a room to himself, in which he is constantly (hut up, except when conducted to the council-chamber for examination. One of the strongest cells is in a room by the great clock, and is about six feet high : the (trap) door is in the flat roof: the prisoner goes down by a ladder, which is then taken up: his vidtuals are put in at a wicket on one fide. When I was in the room, and took notice of the uncommon strength of it, the gaoler told me a prisoner had lately made his escape from it. I could not devise what method he took, but heard it was this. He had a fpoon for soup, which he Iharpened to cut out a piece from the timber of his room : then by practice he acquired the knack of finking his door, just when the great clock struck, which drowned the noife: and in fifteen days he forced all the bolts, &c. But attempting to let himself down from the vaft height by a rope which he found, the rope failed him; and by falling he broke fo many of his bones, that the surgeons pronounced
+At Basil, the gaol for felons is in one of the towers. No prisoners; but many rooms ready with clean flraw and blankets. Each prisoner (they said) has a room to himself, in which he is constantly (hut up, except when conducted to the council-chamber for examination. One of the strongest cells is in a room by the great clock, and is about six feet high : the (trap) door is in the flat roof: the prisoner goes down by a ladder, which is then taken up: his vidtuals are put in at a wicket on one fide. When I was in the room, and took notice of the uncommon strength of it, the gaoler told me a prisoner had lately made his escape from it. I could not devise what method he took, but heard it was this. He had a spoon for soup, which he Iharpened to cut out a piece from the timber of his room : then by practice he acquired the knack of finking his door, just when the great clock struck, which drowned the noise: and in fifteen days he forced all the bolts, &c. But attempting to let himself down from the vaft height by a rope which he found, the rope failed him; and by falling he broke fo many of his bones, that the surgeons pronounced
 
 * "Will it need an apology if the mode of publishing the ttj/ize of bread in this city be just mentioned? It is better than that at Vienna, and several other cities. In the middle of the window of every baker’s fhep is hung up in full 'view, the bill on pasteboard, specifying the weight and price of three different forts of bread, and, at the bottom, that of the fine rolls. The bills are signed by the magistrates’ fecre-tary. If the price continues the fame the following month, the secretary notes it on all the bills. J copied one of these bills, and purchased the different forts of bread, which I found to befall or rather over weight. The prices were, 'white bread, 1 lb. five creutzers; htufehold, 1 lb. four crcutzvi and a quarter; brawn bread, lib. three creutzers and a quarter (a creut&er is near a halfpenny).
 
@@ -3580,7 +3582,7 @@ t A salutary custom of bringing out the beds in fine weather, I fee practised in
 
 | " The salaries of the several magistrates are fo inconsiderable, as not to offer any temptation on the “ fide of pecuniary emolument: a sense of honour, a fpii it of ambition, the desire of serving their coun-“ try, together with that personal credit which is derived from exercising any office in the administration,
 
-are the principal motives which aftuate the candidates to folicit a share in the magistracy.” Mr. Coxe's SLctcbef of Switzerland; p. 462.
+are the principal motives which aftuate the candidates to solicit a share in the magistracy.” Mr. Coxe's SLctcbef of Switzerland; p. 462.
 
 [End of missing pages.]
 
@@ -15125,7 +15127,7 @@ The county had generously gone to the limit of the act; and appointed to the cha
 1775, Dec. 14, Prisoners 16.
 
 1779, Sep. 2, Prisoners 10.
- 
+
 1782, Aug. 1, Prisoners 9. and Prisoner of war 1.
 
 402 SOMERSETSHIRE. Western Circuit.
@@ -15394,7 +15396,7 @@ Alex Denton
 
 Wm Lee.
 
-Yorkshire East Riding John Grimston Ramsden Barnard  Tho. Grimston.
+Yorkshire East Riding John Grimston Ramsden Barnard Tho. Grimston.
 
 West Riding of Yorkshire Geo Nelthorpe N Hawey.
 
@@ -15490,7 +15492,7 @@ Garnish, £0: 7: 0.
 
 Number, Debtors. Felons &c.
 
-1774, Jan. 25, 11, - 7. 
+1774, Jan. 25, 11, - 7.
 
 1774, Nov. 3, 5, - 1.
 
@@ -15841,7 +15843,9 @@ And to the turnkey - 0 1 0
 Item. For allowing every supersedeas in every action - 0 6 8
 
 Item. For allowing every writ of habeas corpus besides conduct money to be paid and allowed according to the distance from the said gaol to the place where the body is to be removed - 0 6 8
+
 ---
+
 Hen. Wickham P. Milnes H. Zouch.
 
 We — do hereby confirm the same — this z6th day of July 1776.
