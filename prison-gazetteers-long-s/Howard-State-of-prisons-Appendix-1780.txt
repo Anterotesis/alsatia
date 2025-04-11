@@ -1484,7 +1484,7 @@ And in winter, pease and peeled barley.
 
 Further. Unto each of the said prisoners in the evenings, butter; and daily two pounds of bread and half a measure of beer.
 
-For those who are put to slight labour the diet is similar, except that each has only a pound and half of bread daily, and no butter or beer: and on Mondays and Fridays, they have frument, gruel, instead of dumplings.
+For those who are put to slight labour the diet is similar, except that each has only a pound and half of bread daily, and no butter or beer: and on Mondays and Fridays, they have frumenty gruel, instead of dumplings.
 
 To vagrants, and those who earn their bread by slight labour.
 
@@ -2136,7 +2136,7 @@ Item, The incarcerator of any person or persons by the Lord's letters of Laburro
 
 Item, The incarcerator of any person or persons on Laburrows by a magistrate, sheriff, or justice of peace, shall pay at incarceration - 1 10 0
 
-Item, The incarcerator of any person for exhibition of papers, or for implementing of writs (captions for reproduction of processes before the inferior courts excepted) shall pay at incarceration 1 10 0
+Item, The incarcerator of any person for exhibition of papers, or for implementing of writs (captions for reproduction of processes before the inferior courts excepted) shall pay at incarceration - 1 10 0
 
 SCOTLAND. 107
 
