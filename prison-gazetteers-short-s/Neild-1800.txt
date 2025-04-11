@@ -718,20 +718,18 @@ Midsummer.
 
 - - 17 10 0
 
----
-
 Michaelmas.
 
-— County Money - 15 0 0
+- County Money - 15 0 0
 
 - Chamberlain - 2 10 O
 
-Mercers' Company.... 112 5
+- Mercers' Company - 1 12 5
 
 - - 19 2 5
 
 Christmas.
-
+---
 - County, and Chamberlain - 17 10 0
 
 - Fishmongers’ Company - 0 3 4
@@ -764,7 +762,7 @@ Churchwardens of St. Sepulchre’s - 0 10 0
 
 Brass money, per annum, one pound, paid by Mr. Buckeridge, of Orchard-Street, who calls after Christmas to pay it; deducting, if he requires it, four shillings for land tax - 0 16 0
 
----- 2 19 4
+-- -- 2 19 4
 
 Total, per annum, £. 16 1 I
 
@@ -882,7 +880,7 @@ No allowance.
 
 28 ACCOUNT OF PERSONS
 
-I.YXX REGIS.
+LYME REGIS.
 
 WILLIAM HAWES, Keeper.
 
