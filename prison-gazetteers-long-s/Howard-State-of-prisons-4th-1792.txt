@@ -6798,13 +6798,13 @@ PRISONERS,
 
 Allowance, Debtors, I a penny loaf a day: (See Remarks.) now felons Felons,; a three halfpenny loaf (weight Aug. 1783, 13-02; -/ Garnish, £0: 1: 2.
 
-Number, Debtors. Felons'Jcc. Debtors. Felons &c.
+Number,  Debtors. Felons &c.
 
-1774, March 1, 9l> 3* 1779, AuS- 6> 00 45-
+1774, March 1, 9l> 3* 1779, AuS- 6> 00 45.
 
 1776, — 12, 7U 36- Nov. 15, 38, 11.
 
-May 10, 69, 3* 1782, Dec. 15, 54» 17-
+May 10, 69, 3* 1782, Dec. 15, 54» 17.
 
 1777. Jan. 10, LT) 00 25* 1783, Aug. 24, 34, 36*.
 
@@ -15796,11 +15796,9 @@ For lodging with a bed-fellow in the common chamber, of each prisoner every week
 
 For lodging in a single bed in that common chamber without admitting of a bed-fellow in every week - 0 2 6
 
----
+Out of which abatement shall be made
 
-Out of which abatement shall be made For every prisoner that findeth his own bedding bedcloaths and sheets and admitting a bed-fellow with him every week -
-
----
+For every prisoner that findeth his own bedding bedcloaths and sheets and admitting a bed-fellow with him every week - 0 0 4
 
 For Diet of Prisoners.
 
@@ -15828,27 +15826,21 @@ For the second - 0 3 9
 
 For every one more - 0 1 6
 
----
-
 Fees to the Under Keeper and Door Keeper.
 
-Item For attendance of every prisoner that goeth abroad into the town every time
+Item For attendance of every prisoner that goeth abroad into the town every time - 0 0 4
 
-For every knight esquire or gentleman for his final discharge and enlargement Only For every yeoman artificer or labourer for such discharge only
+For every knight esquire or gentleman for his final discharge and enlargement only - 0 0 6
 
-004
-
-006
-
-006
-
+For every yeoman artificer or labourer for such discharge only - 0 0 6
+---
 Tho Burdus Hen3 Foster, Mayor
 
 Jo* Morland Giles Raine:
 
 Mic Bralin
 
-We Sir Francis Page Knight otit of the Justices of his Majesty's Court of King's Bench and Sir Barn. Hale Knight one of the Barons of his Majesty's Court of Exchequer at Westminster now Justices of Assize for the Northern Circuit have reviewed the above Table of Fees and have thought fit to moderate the item or article of two shillings a week for lodging with a bedfellow in any other chamber except the common chamber to be paid by each prisoner, and instead thereof do appoint one shilling and six pence fer week to be paid by each prisoner f» lodging with a bedfellow which, said-table with such alteration is hereby confirmed by. us.
+We Sir Francis Page Knight one of the Justices of his Majesty's Court of King's Bench and Sir Barn. Hale Knight one of the Barons of his Majesty's Court of Exchequer at Westminster now Justices of Assize for the Northern Circuit have reviewed the above Table of Fees and have thought fit to moderate the item or article of two shillings a week for lodging with a bedfellow in any other chamber except the common chamber to be paid by each prisoner, and instead thereof do appoint one shilling and six pence fer week to be paid by each prisoner f» lodging with a bedfellow which, said-table with such alteration is hereby confirmed by. us.
 
 Dated the 2d day of August 1729
 
@@ -15868,7 +15860,7 @@ Was built, as appears by the date over the door, in 1634. Being on the side of a
 
 1776, 14, 7. 1782, Mar. 24, - 8, and one lunatic.
 
-.. Oct. 25, - 6.
+1776, Oct. 25, - 6.
 
 NEWCASTLE upon TYNE.
 
@@ -16012,7 +16004,7 @@ Bridewell. A room for men; another for women. A new building is now added, consi
 
 Where prisoners are always locked up, there should be water laid in to each ward, as I have seen m foreign houses of correction.
 
-NORTHUMBERLAND. Northern Circuit.
+NORTHUMBERLAND. Northern Circuit. 425
 
 NORTHUMBERLAND.
 
@@ -16062,17 +16054,13 @@ Of the other two rooms, generally appropriated to men-felons, one is a day-room 
 
 Gaol delivery once a year. Assize held at Newcastle, whither prisoners are conveyed; and men and women confined together seven or eight nights in a dirty damp dungeon down 6 steps in the old castle, which having no roof, in a wet season the water is some inches deep. The felons are chained to rings in the wall.
 
-425
-
 Morpeth.
 
 [Remarks.]
+---
+426 NORTHUMBERLAND. Northern Circuit.
 
-426
-
-Morpeth County Gaol.
-
-NORTHUMBERLAND. Northern Circuit.
+[Morpeth County Gaol.]
 
 The county for some years paid the gaoler's fees for acquitted prisoners, if poor: and clothed such transports as were quite indigent.
 
@@ -16080,7 +16068,7 @@ The debtors court should be allotted to felons: or two courts might be taken fro
 
 Clauses against spirituous liquors are hung up. The act for preserving the health of prisoners, painted on a board, was in the debtors hall or chapel: no bath. The following table of fees is framed and glazed.
 
-Table of Fees &c. Settled and allowed to be due to the Keeper of his Majesty's Gaol at Morpeth — ' by the Justices — at the Quarter Sessions — held — at Hexham 1759.
+Table of Fees &c. Settled and allowed to be due to the Keeper of his Majesty's Gaol at Morpeth — by the Justices — at the Quarter Sessions — held — at Hexham 1759.
 
 Commitment Fees.
 
@@ -16090,21 +16078,17 @@ Chamber-Rents.
 
 £. S. D.
 
-To the room called the green room with one bed in it and if only, one person will have it
-
-to himself, to pay weekly - 0 2 6
+To the room called the green room with one bed in it and if only, one person will have it to himself, to pay weekly - 0 2 6
 
 If two persons therein to pay each - 0 1 6
 
-To the room called Burton's room having two beds, and the gaoler finding bedding and
-
-linen, each person to pay weekly - 0 1 0
+To the room called Burton's room having two beds, and the gaoler finding bedding and linen, each person to pay weekly - 0 1 0
 
 But if one will have a bed is to pay - 0 2 0
 
-To the little green room having one bed and if one person will have it to himself he is to pay weekly - 0 2
+To the little green room having one bed and if one person will have it to himself he is to pay weekly - 0 2 6
 
-If two therein only to pay each - . - 016
+If two therein only to pay each - 0 1 6
 
 To the gaoler finding good and wholesome bedding
 
@@ -16112,43 +16096,57 @@ To the room called the fencing room with three beds and the gaoler finding whole
 
 To the little room called Mrs. Carr's room the gaoler finding beds and linen, each person is to pay weekly - 0 1 0
 
-If the prisoner finds the bedding - 0 06
+If the prisoner finds the bedding - 0 0 6
 
-To a room called Mr. Johnson's room; being on the same floor, the gaoler finding bed and linen each person to pay - — ?-oio
+To a room called Mr. Johnson's room; being on the same floor, the gaoler finding bed and linen each person to pay - 0 1 0
 
-If they find their own bedding, only - 0 06
+If they find their own bedding, only - 0 0 6
 
-There is a large room that prisoners pay nothing for, which holds a great many beds. called the middle tower - 0 00
+There is a large room that prisoners pay nothing for, which holds a great many beds, called the middle tower - 0 0 0
 
-Every debter upon his discharge to pay to the gaoler - 0 10 2
+Every debtor upon his discharge to pay to the gaoler - 0 10 2
 
 To the turnkey - 0 1 0
 
 Every felon on his discharge - 0 18 4
 
-To the turnkey - John Orde Step. Watson W* % Ward. 020 COUNTY
+To the turnkey - 0 2 0
 
-BERWICK upon TWEED.
+John Orde
 
-427
+Step. Watson
+
+Wm. Ward.
+
+BERWICK upon TWEED. 427
 
 COUNTY BRIDEWELL at MORPETH.
 
-A work-room and two small bed-rooms for men on the ground-floor, only 7 feet high. That above the women is larger. The court not being secure, the prisoners are always locked up, and appear dirty and sickly. Over the way is a long room (72 feet) which is a warehouse and work-shop; and above it another workshop. The keeper a clothier, now resides at a distance: he employs his prisoners; the men and boys from eight o'clock to four, at two shillings a week: women from eight to five, at one shilling and six-pence a week. He gives them also firing. No county allowance: no water: no sewer. His salary, ^30: no fees. Clauses against Spirituous liquors not hung up.
+[Bridewell.]
 
-1775, Jan. 9, Prisoners 2. 1779, July 1, Prisoners 3.
+A work-room and two small bed-rooms for men on the ground-floor, only 7 feet high. That above the women is larger. The court not being secure, the prisoners are always locked up, and appear dirty and sickly. Over the way is a long room (72 feet) which is a warehouse and work-shop; and above it another workshop. The keeper a clothier, now resides at a distance: he employs his prisoners; the men and boys from eight o'clock to four, at two shillings a week: women from eight to five, at one shilling and six-pence a week. He gives them also firing. No county allowance: no water: no sewer. His salary, £30: no fees. Clauses against Spirituous liquors not hung up.
 
-1776, ...16, 8. 1782, Mar. 25, - 6.
+1775, Jan. 9, Prisoners 2.
 
-BERWICK upon TWEED. BERWICK* TOWN and COUNTY GAOL.
+1776, Jan. 16, Prisoners 8.
+
+1779, July 1, Prisoners 3.
+
+1782, Mar. 25, Prisoners 6.
+
+BERWICK upon TWEED.
+
+BERWICK* TOWN and COUNTY GAOL.
+
+[Berwick.]
 
 GAOLER, John Richardson, now John Hill.
 
-Salary,
+Salary, £16
 
-Fees, Debtors, Freemen, \ nrmp
+Fees, Debtors, Freemen, } none.
 
-Felons, J
+Felons, }
 
 Debtors, not free, £0: 2: 6.
 
@@ -16158,65 +16156,45 @@ PRISONERS,
 
 Allowance, Debtors, Freemen, four pence a day, and coals.
 
-Ditto, not free, pence halfpenny a day.
+Ditto, not free, } two pence halfpenny a day.
+
+Felons, }
 
 Garnish, £0: 1: 4,
 
-Number,
+Number, Debtors. Felons &c.
 
-1776, Jan. 17,
+1776, Jan. 17, - 5, - 2.
 
-1779, July 1*
+1779, July 1, - 2, - 0. Impressed Men 8.
 
-1782, Mar. 26,
+1782, Mar. 26, - 2, 0.
 
 CHAPLAIN, none.
 
 SURGEON, none; but on application to the magistrates.
 
-Debtors. Felons &c.
-
-5> 2*
-
-2, o. Impressed Men 8.
-
-2, o.
-
-This place, though a distinct jurisdiction, in none of the circuits, is inserted here, rather than at the end of the English and Welsh counties, because its situation gives it a natural connexion with the last mentioned county, and it falls in here in the order of my journies through the northern part of the kingdom.
-
-3 I 2
-
-Bridewell.
-
-Berwick,
-
-BERWICK.
+* This place, though a distinct jurisdiction, in none of the circuits, is inserted here, rather than at the end of the English and Welsh counties, because its situation gives it a natural connexion with the last mentioned county, and it falls in here in the order of my journies through the northern part of the kingdom.
 
 428 CUMBERLAND. Northern Circuit.
-
-[Remarks.]
-
-Carlisle,
-
-[Remarks.]
-
+---
 BERWICK.
 
-THIS gaol is part of the grand town-hall, which was finished in 1754, and has a fine steeple: the only one in the town. The four rooms or cells on the ground-floor are damp, and prisoners are not put into them, but over the hall, where there are two long rooms, or galleries, and seven other rooms, sizeable, but dirty. No court: the debtors are permitted to walk on the leads: no water: no sewer. Clauses against spirituous liquors, and the act for preserving the health of prisoners, not hung up. The gaoler told me he went to the gaol thrice a day r at nine, one, and eight.
+[Remarks.]
+
+THIS gaol is part of the grand town-hall, which was finished in 1754, and has a fine steeple: the only one in the town. The four rooms or cells on the ground-floor are damp, and prisoners are not put into them, but over the hall, where there are two long rooms, or galleries, and seven other rooms, sizeable, but dirty. No court: the debtors are permitted to walk on the leads: no water: no sewer. Clauses against spirituous liquors, and the act for preserving the health of prisoners, not hung up. The gaoler told me he went to the gaol thrice a day: at nine, one, and eight.
 
 CUMBERLAND.
 
 COUNTY GAOL at CARLISLE.
 
-Brathwaite Atkinson, now Thomas Dixon,
+[Carlisle,]
 
-£21.
+GAOLER, Brathwaite Atkinson, now Thomas Dixon.
+
+Salary, £21.
 
 Debt0is> bo:1
-
-GAOLER,
-
-Salary,
 
 Fees,
 
@@ -16290,11 +16268,13 @@ I was told that many a poor traveller from the north, who by some calamity had c
 
 [Carlisle.]
 
----
+1776, Jan. 20, Debtors 3.
 
-1776, Jan. 20, Debtors 3. 1779, May IO> Debtors 3, two Men, one Woman.
+1776, Sep. 19, Debtors 1.
 
-... Sep. 19, r. 1782, Sep. 1, - o.
+1779, May 10, Debtors 3, two Men, one Woman.
+
+1782, Sep. 1, Debtors 0.
 
 WHITEHAVEN Town Gaol, is part of the work-house. Two rooms up stairs; and a dungeon in which they used to confine transports brought hither to be shipped. All dirty and offensive.
 
@@ -16304,129 +16284,141 @@ WESTMORLAND.
 
 COUNTY GAOL at APPLEBY.
 
-Appleby. GAOLER, Salary, Fees,
+[Appleby.]
 
-Benjamin Ainjley.
+GAOLER, Benjamin Ainsley.
 
-£10. (See Remarks.)
+Salary, £10. (See Remarks.)
 
-Debtors,
+Fees, Debtors, } £0: 6: 8.
 
-Felons,
+Felons, }
 
-6: 8.
+Transports, a shilling a mile each to Whitehaven.
 
-Transports, a shilling a mile each to Whitehaven. Licence, Beer and Wine.
+Licence, Beer and Wine.
 
 PRISONERS,
 
 Allowance, Debtors, none.
 
-Felons, four pence a day each. Garnish, £0: 1: 0.
+Felons, four pence a day each.
+
+Garnish, £0: 1: 0.
 
 Number, Debtors. Felons &c. Debtors. Felons &c.
 
-1774, Mar. 24, -h 4- 1779, May 9, 8, 2.
+1774, Mar. 24, - 7 - 4.
 
-1776, Jan. 22, 3> 0. 1782, Sep. 2, 8, 0.
+1776, Jan. 22, - 3 - 0.
 
-Sep. 19, 3> 3-
+1776, Sep. 19, - 3 - 3.
 
-CHAPLAIN, none. SURGEON, none.
+1779, May 9, - 8 - 2.
+
+1782, Sep. 2, - 8 - 0.
+
+CHAPLAIN, none.
+
+SURGEON, none.
+
+[Remarks.]
 
 THIS gaol was built by the county. The earl of Thanet is hereditary sheriff, and pays the gaoler his salary. Happily for the prisoners in a gaol so circumstanced, the present gaoler is a man of temper and humanity.
 
-At page ai, I complained of this prison being within reach of floods; but in January 1776, there was a new building on the highest part of the yard. It consists of four vaulted wards for felons, 14^ feet by 13 i a window in each, but no chimney: and over them three good rooms with chimneys, for debtors.
+At page 21, I complained of this prison being within reach of floods; but in January 1776, there was a new building on the highest part of the yard. It consists of four vaulted wards for felons, 14½ feet by 13; a window in each, but no chimney: and over them three good rooms with chimneys, for debtors.
 
-Northern Circuit. WESTMORLAND. 43*
+Northern Circuit. WESTMORLAND. 431
+
+[Appleby.]
 
 Gaol delivery once a year. — No table of fees. Neither the act for preserving the health of prisoners, nor clauses against spirituous liquors, at my last visit, were hung up.
 
-COUNTY BRIDEWELLS;
+COUNTY BRIDEWELLS.
 
-APPLEBY. Built, as appears by the date, 1639. Two rooms 11 feet by 84.: no chimney: each has a window (only 18 inches by 12) into a liable:- subject to floods. — No allowance. Keeper's salary £8: no fees.
+[Bridewells.]
+
+APPLEBY. Built, as appears by the date, 1639. Two rooms 11 feet by 8½: no chimney: each has a window (only 18 inches by 12) into a stable: subject to floods. — No allowance. Keeper's salary £8: no fees.
 
 1776, Jan. 22, Prisoners 0.
 
-1776, Sep. 19,. o.
+1776, Sep. 19, Prisoners 0.
 
 1779, May 9, Prisoners 0.
 
-1782, Sep. 2, - 1.
+1782, Sep. 2, Prisoners 1.
 
 KENDAL. Only one room for men and women, 18 feet by 13, with one window about 2 feet square: no chimney: no court: no water: no sewer. The keeper has a garden: salary, £6: 10: 0, and a little close which he lets for twenty shillings a year. No fees. — The town sometimes commits prisoners hither, and allows them six-pence a day; the county, four pence.
 
 1776, Jan. 23, Prisoners 3, two Men, one Woman.
 
--- Sep. 18, - o, Deserter 1.
+1776, Sep. 18, Prisoners 0, Deserter 1.
 
-1779, May 11, - o.
+1779, May 11, Prisoners 0.
 
-1782, Sep. 3, - 1.
+1782, Sep. 3, Prisoners 1.
 
 KENDAL TOWN GAOL.
 
-Only two vaulted dungeons under the chapel, called black holes: 15 steps under ground (12 feet by 11, and 74 high). In one of them was a beddead with draw on it. No court: no water. Allowance, six-pence a day. The two town sergeants keep the prison by turns , a week each*.
+Only two vaulted dungeons under the chapel, called black holes: 15 steps under ground (12 feet by 11, and 7½ high). In one of them was a bedstead with straw on it. No court: no water. Allowance, six-pence a day. The two town sergeants keep the prison by turns; a week each*.
 
 1776, Jan. 23, 177.9, May 11, and 1782, Sep. 3, No prisoners.
 
-I here take the liberty to extol the oeconomy, industry and cleanliness of the Kendal work-house. It makes some amends for the inconvenience of the town gaol, which occasions the sending town-, prisoners to the county bridewell as above.
+* I here take the liberty to extol the oeconomy, industry and cleanliness of the Kendal work-house. It makes some amends for the inconvenience of the town gaol, which occasions the sending town-prisoners to the county bridewell as above.
 
-LANCASHIRE,
-
-AvPLEBr.
-
-Bridewells.
-
-LANCASHIRE. Northern Circuit.
-
-43
-
-Lancaster.
-
-[Remarks.]
+432 LANCASHIRE. Northern Circuit.
 
 COUNTY GAOL, LANCASTER CASTLE.
+
+[Lancaster.]
 
 GAOLER, John Dane, now John Higgin.
 
 Salary, none.
 
-Fees, Debtors, jTo: 8: o.
+Fees, Debtors, £0: 8: 0.
 
-Felons, 0: 13: 4. Transports, £5 each. (See Remarks.) Licence, Beer and Wine.
+Felons, 0: 13: 4.
+
+Transports, £5 each. (See Remarks.)
+
+Licence, Beer and Wine.
 
 PRISONERS,
 
-Allowance, Debtors, , c.j
+Allowance, Debtors, } one shilling each on Saturday morning.
 
-j^one milling each on Saturday morning.
+Felons, }
 
 Garnish, Debtors, £0: 7: 2.
 
 Felons 0: 2: 6.
 
-Number, Debtors. Felons &c. Debtors. Felons ice.
+Number, Debtors. Felons &c.
 
-1774, Mar. 25, 74, i3. 1779, May 11, 72, 11.Impressed 17,
+1774, Mar. 25, - 74, - 13.
 
-1775, N°V- 20» CO 17. 1782, Sep. 3, 57, 17.
+1775, Nov. 20, - 48, - 17.
 
-1776, Sep. 17, 32» 19.
+1776, Sep. 17, - 32, - 19.
+
+1779, May 11, - 72, - 11.Impressed 17,
+
+1782, Sep. 3, - 57, - 17.
 
 CHAPLAIN, Rev. Mr. Spicer, now Rev. Mr. Watson.
 
 Duty, Sunday twice; Wednesday and Friday once.
 
-SalarD jC5°-
+Salary, £50.
 
-SURGEON,
+SURGEON, Mr. Dixon, now Mr. Wright.
 
-Salary,
+Salary, now £10: 10: 0.
 
-Mr. Dixon, now Mr. Wright. now £10: 10: 0.
+[Remarks.]
 
-THE castle-yard is spacious, and is supplied with water. Part of it is an enclosed bowling-green. Master's-side debtors have many apartments. One of them which they call the oven, is said to have been used as such in the time of John of Gaunt duke of Lancaster: the diameter, 24 feet; the height, that of an ordinary room. Debtors are allowed to wajk and work (spin, knit, &c.) in the crown and shire halls. The latter is used as a chapel*.
+THE castle-yard is spacious, and is supplied with water. Part of it is an enclosed bowling-green. Master's-side debtors have many apartments. One of them which they call the oven, is said to have been used as such in the time of John of Gaunt duke of Lancaster: the diameter, 24 feet; the height, that of an ordinary room. Debtors are allowed to walk and work (spin, knit, &c.) in the crown and shire halls. The latter is used as a chapel*.
 
 One of the rooms for debtors (60 feet by 27) is a free ward, and called the Quakers room; because, it is said, when those people were so cruelly persecuted in the last century, vast numbers of them were confined in it.
 
@@ -16434,45 +16426,37 @@ Petty offenders are sometimes sent hither, because the bridewells are distant. T
 
 Men and women felons have their day-rooms apart, at the upper end of the court. Women sleep in their day-room: but the court being common, the men associate
 
-Over the judge's bench in the shire-hall is this text; "Let judgment run down as waters, and righteousness as a mighty fir earn."
+* Over the judge's bench in the shire-hall is this text; "Let judgment run down as waters, and righteousness as a mighty stream."
 
-4
+Northern Circuit. LANCASHIRE. 433
 
-Northern Circuit. LANCASHIRE.
+[Lancaster Castle.]
 
 with them. — Men have for their night-rooms two vaulted cells. One of them, the low dungeon, is 10 steps under ground*, 21 feet by 9, extremely close, dark, and unwholesome; very hot even in winter. Their other cell, the high dungeon (20 feet 2 inches by 11 feet 2,) is close and offensive, though not under ground; and has an iron-latticed door.
 
 In one of these dungeons, there were three felons sick: the recorder, Mr. Fenton, gave immediate orders for their relief by better nourishment, &c. and they soon recovered. No infirmary: no bath. Transports had not the king's allowance of 2s. 6d. a week. When prisoners are convicted at Preston or Manchester, and from thence brought hither, the gaoler has a shilling a mile conduct-money for each.
 
-If the large liable which is not much used, and the great room under the shire-hall (in which there was only one poor lunatic; who had been there many years, and is since dead) were converted into night-rooms for felons, one small room for each; the court divided, and an infirmary were built, this would be a good gaol. From Mr. Fenton s humanity, and the regard that is justly paid him, I cannot but hope for some of these improvements.
+If the large stable which is not much used, and the great room under the shire-hall (in which there was only one poor lunatic; who had been there many years, and is since dead) were converted into night-rooms for felons, one small room for each; the court divided, and an infirmary were built, this would be a good gaol. From Mr. Fenton's humanity, and the regard that is justly paid him, I cannot but hope for some of these improvements.
 
-These remarks were made in 1776: at my visit in 1779, I had the pleasure to find fix cells made in the upper liable, 10 feet by 6 feet 8 inches, each having an aperture about 2 feet by 14, and two good rooms fitted up for an infirmary in the dungeon tower. One of the fix cells is appropriated to drunken and riotous debtors, over which this inscription is painted on a board, " This room is for unruly misbehaved " debtors, to be confined in, until they promise to behave well."
+These remarks were made in 1776: at my visit in 1779, I had the pleasure to find six cells made in the upper stable, 10 feet by 6 feet 8 inches, each having an aperture about 2 feet by 1½, and two good rooms fitted up for an infirmary in the dungeon tower. One of the six cells is appropriated to drunken and riotous debtors, over which this inscription is painted on a board, "This room is for unruly misbehaved debtors, to be confined in, until they promise to behave well."
 
-At my last visit there were three new cells (10 feet by 6^), two doors in each, one of which was iron-latticed. Here was also a separate closet for women, which is generally wanted in gaols. — This gaol is regularly white-wallied, and kept very clean. The act for preserving the health of prisoners, and the clauses against spirituous liquors, hung up very conspicuously. — The gaoler lives dillant.
+At my last visit there were three new cells (10 feet by 6½), two doors in each, one of which was iron-latticed. Here was also a separate closet for women, which is generally wanted in gaols. — This gaol is regularly white-washed, and kept very clean. The act for preserving the health of prisoners, and the clauses against spirituous liquors, hung up very conspicuously. — The gaoler lives distant.
 
-The chaplain's salary, .£jo, is from the county; and from the dutchy .£4.
+The chaplain's salary, £50, is from the county; and from the dutchy £4.
 
 I will give a copy of the table of fees, though it is not authentick; — a list of donations, — and an order for attending divine service, which are hung up in one of the court rooms. — Much good, I hope, may be expected from the exertions now making by the gentlemen of this county, for the further improvement of their prisons.
 
 Fees taken by the Gaoler of Lancaster Castle. (viz.)
 
-£ s. D.
+£. S. D.
 
-For every debtor's discharge when by afiuperfiedeas - 0 8 0
+For every debtor's discharge when by a supersedeas - 0 8 0
 
-On a common discharge 8s. and 21. Sc 6d. for the sheriff's certificate - 0 10 6
+On a common discharge 8s. and 21. & 6d. for the sheriff's certificate - 0 10 6
 
 When a debtor is surrendered in discharge of his bail - 0 2 4
 
-The gaoler's wine cellar is down 20 Heps, and has evidently been used for the confinement of prisoners. The different purpose to which it is now applied, is the only instance I know of the benefit of taps in gaols.
-
-3K
-
-433
-
-Lancaster Castle.
-
----
+* The gaoler's wine cellar is down 20 steps, and has evidently been used for the confinement of prisoners. The different purpose to which it is now applied, is the only instance I know of the benefit of taps in gaols.
 
 434 LANCASHIRE. Northern Circuit.
 
@@ -16496,25 +16480,21 @@ Charity Legacies to the Debtor Prisoners in Lancaster Castle 1770.
 
 £. S. D.
 
----
+From Mrs. Henrietta Rigby's executors to twelve of the most necessitous and well behaved prisoners five shillings each paid by Doctor Fenton and the mayor of Lancaster about the first day of March every year - 3 0 0
 
-From Mrs. Henrietta Rigby's executors to twelve of the most necessitous and well behaved prisoners five *drillings each paid by Doctor Fenton and the mayor of Lancaster about the first day of March every year - 3 0 0
-
-From Mrs. Langton paid by Lawrence *Rawfhorn Esq. each assize - 2 0 0
+From Mrs. Langton paid by Lawrence Rawsthorn Esq. each assize - 2 0 0
 
 From Sir Thomas Gerrard of Gartswood paid by Mr. Starkie, due about the first of August - 8 0 0
 
-Paid under a decree of the court of chancery of this county out of an estate in Skermifdale called Sand late belonging to Peter Latham deceased; distributed at every August assize, by the trustees of the said Peter Latham or their order, paid by Mr. Ratcliffe of Ormskirk attorney at law - 6 0 0
+Paid under a decree of the court of chancery of this county out of an estate in Skermisdale called Sand late belonging to Peter Latham deceased; distributed at every August assize, by the trustees of the said Peter Latham or their order, paid by Mr. Ratcliffe of Ormskirk attorney at law - 6 0 0
 
-By the will of William Edmundson of Outhwaite, one pound fifteen drillings yearly, or half the rent of land in Scotforth purchased by the money left for such purpose by the said will> paid by the treasurer of the county in bread - 1 15 0
+By the will of William Edmundson of Outhwaite, one pound fifteen shillings yearly, or half the rent of land in Scotforth purchased by the money left for such purpose by the said will, paid by the treasurer of the county in bread - 1 15 0
 
 From Mrs. Abigail Rigby's executors paid by Doctor Fenton and the mayor of Lancaster every St. Thomas's day - 2 0 0
 
 [Qry. Jebson's legacy.] (So in the list.)
 
-At the general quarter sessions of the peace held at Lancaster In and for the said county palatine of Lancaster, the 15th day of July in the seventeenth year of king George the third's reign; whereas, it appears to this court on the representation of the keeper of the gaol or the castle of Lancaster, that several prisoners in his custody, being members of the Church of England and having no lawful excuse, make a common practice of absenting themselves from divine service performed in the said gaol, and misbehaving themselves during service. It is therefore ordered by this court, that if any prisoner or prisoners confined in the said castle '(except Roman Catholics and Quakers) and having no lawful excuse, shall absent him her or themselves, from attending divine service within the said castle, or shall in any way misbehave, such prisoner or prisoners shall immediately be deprived of the county allowance until further orders to the contrary. And it is further ordered, that the treasurer of the said county stock, shall immediately upon receiving a complaint from the said keeper against any prisoner or prisoners to strike his her or their name or names out of his books, and to forbear to pay such prisoner or prisoners any more money until further order.
-
----
+At the general quarter sessions of the peace held at Lancaster in and for the said county palatine of Lancaster, the 15th day of July in the seventeenth year of king George the third's reign; whereas, it appears to this court on the representation of the keeper of the gaol or the castle of Lancaster, that several prisoners in his custody, being members of the Church of England and having no lawful excuse, make a common practice of absenting themselves from divine service performed in the said gaol, and misbehaving themselves during service. It is therefore ordered by this court, that if any prisoner or prisoners confined in the said castle (except Roman Catholics and Quakers) and having no lawful excuse, shall absent him her or themselves, from attending divine service within the said castle, or shall in any way misbehave, such prisoner or prisoners shall immediately be deprived of the county allowance until further orders to the contrary. And it is further ordered, that the treasurer of the said county stock, shall immediately upon receiving a complaint from the said keeper against any prisoner or prisoners to strike his her or their name or names out of his books, and to forbear to pay such prisoner or prisoners any more money until further order.
 
 Kenyon.
 
@@ -18288,37 +18268,19 @@ Report of his Majesty's Commissioners appointed to inquire into the officers and
 
 TABLE IV.
 
----
-
 An Account of the Number of Prisoners Tried and Acquitted - of Prisoners Convicted and Sentenced to be Burnt in the Hand and Discharged - of Prisoners Sentenced to be Whipped and Discharged - and of Prisoners Discharged by Proclamation - at the several Assizes and General Gaol-Deliveries held in and for the several Counties and Cities within the OXFORD CIRCUIT for Seven Years ending at Michaelmas 1771.
 
-C/3
+Years. - Berkshire. - Oxfordshire. - Worcestershire. - City of Worcester. - Gloucestershire. - City of Glocester. - Monmouthshire. - Herefordshire. - Shropshire. - Staffordshire.
 
-DP
+---
 
-I
+Not Guilty Discharged.
 
-n*
+Burnt in the Hand and Discharged.
 
-g
+Whipped and Discharged.
 
-§ bJO
-
-b3 ,s
-
-q T3 -g a u
-
-n\«
-
-C/3
-
-cl ts
-
-I U
-
-pj
-
-2> O
+Discharged by Proclamation.
 
 w OS Discharged by Proclamation. ia 00 " I vO CO
 
@@ -18437,6 +18399,16 @@ llli
 M
 
 ---
+
+Total. Not Guilty Discharged - 615
+
+Burnt in the Hand and Discharged - 47
+
+Whipped and Discharged - 28
+
+Discharged by Proclamation - 293
+
+Great Total - 981.
 
 478 TABLES.
 
