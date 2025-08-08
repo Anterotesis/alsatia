@@ -5314,61 +5314,61 @@ Kettering - 0 0 0 2
 
 Kingston 3 0 0 0 Lynn Regis 3 O 2 O
 
-- - Bridewell O 0 0 6 Maidstone * 5 O 23 0
+- - Bridewell 0 0 0 6 Maidstone * 5 O 23 0
 
 Lancaster. 67 5 11 O - Bridewell 0 0 0 13
 
-Launceston O O 4 0 Manchester 0 O O I I
+Launceston O O 4 0 Manchester 0 0 0 I I
 
-Lavenham 0 0 O 3 Marlborough 0 0 0 4
+Lavenham 0 0 0 3 Marlborough 0 0 0 4
 
-Leicester 22 1 10 O Middlewich 0 0 O 5
+Leicester 22 1 10 O Middlewich 0 0 0 5
 
-- Bridewell 0 0 O 8 Monmouth 6 0 1 2 O
+- Bridewell 0 0 0 8 Monmouth 6 0 1 2 O
 
 - Town 3 0 2 0 Montgomery 4 0 3 0
 
-Lewes O 0 O 8 Bridewell O 0 0 I
+Lewes 0 0 0 8 Bridewell 0 0 0 I
 
 Lincoln 22 0 4 O Morpeth 9 I 6 O
 
-- City I 0 0 O Bridewell O 0 O 3
+- City I 0 0 0 Bridewell 0 0 0 3
 
-Litchfield 3 0 1 0 Nantwich 2 0 O O
+Litchfield 3 0 1 0 Nantwich 2 0 0 O
 
 Liverpool 22 3 0 0 Newcastle 13 1 4 O
 
-- Bridewell O 0 0 8 - small Gaol O 0 0 1
+- Bridewell 0 0 0 8 - small Gaol 0 0 0 1
 
-London Bridewell O 0 0 13 Bridewell O 0 O 7
+London Bridewell 0 0 0 13 Bridewell 0 0 0 7
 
-- - Borough > 13 5 2 O Newport, Essex 0 0 O 9
+- - Borough > 13 5 2 O Newport, Essex 0 0 0 9
 
 Compter 5 Northampton 14 I •5 O
 
-_ - Clerkenwell O 0 45 0 - Town 1 0 O O
+_ - Clerkenwell 0 0 45 0 - Town 1 0 0 O
 
-Bridewell 0 0 O 171 Norwich 23 I 29 O
+Bridewell 0 0 0 171 Norwich 23 I 29 O
 
-- Fleet 177 7 O 0 - City *9 0 5 O
+- Fleet 177 7 0 0 - City *9 0 5 O
 
-- - King's Bench 473 25 O 0 - Bridewell ! 0 0 O 7
+- - King's Bench 473 25 0 0 - Bridewell ! 0 0 0 7
 
-Marshalsea 88 4 O 0 Nottingham 12 0 S O
+Marshalsea 88 4 0 0 Nottingham 12 0 S O
 
-Newgate 46 5 Hi 0 - Town -7 0 O O
+Newgate 46 5 Hi 0 - Town -7 0 0 O
 
-- - New Ludgate •5 O O 0 Oakham 3 0 I O
+- - New Ludgate •5 0 0 0 Oakham 3 0 I O
 
-Poultry Compt. 43 3 0 0 Odiam 0 0 O 5
+Poultry Compt. 43 3 0 0 Odiam 0 0 0 5
 
 - Savoy 0 0 0 98 Oxford 12 I 4 O
 
-Tothill-Fields lo 0 0 74. Peterborough 1 0 O O
+Tothill-Fields lo 0 0 74. Peterborough 1 0 0 O
 
-Bridewell s - Bridewell O 0 O I
+Bridewell s - Bridewell 0 0 0 I
 
-- Whitechapel 5 0 0 0 Petworth O 0 O 2
+- Whitechapel 5 0 0 0 Petworth 0 0 0 2
 
 - Wood-street -i 3Z 6 ] 1 0
 
@@ -5428,7 +5428,7 @@ Swaffham - 0 - 0 - 0 - IO
 
 Taunton - 0 - 0 - 0 - IO
 
-Thetford 0 O I 0
+Thetford 0 0 I 0
 
 Thirffi 0 0 0 2
 
@@ -5442,29 +5442,29 @@ Warwick 21 I 28 O
 
 - Bridewell 0 0 0 3 Winchester 12 0 26 O
 
-1 0 0 0 44 - Bridewell O 0 0 I I
+1 0 0 0 44 - Bridewell 0 0 0 I I
 
 Bridewell J Windsor Csitle I 0 0 0
 
-Town O 0 I O
+Town 0 0 I O
 
 Wijleaeh I 1 0 O
 
-Sheffield s 0 0 0 Witney O 0 0 7
+Sheffield s 0 0 0 Witney 0 0 0 7
 
-Shepton-Mallel 0 0 O •9 Wolverhampton 0 0 0 2
+Shepton-Mallel 0 0 0 •9 Wolverhampton 0 0 0 2
 
 Sherborn 0 0 0 2 Woodbridge 0 0 0 I
 
 Shrewsbury •9 4 10 0 Worcester 18 1 8 O
 
-- - Town I O 0 8 Bridewell 0 0 O 6
+- - Town I 0 0 8 Bridewell 0 0 0 6
 
-Bridewell O O 0 3 City s I 4 O
+Bridewell 0 0 0 3 City s I 4 O
 
-Southampton Wrexham 0 0 O 2
+Southampton Wrexham 0 0 0 2
 
-Sheriff's Ward 3 3 Wymundham O 0 O 5
+Sheriff's Ward 3 3 Wymundham 0 0 0 5
 
 Town 0 0 1 0
 

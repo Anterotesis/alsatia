@@ -4554,7 +4554,7 @@ City Marshalsea 47 6 0 0
 
 Thomas-Court and Donore 1 1 0 0
 
-City-Bridewell 0 O 2 21
+City-Bridewell 0 0 2 21
 
 Kilmainham 3° 2 1 iS 2
 
@@ -9730,35 +9730,35 @@ Bradford 11 1 O O - - 6 I O O
 
 Brecon * 3 0 3 O - 0 I 2 O
 
-Bridewell O O 0 6 - - 0 O O I
+Bridewell 0 0 0 6 - - 0 0 0 I
 
 Bristol 41 6 9* 0 27 * 6 32 O
 
-Bridewell O O 0 8 - - 0 0 0 19
+Bridewell 0 0 0 8 - - 0 0 0 19
 
-Lawford's-gate O O 0 S - 0 0 0 6
+Lawford's-gate 0 0 0 S - 0 0 0 6
 
-Buntingford O O 0 1 0 0 0 1
+Buntingford 0 0 0 1 0 0 0 1
 
 Bury St. Edmunds 18 O 5 0 - H 2 11 0
 
-Bridewell O O 0 2 > 0 0 0 0
+Bridewell 0 0 0 2 > 0 0 0 0
 
 Cambridge 20 1 2 0 * - 13 2 3 0
 
-Bridewell O O 0 7 - 0 0 0 8
+Bridewell 0 0 0 7 - 0 0 0 8
 
 Town 1 O 2 0 - 2 0 0 0
 
-Bridewell O O 0 6 - - 0 0 0 3
+Bridewell 0 0 0 6 - - 0 0 0 3
 
 Canterbury 2 O 2 0 - 1 0 2 0
 
-Bridewell O O 0 4 - - 0 0 5 6
+Bridewell 0 0 0 4 - - 0 0 5 6
 
 Cardiff 2 1 0 0 - - 16 0 5 0
 
-Town 1 O 0 0 - - 1 0 0 0
+Town 1 0 0 0 - - 1 0 0 0
 
 Cardigan I 1 0 0 * - 3 0 0 1
 
@@ -9768,7 +9768,7 @@ City 2 1 0 0 - 0 0 0 0
 
 Carmarthen !3 I 8 0 - 13 2 2 1
 
-Town 0 O 1 0 ' - 2 0 1 0
+Town 0 0 1 0 ' - 2 0 1 0
 
 Carnarvon 5 O 1 0 - - 3 0 0 0
 
@@ -9788,7 +9788,7 @@ Cirencester 0 0 0 6 - 0 0 1 2
 
 Clare 0 0 0 1 0 0 0 0
 
-Colchester 0 O 4 0 - 1 0 5 0
+Colchester 0 0 4 0 - 1 0 5 0
 
 Bridewell 0 0 0 1 - - 0 0 0 3
 
@@ -9804,7 +9804,7 @@ Derby 12 O 6 0 " *3 0 9 3
 
 Town 0 0 0 0 - 4 0 2 0
 
-Devizes 1 O 0 H - - 1 4 0 25
+Devizes 1 0 0 H - - 1 4 0 25
 
 Dolgelly 3 O 2 0 - 7 1 2 0
 
@@ -9820,33 +9820,33 @@ Doncaster - 0 - 0 - 0 - 0 | 1 - 0 - 0 - 0
 
 Dorchester - . h 0 6 O - - 17 o# 8 O
 
-Dorchester Town gaol - - I 0 O O
+Dorchester Town gaol - - I 0 0 O
 
-Dover Cattle 3 O 0 O _ 2 0 O O
+Dover Cattle 3 0 0 0 _ 2 0 0 O
 
-Town I O 1 O - - I 0 O 3
+Town I O 1 O - - I 0 0 3
 
 Durham IZ 2 22 O - - 18 2 19 0
 
-Bridewell 0 0 0 9 - - O O 0 8
+Bridewell 0 0 0 9 - - 0 0 0 8
 
 Ely 7 O 1 0 - - 4 O 2 0
 
 Bridewell 0 0 0 2 - - 0 0 0 3
 
-Exeter 0 O 33 0 - - 0 O 25 0
+Exeter 0 0 33 0 - - 0 0 25 0
 
 Sheriff's Ward 35 I 0 0 _ 21 2 0 0
 
-Bridewell O O 0 27 - - 0 0 0 43
+Bridewell 0 0 0 27 - - 0 0 0 43
 
 City 2 O 2 0 - - 3 0 1 0
 
 Flint 1 O 3 0 . - 9 O 3 0
 
-Folkingham O O 0 2 - . 0 0 0 2
+Folkingham 0 0 0 2 - . 0 0 0 2
 
-Gainsborough O O 0 S - - 0 0 0 4
+Gainsborough 0 0 0 S - - 0 0 0 4
 
 Glocester lS I 24 0 - - 33 5 38 0
 
@@ -9856,7 +9856,7 @@ Gosport 0 0 0 9 - . 0 0 0 3
 
 Guildford 0 0 0 3 - - 0 0 0 3
 
-Halifax 5 O 0 0 - . 7 0 0 0
+Halifax 5 0 0 0 - . 7 0 0 0
 
 Halflead 0 0 0 5 - - 0 0 0 0
 
@@ -9870,7 +9870,7 @@ Hereford 18 1 9 0 - - 23 0 6 0
 
 Bridewell - . 0 0 0 4
 
-City 4 O 0 0 - - 0 0 0 0
+City 4 0 0 0 - - 0 0 0 0
 
 Hertford 1 O 17 0 - - 10 0 9 0
 
@@ -9896,7 +9896,7 @@ Kendal Bridewell 0 0 0 0 _ _ 0 0 0 ,
 
 Kettering 0 0 0 2 - » 0 0 0 0
 
-Kingston 3 O 0 0 - - 3 1 0 0
+Kingston 3 0 0 0 - - 3 1 0 0
 
 Bridewell 0 0 0 6 - - 0 0 0 17
 
@@ -9908,25 +9908,25 @@ TABLES. 283
 
 Debtors Men. - Debtors Women. - Felons &c. - Petty Offenders. | Debtors Men. - Debtors Women. - Felons &c. - Petty Offenders.
 
-Knaresbrough O 0 O .0 - - I O O O
+Knaresbrough 0 0 0 .0 - - I O O O
 
 Lancaster 67 5 II O - - 55 2 l7 O
 
 Launceston O O 4 O - - 0 0 0 O
 
-Lavenham O O 0 3 - - 0 0 0 1
+Lavenham 0 0 0 3 - - 0 0 0 1
 
-Leeds O O 0 O - - 0 0 0 1
+Leeds 0 0 0 0 - - 0 0 0 1
 
 Leicester 22 I 10 O - - 19 I 4 O
 
-Bridewell O O 0 8 - - 0 0 0 2
+Bridewell 0 0 0 8 - - 0 0 0 2
 
 Town 3 0 2 0 - . - 2 O 3 O
 
-Leaves 0 0 0 8 - - 0 O 1 6
+Leaves 0 0 0 8 - - 0 0 1 6
 
-Lichfield 3 0 1 0 - - 2 O 0 2
+Lichfield 3 0 1 0 - - 2 0 0 2
 
 Lincoln 22 0 *4 0 - - 28 2 3 0
 
@@ -9956,13 +9956,13 @@ New Ludgate >5 0 0 0 - - 20 0 0 0
 
 Poultry Compter 43 3 0 0 - - 25 1 7 0
 
-Savoy O O 0 98 - - 0 0 0 92
+Savoy 0 0 0 98 - - 0 0 0 92
 
 Tothill-Fields 0 r\ 0 A 74 A A r\ 72
 
 Bridewell 5 v \J VJ U V
 
-Whitechapel 5 ° O 0 - - O 0 0 0
+Whitechapel 5 ° 0 0 - - 0 0 0 0
 
 Wood-streetComp. 32 6 11 0 - - 47 7 *7 0
 
@@ -10000,25 +10000,25 @@ Debtors Men. - Debtors Women. - Felons &c. - Petty Offenders. | Debtors Men. - D
 
 Montgomery 4 O • 3 O - - II 0 4 O
 
-Bridewell O O 0 1 - - O 0 O O
+Bridewell 0 0 0 1 - - 0 0 0 O
 
 Morpeth 9 I 6 O - - H 1 4 O
 
-Bridewell O O 0 3 - - O 0 0 6
+Bridewell 0 0 0 3 - - 0 0 0 6
 
-Nantwich 2 O 0 0 - - 1 0 0 O
+Nantwich 2 0 0 0 - - 1 0 0 O
 
 Newcastle >3 I 4 0 - - 9 3 1 O
 
-Tower Gaol O O 0 1 - - 0 0 0 2
+Tower Gaol 0 0 0 1 - - 0 0 0 2
 
 Tallow-house - - 0 0 2 O
 
-Bridewell O O 0 7 - - 0 0 0 s
+Bridewell 0 0 0 7 - - 0 0 0 s
 
-Newport, Essex O O 0 9 - - 0 0 0 *5
+Newport, Essex 0 0 0 9 - - 0 0 0 *5
 
-Isle of Wight O O 0 0 - - 0 0 0 2
+Isle of Wight 0 0 0 0 - - 0 0 0 2
 
 Northampton 14 1 *5 0 - • 17 2 9 1
 
@@ -10028,13 +10028,13 @@ Norwich 23 I 29 0 - - 24 1 23 0
 
 City *9 O 5 0 - - H 2 5 0
 
-Bridewell O O 0 7 - - 0 0 0 4
+Bridewell 0 0 0 7 - - 0 0 0 4
 
 Nottingham 12 O 5 0 - - 11 0 6 0
 
 Bridewell 0 0 0 0 - - 0 0 0 2
 
-Town 2 O 0 0 - - 1 0 1 0
+Town 2 0 0 0 - - 1 0 1 0
 
 Oakham 3 O 1 0 - - 2 0 3 0
 
@@ -10046,13 +10046,13 @@ OXFORD 12 I 4 0 - - 21 4 3i 0
 
 City Bridewell - - 0 0 1 0
 
-Peterborough 1 O 0 0 - - 1 0 0 0
+Peterborough 1 0 0 0 - - 1 0 0 0
 
 Bridewell 0 0 0 1 - . - 0 0 0 0
 
 Petworth 0 0 0 2 - - 0 0 0 0
 
-Plymouth 1 O 0 0 - - 4 0 0 4
+Plymouth 1 0 0 0 - - 4 0 0 4
 
 Pooh Bridewell - - 0 0 0 1
 
@@ -10066,11 +10066,11 @@ Reading 8 I 9 0 - - 18 1 11 0
 
 Bridewell 0 0 0 7 - - 0 0 0 >3
 
-Richmond 6 O 0 1 - - 12 1 0 2
+Richmond 6 0 0 1 - - 12 1 0 2
 
-Ripon Liberty 3 O 0 0 - - 0 0 0 0
+Ripon Liberty 3 0 0 0 - - 0 0 0 0
 
-Town 1 O 0 1 - - 0 0 0 0
+Town 1 0 0 1 - - 0 0 0 0
 
 Rochester 2 0 0 0 - - 0 0 0 0
 
@@ -10092,7 +10092,7 @@ St. Albans Liberty O O I O - - O O O O
 
 Bridewell O O O 3 - - O O O 2
 
-St. George's Fields 1 O 0 O 44 O 0 I l6
+St. George's Fields 1 0 0 0 44 0 0 I l6
 
 Bridewell 3
 
@@ -10100,7 +10100,7 @@ Salisbury l6 I *5 0 - - 18 2 *3 3
 
 City I O 1 0 - - I O * 0 0
 
-Sheffield 8 O 0 0 - - 3 O 0 0
+Sheffield 8 0 0 0 - - 3 0 0 0
 
 Shepton-Mallet 0 0 0 19 - - 0 0 0 12
 
@@ -10112,7 +10112,7 @@ Bridewell 0 0 0 8 - - 0 0 0 16
 
 Town 1 0 0 8 - - 0 0 0 12
 
-Southampton Sheriff's Ward 3 0 0 0 - - 2 O 0 0
+Southampton Sheriff's Ward 3 0 0 0 - - 2 0 0 0
 
 Town 0 0 1 0 - - 0 0 0 0
 
@@ -10126,9 +10126,9 @@ Spalding 0 0 0 2 • - 1 O - 0 3
 
 Stafford 40 0 H 0 - - 37 I 20 0
 
-Bridewell 0 0 0 9 - - 0 O 1 5
+Bridewell 0 0 0 9 - - 0 0 1 5
 
-Stamford - - 0 O 2 0
+Stamford - - 0 0 2 0
 
 Snvajfham 0 0 0 10 - - 0 0 0 4
 
@@ -10160,7 +10160,7 @@ Winchester - 12 0 26 0 - - 32 I 28 0
 
 Winchester Bridewell 0 0 0 11 - - 0 0 0 23
 
-Winchester Town - 1 O 0 0
+Winchester Town - 1 0 0 0
 
 Windsor Castle - 1 0 0 0 • - 0 0 0 0
 
@@ -10170,7 +10170,7 @@ Wisbeach l 1 0 0 - - 0 1 0 0
 
 Witney 0 0 0 7 - - 0 0 0 2
 
-Wolverhampton 0 0 0 2 - - 0 O 1 2
+Wolverhampton 0 0 0 2 - - 0 0 1 2
 
 Woodbridge 0 0 0 1 • - 0 0 0 4
 
