@@ -780,7 +780,7 @@ ITALY. 39
 
 [Florence.]
 
-In Florence are two prisons.* In the great prison, Palazzo Florence. degl' Otto, were only twenty prisoners. Six of them were in the secrete chambers, which are twenty-one strong rooms. None of the prisoners were in irons. They had mattresses to lie on. Their bread was good. In the torture chamber, there was a machine for decollation, which prevents that repetition of the stroke which too often happens when the axe is used.
+In Florence are two prisons.* In the great prison, Palazzo degl' Otto, were only twenty prisoners. Six of them were in the secrete chambers, which are twenty-one strong rooms. None of the prisoners were in irons. They had mattresses to lie on. Their bread was good. In the torture chamber, there was a machine for decollation, which prevents that repetition of the stroke which too often happens when the axe is used.
 
 In the other prison, Delle Stinche, there are five doors to pass before you come to the court. The opening of the first is three feet wide, and four feet nine inches high, with an inscription over it, Oportet misereri, (We ought to be compassionate.) In this prison are many spacious rooms, in which are small benches, or cribs to lie on. The men's rooms are below, and look into the court, which is about forty-three feet square. The women, entirely separated, are up stairs, and have an hospital joining to their room. A new infirmary for the men (forty-four feet by twenty-nine) is contiguous to the chapel. In this prison were forty-two men and fourteen women. Debtors are not separated from criminals. In one room were eight, who paid for their beds. The bread was good: the day's allowance to each fifteen ounces. None were in irons. - The chaplain has apartments, and resides in the gaol.†
 
@@ -934,7 +934,7 @@ In this City, and many others in Italy, is a Confraternita della misericordia, c
 
 * The chambers of this silent and melancholy abode were quite inaccessible to me; and yet I spent near two hours about the court and the priests apartments, till my continuance there began to raise suspicion.
 
-† Many of Florentine extraction were the founders. This institution is ancient, for the church of S. Gio. Battijla Decollate belonged to them in 1450.
+† Many of Florentine extraction were the founders. This institution is ancient, for the church of S. Gio. Battijla Decollato belonged to them in 1450.
 
 48 APPENDIX.
 
@@ -1140,7 +1140,7 @@ The great and crowded hospitals of S. Apoatoli and L'Annunziazione, have wards a
 
 The hospital of the Benfratelli, or S. Gio. di Dio, is clean and elegant. It consists chiefly of one lofty ward,† at one end of which is an altar and a room for poor priests, and at the other end a table on which were placed the patients victuals. Near this table was inscribed a reference to the apposite words of Scripture, Matthew xxv. 35, 36. For I was an hungred, and ye gave me meat: &c.
 
-* The frequency of assaults and assassinations in Italy is generally known. Many of the common people seem to be insensible of the atrociousness of the crime of murder. I have heard criminals in prison express, with seeming satisfaction of mind, "that though they stabbed, they did not rob." If we consider that wards and even hospitals appropriated to the wounded are filled with patients, that the prisons are crowded, and that many are continually taking refuge on the steps of churches, and examine our accounts in Janssen's Lists and the Judges' Returns, we may reckon that there are more murders committed in a year in the city of Naples or Rome, than in Great Britain and Ireland. Does not this prove that the English are not naturally cruel? And might not arguments be derived from hence, for the revisal and repeal of some of our sanguinary laws? The Marquis Beccaria justly remarks, in his Essay on Crimes and Punishments, chap. 2S. "That the punishment of death is pernicious to society, from the example of barbarity it affords."
+* The frequency of assaults and assassinations in Italy is generally known. Many of the common people seem to be insensible of the atrociousness of the crime of murder. I have heard criminals in prison express, with seeming satisfaction of mind, "that though they stabbed, they did not rob." If we consider that wards and even hospitals appropriated to the wounded are filled with patients, that the prisons are crowded, and that many are continually taking refuge on the steps of churches, and examine our accounts in Janssen's Lists and the Judges' Returns, we may reckon that there are more murders committed in a year in the city of Naples or Rome, than in Great Britain and Ireland. Does not this prove that the English are not naturally cruel? And might not arguments be derived from hence, for the revisal and repeal of some of our sanguinary laws? The Marquis Beccaria justly remarks, in his Essay on Crimes and Punishments, chap. 25. "That the punishment of death is pernicious to society, from the example of barbarity it affords."
 
 † In many of the Italian hospitals, and in all that I have seen belonging to this order of friars, there are no rooms over the sick wards, so that they are as lofty as our churches or chapels.
 
@@ -1784,7 +1784,7 @@ In the prison at Dunkirk, the French prisoners were in two or three rooms by the
 
 [English Prisoners.]
 
-Here I found many of my countrymen prisoners of war. In five rooms there were a hundred and thirty-three, - captains, mates, passengers and common sailors all crowded together, - who lay on draw with one coverlid for every three persons. In three other rooms there were thirteen accommodated in a better manner, because most of them were ransomers* and capable of paying six sous a night for their beds. The court was small, being only forty-two feet by twenty-six; nor was there sufficient plenty of water. The bread, beer, and soup were good, and the beef tolerable.† Each room was supplied with two small faggots a day for firing. The sick (of whom there were only three) were taken to the military hospital, and great attention was paid to them. The regulations were hung up in English‡ and French.
+Here I found many of my countrymen prisoners of war. In five rooms there were a hundred and thirty-three, - captains, mates, passengers and common sailors all crowded together, - who lay on straw with one coverlid for every three persons. In three other rooms there were thirteen accommodated in a better manner, because most of them were ransomers* and capable of paying six sous a night for their beds. The court was small, being only forty-two feet by twenty-six; nor was there sufficient plenty of water. The bread, beer, and soup were good, and the beef tolerable.† Each room was supplied with two small faggots a day for firing. The sick (of whom there were only three) were taken to the military hospital, and great attention was paid to them. The regulations were hung up in English‡ and French.
 
 * A ransomer is a person confined as a security, till the sum is paid for which a ship has been ransomed.
 
@@ -3238,7 +3238,7 @@ For signing a certificate in order to obtain a supersedeas - 0 1 0
 
 At the delivery of every declaration - 0 1 0
 
-Attending upon every prisoner to give bail, special bail, habeas or i any thing necessary to go out of gaol for every mile travelling - 0 1 0
+Attending upon every prisoner to give bail, special bail, habeas or any thing necessary to go out of gaol for every mile travelling - 0 1 0
 
 148 APPENDIX.
 
@@ -4862,17 +4862,17 @@ It remains now to be tried, how far the wise and humane intentions of the legisl
 
 TABLE I.
 
-De par les Commissaires pour le Soin des Malades & des Blesses de la Marine, et pour l'Echange des Prisonniers de Guerre.
+De par les Commissaires pour le Soin des Malades & des Blessés de la Marine, et pour l'Echange des Prisonniers de Guerre.
 
 REGLES que tous les Prisonniers de Guerre, dans la Grande Bretagne, & l'Irlande, doivent observer.
 
 I.
 
-I. LES ordres donnés par l'Agent, aiant soin des prisonniers, doivent être observés sans replique ou dispute. Qu'aucun des prisonniers ose insulter, menacer, maltraiter, & encore moins frapper le guichetier, ni personne par l'Agent employè aux affaires de la prison, sous peine de la punition qu'ordonneront Messieurs les Commissaires, et de perdre leur tour d'être echangés; dêtre étroitement enfermés, et privés de la moitié de leur vivres.
+LES ordres donnés par l'Agent, aiant soin des prisonniers, doivent être observés sans replique ou dispute. Qu'aucun des prisonniers ose insulter, menacer, maltraiter, & encore moins frapper le guichetier, ni personne par l'Agent employè aux affaires de la prison, sous peine de la punition qu'ordonneront Messieurs les Commissaires, et de perdre leur tour d'être echangés; dêtre étroitement enfermés, et privés de la moitié de leur vivres.
 
 II.
 
-Tous les prisonniers, lors que l'agent en sera la revùe, repondront à leurs noms; et si dans la lisle donnée à l'agent quelque erreur se trouve, ils l'indiqueront, afin de la corriger; et ainsi prévoir la confusion qui resulteroit des méprises des noms.
+Tous les prisonniers, lors que l'agent en sera la revùe, repondront à leurs noms; et si dans la liste donnée à l'agent quelque erreur se trouve, ils l'indiqueront, afin de la corriger; et ainsi prévoir la confusion qui resulteroit des méprises des noms.
 
 III.
 
@@ -4884,33 +4884,27 @@ S'il arrive du dommage aux lieu où les prisonniers seront gardés, soit en voul
 
 TABLES. 197
 
----
-
-des vivres de ceux qui
-
-auront ainsi contrevenu; et fi les coupables ne peuvent etre decouverts, tous les prisonniers ensemble contribueront de leurs vivres, aux frais de cette reparation.
+des vivres de ceux qui aúront ainsi contrevenu; et si les coupables ne peuvent être decouverts, tous les prisonniers ensemble contribueront de leurs vivres, aux frais de cette réparation.
 
 V.
 
-Quiconque s'echappera de prison, etant repris, y fera mis au cachot; et n'y aura que demi-ration de vivres, jusqu' a ce qu'il aura ainsi paye les frais faits pour le saisir et le ramener; et de plus il perdra son tour d'echange; un officier ainsi con-trevenant, fera des-lors regarde et traite comme simple matelot.
+Quiconque s'échappera de prison, étant répris, y sera mis au cachot; et n'y aura que demi-ration de vivres, jusqu' à ce qu'il aura ainsi payé les frais faits pour le saisir et le ramener; et de plus il perdra son tour d'èchange; un officier ainsi contrevenant, sera dés-lors regardé et traite comme simple matelot.
 
 VI.
 
-Il est defendu de fe battre, fe quereller, ou faire desordre dans les prisons, ou aux endroits oii il fera permis aux prisonniers de prendre l'air, sous peine de punition felon que l'ostence l'exigera.
+Il est dèfendu de se battre, se quereller, ou faire désordre dans les prisons, ou aux endroits où il sera permis aux prisonniers de prendre l'air, sous peine de punition selon que l'offence l'exigera.
 
 VII.
 
-Les prisons feront tenues nettes & propres par les matelots, et cela tour a tour, comme l'agent l'ordonnera; & tout matelot qui refusera ce service a son tour, & qui en aura ete averti, fera prive de fes vivres jusque' a ce qu'il s'y foumette.
+Les prisons seront tenues nettes & propres par les matelots, et cela tour á tour, comme l'agent l'ordonnera; & tout matelot qui refusera ce service á son tour, & qui en aura été averti, sera prive de ses vivres jusque' á ce qu'il s'y foumette.
 
 VIII.
 
-Les prisonniers doivent informer l'agent, des hardes, ou autres choses dont ils peuvent avoir besoin, et pour lesquels ils auront dequoi payer; et l'agent a ordre non feulement de permettre qu'ils en soient fournis, mais aussi d'avoir un foin tout particulier, qu'on ne leur en impose dans les prix.
+Les prisonniers doivent informer l'agent, des hardes, ou autres choses dont ils peuvent avoir besoin, et pour lesquels ils auront dequoi payer; et l'agent a ordre non seulement de permettre qu'ils en soient fournis, mais aussi d'avoir un soin tout particulier, qu'on ne leur en impose dans les prix.
 
 IX.
 
-Dans chaque prison les prisonniers pourront nommer trois, ou cing d'entre eux, et les changer quand il leur plaira, pour Pexamen des vivres; afin de voir s'ils font bons, & s'ils ont leur ration, soit pour le poids, soit pour la mesure; suivant la table d'avituaillement ci-deflous. Et s'il fe trouve quelque sujet de plainte, soit fur la maniere de les appreter, servir, ou dans quelqu'autre chose; ils doivent, avec bienfeance, le faire savoir a 1'agent; qui, trouvant la plainte fondee, doit immediatement y mettre ordre. S'il le neglige, ils doivent en avertir Messieurs les Commissaires, qui ne manqucront pas de leur rendre justice, a tous egards.
-
----
+Dans chaque prison les prisonniers pourront nommer trois, ou cing d'entre eux, et les changer quand il leur plaira, pour l'examen des vivres; afin de voir s'ils font bons, & s'ils ont leur ration, soit pour le poids, soit pour la mésure; suivant la table d'avituaillement ci-dessous. Et s'il se trouve quelque sujet de plainte, soit sur la manière de les appretêr, servir, ou dans quelqu'autre chose; ils doivent, avec bienséance, le faire savoir à l'agent; qui, trouvant la plainte fondée, doit immediatement y mettre ordre. S'il le neglige, ils doivent en avertir Messieurs les Commissaires, qui ne manqucront pas de leur rendre justice, á tous égards.
 
 X.
 
@@ -4918,7 +4912,7 @@ Les boutiquiers (excepté ceux qui trafiquent dans des choses qu'il ne convient 
 
 198 TABLES.
 
-heures du matin jusqu' à trois heures de l'apres midi, pour vendre leur merchandises, à tels prisonniers, qui font en fonds pour les payer sur le champ.
+heures du matin jusqu' à trois heures de l'apres midi, pour vendre leur merchandises, à tels prisonniers, qui sont en fonds pour les payer sur le champ.
 
 XI.
 
@@ -4930,25 +4924,21 @@ Jours. Bierre. Pain. Boeuf. Beurre. Fromage. Pois.* Sel.
 
 Quartes. Livres. Livres. Onces. Onces. Pintes. Onces.
 
----
+Dimanche - 1 - 1½ - ¾ - 0 - 0 - ½ - ⅓
 
-Dimanche - 1 - I 3 _ - I I
+Lundi - 1 - 1½ - ¾ - 0 - 0 - 0 - ⅓
 
-Lundi - 1 - I 3 + - - I T
+Mardi - 1 - 1½ - ¾ - 0 - 0 - ½ - ⅓
 
-Mardi - 1 - I 14 3 T - - I T 1 T
+Mecredi - 1 - 1½ - ¾ - 0 - 0 - 0 - ⅓
 
-Mecredi - 1 - I r J-- z 3 T - - 1 T
+Jeudi - 1 - 1½ - ¾ - 0 - 0 - ½ - ⅓
 
-Jeudi - 1 - I It T - - 1 T 1 i
+Vendredi - 1 - 1½ - ¾ - 0 - 0 - 0 - ⅓
 
-Vendredi - 1 - I It 3 T - - 1 SI.
+Samedi - 1 - 1½ - 0 - 4 - ou 6 - ½ - ⅓
 
-Samedi - 1 - I It - 4 ou 6 1 o' I T
-
-Total - 7 - 7 I°4 4f 4 6 n 2r
-
----
+Total - 7 - 10½ - 4½ - 4 - 6 - 2 - 2⅓
 
 * Ou un livre de bon chou chacun.
 
@@ -4980,81 +4970,75 @@ Edinburgh. Aberdeen. Perth. Inverness. - Jedburgh. Dumfries. Air. - Glasgow. Sti
 
 1770 - 0 - 0 - 0 - 0 - 1 - 0 - 0 - 0 - 0 - Sheep-stealing.
 
----
+1771 - 1 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - Robbery.
 
-1771
+1771 - *1 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - Murder.
 
-I - __ - - Robbery.
+1771 - 0 - 0 - 0 - 0 - *1 - 0 - 0 - 0 - 0 - House-breaking and Theft.
 
-*1 .. - - - .. - - Murder.
+1771 - 0 - 0 - 0 - 0 - *1 - 0 - 0 - 0 - 0 - Theft.
 
-1771 - -- *1 - - House-breaking and Theft.
+1772 - 0 - *1 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - Child-murder.
 
-- -- -- - *1 - - Theft.
+1772 - 0 - 0 - 1 - 0 - 0 - 0 - 0 - 0 - 0 - Horse-stealing.
 
-*T __ - - Child-murder.
+1772 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - *2 - 0 - House-breaking and Theft.
 
-1772 - , - Horse-stealing.
+1773 - 1 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - House-breaking and Theft.
 
-- - - -- - - *2 - House-breaking and Theft.
+1773 - 2 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - Sheep-stealing.
 
-I - ~ - House-breaking and Theft.
+1773 - 2 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - Murder and Robbery.
 
-2 - - - Sheep-dealing.
+1773 - 0 - 0 - 1 - 0 - 0 - 0 - 0 - 0 - *1 - Horse-stealing.
 
-2 - __ - - Murder and Robbery.
+1773 - 0 - 0 - 1 - *1 - 1 - 0 - 0 - 0 - 0 - Murder.
 
-- -- I - *1 Horse-stealing,
+1773 - 0 - 0 - 0 - 1 - 0 - 0 - 0 - 0 - 0 - Robbing the Mail.
 
-1773 - - I *1 1 - - Murder.
+1773 - 0 - 0 - 0 - *2 - 0 - 0 - 0 - 0 - 0 - Theft, Robbery, &c.
 
-- - I - Robbing the Mail.
+1773 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 2 - 0 - Robbery.
 
-- - *2 - Theft, Robbery, &c.
+1773 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 1 - House-breaking and Robbery.
 
-- - -- - - 2 - Robbery.
+1774 - **3 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - Murder.
 
-- - - - I House-breaking and Robbery.
+1774 - *1 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - Returning from Transportation.
 
-*3 - - Murder.
+1774 - *1 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - Horse-stealing.
 
-- - - Returning from Transportation.
+1774 - 1 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - Sheep-stealing.
 
-‘1 - .. - - Horse-dealing.
+1774 - 0 - 0 - 1 - 0 - 0 - 0 - 0 - 0 - 0 - House-breaking and Theft.
 
-1774 I - - - Sheep-dealing.
+1774 - 0 - *1 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - Theft of Cattle.
 
-- - 1 - - House-breaking and Theft,
+1774 - 0 - 0 - 0 - 0 - 0 - *1 - 0 - 0 - 0 - Rape.
 
-- *1 - - - Theft of Cattle.
+1775 - 0 - 0 - 1 - 0 - 0 - 0 - 0 - 0 - 0 - Murder.
 
-- -- - - *1 - - Rape.
+1775 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 1 - 0 - Theft.
 
-__ .... - _ - - Murder.
+1776 - 2 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - Robbery.
 
-1775 I - Theft.
+1776 - 1 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - Child-murder.
 
-2 - - Robbery.
+1776 - 0 - 0 - 1 - 0 - 0 - 0 - 0 - 0 - 0 - Shop-breaking and Theft.
 
-I -- - - Child-murder.
+1776 - 0 - 1 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - Murder.
 
-- - I -- - Shop-breaking and Theft.
+1776 - 0 - 0 - 0 - 0 - 1 - 0 - 0 - 0 - 0 - Theft.
 
-1776 - I - - - Murder.
+1776 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 1 - 0 - Stealing a Letter from Post Office.
 
-- - -- - I - - Thefr.
+1777 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - *1 - Child-murder.
 
-- - - - - 1 - Stealing a Letter from Pod Office.
+1778 - 0 - 0 - 1 - 0 - 0 - 0 - 0 - 0 - 0 - Theft of Cattle.
 
-1777 - - *1 Child-murder.
+1779 - 0 - 0 - 0 - *1 - 0 - 0 - 0 - 0 - 0 - Murder.
 
-1778 - 1 - Theft of Cattle.
-
-1779 - *1 - Murder.
-
-1779 - I - - Murder and Robbery.
-
----
+1779 - 0 - 0 - 0 - 0 - 0 - 0 - 1 - 0 - 0 - Murder and Robbery.
 
 23 - 5 - 7 - 5 - 5 - 1 - 1 - 7 - 3 - 57 - Total Condemned.
 
@@ -5070,9 +5054,9 @@ Number of Convicts Executed, for London and Middlesex, during the last Eight Yea
 
 Murder. - Coiners. - Various Crimes. - Total.
 
-Men. Women. - Men. Women. - Men. Women.
+Men. - Women. - Men. - Women. - Men. - Women.
 
-From Dec. 1771 to Dec. 1772 - 3 0 - 2 0 - 32 0 - 37
+From Dec. 1771 to Dec. 1772 - 3 - 0 - 2 - 0 - 32 - 0 - 37
 
 Dec. 1772 to Dec. 1773 - 1 - 1 burnt -1 - 0 - 29 - 0 - 32
 
@@ -5100,15 +5084,15 @@ AS some County gaols are also the county bridewells, where petty offenders are n
 
 Debtors Men. - Debtors Women. - Felons &c. - Petty Offenders.
 
-Abingdon - 1 0 0 0
+ABINGDON - 1 0 0 0
 
-- Bridewell - 0 0 0 3
+Abingdon Bridewell - 0 0 0 3
 
-Appleby - 7 1 2 0
+APPLEBY - 7 1 2 0
 
-Aylesbury - 6 0 12 0
+AYLESBURY - 6 0 12 0
 
-- Bridewell - 0 0 0 3
+Aylesbury Bridewell - 0 0 0 3
 
 Aylsham - 0 0 0 4
 
@@ -5120,13 +5104,13 @@ Bath - 10 0 0 2
 
 Batley - 17 1 0 0
 
-Beaumaris - 4 0 1 0
+BEAUMARIS - 4 0 1 0
 
 Beccles - 0 0 0 9
 
-Bedford - 7 0 2 0
+BEDFORD - 7 0 2 0
 
-- Bridewell - 0 0 0 2
+Bedford Bridewell - 0 0 0 2
 
 Berkhamsted - 0 0 0 1
 
@@ -5136,35 +5120,35 @@ Berwick - 2 0 0 0
 
 Beverley - 0 0 0 1
 
-- Town - 2 0 0 0
+Beverley Town - 2 0 0 0
 
-- Hall-garth - 1 0 0 0
+Beverley Hall-garth - 1 0 0 0
 
 Birmingham - 0 0 0 8
 
 Bodmin - 0 0 0 13
 
-- Sheriff's Ward - 12 1 0 0
+Bodmin Sheriff's Ward - 12 1 0 0
 
 Boston - 0 0 2 0
 
 Bradford - 11 1 0 0
 
-Brecon - 3 0 3 0
+BRECON - 3 0 3 0
 
 Bristol - 41 6 9 0
 
-- Bridewell - 0 0 0 8
+Bristol Bridewell - 0 0 0 8
 
-- Lawford's-gate - 0 0 0 5
+Bristol Lawford's-gate - 0 0 0 5
 
 Buntingford - 0 0 0 1
 
 Bury St. Edmunds - 18 0 5 0
 
-- Bridewell - 0 0 0 2
+Bury St. Edmunds Bridewell - 0 0 0 2
 
-Cambridge - 20 1 2 0
+CAMBRIDGE - 20 1 2 0
 
 [Sub Total] - 108 9 21 38
 
@@ -5172,135 +5156,131 @@ Cambridge - 20 1 2 0
 
 Debtors Men. - Debtors Women. - Felons &c. - Petty Offenders.
 
----
+Cambridge Bridewell - 0 0 0 7
 
-Cambridge Bridewell o 0 0 7
+Cambridge Town - 1 0 2 0
 
-- Town 1 0 2 0
+Cambridge Town Bridewell 0 0 0 6
 
-- - Bridewell o 0 0 6
+Canterbury - 2 0 2 0
 
-Canterbury 2 0 2 0
+Canterbury Bridewell - 0 0 0 4
 
-- Bridewell o 0 0 4
+CARDIFF - 2 1 0 0
 
-Cardiff 2 1 0 0
+Cardiff Town - 1 0 0 0
 
-Town 1 0 0 0
+CARDIGAN - 1 1 0 0
 
-Cardigan 1 1 0 0
+CARLISLE - 32 0 21 0
 
-Carlisle 32 0 21 0
+Carlisle City - 2 1 0 0
 
-- City - 2 1 0 0
+CARMARTHEN - 13 1 8 0
 
-Carmarthen 13 1 8 0
+Carmarthen Town - 0 0 1 0
 
-Town 0 0 1 0
+CARNARVON - 5 0 1 0
 
-Carnarvon S 0 1 0
+CHELMSFORD - 34 0 7 0
 
-Chelmsford 3+ 0 7 0
+Chelmsford Bridewell - 0 0 0 27
 
-Bridewell 0 0 0 27
+CHESTER - 18 1 4 0
 
-Chester iS 1 4 0
+Chester City - 6 1 5 0
 
-- - City 6 1 5 0
+Chester Bridewell - 0 0 0 1
 
-- - Bridewell 0 0 0 1
+Chesterfield Bridewell - 0 0 0 1
 
-Chesterfield Bridewell 0 0 0 1
+Cirencester - 0 0 0 6
 
-Cirencester 0 0 0 6
+Clare - 0 0 0 1
 
-Clare 0 0 0 1
+Colchester - 0 0 4 0
 
-Cohhejltr 0 0 4 0
+Colchester Bridewell - 0 0 0 1
 
-Bridewell 0 0 0 1
+Coventry - 5 0 4 0
 
-Coventry 5 0 4 0
+Coventry Bridewell - 0 0 0 1
 
-Bridewell 0 0 0 1
+Cowbridge - 0 0 0 2
 
-Cowbridge 0 0 0 2
+Dartford - 0 0 0 5
 
-Dartford 0 0 0 5
+DERBY - 12 0 6 0
 
-Derby 12 0 6 0
+Devizes - 1 0 0 14
 
-Devizes 1 0 0 14
+DOLGELLY - 3 0 2 0
 
-Dolgelly 3 0 2 0
+DORCHESTER - 14 0 6 0
 
-Dorchester - 14 0 6 0
+[Subtotal] 152 6 73 76
 
-152 6 73 76
+Dover Castle - 3 0 0 0
 
-Dover Castle 3 0 0 0
+Dover Town - 1 0 1 0
 
-Town 1 0 1 0
+DURHAM - 12 2 22 0
 
-Durham 12 2 22 0
+Durham Bridewell - 0 0 0 9
 
-- Bridewell 0 0 0 9
+Ely - 7 0 1 0
 
-Ely 7 0 1 0
+Ely Bridewell - 0 0 0 2
 
-- Bridewell 0 0 0 2
+EXETER - 0 0 33 0
 
-Exeter 0 0 33 0
+Exeter Sheriff's Ward - 35 1 0 0
 
-Sheriff's Ward 35 1 0 0
+Exeter City - 2 0 2 0
 
-Carlisle 32 0 21 0 City 2 0 2 0
+Exeter Bridewell - 0 0 0 27
 
-- Bridewell 0 0 0 27
+FLINT - 1 0 3 0
 
-Flint 1 0 3 0
+Fokingham - 0 0 0 2
 
-Fokingham 0 0 0 2
+Gainsborough - 0 0 0 5
 
-Gainsborough 0 0 0 s
+GLOUCESTER - 15 1 24 0
 
-Gloucester «5 1 24 0
+Gloucester City - 1 0 1 0
 
-- City 1 0 1 0
+Gosport - 0 0 0 9
 
-Gosport 0 0 0 9
+Guildford - 0 0 0 3
 
-Guildford 0 0 0 3
+Halifax - 5 0 0 0
 
-Halifax 5 0 0 0
+Halsted - 0 0 0 5
 
-Haljicd 0 0 0 5
+HAVERFORDWEST - 1 0 2 0
 
-Haverfordwest 1 0 2 0
+Haverfordwest Town - 0 1 0 0
 
-Town 0 1 0 0
+HEREFORD - 18 1 9 0
 
-Hereford 18 1 9 0
+Hereford City - 4 0 0 0
 
-City 4 0 0 0
+Hertford - 1 0 17 0
 
-Hertford 1 0 17 0
+Hertford Bridewell - 0 0 0 1
 
-Bridewell 0 0 0 I
+HORSHAM - 12 0 6 0
 
-Horsham 12 0 6 0
+Hull - 8 0 1 0
 
-Hull 8 0 1 0
+Hull Bridewell - 0 0 0 14
 
-- Bridewell 0 0 0 1 I
+HUNTINGDON - 10 1 14 0
 
----
+IPSWICH - 22 2 23 0
 
-Huntingdon - 10 1 14 0
-
-Ipswich - 22 2 23 0
-
-Ivelchester - 32 1 15 0
+IVELCHESTER - 32 1 15 0
 
 [Sub Total] - 190 10 74 74
 
@@ -5310,181 +5290,239 @@ Debtors Men. - Debtors Women. - Felons &c. - Petty Offenders.
 
 Kettering - 0 0 0 2
 
----
+Kingston - 3 0 0 0
 
-Kingston 3 0 0 0 Lynn Regis 3 O 2 O
+Kingston Bridewell - 0 0 0 6
 
-- - Bridewell 0 0 0 6 Maidstone * 5 O 23 0
+LANCASTER - 67 5 11 0
 
-Lancaster. 67 5 11 O - Bridewell 0 0 0 13
+LAUNCESTON - 0 0 4 0
 
-Launceston O O 4 0 Manchester 0 0 0 I I
+Lavenham - 0 0 0 3
 
-Lavenham 0 0 0 3 Marlborough 0 0 0 4
+LEICESTER - 22 1 10 0
 
-Leicester 22 1 10 O Middlewich 0 0 0 5
+Leicester Bridewell - 0 0 0 8
 
-- Bridewell 0 0 0 8 Monmouth 6 0 1 2 O
+Leicester Town - 3 0 2 0
 
-- Town 3 0 2 0 Montgomery 4 0 3 0
+Lewes - 0 0 0 8
 
-Lewes 0 0 0 8 Bridewell 0 0 0 I
+LINCOLN - 22 0 4 O
 
-Lincoln 22 0 4 O Morpeth 9 I 6 O
+Lincoln City - 1 0 0 0
 
-- City I 0 0 0 Bridewell 0 0 0 3
+Litchfield - 3 0 1 0
 
-Litchfield 3 0 1 0 Nantwich 2 0 0 O
+Liverpool - 22 3 0 0
 
-Liverpool 22 3 0 0 Newcastle 13 1 4 O
+Liverpool Bridewell - 0 0 0 8
 
-- Bridewell 0 0 0 8 - small Gaol 0 0 0 1
+LONDON Bridewell - 0 0 0 13
 
-London Bridewell 0 0 0 13 Bridewell 0 0 0 7
+London Borough Compter - 13 5 2 O
 
-- - Borough > 13 5 2 O Newport, Essex 0 0 0 9
+London Clerkenwell - 0 0 45 0
 
-Compter 5 Northampton 14 I •5 O
+London Clerkenwell Bridewell - 0 0 0 171
 
-_ - Clerkenwell 0 0 45 0 - Town 1 0 0 O
+London Fleet - 177 7 0 0
 
-Bridewell 0 0 0 171 Norwich 23 I 29 O
+London King's Bench - 473 25 0 0
 
-- Fleet 177 7 0 0 - City *9 0 5 O
+London Marshalsea - 88 4 0 0
 
-- - King's Bench 473 25 0 0 - Bridewell ! 0 0 0 7
+London Newgate - 46 5 141 0 
 
-Marshalsea 88 4 0 0 Nottingham 12 0 S O
+London New Ludgate - 15 0 0 0
 
-Newgate 46 5 Hi 0 - Town -7 0 0 O
+London Poultry Compt. - 43 3 0 0
 
-- - New Ludgate •5 0 0 0 Oakham 3 0 I O
+London Savoy - 0 0 0 98
 
-Poultry Compt. 43 3 0 0 Odiam 0 0 0 5
+London Tothill-Fields Bridewell - 0 0 0 74
 
-- Savoy 0 0 0 98 Oxford 12 I 4 O
+London Whitechapel - 5 0 0 0
 
-Tothill-Fields lo 0 0 74. Peterborough 1 0 0 O
+London Wood-street Compter - 32 6 11 0
 
-Bridewell s - Bridewell 0 0 0 I
+[Sub Total] 1035 62 241 391
 
-- Whitechapel 5 0 0 0 Petworth 0 0 0 2
+Ludlow - O O 2 O
 
-- Wood-street -i 3Z 6 ] 1 0
+Lynn Regis - 3 0 2 0
 
-Compter J
+MAIDSTONE - 15 0 23 0
 
-I03S 62 241 39*
+Maidstone Bridewell - 0 0 0 13
 
-Ludlow O O 2 O
+Manchester - 0 0 0 11
 
-146 s I 12 69
+Marlborough - 0 0 0 4
 
----
+Middlewich - 0 0 0 5
+
+MONMOUTH - 6 0 11 0
+
+MONTGOMERY - 4 0 3 0
+
+Montgomery Bridewell - 0 0 0 1
+
+MORPETH - 9 1 6 O
+
+Morpeth Bridewell - 0 0 0 3
+
+Nantwich - 2 0 0 0
+
+Newcastle - 13 1 4 0
+
+Newcastle small Gaol - 0 0 0 1
+
+Newcastle Bridewell - 0 0 0 7
+
+Newport, Essex - 0 0 0 9
+
+NORTHAMPTON - 14 1 15 0
+
+Northampton Town - 1 0 0 0
+
+NORWICH - 23 1 29 0
+
+Norwich City - 19 0 5 0
+
+Norwich City Bridewell - 0 0 0 7
+
+NOTTINGHAM - 12 0 5 0
+
+Nottingham Town - 2 0 0 0
+
+OAKHAM - 3 0 1 0
+
+Odiam - 0 0 0 5
+
+Oxford 12 1 4 0
+
+Peterborough - 1 0 0 0
+
+Peterborough Bridewell - 0 0 0 1
+
+Petworth - 0 0 0 2
 
 Plymouth - 1 0 0 0
 
-Portsmouth - 6 - 0 - 1 - 0
+Portsmouth - 6 0 1 0
 
-146 - 5 - 112 - 69
+[Sub Total] 146 5 112 69
 
 204 TABLES.
 
 Debtors Men. - Debtors Women. - Felons &c. - Petty Offenders.
 
-Presteign - 2 - 0 - 2 - 0
+PRESTEIGN - 2 0 2 0
 
-Preston - 0 - 0 - 0 - 17
+Preston - 0 0 0 17
 
-Reading - 8 - 1 - 9 - O
+READING - 8 1 9 O
 
-- Bridewell - 0 - 0 - 0 - 7
+Reading Bridewell - 0 0 0 7
 
-Richmond - 6 - 0 - 0 - 1
+Richmond - 6 0 0 1
 
-Rippon Liberty - 3 - 0 - 0 - 0
+Rippon Liberty - 3 0 0 0
 
-- Town - 1 - 0 - 0 - 1
+Rippon Town - 1 0 0 1
 
-Rochester - 2 - 0 - 0 - 0
+Rochester - 2 0 0 0
 
-Ruthin - 2 - 0 - 2 - 0
+RUTHIN - 2 0 2 0
 
 St. Alban's Liberty - 0 0 1 0
 
-- Bridewell - 0 0 0 3
+St. Alban's Bridewell - 0 0 0 3
 
 St. George's Fields Bridewell - 0 0 0 44
 
-Salisbury - 16 1 15 0
+SALISBURY - 16 1 15 0
 
-- City - 1 0 1 0
+Salisbury City - 1 0 1 0
 
----
+Sheffield - 8 0 0 0
 
-Stafford Bridewell - 0 - 0 - 0 - 9
+Shepton-Mallet - 0 0 0 19
 
-Swaffham - 0 - 0 - 0 - IO
+Sherborn - 0 0 0 2
 
-Taunton - 0 - 0 - 0 - IO
+SHREWSBURY - 19 4 10 0
 
-Thetford 0 0 I 0
+Shrewsbury Town - 1 0 0 8
 
-Thirffi 0 0 0 2
+Shrewsbury Bridewell - 0 0 0 8
 
-Usk 0 0 0 7
+Southampton Sheriff's Ward - 3 0 0 0
 
-Wakefield 0 0 0 20
+Southampton Town - 0 0 1 0
 
-Walsingham 0 0 0 2
+Southampton Bridewell - 0 0 0 1
 
-Warwick 21 I 28 O
+SOUTHWARK - 20 3 14 0
 
-- Bridewell 0 0 0 3 Winchester 12 0 26 O
+Southwell - 0 0 0 17
 
-1 0 0 0 44 - Bridewell 0 0 0 I I
+Spalding - 0 0 0 2
 
-Bridewell J Windsor Csitle I 0 0 0
+STAFFORD - 40 0 14 O
 
-Town 0 0 I O
+[Sub Total] 132 9 69 130
 
-Wijleaeh I 1 0 O
+Stafford Bridewell - 0 0 0 9
 
-Sheffield s 0 0 0 Witney 0 0 0 7
+Swaffham - 0 0 0 10
 
-Shepton-Mallel 0 0 0 •9 Wolverhampton 0 0 0 2
+Taunton - 0 0 0 10
 
-Sherborn 0 0 0 2 Woodbridge 0 0 0 I
+Thetford - 0 0 1 0
 
-Shrewsbury •9 4 10 0 Worcester 18 1 8 O
+Thirsk - 0 0 0 2
 
-- - Town I 0 0 8 Bridewell 0 0 0 6
+Usk - 0 0 0 7
 
-Bridewell 0 0 0 3 City s I 4 O
+Wakefield - 0 0 0 20
 
-Southampton Wrexham 0 0 0 2
+Walsingham - 0 0 0 2
 
-Sheriff's Ward 3 3 Wymundham 0 0 0 5
+WARWICK - 21 1 28 0
 
-Town 0 0 1 0
+Warwick Bridewell 0 0 0 12
 
-- - Bridewell 0 0 0 I
+WINCHESTER - 12 0 26 0
 
-Southwark 20 3 •4 O
+Winchester Bridewell - 0 0 0 11
 
-Southwell 0 0 0 •7
+Windsor Castle - 1 0 0 0
 
-Spalding 0 0 0 2 -
+Windsor Town - 0 0 1 0
 
-Stafford - 40 0 14 O
+Wisbeach - 1 1 0 0
 
-132 9 69 130
+Witney - 0 0 0 7
 
----
+Wolverhampton - 0 0 0 2
+
+Woodbridge - 0 0 0 1
+
+WORCESTER - 18 1 8 0
+
+Worcester Bridewell - 0 0 0 6
+
+Worcester City - 5 1 4 0
+
+Wrexham - 0 0 0 2
+
+Wymundham - 0 0 0 5
 
 Yarmouth - 4 0 4 0
 
-York - 64 9 16 0
+YORK - 64 9 16 0
 
 - City - 9 3 2 0
 
@@ -5492,7 +5530,7 @@ York - 64 9 16 0
 
 - Bridewell - 0 0 0 8
 
-140 16 91 114
+[Sub Total] 140 16 91 114
 
 Though I have visited all the County gaols, and I think all the County bridewells, as also many of the corporation and private-property prisons, yet as there are some few of the two latter which I did not see in 1779, we may add sixty more prisoners on their account; and then probably we shall have nearly the average number of persons confined at one time in the prisons of this kingdom.
 
