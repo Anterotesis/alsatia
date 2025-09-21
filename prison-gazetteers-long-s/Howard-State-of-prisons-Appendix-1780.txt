@@ -1416,7 +1416,7 @@ This house was clean and well regulated. The goaler readily supplied me with a b
 
 * Over the gate of the house is this inscription:
 
-Hie criminum frequentia
+Hic criminum frequentia
 
 Mortalium dementia
 
@@ -1692,11 +1692,11 @@ In the Sal Petriere, or great hospital, there were but few of the female convict
 
 [Bicetre.]
 
-I was two mornings at the Bicetre, where I saw in the two halls above two hundred prisoners. Such a number confined together in idleness, must produce a great corruption of manners. Many at their unhappy end have ascribed their ruin to the flagitious examples they have here seen, and the instructions here given them.
+I was two mornings at the Bicétre, where I saw in the two halls above two hundred prisoners. Such a number confined together in idleness, must produce a great corruption of manners. Many at their unhappy end have ascribed their ruin to the flagitious examples they have here seen, and the instructions here given them.
 
 The French now seem to be sensible of the bad police of confining persons here in idleness; for within the two last years they have set some of their prisoners to work. In one room I saw thirty-six employed in polishing plate glasses: and they are erecting a mill for grinding corn, which is to be worked by sixteen men at a time.
 
-There were sixty-three in the infirmary, most of them ill of the scorbut. They contract this distemper in a year or two from their confinement, which is extremely close, since they are never suffered to go out of their rooms. Many lose the use of their limbs by it. I saw several such miserable objects at St. Louis's hospital, where they are often admitted at the expiration of their term at the Bicetre.
+There were sixty-three in the infirmary, most of them ill of the scorbut. They contract this distemper in a year or two from their confinement, which is extremely close, since they are never suffered to go out of their rooms. Many lose the use of their limbs by it. I saw several such miserable objects at St. Louis's hospital, where they are often admitted at the expiration of their term at the Bicétre.
 
 [Galley-Slaves.]
 
@@ -4952,7 +4952,7 @@ This mark * denotes those that were pardoned; the rest were executed.
 
 NORTHERN CIRCUIT. SOUTHERN CIRCUIT. WESTERN CIRCUIT.
 
-Edinburgh. Aberdeen. Perth. Inverness. - Jedburgh. Dumfries. Air. - Glasgow. Stirling - Crimes.
+Edinburgh. - Aberdeen. Perth. Inverness. - Jedburgh. Dumfries. Air. - Glasgow. Stirling - Crimes.
 
 1768 - 1 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - Forgery.
 
@@ -5058,7 +5058,7 @@ Men. - Women. - Men. - Women. - Men. - Women.
 
 From Dec. 1771 to Dec. 1772 - 3 - 0 - 2 - 0 - 32 - 0 - 37
 
-Dec. 1772 to Dec. 1773 - 1 - 1 burnt -1 - 0 - 29 - 0 - 32
+Dec. 1772 to Dec. 1773 - 1 - 1 burnt - 1 - 0 - 29 - 0 - 32
 
 Dec. 1773 to Dec. 1774 - 0 - 1 - 0 - 0 - 31 - 32
 
@@ -5332,7 +5332,7 @@ London King's Bench - 473 25 0 0
 
 London Marshalsea - 88 4 0 0
 
-London Newgate - 46 5 141 0 
+London Newgate - 46 5 141 0
 
 London New Ludgate - 15 0 0 0
 

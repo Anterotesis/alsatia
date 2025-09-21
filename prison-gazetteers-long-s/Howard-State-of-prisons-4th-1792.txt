@@ -1288,7 +1288,7 @@ In this city they compute 250,000 souls†, about one third of those in London:
 
 Deaths in 1774, - 6649.
 
-1775, - 7895. 
+1775, - 7895.
 
 1776, - 8982.
 
@@ -2222,7 +2222,7 @@ Sect. IV. RUSSIA. 89
 
 [Petersburg House of Education.]
 
-The principal regulations for conducting this institution are the following. 
+The principal regulations for conducting this institution are the following.
 
 The children are admitted between five and six years of age, and continued on the establishment twelve years. They are divided into classes according to their ages, four of nobles with fifty in each class, and four of commoners with seventy in each class. — In every third year on the 21st of April, (the birth-day of the Empress) fifty children of the nobility, and seventy of commoners are taken in, to replace the same numbers discharged.
 
@@ -2796,7 +2796,7 @@ Debtors. - Petty Offenders. - Sent to the Galleys. - Executed.
 
 Total - 3036 - 1126 - 142 - 2
 
-The above is extracted from, Indication Sommaire des Reglements &c. de Leopold Grand Duc de Toscane &c. A Bruxelles, 1779. 
+The above is extracted from, Indication Sommaire des Reglements &c. de Leopold Grand Duc de Toscane &c. A Bruxelles, 1779.
 ---
 Sect. IV. ITALY.
 
@@ -3004,7 +3004,7 @@ There were three other Prisons: one contained eighty prisoners, another near six
 
 The Galleys were moored about ten feet from the shore. In the first were two hundred and sixty slaves; in the second two hundred and ninety-eight; in the third two hundred and seventy; and in the fourth, four hundred; most of them flout and healthy. All were chained two and two together. Their bread was hard, but sweet. About twenty-six ounces a day was allowed them; and when employed in the arsenal and other public works, they have an extraordinary allowance of near a penny a day. After escapes, if they are retaken, their whole term is doubled. Each galley has a chaplain, and public worship on Sundays and holydays.
 
-An account is taken every year of the inhabitants of this city; and at Easttr 1777, their number, exclusive of soldiers and marines, was 350,061, viz.
+An account is taken every year of the inhabitants of this city; and at Easter 1777, their number, exclusive of soldiers and marines, was 350,061, viz.
 
 Males 170,574 Females 165,642 Priests 3303 Monks 4231 Nuns 6311
 
@@ -3014,9 +3014,7 @@ f In visiting the prisons of Italy, I observed, that in general great attention 
 
 From the heat of the climate, one might imagine the gaol-fever would be very likely to prevail; but, I did not find it in any of the prisons.
 
-Naples
-
-Prisons.
+Naples Prisons.
 
 Galleys.
 
@@ -3063,19 +3061,17 @@ In one of the Galleys just returned from conveying some noblemen to their countr
 The hospital for these galleys is on floore; and in it are hung up the regulations, which consist chiefly of such orders as the following:
 
 "That five superintendents shall be appointed by the magistrates, who every month shall draw lots, to determine which of the galleys they are to inspect. — That exact lists of the crews, and of the sick in the infirmary, with an account of the time of their admission, shall be taken and kept, with the assistance of the physician, chaplain, and surgeon. — That the secretary shall keep a register of all things necessary to be provided; bread, wine, meat, pease, beans, rice, &c. &c. — That four caldrons of broth shall be allowed weekly to a galley, besides kettles of broth statediy given them in the three winter months. — That when the superintendents discontinue the allowance of meat, cheese, oil, and stockfish, the chaplain shall see that each of the slaves be served daily
-
+---
 120 FOREIGN PRISONS.
 
 [Genoa Galleys.]
 
-Hospitals.
-
-Milan Prisons.
-
 with half a pint of wine. — That the physicians shall keep exact accounts of their orders of meat, wine, pastry, &c. — That the captains and midshipmen shall take care that all the regulations be exactly observed."
 
-The Turkish slaves had many little shops on shore, for selling coffee, perfumes, &c. and for (having; like those I remember to have seen about fifteen years since at Marseilles. The bread allowance to the slaves is three pounds and a half, for two days in summer; and three pounds in winter.
+The Turkish slaves had many little shops on shore, for selling coffee, perfumes, &c. and for shaving; like those I remember to have seen about fifteen years since at Marseilles. The bread allowance to the slaves is three pounds and a half, for two days in summer; and three pounds in winter.
 
+[Hospitals.]
+---
 In the great Hospital there were about three hundred men, and six hundred women. All sick persons of any nation are admitted into it; and it is one of the best and least offensive of the public hospitals of Italy. Here was a room and ward for foundlings, crowded and close , and the poor infants were cruelly bound hands and feet with bandages, as in the hospital at Florence, and other cities in Italy.
 
 There were also in this hospital apartments for the insane. These apartments were close and dirty; and the calm and quiet, I found inhumanly confined in the same room with the noisy and turbulent.
@@ -3083,6 +3079,8 @@ There were also in this hospital apartments for the insane. These apartments wer
 The Albergo hospital, situated on an eminence within fight of the harbour, is an asylum for boys and girls. There were in it a hundred and seventeen of the former, and four hundred and eighty-two of the latter. It is something similar to the noble and well-regulated hospital of San Michele at Rome. Over the door of the great room, where numbers were spinning and weaving, is this inscription:
 
 Silentium et Obedientia.
+
+[Milan Prisons.]
 
 At Milan, in the great Prison, there are twenty secrete chambers. The general size of these rooms is eleven feet by twelve to fifteen. In some were only one or two persons, but in others six or eight: the windows are towards a high wall eleven feet distant. These are some of the strongest*: and most retired rooms in the Italian prisons, in which the most atrocious offenders, and those who are imprisoned for life, are confined. They are inaccessible but by a special order. The entrance is guarded by two doors, between which is a narrow space, just sufficient to admit two persons. Into this you are locked before the turnkey opens the inner door, for fear these desperate criminals should murder the keeper for the keys, and attempt to rush out.
 
@@ -3098,6 +3096,8 @@ In L'ArgaJlro there were three hundred and fifty-nine prisoners, healthy and str
 
 Sect. IV. ITALY. 121
 
+[Milan.]
+
 wheelwrights, cabinet-makers, turners, nailers, rope-makers, leather-dreflers, painters on gauze, lpinners and weavers. Many, here learn trades; fo that there is a probability, that when their term is finished, they will become u/eful members of society; which should be the grand object in all such houses. They receive for themselves one third of what they earn, and two thirds go to the house.
 
 Their dormitory is a spacious room, with three stages in it on which they lie. In the centre of the ceiling are four large apertures, and sixteen small ones.— A prisoner, whose employment was drawing designs and patterns, gave me a plan of the rooms and courts in this prison.
@@ -3106,6 +3106,8 @@ There are two courts, a pump, and running water for washing the linen of the pri
 
 In this house there is an hospital, a chapel, and an apartment for the chaplain.
 
+[House of Correction.]
+
 The Casa di Correzione is now (1778) building, on a noble and spacious plan-f. The dormitory and the work-rooms for the men are finished and occupied. The two work-rooms for the women are large and lofty (twenty-three feet wide and twenty-five feet high ;) and in each there are five large windows, placed high above the floor. At one corner of these rooms are stone basonS, with water laid in to them. In one of the men’s work-rooms there were forty looms employed weaving linen, cotton, and diaper : in which also, and in two others opening into it, were warping and tzvijling-mills, and winding-wheels. Under these was a calender : and some were employed in beating (not carding) cotton. In a detached temporary building I law a ptifoner employed in weaving gauze; who (as I conjectured from the great resort to him) was reckoned curious in this art. With the assistance of some that were employed with him, he kept four looms at work. Other prisoners were bleaching the cloth manufactured in the house ; and some were at work as masons and labourers, in this great building.
 
 Over the work-rooms is the great hall or dormitory, the room for boys, and the infirmary. The dormitory is lightsome, airy and clean, and appears evidently to be an improvement on that of San Michele at Rome. I therefore insert the plan of
@@ -3113,50 +3115,36 @@ Over the work-rooms is the great hall or dormitory, the room for boys, and the i
 * One loaf was equal to the dally allowance of two prisoners; it was divided into two equal parts with an engine, and each received his tws portion every day.
 
 •f. The late Count de Firmian, governor of Lombardy, whose amiable chara&er is well known to our English travellers, not only honoured me with the flan, but favoured me with every advantage for examining the prisons.
+---
+122 FOREIGN PRISONS.
 
-R	this
+[Milan House of Correction.]
 
-Milan.
+this also. It consists of a great room (one hundred and twenty-four feet by thirty-one). On each side of this room or hall are three stone galleries, two feet eight inches wide, with iron rails. The chambers are numbered, amounting to one hundred and twenty: these are all similar, nine feet two inches by eight feet two; they have one window outward, three feet by two; and one towards the great room, two feet five inches by one foot five*: they are furnished with a bed and bedding, a stool, and a vault. In the infirmary, and the dormitory for boys, as well as in the great hall, there were stone sinks and water laid in. Near the end of the room there is an altar with a cupola over it. On one side of the altar is the dormitory for boys, and on the other the infirmary. And all together make the figure of a cross, which is the form of many hospitals in Italy and other Roman catholic countries.
 
-House of Correction.
+There were near three hundred prisoners in this house; twenty of whom were chained to two benches in the dormitory, but at the same time employed in spinning, or making and mending clothes. — Adjoining to the work-rooms there are two or three rooms for warehouses. All the prisoners work in irons.
 
-122
+[Hospitals.]
 
-FOREIGN PRISONS.
-
-Milan
-
-House of Correction.
-
-Hospitals.
-
-I
-
-Turin
-
-Citadel.
-
-this also. It consists of a great room (one hundred and twenty-four feet by thirty-one). On each fide of this room or hall are three stone galleries, two feet eight inches wide, with iron rails. The chambers are numbered, amounting to one hundred and twenty : these are all similar, nine feet two inches by eight feet two; they have one window outward, three feet by two; and one towards the great room, two feet five inches by one foot five *: they are furnished with a bed and bedding, a stool, and a vault. In the infirmary, and the dormitory for boys, as well as in the great hall, there were flone finks and water laid in. Near the end of the room there is an altar with a cupola over it. On one fide of the altar is the dormitory for boys, and on the-other the infirmary. And all together make the figure of a cross, which is the form of many hospitals in Italy and other Roman catholic countries.
-
-There were near three hundred prisoners in this house; twenty of whom were" chained to two benches in the dormitory, but at the same time employed in spinning, or making and mending clothes.—Adjoining to the work-rooms there are two or three-rooms for warehouses. All the prisoners work in irons.
-
-In visiting the great Hospital, my expectations, which had been too much raised by the accounts of travellers, were disappointed. Most of the wards are on the ground-floor, and not lofty, as there are rooms over them. They are also dirty and offensive, though provided with spacious drains. They have a middle row cf beds, and in many of the beds were two patients: but care was taken to separate the patients in fevers from those who were attended by surgeons.—Most of the chirurgical patients had been wounded in sudden quarrels or assaults.
+In visiting the great Hospital, my expectations, which had been too much raised by the accounts of travellers, were disappointed. Most of the wards are on the ground-floor, and not lofty, as there are rooms over them. They are also dirty and offensive, though provided with spacious drains. They have a middle row of beds, and in many of the beds were two patients: but care was taken to separate the patients in fevers from those who were attended by surgeons. — Most of the chirurgical patients had been wounded in sudden quarrels or assaults.
 
 The Hospital of S. Gio di Dio exhibits that cleanliness and attention, which this fraternity always discovers.
 
-In the Hospital for orphans, called Ld Stella, the work and bed-rooms were spacious, neat and agreeable. There were three hundred girls in it; whose employment was making lace on round pillows. I wished them a more healthy employment, and that they had used the square pillows of Flanders; for constant (looping mud be prejudicial. Such as are thus employed are generally of a pale and sickly complexion.
+In the Hospital for orphans, called Lá Stella, the work and bed-rooms were spacious, neat and agreeable. There were three hundred girls in it; whose employment was making lace on round pillows. I wished them a more healthy employment, and that they had used the square pillows of Flanders; for constant stooping must be prejudicial. Such as are thus employed are generally of a pale and sickly complexion.
 
-I might farther take notice of the great Lazaretto at Milan, the medical society for giving medicines to the poor, and Prince Triulzts hospital for eighty aged men, and the same number of aged women. But I must hasten to
+I might farther take notice of the great Lazaretto at Milan, the medical society for giving medicines to the poor, and Prince Triulzi's hospital for eighty aged men, and the same number of aged women. But I must hasten to
 
-Turin. In the Citadel there were one hundred and seventy in irons; some had
+[Turin Citadel.]
 
-the half-chain, others were chained two and two together. These prisoners continue
+Turin. In the Citadel there were one hundred and seventy in irons; some had the half-chain, others were chained two and two together. These prisoners continue
 
-* I make an apology for being fo minute in my description of prisons in England, and may I not make the fame apology for the minuteness in my accounts of foreign prisons and hospitals. I should never have given myself the trouble of taking the dimensions of rooms, were it not that I hoped to give a clearer idea of the buildings, and that perhaps some hints might be derived for the improvement of our own.
+* I make an apology for being so minute in my description of prisons in England, and may I not make the same apology for the minuteness in my accounts of foreign prisons and hospitals. I should never have given myself the trouble of taking the dimensions of rooms, were it not that I hoped to give a clearer idea of the buildings, and that perhaps some hints might be derived for the improvement of our own.
 
 Sect. IV. GENEVA. 123
 
-always unemployed, till they are sent to the galleys at Villa-Franca. Their Turin. unhealthy countenances bespoke the little attention paid to them.—In this prison there was a chamber for convalescents, who not being fit for labour, are continued here forty days before they are sent to the galleys.
+[Turin.]
+---
+always unemployed, till they are sent to the galleys at Villa-Franca. Their unhealthy countenances bespoke the little attention paid to them.—In this prison there was a chamber for convalescents, who not being fit for labour, are continued here forty days before they are sent to the galleys.
 
 In the great Hospital of S. Giovanni there were a multitude of old men and women. Hospitals. whose apartments had a very improper communication with the wards of the sick and dying.
 
@@ -3205,25 +3193,25 @@ Sect. IV. SWITZERLAND.
 *25
 
 At Lausanne I visited the prison, in which there were at that time no prisoners. Lausanne, There were dungeons; but on entering each of them, the keeper observed, that we were not yet upon the ground, but there were cellars underneath.—On converting with Dr. Tiflot, he expressed his fe at our gaol-distemper; said, “ I should not find it in Switzerland:” and added, that “ he had not heard of its being any where but in England.” When I mentioned the late ad of parliament for preserving the health of our prisoners, he approved of it highly, especially the clause which required white-washing the rooms, and keeping them clean.—I did not (as the dodor said) find the gaol-fever in Switzerland.
+---
+[Freyburg.]
 
-At Freyburg, there were no prisoners in the two towers; one of which is called Freyeurg, Ld Tour Mativaife, probably from the close rooms of confinement (eight feet by fix, and fix feet high) and the excruciating engines of torture kept there.—In the house of correction there were thirteen men, and seven women ; the former are employed abroad in cleaning the streets, &c. the latter in spinning. They have soup twice a day.; meat only three times a year; viz. Christmas, Easter, and Whitsuntide.
+At Freyburg, there were no prisoners in the two towers; one of which is called La Tour Mauvaise, probably from the close rooms of confinement (eight feet by six, and six feet high) and the excruciating engines of torture kept there. In the house of correction there were thirteen men, and seven women; the former are employed abroad in cleaning the streets, &c. the latter in spinning. They have soup twice a day; meat only three times a year; viz. Christmas, Easter, and Whitsuntide.
 
 [Bern.]
 
 I revisited all the prisons at Bern, but here also I found none confined except in the two houses of correction. One of these houses is for citizens, in which the men and women were spinning, for they never work abroad.
-
-In the other (the Schallenhaus) there were, in 1776, one hundred and twenty-four Haves; and in 1778, one hundred and forty-one. They have not each a room to themselves; but there is some distindion of the more and less criminals both in their rooms and work *. The women’s wards are totally separate from those of the men. Most of the men are employed in cleaning and watering the streets., and public walks ; removing the rubbish of buildings; and the fnow and ice in winter. The city is one of the cleaned I have seen. Four or five are chained to a small waggon, and draw; others, more at liberty, sweep, load, &c. As the employment of the men convids abroad is somewhat similar to their employment at Milan, I give a represenration of it from a draught taken by a painter in this city : I have also given a view of the employment of the women; though I detest the custom of daily exposing that sex to such ignominy and severity, unless, when they are totally abandoned, and have loft all the foster feelings of their sex. The convids are known by an iron collar, with a hook preceding above their heads: weight about five pounds : I saw one riveted on a criminal in about two minutes*
+---
+In the other (the Schallenhaus) there were, in 1776, one hundred and twenty-four slaves; and in 1778, one hundred and forty-one. They have not each a room to themselves; but there is some distindion of the more and less criminals both in their rooms and work *. The women’s wards are totally separate from those of the men. Most of the men are employed in cleaning and watering the streets., and public walks ; removing the rubbish of buildings; and the fnow and ice in winter. The city is one of the cleaned I have seen. Four or five are chained to a small waggon, and draw; others, more at liberty, sweep, load, &c. As the employment of the men convids abroad is somewhat similar to their employment at Milan, I give a represenration of it from a draught taken by a painter in this city : I have also given a view of the employment of the women; though I detest the custom of daily exposing that sex to such ignominy and severity, unless, when they are totally abandoned, and have loft all the foster feelings of their sex. The convids are known by an iron collar, with a hook preceding above their heads: weight about five pounds : I saw one riveted on a criminal in about two minutes*
 
 They work in summer from seven to eleven, and from one to six; in winter from
-
-• An old keeper having left the door of one of the men’s wards unlocked, twelve prisoners fenced the outer door and walked off; the people who happened to see them, suffering them to pass, because they supposed they were going to work in the streets. When four or five of them some time after were retaken and carried to their old lodgings, the magistrates ordered that they should not be punished, considering that every one must be desirous of regaining liberty. As they had not been guilty of assault or violence in making their escape, the punishment fell on the keeper for his negligence.
+---
+* An old keeper having left the door of one of the men’s wards unlocked, twelve prisoners fenced the outer door and walked off; the people who happened to see them, suffering them to pass, because they supposed they were going to work in the streets. When four or five of them some time after were retaken and carried to their old lodgings, the magistrates ordered that they should not be punished, considering that every one must be desirous of regaining liberty. As they had not been guilty of assault or violence in making their escape, the punishment fell on the keeper for his negligence.
 
 126 FOREIGN PRISONS.
 
-Bern.
-
-*v
-
+[Bern.]
+---
 eight to eleven, and from one to four. I asked the men, "Whether they would choose to work so, or be confined within doors?” “Much rather * they said, “ work “ thus.” The less criminal are in separate wards: these work within doors, spinning, &c. in a large room; and have not the iron collar *. Fifteen I was sorry to see miserable for want of employment f. The prison is not commodious, nor kept very clean. The daily allowance, two pounds of bread ; and twice a day a pint and half of soup, made of barley, beans, &c. which they fetch from the great hospital. In their leisure hours they make and mend shoes, make straw hats, &c. and deliver them as they pass on at work. They are not buffered to practise gaming of any fort. Indeed this is forbidden to all the common people; as playing for any considerable fum is to those of higher rank. The keeper and turnkey are to see that the prisoners perform their devotions every morning and evening. The chaplains pray with them and instruct them on Sunday and Thursday. Once a month other clergymen superin-rend the service. No visitant admitted on Sunday. Thus a principal object here is to make them better men.
 
 Great care is to be taken of the sick. No futling place to be kept in this house of correction. The keeper is strictly forbidden to fell the prisoners wine, brandy, or other provisions; and required entirely to forego any such emolument. The bedding and clothing are minutely described, both as to quality and value. I have a copy of alt the orders, twenty-seven in number, dated March 14, 1741. These which I have mentioned may serve for a specimen.
@@ -3374,7 +3362,7 @@ It is remarked to be "a very false notion, that a man who lives upon bread and w
 
 It is mentioned as an essential point to preserve order, and prevent abuses, " that " one of the city magistrates should every week in rotation visit the house, and closely " insped every thing relative to its management."
 
-# That this is a very unhealthy business Is evident from the countenances of those whom I saw thus employed, and from the disagreeable sensations I alway received from the dull in the rooms where they were grinding. The medical gentlemen prescribe bleeding and physic to these persons two or three times a year.
+# That this is a very unhealthy business is evident from the countenances of those whom I saw thus employed, and from the disagreeable sensations I alway received from the dull in the rooms where they were grinding. The medical gentlemen prescribe bleeding and physic to these persons two or three times a year.
 
 *3*
 
@@ -4244,7 +4232,7 @@ The unhealthy countenances of the prisoners at the Citadel shew the pernicious e
 
 Sect. IV. FRANCE. 165
 
-In the General Hospital for the poor of both sexes there were about two thousand in May 1783. Those advanced in years are allowed one third of their earnings. There were upwards of three hundred of the girls making lace, for each piece of which they are rewarded with a small donation. Many of the boys, though lodged and boarded here, learn trades in the city; and at twenty years of age, all of both sexes are discharged from the hospital. The girls looked healthy, and their dormitories, infirmaries, and work-rooms were clean. — The internal regulations of this house, and of the infirmary, (Hotel-Dieu), are very good; but (taking up more than twenty quarto pages) they are too long to be inserted.
+In the General Hospital for the poor of both sexes there were about two thousand in May 1783. Those advanced in years are allowed one third of their earnings. There were upwards of three hundred of the girls making lace, for each piece of which they are rewarded with a small donation. Many of the boys, though lodged and boarded here, learn trades in the city; and at twenty years of age, all of both sexes are discharged from the hospital. The girls looked healthy, and their dormitories, infirmaries, and work-rooms were clean. — The internal regulations of this house, and of the infirmary, (Hôtel-Dieu), are very good; but (taking up more than twenty quarto pages) they are too long to be inserted.
 
 The two Hospitals La Comtejfe and St. Sanveur are lofty buildings, designed only for the admission of men, for in this city the hospital last described is the only one that takes in women. The patients are distinguished into three clafifes, viz. wounded — very sick — and recovering. Each class has a separate ward, and every patient a separate bed. When a sick person arrives at either of these hospitals, his bed is immediately shewed him; after which one of the fillers brings warm water to him, waflies his feet,. dries them, and kisses one foot. Another brings clean sheets and a clean towel. A man servant makes and warms the bed, and the patient goes directly into it. All the patients are kindly attended by the nuns, but from prejudices caused by their retired mode of living, some inconveniences arise, such as, neglect of washing the rooms and opening the windows; in consequence of which, the wards are rendered offensive, and very unhealthy, particularly in the night-time.
 
@@ -4302,7 +4290,7 @@ The daily allowance to criminals is a pound and a half of good bread, and some s
 
 [Paris.]
 
-removed. The cause of it was generally thought to be want of cleanliness in prisons; where several of those confined had worn their linen for many months, and infected the most healthy new-comers that were put in the room with them. Eight hundred were ill of it at once in the hospital of St. Louis, to which all that were sick of it in the Hotel-Dieu had been carried. By the Abbe Breton's exerting himself on this occasion, a fund was raised to support prisoners in the Grand Chatelet with clean linen every week. This put an effectual stop to the malady in that prison. Numbers afterwards joined the society; the King and Queen honoured it with their contributions; and the charity extended to three other prisons: so that at last, seven hundred prisoners were provided for in the same manner, and a stock of linen requisite for that purpose, viz. five thousand shirts, was completed. The elder prisoners have charge of the linen that is in the prison; they receive it (every Saturday) and return it, and are gratified by the society; which continues to the present time*.
+removed. The cause of it was generally thought to be want of cleanliness in prisons; where several of those confined had worn their linen for many months, and infected the most healthy new-comers that were put in the room with them. Eight hundred were ill of it at once in the hospital of St. Louis, to which all that were sick of it in the Hôtel-Dieu had been carried. By the Abbe Breton's exerting himself on this occasion, a fund was raised to support prisoners in the Grand Chatelet with clean linen every week. This put an effectual stop to the malady in that prison. Numbers afterwards joined the society; the King and Queen honoured it with their contributions; and the charity extended to three other prisons: so that at last, seven hundred prisoners were provided for in the same manner, and a stock of linen requisite for that purpose, viz. five thousand shirts, was completed. The elder prisoners have charge of the linen that is in the prison; they receive it (every Saturday) and return it, and are gratified by the society; which continues to the present time*.
 
 Besides this, there is scarce a prison in the city that has not a patroness†; a lady of character, who voluntarily takes care that those in the infirmaries be properly attended; supplies them with fuel, and linen , does many kind offices to the prisoners in general; and by soliciting the charity of others, procures not only the relief and comforts mentioned already, but soup twice a week, and meat once a fortnight.
 
@@ -4472,7 +4460,7 @@ Water in plenty was thought of such importance here, that they have a stone well
 
 174 FOREIGN PRISONS.
 
-[Paris Bicetre.]
+[Paris Bicétre.]
 
 they were drawn up by horses, and emptied themselves into a reservoir, sixty-four feet square, and nine deep. A bucket was drawn up in five minutes. They worked sixteen hours every day, not excepting Sundays; and drew daily about five hundred hog-sheads. Three horses worked at a time, and twelve were kept for the service.
 
@@ -4480,7 +4468,7 @@ The French are now sensible of the bad police of confining persons in idleness; 
 
 [Salpetriere.]
 
-The great hospital, or Salpetriere, near the city, is for women and girls, their number is upwards of five thousand. Many of the girls are employed on the finest embroidery. Here are numbers of poor and insane; and a sisterhood of religieuses reside in the house. The criminals are quite separate from the others, and seldom seen by strangers. There are but few of these employed- — At my last visit there were eight hundred and twenty confined, most of them by their parents or relations. Many of their lodging-rooms are six feet ten inches by five feet seven. There are three infirmaries; in two of them the patients lay in single beds, but the other (for criminals) was crowded, and had three in a bed. The whole house was kept clean and quiet by the great attention of the good sisters.
+The great hospital, or Salpêtriere, near the city, is for women and girls, their number is upwards of five thousand. Many of the girls are employed on the finest embroidery. Here are numbers of poor and insane; and a sisterhood of religieuses reside in the house. The criminals are quite separate from the others, and seldom seen by strangers. There are but few of these employed- — At my last visit there were eight hundred and twenty confined, most of them by their parents or relations. Many of their lodging-rooms are six feet ten inches by five feet seven. There are three infirmaries; in two of them the patients lay in single beds, but the other (for criminals) was crowded, and had three in a bed. The whole house was kept clean and quiet by the great attention of the good sisters.
 
 [Bastille.]
 
@@ -4526,9 +4514,9 @@ Many of my readers, acquainted with the strict police of France, would have supp
 
 [Hospitals.]
 
-The Hospitals of Saint-Louis and the Hotel-Dieu for the sick, are the two worst hospitals that I ever visited. They were so crowded, that formerly I have often seen five or six in one bed, and some of them dying.
+The Hospitals of Saint-Louis and the Hôtel-Dieu for the sick, are the two worst hospitals that I ever visited. They were so crowded, that formerly I have often seen five or six in one bed, and some of them dying.
 
-The Hotel-Dieu is situated in the closest part of the city J. The new wards are too low. In 1783, the hospital was cleaner than at my former visits, but in the great ward (St. Charles.) and in the women's wards, many of the patients were two or three in a bed§.
+The Hôtel-Dieu is situated in the closest part of the city J. The new wards are too low. In 1783, the hospital was cleaner than at my former visits, but in the great ward (St. Charles.) and in the women's wards, many of the patients were two or three in a bed§.
 
 Sir William Blackstone observes, that the preservation of personal liberty is of great importance to the public:" for if once it were left in the power of any, the highest, magistrate to imprison arbitrarily whomever he or his officers thought proper, (as in France it is daily practised by the crown ||) there would " soon be an end of all other rights and immunities."
 
@@ -4538,9 +4526,9 @@ of The article is as follows.
 
 " Les geoliers conduiront let personnts qui 'viendront faire des charites dans let lieux de la prison ou ellet " defreront Us difribuer, ce qu'el/es pourrontfaire ellet-memet fur le preau ou dans la cour; mes les aumones ne " pourront etre distrlbuees dans les cachots noirs que par les mains du geolier, en prefeme des personnes qui les " porteront."
 
-t One cannot but wish, that after the fire in the Hotel-Dieu a few years since, the hospital had been removed to a more airy situation.
+t One cannot but wish, that after the fire in the Hôtel-Dieu a few years since, the hospital had been removed to a more airy situation.
 
-§ Over one of the gates of the Hotel-Dieu is the following inscription, which, from its application to such a place, has an air of ridicule and even of profaneness.
+§ Over one of the gates of the Hôtel-Dieu is the following inscription, which, from its application to such a place, has an air of ridicule and even of profaneness.
 
 "C'est icy la Maison de Dieu, et la Porte du Ciel."
 
@@ -4550,7 +4538,7 @@ Sect. IV. FRANCE. 177
 
 The Hospital of Saint-Louis Hands out of the city. There is a considerable ascent to the wards, and there is no floor over them. They were dirty and noisy, and in many of the beds there were three patients. — According to the lists I procured at my visits in 1783, the number of patients was.
 
-May 6, Hotel-Dieu. 1709> St. Louis. — 662.
+May 6, Hôtel-Dieu. 1709> St. Louis. — 662.
 
 16, J7°7> — 694.
 
@@ -4570,7 +4558,7 @@ This fraternity has also the charge of the hospital for Convalescents, which con
 
 The Hopital des petites-Maisons is situated in a spacious garden or court, containing a number of small houses for the aged and infirm of both sexes, and single rooms for the insane. Here are also six rooms for the sick, in which are a hundred and thirteen beds; a new room for forty beds is not yet occupied. The good fifters kindly attend. The neatness and cleanliness I observed here engaged me often to repeat my visits. —
 
-My learned friend Dr. Price will be pleased to find feme alteration for the better in the Hotel-Dieu, for the number that died in 1782 was considerably under a fifth of those that were admitted. See his Reversionary Payments, vol. I. />. 296. 4th edit.
+My learned friend Dr. Price will be pleased to find feme alteration for the better in the Hôtel-Dieu, for the number that died in 1782 was considerably under a fifth of those that were admitted. See his Reversionary Payments, vol. I. />. 296. 4th edit.
 
 178 FOREIGN PRISONS.
 
@@ -4590,7 +4578,7 @@ An infirmary is designed, and oculifts are to be appointed, who, besides attendi
 
 [Foundling Hospital.]
 
-At the Foundling-hospital near the Hotel-Dieu, the infants lie in neat cradles with white furniture. May 21, 1783, there were here only fifty, the reason of which is, that they are sent into the country soon after they are received. They remain in the country five or six years, and when they are brought back, most of the girls are placed at S alp e trier e, and the rest with the boys in the suburb of St. Antoine; in which last place there were at this time four hundred and fifty boys and girls. — I learned from the
+At the Foundling-hospital near the Hôtel-Dieu, the infants lie in neat cradles with white furniture. May 21, 1783, there were here only fifty, the reason of which is, that they are sent into the country soon after they are received. They remain in the country five or six years, and when they are brought back, most of the girls are placed at S alp e trier e, and the rest with the boys in the suburb of St. Antoine; in which last place there were at this time four hundred and fifty boys and girls. — I learned from the
 
 [Plate: Lyons Hotel Dieu.]
 
@@ -4612,9 +4600,9 @@ In the four horrid ones at the Prison de St. Joseph (formerly a' convent) at Lyo
 
 To the Pierre-en cize3 a state prison at Lyons, you afeend by more than two hundred steps: among the few prisoners in it, I- fat talking a while with one who said he was in the fiftieth year of his confinement.
 
-[Hotel-Dieu.]
+[Hôtel-Dieu.]
 
-I cannot leave this city without giving a short account of the Hotel-Dieu, as it is the best hospital I have seen in France. It is near the Rhone; the principal building is in the form of a cross, near three hundred feet from end to end both ways. The wards thirty-two feet wide, and twenty-five feet high; with apertures between the joists of the floor above, and two tier of windows; in many of them two casements. Three rows of iron bedsteads in each ward. Under a dome in the centre is an octagon altar, in view from every part of the cross. Prayers, which are read there twice a day, can be heard through the wards. This part of the house is for those
+I cannot leave this city without giving a short account of the Hôtel-Dieu, as it is the best hospital I have seen in France. It is near the Rhone; the principal building is in the form of a cross, near three hundred feet from end to end both ways. The wards thirty-two feet wide, and twenty-five feet high; with apertures between the joists of the floor above, and two tier of windows; in many of them two casements. Three rows of iron bedsteads in each ward. Under a dome in the centre is an octagon altar, in view from every part of the cross. Prayers, which are read there twice a day, can be heard through the wards. This part of the house is for those
 
 They are printed in quarto. The arret for the city is dated 18th June: it contains thirty-nine articles. The title is Arreji de la Cour du Parlement, portant RegLment general pour les Prisons, droits et fonSlions des Greffiers des Geales, Geoliers et Guichetiers defdites Prisons: Avec le Tarif des droits attribute aufdits Geoliers. The arret for the provinces, dated ill September, has the same title, except the farif. It contains thirty-three articles. To this arret is annexed three others, viz. the office of clerks, gaolers and turnkeys — the aliment of prisoners — -and their attendance at mass.
 
@@ -4622,7 +4610,7 @@ They are printed in quarto. The arret for the city is dated 18th June: it contai
 
 180 FOREIGN PRISONS.
 
-[Lyons Hotel-Dieu.]
+[Lyons Hôtel-Dieu.]
 
 [Bordeaux Prisons.]
 
@@ -4991,57 +4979,53 @@ Low Diet. Water-gruel, panado, rice-gruel, milk-pottage, or broth, eight ounces 
 Half Diet. For Breakfast, milk-pottage; for dinner, half a pound of mutton, some light bread-pudding, or in lieu of it, some greens, a pint of broth, a pound of bread, and three pints of small beer.
 
 Full Diet. Breakfast as above. For dinner, one pound of meat, one pint of broth, one pound of bread, and two quarts of small beer. Supper, in the two last mentioned diets, to be of the broth left at dinner, or if thought necessary to be of milk-pottage.
-
+---
 Rice milk, orange whey, orange and lemon water, tamarind whey, vinegar whey, balm and sage tea to be discretionally used by the surgeon.
 
-+ I have since heard that a bounty was paid by the court of England to their prisoners in France, at the following rates, viz. captains, mates, failing masters, surgeons, and stewards, three pence per day each; common sailors, boys, and passengers of inferior rank, three halfpence per day each; which payment was made every twenty-eight days.
+† I have since heard that a bounty was paid by the court of England to their prisoners in France, at the following rates, viz. captains, mates, sailing masters, surgeons, and stewards, three pence per day each; common sailors, boys, and passengers of inferior rank, three halfpence per day each; which payment was made every twenty-eight days.
 
 Sect. V. PRISONERS OF WAR. 191
 
+[Shrewsbury.]
+
+[Prisoners of War.]
+
 eight Dutch prisoners; twenty-seven of them were in the hospital. The wards were spacious, a hundred and twenty feet by twenty. At the back of the prison there is a fine area of four acres well supplied with water, and at the hospital an area of one acre. The regulations in Dutch and French were hung up. The beds in the hospital were not crowded; all had sheets and the surgeon paid great attention to the patients.
 
-Many of the prisoners were without shoes and stockings, and some had no shirtsj for they had not received any bounty from the States, as the French and Spanish prisoners had from their courts. But by a generous subscription in the town promoted by the surgeon (/6i:15: 0), they were soon after supplied with necessary clothing. The Dutch government afterwards ordered an allowance.
+Many of the prisoners were without shoes and stockings, and some had no shirts; for they had not received any bounty from the States, as the French and Spanish prisoners had from their courts. But by a generous subscription in the town promoted by the surgeon (£61: 15: 0), they were soon after supplied with necessary clothing. The Dutch government afterwards ordered an allowance.
+
+[Yarmouth.]
 
 At Yarmouth, July 8, 1782, there were ten French and ninety-two Dutch prisoners. Their rooms and court, and the three rooms of the infirmary, were too close. The regulations in French and Dutch were hung up. The provisions were good. The prisoners looked healthy and well: most of them had been brought in but a few days.
 
-At Falmouth, Feb. 6, 1783, there were sixty-five French, twenty-four Spanish and nineteen Dutch prisoners; of whom, sixteen French, six Spanish and five Dutch were in the hospital. The prison was situated on a fine eminence about two miles from the town, and had plenty of water. The provisions were good, and the prisoners then made no complaint. — The hospital was above a mile from the prison. The patients lay single, in good cractes, hair-beds, sheets and coverlets. The wards were tiled, and were the more airy and salutary for not being ceiled.
+[Falmouth.]
+
+At Falmouth, Feb. 6, 1783, there were sixty-five French, twenty-four Spanish and nineteen Dutch prisoners; of whom, sixteen French, six Spanish and five Dutch were in the hospital. The prison was situated on a fine eminence about two miles from the town, and had plenty of water. The provisions were good, and the prisoners then made no complaint. — The hospital was above a mile from the prison. The patients lay single, in good cradles, hair-beds, sheets and coverlets. The wards were tiled, and were the more airy and salutary for not being ceiled.
 
 All prisons and hospitals should be near towns, for the convenience of provisions being sent in regularly, and the attendance of surgeons and agents.
 
-Shrewsbury.
-
-Prisoners of War.
-
-Yarmouth.
-
-FALMOUTH*
-
 The Number of Prisoners,
 
-From Sept, ir, 1778, to Feb. 10, 1783, French 2669, Died 37*
+From Sept. 11, 1778, to Feb. 10, 1783, - French - 2669, Died - 37.
 
-July 12, 1779, - Spanish 185, 5.
+July 12, 1779, to Feb. 10, 1783, - Spanish - 185, Died - 5.
 
-Jan. 3, 178 x, - Dutch 302, 6.
+Jan. 3, 1781, to Feb. 10, 1783, - Dutch - 302, Died - 6.
 
-Total 3156 48.
+Total - 3156 - 48.
 
-Signed R. W. Fox, Jgent.
+Signed R. W. Fox, Agent.
 
-My principal object in procuring lists of the number of prisoners of war who had been received and had died in several prisons, was to refute a prevailing opinion of our severity and inattention to such prisoners. These lists, which I received from the agents, were afterwards checked by the books of the Commissioners of sick and wounded seamen In London, who readily granted me that favour.
+My principal object in procuring lists of the number of prisoners of war who had been received and had died in several prisons, was to refute a prevailing opinion of our severity and inattention to such prisoners. These lists, which I received from the agents, were afterwards checked by the books of the Commissioners of sick and wounded seamen in London, who readily granted me that favour.
 
-PRISONERS
+192 PRISONERS OF WAR.
 
-PRISONERS OF WAR.
+[Edinburgh.]
 
-Edinburgh.
-
-Prisoners of War.
-
-Belfast.
+[Prisoners of War.]
 
 PRISONERS OF WAR in SCOTLAND.
-
+---
 I found in the castle at Edinburgh, July 6, 1779, sixty-four French prisoners, in two rooms formerly used as barracks for the soldiers. In one of the rooms they lay on straw, two and two, in boxes against the wall, with two coverlets to each box: in the other room they lay on mattresses in hammocks. — The regulations as to diet. See. were hung up. Their bread was excellent, and all other provisions good; nor was there any thing of which they made complaint. — They received every month, the allowance from the French court. — There were fourteen in the hospital, which was a house at some distance in the city, where they had bedding and sheets, and great attention was paid them by the humane surgeon and agent.
 
 In the castle, March 27, 1782, there were fifteen American and fourteen French prisoners; and ten who were said to be Irish, who were closely confined, being out only one hour in a day. In such close confinement prisoners should always have one of the doors iron-latticed. — The bread was very good; the water in the well was brackish, the prisoners should have been permitted with a guard to fetch water every day from the city. — August 17, 1782, there were only five French prisoners.
@@ -5061,6 +5045,8 @@ Total 990 34-
 In June 1781 there were two hundred and seventeen French prisoners landed from the Jamaica fleet, who had been fourteen weeks on their passage. All were sickly; most of them had an inveterate feurvy: of these twenty-four died.
 
 PRISONERS OF WAR in IRELAND.
+
+[Belfast.]
 
 ON the 13th of July 1779, there were seventy-seven French prisoners at Belfast, who had been brought there the beginning of May. — There was no table of regulations, and they seemed to be much neglected. Sixteen of them were in the hospital, including three attendants. Many others were sick, but in the hospital there was neither room nor accommodations for them.
 
@@ -5259,40 +5245,32 @@ Fees
 offensive rooms, where they work and sleep. — March 28, 1782, there were in the Tolbooth, four debtors and twenty-three criminals; in the Canongate, two debtors; and in the house of cor re Elion, thirty-seven women.
 
 I will only just mention the close confinement of poor*criminals in the Tolbooth, the horrid cage in the room known by that name, and the severity practised there of chaining the condemned to an iron bar; because^I found that the late Provost
-
+---
 Fees payable to the Clerk of the Tolbooth.
 
-Imprimis, Each person incarcerate upon any laburrows, shall at his liberation pay Item, Each person incarcerate by warrant from the magistrates, shall at his liberation pay Item, Each person incarcerate by warrant from sheriff or justice of the peace, shall at libera* tion pay -
+Scots.
 
-Item, All government prisoners shall pay each at liberation -
+£. S. D.
 
-Item, For each petition by a prisoner for the benefit of the act of grace, and for the clerk's declaration thereto subjoined shall be paid -
+Imprimis, Each person incarcerate upon any Laburrows shall at his liberation pay - 0 12 0
 
-Item, For the borrowing or delivering up of any diligence by which prisoners are incarcerate (all magistrates warrants at or within ten mercks excepted) shall be paid -
+Item, Each person incarcerate by warrant from thp magistrates, shall at his liberation pay - 0 6 0
 
-Item, All persons incarcerated or arrested for a sum or sums at or below £120 Scots,
+Item, Each person incarcerate by warrant from sheriff or justice of the peace, shall at liberation pay - 0 12 0
 
-shall pay to the clerk at liberation four pennies for each pound Scots; and for sums
+Item, All government prisoners shall pay each at liberation - 2 0 0
 
-above £120 Scots, shall pay at liberation to the clerk two pounds Scots and no more.
+Item, For each petition by a prisoner for the benefit of the act of grace, and for the clerk's declaration thereto subjoined shall be paid - 0 6 0
 
-Item, All persons incarcerate for exhibition of papers, or for implementing of writs (captions for reproduction of procelfes before the inferior courts excepted) shall pay to
+Item, For the borrowing or delivering up of any diligence by which prisoners are incarcerate (all magistrates warrants at or within ten mercks excepted) shall be paid - 0 4 0
 
-the clerk at liberation -
+Item, All persons incarcerated or arrested for a sum or sums at or below £120 Scots, shall pay to the clerk at liberation four pennies for each pound Scots; and for sums above £120 Scots, shall pay at liberation to the clerk two pounds Scots and no more.
 
-Item, All creditors or incarcerators of prisons for civil debt or otherwise shall be free of all fees to the clerk at incarceration.
+Item, All persons incarcerate for exhibition of papers, or for implementing of writs (captions for reproduction of processes before the inferior courts excepted) shall pay to the clerk at liberation - 1 10 0
 
-Scots. £. S. D. 012 o 060
+Item, All creditors or incarcerators of prisoners for civil debt or otherwise shall be free of all fees to the clerk at incarceration.
 
-0120
-
-200
-
-060
-
-040
-
-1 10 a
+---
 
 And the council statues and declares, that if any fees shall be demanded or exacted in time coming, by the jailor or clerk of their Tolbooth, other than these above set down, they shall incur the deprivation of their respective offices; and ordain their presents to be printed and published, that none may pretend ignorance.
 
@@ -5303,8 +5281,8 @@ Extracting (signed) George Home.
 Edinburgh, the Sixth Day of July, Seventeen Hundred and Seventy-nine Years. These do certify by me William Gilits clerk to the Tolbooth of Edinburgh, that the above is a true and exact copy of the act of council of the city of Edinburgh, by which the keeper of the said Tillooth and me as clerk thereof are governed.
 
 William Gilles.
-
-1 say poor, because such as have money have too much liberty. For in the same prison, I lately saw fonie, who were confined for a riot, drinking nuhijkey in the tap-room, in company with many profligate townsmen, who were readily admitted, as they promoted the sale of the gaoler's liquors.
+---
+* I say poor, because such as have money have too much liberty. For in the same prison, I lately saw some, who were confined for a riot, drinking whiskey in the tap-room, in company with many profligate townsmen, who were readily admitted, as they promoted the sale of the gaoler's liquors.
 
 Sect. VI. SCOTLAND. 199
 
@@ -5313,7 +5291,7 @@ Sect. VI. SCOTLAND. 199
 Mr. Steuart was using his best endeavours to get a new gaol built, which should be subject to better regulations and stand in a more airy situation.
 
 [Infirmary.]
-
+---
 I could not but admire the Royal Infirmary at Edinburgh. Few hospitals in England exceed it in airiness and cleanliness. Great attention is paid to the patients, and their complaints are very accurately minuted: the students attend the physician in his round of the wards. The success of this institution is evident, from the few that die in comparison with the number admitted. The proportion of deaths to the number admitted, from 1770 to 1775 inclusive, was as one to twenty-five nearly. In 1776 and 1777, the proportion was nearly as one to twenty-nine. The total number of patients admitted in 1780 was two thousand two hundred and twenty-eight, of whom seventy-six died: the number in 1781 was two thousand two hundred and six, of whom seventy-four died — Dr. John Hope, the first physician in this hospital (who lives very near it and gives unremitting attendance) informed me, that two or three years ago, a putrid fever prevailed in it; but that white-washing the walls had eradicated the insection, and that this salutary practice had been continued ever since*.
 
 [Orphan-Hospital.]
@@ -5326,7 +5304,7 @@ In the Tolbooth at Glasgow, July 9, 1779, there were thirteen debtors and seven 
 
 See page 30. — On my visit at Haslar hospital in November 1782, I had the pleasure to hear that there was an order to white-wash the wards twice a year.
 
-+ I must not omit here making my acknowledgments to the magistrates of Edinburgh, for the honour they did me, by presenting me with the freedom of this city.
+† I must not omit here making my acknowledgments to the magistrates of Edinburgh, for the honour they did me, by presenting me with the freedom of this city.
 
 J COPY of the Fees and Regulations to be exacted and observed in the Tolbooth at Glasgow; as appointed by Act of the Magistrates and Town Council of Glasgow, dated the 31st of August, 1769.
 
@@ -6101,7 +6079,7 @@ LONDON.
 Fleet.
 
 £. S. D.
- 
+
 Every prisoner on a commitment upon a habeas corpus at a judge's chambers, to pay to the tipstaff - 0 4 2
 
 Every prisoner on a commitment in court, to pay to the tipstaff - 0 7 6
@@ -15525,18 +15503,20 @@ Item For attendance of every prisoner that goeth abroad into the town every time
 For every knight esquire or gentleman for his final discharge and enlargement only - 0 0 6
 
 For every yeoman artificer or labourer for such discharge only - 0 0 6
----
-Tho Burdus Hen3 Foster, Mayor
 
-Jo* Morland Giles Raine:
+Tho Burdus Heny Foster, Mayor
+
+Jos Morland Giles Raine
 
 Mic Bralin
 
-We Sir Francis Page Knight one of the Justices of his Majesty's Court of King's Bench and Sir Barn. Hale Knight one of the Barons of his Majesty's Court of Exchequer at Westminster now Justices of Assize for the Northern Circuit have reviewed the above Table of Fees and have thought fit to moderate the item or article of two shillings a week for lodging with a bedfellow in any other chamber except the common chamber to be paid by each prisoner, and instead thereof do appoint one shilling and six pence fer week to be paid by each prisoner f» lodging with a bedfellow which, said-table with such alteration is hereby confirmed by. us.
+We Sir Francis Page Knight one of the Justices of his Majesty's Court of King's Bench and Sir Barn. Hale Knight one of the Barons of his Majesty's Court of Exchequer at Westminster now Justices of Assize for the Northern Circuit have reviewed the above Table of Fees and have thought fit to moderate the item or article of two shillings a week for lodging with a bedfellow in any other chamber except the common chamber to be paid by each prisoner, and instead thereof do appoint one shilling and six pence per week to be paid by each prisoner so lodging with a bedfellow which said table with such alteration is hereby confirmed by us.
 
 Dated the 2d day of August 1729
 
-F Page. B - Hale,
+F Page.
+
+B Hale.
 
 422 NEWCASTLE upon TYNE. Northern Circuit.
 
@@ -15548,7 +15528,7 @@ Was built, as appears by the date over the door, in 1634. Being on the side of a
 
 1775, Jan. 6, Prisoners 5.
 
-1776, 14, 7.
+1776, Jan. 14, Prisoners 7.
 
 1776, Oct. 25, Prisoners 6.
 
@@ -15562,9 +15542,9 @@ NEWCASTLE TOWN and COUNTY GAOL.
 
 [Newcastle.]
 
-GAOLER, John Crofter, now Thomas Harle.
+GAOLER, John Crafter, now Thomas Harle.
 
-Salary, £50, and £z gown-money.
+Salary, £50, and £2 gown-money.
 
 Fees, Debtors, £0: 10: 8.
 
@@ -15584,43 +15564,37 @@ Garnish, cancelled.
 
 Number, Debtors. Felons &c.
 
-Debtors. Felons &e.
+1774, Mar. 21, - 6, - 2.
 
-1774, Mar. 21, 6, 2. 1779, June 30, i3> 4-
+1775, Jan. 8, - 12, - 4.
 
-1775, Jan. 8, 12, 4- 1782, Mar. 25, 12, 1.
+1776, Jan. 15, - 14, - 3.
 
-1776, > - — i5> 14. 3-
+1779, June 30, - 13, - 4.
 
-CHAPLAINS,
+1782, Mar. 25, - 12, - 1.
 
-Duty,
+CHAPLAINS, Rev. Mr. Brunton, now Mr. Brown, and Rev. Mr. Brand.
 
-Salary,
+Duty, on Sunday none; but on Wednesday and Friday prayers: and once a month a sermon. The chaplains officiate alternately a month each.
 
-SURGEON,
+Salary, £10, the corporation, and £10 Sir Walter Blacket.
 
-Salary,
+SURGEON, Mr. Bacon, now Mr. Maxfield.
 
-Rev. Mr. Brunt on, now Mr. Brown, and Rev. Mr. Brand. on Sunday none; but on Wednesday and Friday prayers: and once a month a sermon. The chaplains officiate alternately a month each.
+Salary, none: he makes a bill.
 
-£10, the corporation, and £10 Sir Walter Blacket.
-
-Mr. Bacon, now Mr. Maxfield. none: he makes a bill.
-
-7.
+Northern Circuit. NEWCASTLE upon TYNE. 423
 
 NEWCASTLE.
 
-Northern Circuit. NEWCASTLE upon TYNE.
-
-NEWCASTLE.
-
-IN this Newgate, which is the gate at the upper end of the town, all the rooms except the condemned room are up stairs, and airy.: I always found them remarkably clean, strewed with sand &c. The corporation allow both debtors and felons firing and candles in plenty: and every prisoner has a chaff bed, two blankets, and a coverlet: debtors and felons are thus accommodated in few other prisons in England. They also allow brooms, mops, and all such necessaries. The films generously allowed for those articles, amount to £40: 12: 8 per annum. This is one of the very few gaols that have what is called in London the rules. Part of two streets near the gaol is in the prison-liberty.
+[Remarks.]
+---
+IN this Newgate, which is the gate at the upper end of the town, all the rooms except the condemned room are up stairs, and airy: I always found them remarkably clean, strewed with sand &c. The corporation allow both debtors and felons firing and candles in plenty: and every prisoner has a chaff bed, two blankets, and a coverlet: debtors and felons are thus accommodated in few other prisons in England. They also allow brooms, mops, and all such necessaries. The sums generously allowed for those articles, amount to £40: 12: 8 per annum. This is one of the very few gaols that have what is called in London the rules. Part of two streets near the gaol is in the prison-liberty.
 
 The debtors walk on the battery at the top of the gaol, which is 38 feet by 34. There is no court: but one might be made of the vacant ground that lies west of the gaol, at little expence, as the town-wall is on one side of it. The debtors beds are in closets: if on iron bedsteads and in the wards (as in some hospitals) it would be more salutary. — No prisoners here have fetters, unless they be riotous. For some years past, prisoners acquitted have been discharged in court; the corporation paid the gaoler's fees if the prisoners were poor. — Gaol delivery once a year.
-
-I was concerned to find that the humane gaoler Crajler was dead. But his successor Mr. Harle seems equally worthy of the trust.
+---
+I was concerned to find that the humane gaoler Crafter was dead. But his successor Mr. Harle seems equally worthy of the trust.
 
 Dr. Rotheram, a physician in this town, visits the prisoners very assiduously without fee or reward. This is one of the few instances of the kind I have met with.
 
@@ -15628,7 +15602,7 @@ The act for preserving the health of prisoners was hung up, both on the debtors 
 
 A palisaded wall is erected at a little distance from the felons window, to prevent files. &c.. being conveyed to them.
 
-An exact Copy of the Rates and Fees to be from henceforth received by — the Gaoler or Keeper of his Majesty's Gaol — called Newgate within this Town of Newcastle upon Tyne — settled — at. the General Quarter Sessions held at Guild-hall in Newcastle aforesaid, on the 15th of July Anno. Dam* 1730. And approved of at the Assize following by Francis Page and John Fortescue A two of iu,s said Majesty's Judges of Assize According to an Act of Parliament — ('viz.)
+An exact Copy of the Rates and Fees to be from henceforth received by — the Gaoler or Keeper of his Majesty's Gaol — called Newgate within this Town of Newcastle upon Tyne — settled — at the General Quarter Sessions held at Guild-hall in Newcastle aforesaid, on the 15th of July Anno Domini 1730. And approved of at the Assize following by Francis Page and John Fortescue A two of his said Majesty's Judges of Assize According to an Act of Parliament — (viz.)
 
 £. S. D.
 
@@ -15638,48 +15612,30 @@ Every prisoner charged by process or processes out of the court of record held b
 
 Every prisoner charged upon any execution or executions out of the court of conscience held within the said town shall pay to the said keeper upon his discharge from the said execution of executions - 0 2 0
 
-Every prisoner on any criminal account or accounts whatsoever shall pay unto the said
+Every prisoner on any criminal account or accounts whatsoever shall pay unto the said keeper upon his discharge only - 0 13 4
 
-keeper upon his discharge only - 0134
+424 NEWCASTLE upon TYNE. Northern Circuit.
 
-423
-
-[Remarks.]
-
-424
-
-Newcastle.
-
-NEWCASTLE upon TYNE. Northern Circuit.
+[Newcastle.]
 
 £. S. D.
 
 Every person appearing upon a recognizance at the assizes and afterwards tried upon any indictment or indictments whatsoever and shall be committed thereon shall pay to the said keeper upon his discharge - 0 6 8
 
-Every prisoner shall pay to the turnkey of the said gaol or prison upon his discharge - o i o
+Every prisoner shall pay to the turnkey of the said gaol or prison upon his discharge - 0 1 0
 
 Confirmed by us
 
-Henry Reay, Mayor.
+Henry Reay, Mayor. John Isaacson, Recorder.
 
-Richard Ridley,
-
-IV. Ellison,
-
-Francis Rudston,
+Richard Ridley, Nathanael Clayton, Wm. Ellison, Stephen Coulson, Francis Rudston, Aldermen.
 
 We do approve of this Table of Fees July 27. 1730.
 
-Francis Page John Fortescue a Judges.
-
-John Isaacson, Recorder.
-
-Nathanael Clayton, I ... r; ~ ,/ }> Aldermen.
-
-Stephen Louljon^ I
+Francis Page John Fortescue A Judges.
 
 There is also at NEWCASTLE,
-
+---
 A small Gaol, the Corner in the Close, consisting of three rooms over the gate-way. No court: no sewer: no water. Allowance, two pence a day, and coals. Salary, £10. Fees, u.
 
 1.775, Jan. 8, Prisoners 2. 1779, June 30, Prisoners 1.
@@ -15687,17 +15643,23 @@ A small Gaol, the Corner in the Close, consisting of three rooms over the gate-w
 1776, ---15, - 1. 1782, Mar. 25, - 2.
 
 The Old House of Correction, called the Tallow-House: two rooms, one for men, the other for women, and a dungeon now not used: no court: no water: allowance two pence a day, and coals. Salary, £15. Fees, I s.
-
+---
 Criminals are first committed to the Tower in the Close for a day or two, and if not discharged by a magistrate, are removed hither or to the other prisons.
 
-1776, Jan. 15, Prisoner 1. 1782, March 25, Prisoners 2.
+1776, Jan. 15, Prisoner 1.
 
-Bridewell. A room for men; another for women. A new building is now added, consisting of six rooms with chimneys. Three of them on the ground-floor are 17 feet by 12, and arched with brick. In one room, the men by a machine, beat hemp and flax. The walls of the court not being secure, the prisoners have no access to it. Their allowance is two pence a day, and firing. The keeper is a sergeant at mace. He has no salary, but the profit of the prisoners work, whom I always found employed. The water is brought near the prison Clauses against spirituous liquors not hung up.
+1782, March 25, Prisoners 2.
 
-1775, Jan. 8, Prisoners 1. 1779, June 3°> Prisoners 7.
+Bridewell. A room for men; another for women. A new building is now added, consisting of six rooms with chimneys. Three of them on the ground-floor are 17 feet by 12, and arched with brick. In one room, the men by a machine, beat hemp and flax. The walls of the court not being secure, the prisoners have no access to it. Their allowance is two pence a day, and firing. The keeper is a sergeant at mace. He has no salary, but the profit of the prisoners work, whom I always found employed. The water is brought near the prison*. Clauses against spirituous liquors not hung up.
 
-1776, 15, - 5. 1782, Mar. 25, - 5.
----
+1775, Jan. 8, Prisoners 1.
+
+1776, Jan. 15, Prisoners 5.
+
+1779, June 30, Prisoners 7.
+
+1782, Mar. 25, Prisoners 5.
+
 * Where prisoners are always locked up, there should be water laid in to each ward, as I have seen m foreign houses of correction.
 
 NORTHUMBERLAND. Northern Circuit. 425
@@ -18126,8 +18088,6 @@ Years. - Treason. - Murder and Petty Treason. - Robbery. - Burglary. - House-bre
 
 Total - 4 - 30 - 80 - 49 - 20 - 279 - 8 - 6 - 42 - 518 - 116 - 1057
 
-TABLE
-
 TABLES.
 
 481
@@ -18138,61 +18098,61 @@ Felons delivered from Newgate to be Transported.
 
 Sessions. London. Middlesex. Hicks's Hall. Westminster. Tower Session. Capital Respites. Total.
 
-1773. January 10 19 3 6 - 38
+1773. January - 10 - 19 - 3 - 6 - 0 - 0 - 38
 
-February 8 24 9 - 4*
+1773. February - 8 - 24 - 9 - 0 - 0 - 0 - 41
 
-April 16 24 19 H 20 93
+1773. April - 16 - 24 - 19 - 14 - 0 - 20 - 93
 
-May 10 29 14 - S3
+1773. May - 10 - 29 - 14 - 0 - 0 - 0 - 53
 
-Juty *4 49 6 5 - 74
+1773. July - 14 - 49 - 6 - 5 - 0 - 0 - 74
 
-September 11 24 9 - 44
+1773. September - 11 -24 - 9 - 0 - 0 - 0 - 44
 
-October 10 17 8 6 - 4i
+1773. October - 10 - 17 - 8 - 6 - 0 - 0 - 41
 
-December 10 15 9 - 17 Si
+1773. December - 10 - 15 - 9 - 0 - 0 - 17 - 51
 
-89 201 77 3i 37 43S
+89 - 201 - 77 - 31 - 0 - 37 - 435
 
-1774. January 4 18 3 - 2S
+1774. January - 4 - 18 - 3 - 0 - 0 - 0 - 25
 
-February 16 33 7 3 - 60
+1774. February - 16 - 33 - 7 - 3 - 1 - 0 - 60
 
-April >5 24 >7 13 - 70
+1774. April - 15 - 24 - 17 - 13 - 1 - 70
 
-May 6 22 2 - 3^
+1774. May - 6 - 22 - 2 - 0 - 0 - 0 - 30
 
-July *4 22 12 8 4 30 90
+1774. July - 14 - 22 - 12 - 8 - 4 - 30 - 90
 
-September 22 16 10 - 2 I Si
+1774. September - 22 - 16 - 10 - 0 - 2 - 1 -51
 
-October 8 8 6 5 I - 28
+1774. October - 8 - 8 - 6 - 5 - 1 - 0 - 28
 
-December H 22 16 I 13 66
+1774. December - 14 - 22 - 16 - 0 - 1 - 13 - 66
 
-99 165 73 29 10 44 420
+99 - 165 - 73 - 29 - 10 - 44 - 420
 
-1775. January 9 29 *4 9 - 61
+1775. January - 9 - 29 - 14 - 9 - 0 - 0 - 61
 
-February 9 20 7 2 38
+1775. February - 9 - 20 - 7 - 0 - 2 - 0 - 38
 
-April 17 12 4 - S2
+1775. April - 19 - 17 - 12 - 4 - 0 - 0 52
 
-May S 9 2 - 16
+1775. May - 5 - 9 - 2 - 0 - 0 - 0 - 16
 
-J"iy 6 11 7 S - 20 49
+1775. July - 6 - 11 - 7 - 5 - 0 - 20 - 49
 
-September , H 20 6 - 40
+1775. September - 14 - 20 - 6 - 0 - 0 - 0 - 40
 
-October 9 10 7 4 2 - 32
+1775. October - 9 - 10 - 7 - 4 - 2 - 0 - 32
 
-December 8 9 7 - I 11 36
+1775. December - 8 - 9 - 7 - 0 - 1 - 11 - 36
 
-79 125 62 22 5 3> 324:
----
-Great Total 1179
+Total - 79 - 125 - 62 - 22 - 5 - 31 - 324
+
+Great Total - 1179
 
 482 TABLES.
 
@@ -18294,34 +18254,34 @@ Number of Convicts Executed, for London and Middlesex, during the last Twelve Ye
 
 Murder. - Coiners. - Various Crimes. - Rioters. - Total.
 
-Men. Women. - Men. Women. - Men. Women. - Men. Women.
+Men - Women | Men - Women | Men - Women | Men - Women | Total
 
-From Dec. 1771 to Dec. 1772, - 3 0 - 2 0 - 32 0 - 0 0 - 37
+From Dec. 1771 to Dec. 1772, - 3 - 0 - 2 - 0 - 32 - 0 - 0 - 0 - 37.
 
-Dec. 1772 to Dec. 1773, - 1 1 burnt - 1 0 - 29 0 - 0 0 - 32
----
-Dec. 1773 to Dec. 1774, I ' - 31 - 3*
+Dec. 1772 to Dec. 1773, - 1 - 1 burnt - 1 - 0 - 29 - 0 - 0 - 0 - 32
 
-Dec. 1774 to Dec. 1775, I 1 3 40 I - 46
+Dec. 1773 to Dec. 1774, - 0 - 1 - 0 - 0 - 31 - 0 - 0 - 0 - 32
 
-Dec. 1775 to Dec. 1776, 6 - 8 24 - 38
+Dec. 1774 to Dec. 1775, - 1 - 1 - 3 - 0 - 40 - 1 - 0 - 0 - 46
 
-Dec. 1776 to Dec. 1777, 2 - r 29 - 32
+Dec. 1775 to Dec. 1776 - 6 - 0 - 8 - 0 - 24 - 0 - 0 - 0 - 38
 
-Dec. 1777 to Dec. 1778, I - I 31 - 33'
+Dec. 1776 to Dec. 1777 - 2 - 0 - 1 - 0 - 29 - 0 - 0 - 0 - 32
 
-Dec. 1778 to Dec. 1779, - 2 I burnt »9 I - 23
+Dec. 1777 to Dec. 1778 - 1 - 0 - 1 - 0 - 31 - 0 - 0 - 0 - 33
 
-Dec. 1779 to Dec. 1780, I - 2 24 I *9 3 5°
+Dec. 1778 to Dec. 1779 - 0 - 0 - 2 - 1 burnt - 19 - 1 - 0 - 0 - 23
 
-Dec. 1780 to Dec. 1781, I - I 33 5 - 40
+Dec. 1779 to Dec. 1780 - 1 -0 - 2 - 0 - 24 - 1 - 19 - 3 - 50
 
-Dec. 1781 to Dec. 1782, - 44 I - 4S
+Dec. 1780 to Dec. 1781 - 0 - 0 - 1 - 0 - 29 - 5 - 0 - 0 - 35
 
-Dec. 1782 to Dec. 1783, - 6 52 I - 59
+Dec. 1781 to Dec. 1782 - 0 - 0 - 0 - 0 - 43 - 2 - 0 - 0 - 45
 
-16 3 I - r — M 388 10 l9 3 467
----
+Dec. 1782 to Dec. 1783, - 0 - 0 - 6 - 0 - 52 - 1 - 0 - 0 - 0 - 59
+
+Total - 16 - 3 - 27 - 1 - 388 - 10 - 19 - 3 - 467
+
 * This table, together with Janssen's, gives the total number of executions for thirty-five years past.
 
 TABLES 485
@@ -18337,44 +18297,120 @@ This mark * denotes a person pardoned; the rest were executed.
 Northern Circuit. - Southern Circuit. - Western Circuit.
 
 Edinburgh. Aberdeen. Perth. Inverness. Jedburgh. Dumfries. Ayr. Glasgow. Stirling. Crimes.
----
-170a X - Forgery.
 
-1769 - _ _ _ " I " Horse-stealing. Murder and Robbery.
+1768 - 1 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - Forgery.
 
-1770 I 1 I 2 I 1 - I - Murder. Street-robbery. Forgery. House-breaking and Theft. Sheep-stealing.
+1769 - *1 - 0 - 0 -0 - 0 - 0 - 0 - 0 - 0 - Horse-stealing.
 
-1771 I *1 - *1 - Robbery. Murder. House-breaking and Theft. Theft.
+1769 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 1 - 0 - Murder and Robbery.
 
-1772 — I I - -: - *2 - Child-murder. Horse-stealing. House-breaking and Theft.
+1770 - 1 - 1 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - Murder.
 
-1773 I 2 2 - I I *1 I *2 X - 2 I House-breaking and Thelt. Sheep-fttaling. Murder and Robbery. Horse-ltealing. Murder. Robbing the Mail. Theft, Robbery, &c. Robbery. House-breaking and Robbery.
+1770 - 1 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - Street-robbery.
 
-1774 *1 *1 I 1 I - $ I - Murder. Returning from Transportation. Horse-ltcaling. Shccp-ftcaling. Koufe-hrcaking and Theft. Theft of Cattle. Rape.
+1770 - 1 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - Forgery.
 
-1775: - I - I _ Murder. Theft.
+1770 - 2 - 1 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - House-breaking and Theft.
 
-1776 2 X I I - Robbery. Child-murder. Shop-breaking and Theft. Murder.
+1770 - 0 - 0 - 0 - 0 - 1 - 0 - 0 - 0 - 0 - Sheep-stealing.
 
-- - " - I - X _ Theft. S'ealing a I etter from Post Office.
+1771 - 1 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - Robbery.
 
-1777 - *i Child-murder.
+1771 - *1 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - Murder.
 
-1778 - I - Theft of Cattle.
+1771 - 0 - 0 - 0 - 0 - *1 - 0 - 0 - 0 - 0 - House-breaking and Theft.
 
-1779 - I - I - Murder. Murder and Robbery.
+1771 - 0 - 0 - 0 - 0 - *1 - 0 - 0 - 0 - 0 - Theft.
 
-r,‘ 2 *2: — - _ - Robbery. Shop-breaking.
+1772 - 0 - *1 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - Child-murder.
 
-1780 I - r - I I - forgery. House-breaking and Theft. Murder by Poison. Theft from Foil Office.
+1772 - 0 - 0 - 1 - 0 - 0 - 0 - 0 - 0 - 0 - Horse-stealing.
 
-1781 v I I - *2 I 1 2 Robbery. Theft from Post Office. House-breaking and Theft.
+1772 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - *2 - 0 - House-breaking and Theft.
 
-1782 I I - I - _ _ _ Slicep-ltcaling. Robbery.
+1773 - 1 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - House-breaking and Theft.
 
-32 9 23 5 2 3 9 9 5 3 2 5 2 3 % I X 4 I 3 9 2 7 5 2 3 76 Total Condemned. 22 Pardoned. t4 Executed.
+1773 - 2 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - Sheep-stealing.
 
----
+1773 - 2 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - Murder and Robbery.
+
+1773 - 0 - 0 - 1 - 0 - 0 - 0 - 0 - 0 - *1 - Horse-stealing.
+
+1773 - 0 - 0 - 1 - *1 - 1 - 0 - 0 - 0 - 0 - Murder.
+
+1773 - 0 - 0 - 0 - 1 - 0 - 0 - 0 - 0 - 0 - Robbing the Mail.
+
+1773 - 0 - 0 - 0 - *2 - 0 - 0 - 0 - 0 - 0 - Theft, Robbery, &c.
+
+1773 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 2 - 0 - Robbery.
+
+1773 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 1 - House-breaking and Robbery.
+
+1774 - **3 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - Murder.
+
+1774 - *1 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - Returning from Transportation.
+
+1774 - *1 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - Horse-stealing.
+
+1774 - 1 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - Sheep-stealing.
+
+1774 - 0 - 0 - 1 - 0 - 0 - 0 - 0 - 0 - 0 - House-breaking and Theft.
+
+1774 - 0 - *1 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - Theft of Cattle.
+
+1774 - 0 - 0 - 0 - 0 - 0 - *1 - 0 - 0 - 0 - Rape.
+
+1775 - 0 - 0 - 1 - 0 - 0 - 0 - 0 - 0 - 0 - Murder.
+
+1775 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 1 - 0 - Theft.
+
+1776 - 2 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - Robbery.
+
+1776 - 1 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - Child-murder.
+
+1776 - 0 - 0 - 1 - 0 - 0 - 0 - 0 - 0 - 0 - Shop-breaking and Theft.
+
+1776 - 0 - 1 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - Murder.
+
+1776 - 0 - 0 - 0 - 0 - 1 - 0 - 0 - 0 - 0 - Theft.
+
+1776 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 1 - 0 - Stealing a Letter from Post Office.
+
+1777 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - *1 - Child-murder.
+
+1778 - 0 - 0 - 1 - 0 - 0 - 0 - 0 - 0 - 0 - Theft of Cattle.
+
+1779 - 0 - 0 - 0 - *1 - 0 - 0 - 0 - 0 - 0 - Murder.
+
+1779 - 0 - 0 - 0 - 0 - 0 - 0 - 1 - 0 - 0 - Murder and Robbery.
+
+1780 - *2 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - Robbery.
+
+1780 - *2 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - Shop-breaking.
+
+1780 - 1 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - Forgery.
+
+1780 - 0 - 0 - 1 - 0 - 0 - 0 - 0 - 0 - 0 - House-breaking and Theft.
+
+1780 - 0 - 0 - 0 - 0 - 0 - 0 - 1 - 0 - 0 - Murder by Poison.
+
+1780 - 0 - 0 - 0 - 0 - 0 - 1 - 0 - 0 - 0 - Theft from Post Office.
+
+1781 - *1 - 0 - 0 - 0 - 0 - 0 - *2 - 1 - 0 - Robbery.
+
+1781 - 1 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - Theft from Post Office.
+
+1781 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 1 - 2 - House breaking and Theft.
+
+1782 - 1 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - Sheep-stealing.
+
+1782 - 1 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - Robbery.
+
+32 - 5 - 9 - 5 - 5 - 2 - 4 - 9 - 5 - 76 - Total Condemned.
+
+9 - 2 - 0 - 3 - 2 - 1 - 1 - 2 - 2 - 22 - Pardoned.
+
+23 - 3 - 9 - 2 - 3 - 1 - 3 - 7 - 3 - 54 - Executed.
 
 486 TABLES
 
@@ -22052,7 +22088,7 @@ Plate N°. I. General plan of a County Gaol, to face 21.
 
 18. Bastille, 174.
 
-19. Lyons, Hotel-Dieu, 179.
+19. Lyons, Hôtel-Dieu, 179.
 
 20. London, Newgate, 213.
 
