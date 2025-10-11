@@ -8126,7 +8126,7 @@ Berkshire 57 15 Cheshire l6 3 *9
 
 Reading o 7 79 *3 Chester O *4 *4
 
-Oxfordshire 53 3 Angle fey 1 2 3
+Oxfordshire 53 3 Anglesey 1 2 3
 
 Banbury 0 2 Brecknockshire - *4 0 *4
 
@@ -8142,15 +8142,15 @@ Monmouthshire - 44 2 46 8 Denbighshire 0 5 5
 
 Salop 82 12 Flintshire 1 5 6
 
-, Shrewsbury - 0 5 99 16 Glamorganshire - 12 0 12
+Shrewsbury - 0 5 99 16 Glamorganshire - 12 0 12
 
 Staffordshire 85 11 96 *5 Merionethshire - 5 0 5
 
-Litchfield - 0 3 3 1 Montgomery shire 5 0 5
+Litchfield - 0 3 3 1 Montgomeryshire 5 0 5
 
 Worcestershire 59 0 59 10 Pembrokeshire 5 0 5
 
-Worcester - 15 0 *5 3 Haverford-Weft - 0 0 0
+Worcester - 15 0 *5 3 Haverford-West - 0 0 0
 
 Radnorshire 2 0 2 16
 
