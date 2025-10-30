@@ -3176,11 +3176,11 @@ account, it is said to be capable of containing. Neither the house, bedding, nor
 
 Kildare County.
 
-Maynooth School.
-
 Trim School. April 25th, 1788, thirty-nine girls. The house was clean, and the children in health, but badly clothed. - The bread very bad. - A pump of fine water. - No infirmary. - Extract from a report in the book; "7th October 1786. This school has been in a melancholy situation these three months past, which in all probability might not have gone farther than the first child which was took ill, were there a detached room from the school for such children, which the committee most earnestly recommend to the society to build, as it might be done at a very small expence." The answer to this recommendation was; "15th Nov. 1786, the local committee be informed, that this committee cannot agree to the building of an infirmary at the school, as the funds of the society are exceedingly straitened, and require every species * of oeconomy."*
 
 Castle Carbery School. April 26th, 1788, thirty-seven girls. Many of them were making lace (fee note in p. 75). The walls of the rooms very dirty - children not clean - several had fore heads - no infirmary. The bad state of this school might in a great measure be owing to the matter who was lately dismissed, for I was informed, that half the children were then almott naked. - There having been many removals of matters lately made, the sickly appearance of the children which I observed in some schools, did not always proceed from the neglect or inattention of the matters or mistresses who had the management of the schools at the time I visited them.
+
+[Maynooth School.]
 
 Maynooth School. April 26th, 1788, thirty-five fine healthy boys. The house, bed rooms, and bedding perfectly clean. Ten or twelve boys were at work in the garden, which contains about three acres (Irish), and is kept in the nicest order by the matter and his boys, f Allowance for diet 3d. a day. No infirmary; which is less necessary where boys are thus employed.
 
@@ -3206,7 +3206,7 @@ report of Sir Francis Hutchinson, one of the committee of fifteen. "I see that a
 
 ---
 
-New Ross School. May 3d, 1788, twenty-six boys, and eleven gij-ls. Some of the children wore the society's clothes, which were bad in every respect: the others wore die matter's, made of good warm cotton, spun in the house. - Here was plenty of provisions, and the children were properly fed; land by hearing some of different standings read, I found that greater attention is paid to their learning than in most of the schools. A girl, who had her education and served an apprenticeship in this house, is now teacher* but has no emolument from the society. The mistress told me, lhe had lately received fix very sickly boys from Dublin.
+New Ross School. May 3d, 1788, twenty-six boys, and eleven girls. Some of the children wore the society's clothes, which were bad in every respect: the others wore die matter's, made of good warm cotton, spun in the house. - Here was plenty of provisions, and the children were properly fed; land by hearing some of different standings read, I found that greater attention is paid to their learning than in most of the schools. A girl, who had her education and served an apprenticeship in this house, is now teacher* but has no emolument from the society. The mistress told me, lhe had lately received six very sickly boys from Dublin.
 
 Itmijbamon School. May 8th, 1788, thirty-three boys; one an idiot. The house out of repair: the children very dirty, and their clothes in rags. Several had the itch, and some, scald heads. Allowance for soap and candles 4: fuel £15. The instruction of the children is much neglected, though the school is provided with an uiher. By order of the local committee, the children had not been at church for several months, f
 
@@ -3570,7 +3570,7 @@ No alteration but the keeper's house improved by the late tap-house being laid t
 
 still however he has no view of the courts, nor of any person coming into the prison. - Clerkew-The prison-rooms clean; the wardsman having, very properly, a double allowance of well. bread. No sick ward for women: no bedding. The bath never used: no water in that pump for two years. Chapel badly contrived: not white-washed. Men and women separated; but allforts of prisoners associate together, playing at cards &c. - Allowance one pound of bread a day. Keeper's stated salary £50; but if his perquisites and fees do not amount to £150 more, the magistrates are to make up the deficiency. Prisoners are detained for their fees, and fbme pawn their scanty clothing to obtain a discharge. - Mrs. Wildman continues her late husband's weekly benefaction to this prison, and the bridewell.
 
->7*7. March 21, Men - 56. Women - 24.
+17*7. March 21, Men - 56. Women - 24.
 
 1788, Aug. 28, Men Felons committed 27- Women ditto 13.
 
@@ -3586,18 +3586,6 @@ CLERKENWELL
 
 128 WESTMINSTER. Sect. VIII.
 
-White-
-
-Chapel
-
-Prison.
-
-Tower Hamlet's.
-
-St. Catharine's.
-
-Savoy.
-
 CLERKENWELL BRIDEWELL.
 
 [Clerkenwell Bridewell.]
@@ -3612,11 +3600,15 @@ Of the Men in 1788, 3 were Court of Conscience Debtors, and 23 Fines. Of the Wom
 
 WHITECHAPEL PRISON.
 
+[Whitechapel Prison.]
+
 The keeper's house fitted up and the court latticed over. Keeper, a sheriff's officer for the county of Middlesex, and in 1788 had two county prisoners in custody.
 
 1787, April 4, Debtors 2. 1788, Sept. 15, Debtors none.
 
 TOWER HAMLET'S GAOL.
+
+[Tower Hamlet's.]
 
 No alteration. The rooms dirty, and the prison for some years going to ruin.
 
@@ -3624,9 +3616,13 @@ No alteration. The rooms dirty, and the prison for some years going to ruin.
 
 St. CATHARINE'S GAOL.
 
+[St. Catharine's.]
+
 1787, April 4, It was let for a warehouse.
 
 THE SAVOY.
+
+[Savoy.]
 
 A great part of this prison having been burnt last February, the prisoners at night are now crowded into two rooms. The prison very dirty: not white-washed these two years. Some of the prisoners almost naked; without shirts, shoes or stockings. Several prisoners died last spring, and probably many more will die the spring ensuing, if greater attention be not paid to them. Here were fix of the guards in a close offensive room (the black hole) in which they are confined on bread and water twenty-four or forty-eight hours, for drunkenness, neglect of duty &o.
 
