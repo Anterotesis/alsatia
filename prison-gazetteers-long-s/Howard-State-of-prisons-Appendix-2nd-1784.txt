@@ -2036,7 +2036,7 @@ For their clothing, they have once in two years, a striped woollen capotto and w
 
 * At night, two chains are put across the street over-against this hospital, by an order of Pope Alexander VII. in 1661, for the purpose elegantly expressed in the inscription,
 
-Ne pratereunte strepitu Quies Amica silentii
+Ne praetereunte strepitu Quies Amica silentii
 
 Omnino ab aegrotantibus exularet.
 
@@ -2302,9 +2302,7 @@ On inquiring of one of the magistrates, if they banished any of their criminals?
 
 There were no prisoners at Schaffhausen, except three in the house of correction.
 ---
-* Will it need an apology if the mode of publishing the assize bread in this city be jull mentioned? It is better than that ax. Vienna and several other cities. In the middle of the window of every baker's shop is hung up in full the bill on pasteboard, specifying the weight and price of three different sorts of bread, and, at the bottom, that of the fine rolls. The bills are signed by the magistrates secretary. If the price continues the same the following month, the secretary notes it on all the bills. I copied one of these bills, and purchased the different sorts of bread, which I found to be for rather over weight. The prices were, ‘whitebread, 1lb. five creutzers ; houshold, 1lb. four and a quarter; brown bread, 1lb.
-
-three creutzers and a quarter; (a creutzer is near a halfpenny.)
+* Will it need an apology if the mode of publishing the assize bread in this city be jull mentioned? It is better than that ax. Vienna and several other cities. In the middle of the window of every baker's shop is hung up in full the bill on pasteboard, specifying the weight and price of three different sorts of bread, and, at the bottom, that of the fine rolls. The bills are signed by the magistrates secretary. If the price continues the same the following month, the secretary notes it on all the bills. I copied one of these bills, and purchased the different sorts of bread, which I found to be for rather over weight. The prices were, whitebread, 1lb. five creutzers; houshold, 1lb. four and a quarter; brown bread, 1lb. three creutzers and a quarter; (a creutzer is near a halfpenny.)
 
 * Will it need an apology, if the mode of publishing the assize of bread in this city be just mentioned? It is better than that at Vienna, and several other cities. In the middle of the window of every baker's shop is hung up in full view, the bill on pasteboard, specifying the weight and price of three different sorts of bread, and, at the bottom, that of the fine rolls. The bills are signed by the magistrates secretary. If the price continues the same the following month, the secretary notes it on all the bills. I copied one of these bills, and purchased the different sorts of bread, which I found to be full or rather over weight. The prices were, white bread, 1lb. five creutzers; household, 2lb. four creutzers and a quarter; brown bread, 1lb. three creutzers and a quarter.
 
@@ -2320,7 +2318,7 @@ for attending to their duty cannot be large salaries ;* I am (till more confirme
 
 these principles.
 
-From Switzerland I returned into Ge, in 1778, to visit some prisons which I had not seen, particularly those in the free or imperial cities.
+From Switzerland I returned into Germany, in 1778, to visit some prisons which I had not seen, particularly those in the free or imperial cities.
 
 GERMANY.
 
@@ -2343,46 +2341,50 @@ Augsburg Prison.
 which open into a Roman catholic chapel: where, however, if a prisoner be a protestant, a Lutheran minister is permitted to attend him.
 
 [House of Correction.]
----
-Munich Prisons.
-
-House of Correction.
-
-Hospitals.
 
 The house of correction consists of buildings on two sides of a spacious court; one side for those of the Roman catholic religion, and the other for protestants, with a chapel for each. The rooms were all clean, and are white-washed every year. Opposite to the front windows in most of the rooms, were high windows, of a semicircular form, which were designed for promoting a circulation of air.
+---
+[Munich Prisons.]
 
-At Munich or Munchen, there are two prons for criminals. One in the town-house had in it fix men and two women prisoners.* In a dark damp dungeon down seventeen steps, were the instruments of torture.
+At Munich or Munchen, there are two prisons for criminals. One in the town-house had in it six men and two women prisoners.* In a dark damp dungeon down seventeen steps, were the instruments of torture.
 
-The. other, called Ld Prison de la Coury consists of about fifteen cells, twelve feet by seven, and a black torture-room, f
+The other, called Ld Prison de la Coury consists of about fifteen cells, twelve feet by seven, and a black torture-room, f
+
+[House of Correction.]
 
 In the house of correction were about forty men and thirty women; some weaving wide cloth, but most of them spinning. The keeper ordered his servant to attend me with charcoal and frankincense; a certain sign of negligence and inattention, which the countenances of the prisoners confirmed.
 
+[Hospitals.]
+
 I was agreeably relieved from the pain excited by these scenes, with the view of the two hospitals of Les Freres and Les Sceurs de Charite. In the former
 
-* Once a year, <viz. on All-faints day, any persons are permitted to enter and fee the prison. There is a custom similar to this in Holland, at the Fair and other fixed times.
+* Once a year, <viz. on All-saints day, any persons are permitted to enter and see the prison. There is a custom similar to this in Holland, at the Fair and other fixed times.
 
 f In this room there is a table covered with black cloth and fringe. Six chairs for the magistrates and secretaries covered also with black cloth, are elevated two steps above the floor and painted black. Various engines of torture, some of which are stained with blood, hang round the room. When the criminals suffer, the candles are lighted; for the windows are shut close, to prevent their cries being heard abroad. Two crucifixes are presented to the view of the unhappy objects. But it is too (hocking to relate their different modes of cruelty. Even women are not spared. — This room seems very much like the torture-room in Spain, described in Limborcb's History of the Inquisition translated by Chandler, vol. II. p. 221, 4to. edit. t€ It was a large under-ground room, arched, and the walls covered with black hangings. The €f candlesticks were fattened to the wall, and the whole room enlightened with candles placed " in them. — The inquisitor and notary fiat at a table, so that the place seemed as the very mansion of death, every thing appearing so terrible and awful."
 
 GERMANY. 91
 
+Munich Hospitals
+
+House of Correction.
+
 were about forty beds; in the latter, twenty: the wards wrere about twenty-six feet wide. All was neat and clean, still and quiet; and the great attention paid to the patients was every where apparent. I saw the operation of bleeding performed by the nuns with great dexterity and tenderness. Over the foot of each bed a text of Scripture was inscribed, as in some Italian hospitals.
 
-The prisonat Ratijlon or Regensburg is in the town-house. Many of the chambers are airy, and most of them have stoves. There are no dungeons, but three dark cellars for torture, at which two senators, their secretary, and the hangman with his valets affilt. At Munich and some other places, a surgeon always attends; but I heard of no such custom here.
+[Ratisbon Prison.]
 
-At the back of the orphan-house is the house of , in which were only
+The prison at Ratisbon or Regensburg is in the town-house. Many of the chambers are airy, and most of them have stoves. There are no dungeons, but three dark cellars for torture, at which two senators, their secretary, and the hangman with his valets affilt. At Munich and some other places, a surgeon always attends; but I heard of no such custom here.
 
-two women.
+At the back of the orphan-house is the house of XX, in which were only two women.
 
-At Nurenburg, the prison is under the town-house. There are fifteen steps
+[Nurenburg Prison.]
 
-down to the gaoler's kitchen. The apertures for admitting light into the passages of the dungeons are level with the ground. This is one of the worst prisons I ever faw. The dark unhealthy dungeons, and the dismal torture-chamber,* do no honour to the magistracy of this city. — The gaoler makes use of a low trick to prevent the escape of his prisoners, by terrifying them with the apprehensions of falling under the power of witches. In several of the German gaols there are dungeons for thole that are guilty of witchcraft, but they seem to have been long disused: and I hope increasing light and good sense will soon entirely banish the fears of witches, and consequently the witches themselves.
+At Nurenburg, the prison is under the town-house. There are fifteen steps down to the gaoler's kitchen. The apertures for admitting light into the passages of the dungeons are level with the ground. This is one of the worst prisons I ever faw. The dark unhealthy dungeons, and the dismal torture-chamber,* do no honour to the magistracy of this city. — The gaoler makes use of a low trick to prevent the escape of his prisoners, by terrifying them with the apprehensions of falling under the power of witches. In several of the German gaols there are dungeons for thole that are guilty of witchcraft, but they seem to have been long disused: and I hope increasing light and good sense will soon entirely banish the fears of witches, and consequently the witches themselves.
 
 In one of the city-towers in which lunatics are confined, there are three or four rooms for criminals of higher rank.
 
-The prisoners in the house of correctionf were employed in grinding spectacle-glafies. The surplus of what they earn above forty , or eighteen pence
+The prisoners in the house of correctionf were employed in grinding spectacle-glasses. The surplus of what they earn above forty , or eighteen pence
 
-* In this chamber on the wall is inscribed a gingling vcrfe, which I here insert, as perhaps no traveller but myself has ever seen it:
+* In this chamber on the wall is inscribed a gingling veree, which I here insert, as perhaps no traveller but myself has ever seen it:
 
 Ad mala patrata, funt atra theatraparata. 1753.
 
@@ -2396,19 +2398,13 @@ Compeseitur elementia
 
 Salva fori sententia.
 
-Munich Hospitals
-
-Ratisbon Prison.
-
-Nurenburg Prison.
-
-House of Correction.
-
 92 APPENDIX.
 
 Nurenburg. a week each, they are allowed for themselves.* Some of the women were working gold and silver lace on cushions.
 
-Schwabach At Schwabach, in the margraviate of ,is a large house of correction, in
+[Schwabach.]
+
+At Schwabach, in the margraviate of ,is a large house of correction, in
 
 House of which were ninety-three prisoners. Some men here also were grinding glades.
 
@@ -2428,7 +2424,7 @@ It is remarked, c< to be a very false notion, that a man who lives upon bread an
 
 It is mentioned as an essential point to preserve order, and prevent abuses,
 
-" that one of the city magistrates should every week in rotation visit the house, and closely inspefl every thing relative to its management."
+"that one of the city magistrates should every week in rotation visit the house, and closely inspect every thing relative to its management."
 
 Such prisoners as have been publicly whipped are called *, and are
 
@@ -2442,9 +2438,9 @@ GERMANY. 93
 
 chaplain resides in the house. The account of the daily allowance to the Schwabach. prisoners was hung up in the dining-room.*
 
-In a large house of correction near Bayreuth,in the men were all Bayreuth
+[Bayreuth.]
 
-working on marble,f which is found in the neighbouring mountains. $ Many 0F
+In a large house of correction near Bayreuth,in the men were all working on marble,f which is found in the neighbouring mountains. $ Many 0F
 
 were employed at the poliftiing bench, two on each slab. Others were variously engaged, in finishing, filing, or carving; or in cutting proofs or samples at
 
@@ -4446,7 +4442,7 @@ The situation of an infirmary or hospital should be on elevated ground, gear a s
 
 [Remarks on Hospitals.]
 
-rows of windows pppofite to one another, and even with the cieling, and hafps and staples to the upper sashes to prevent their being shutfftone gallery for more readily opening and shutting the windowsf^J — apertures in the ciel-ingfcj — the fire-places in the middle of the longer side of the wards — the beds in spacious recefiesf^j — the bedsteads iron, and the beds on varnished boards with hair mattrefiesf^ — ‘in each ward a cistern, bason and towel for the patients^ — the vaults on the outside of the wardsfg^) — airy rooms and refe&ories for convalescent patients^,) — a convenient bath, with an easy descent into a piazza and spacious walk to induce patients to take
+rows of windows 0ppofite to one another, and even with the cieling, and hafps and staples to the upper sashes to prevent their being shutfftone gallery for more readily opening and shutting the windowsf^J — apertures in the ciel-ingfcj — the fire-places in the middle of the longer side of the wards — the beds in spacious recefiesf^j — the bedsteads iron, and the beds on varnished boards with hair mattrefiesf^ — ‘in each ward a cistern, bason and towel for the patients^ — the vaults on the outside of the wardsfg^) — airy rooms and refe&ories for convalescent patients^,) — a convenient bath, with an easy descent into a piazza and spacious walk to induce patients to take
 
 the air and exercisef'^ — two doors to each ward, one of them iron lattice^ — the wards washed once a week (m) — ftraped and lime-whited at least once a year (n) — and the patients hands and feet waftied at their admission. (o)
 ---
@@ -7668,7 +7664,7 @@ A sick felon to be kept separate from the rest as conveniently as possible.
 
 The whole prison, bog-house, sinks and gutters to be kept as clean as possible.
 
-John Brickdale. W.. Rodbard. J. Somers. Tho. Gunston.
+John Brickdale. W. Rodbard. J. Somers. Tho. Gunston.
 
 This is a true copy of the original filed with the records of the county of Somerset.
 
@@ -9142,16 +9138,16 @@ Beccles - 0 0 0 9 | 0 0 0 *5
 
 BEDFORD - 7 0 2 0 | 7 0 3 0
 
-Bedford Bridewell - 0 0 0 2 - 0 0 0 4
-
-Bedford Town - 0 0 0 0 | 0 0 0 1
-
-Berkeley - 0 0 0 0 | 0 0 0 1
-
-Berkhamstead - 0 0 0 1 | 0 0 0 0
-
-Berwick - 2 0 0 0 | 2 0 0 0
+Bedford Bridewell - 0 0 0 2 | 0 0 0 4
 ---
+Bedford Town - 0 - 0 - 0 - 0 | 0 - 0 - 0 - 1
+
+Berkeley - 0 - 0 - 0 - 0 | 0 - 0 - 0 - 1
+
+Berkhamstead - 0 - 0 - 0 - 1 | 0 - 0 - 0 - 0
+
+Berwick - 2 - 0 - 0 - 0 | 2 - 0 - 0 - 0
+
 Beverley - 0 - 0 - 0 - 1 | 0 - 0 - 0 - 1
 
 Beverley Town - 2 - 0 - 0 - 0 | 0 - 0 - 0 - 0
