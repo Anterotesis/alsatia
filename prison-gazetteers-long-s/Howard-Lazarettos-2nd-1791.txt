@@ -356,7 +356,7 @@ Sect. I. LAZARETTOS. 11
 
 [Venice.]
 
-unloading the boat, the sub-prior came and shewed me my lodging, which was a very dirty room, full of vermin, and without table, chair, or bed. That day and the next morning I employed a person to wash my room: but this did not remove the offensiveness of it, or prevent that constant head-ach which I had been used to feel in visiting other lazarettos, and some of the hospitals in Turkey. This lazaretto is chiefly assigned to Turks and soldiers, and the crews of those ships which have the plague on board. In one of the enclosures was the crew of a Ragusian ship, which had arrived a few days before me, after being driven from Ancona and Trieste. My guard sent a report of my health to the office, and on the representation of our consul, I was conduced to the old lazaretto which is nearer the city. Having brought a letter to the prior from the Venetian ambassador at Constantinople, I hoped now to have had a comfortable lodging. But I was not so happy. The apartment appointed me (consisting of an upper and a lower room) was no less disagreeable and offensive than the former. I preferred lying in the lower room on a brick floor where I was almost surrounded with water. After six days, however, the prior removed me to an apartment in some respects better, and consisting of four rooms. Here I had a pleasant view; but the rooms were without furniture, very dirty, and no less offensive than the sick wards of the worst hospital. The walls of my chamber, not having been cleaned probably for half a century, were saturated with infection. I got them washed repeatedly with boiling water, to remove the offensive smell, but without any effect. My appetite failed, and I concluded I was in danger of the slow hospital-fever. I proposed white-washing my room with lime slacked in boiling water, but was opposed by strong prejudices. I got, however, this done one morning through the assistance of the British consul, who was so good as to supply me with a quarter of a bushel of fresh lime for the purpose. And the consequence was, that my room was immediately rendered so sweet and fresh, that I was able to drink tea in it in the afternoon, and to lie in it the following night*. On the next day the walls were dry as well as sweet, and in a few days I recovered my appetite. Thus, at a small expense, and to the admiration of the other inhabitants of this lazaretto, I provided for myself and successors, an agreeable and wholesome room, instead of a nasty and contagious one.
+unloading the boat, the sub-prior came and shewed me my lodging, which was a very dirty room, full of vermin, and without table, chair, or bed. That day and the next morning I employed a person to wash my room: but this did not remove the offensiveness of it, or prevent that constant head-ach which I had been used to feel in visiting other lazarettos, and some of the hospitals in Turkey. This lazaretto is chiefly assigned to Turks and soldiers, and the crews of those ships which have the plague on board. In one of the enclosures was the crew of a Ragusian ship, which had arrived a few days before me, after being driven from Ancona and Trieste. My guard sent a report of my health to the office, and on the representation of our consul, I was conducted to the old lazaretto which is nearer the city. Having brought a letter to the prior from the Venetian ambassador at Constantinople, I hoped now to have had a comfortable lodging. But I was not so happy. The apartment appointed me (consisting of an upper and a lower room) was no less disagreeable and offensive than the former. I preferred lying in the lower room on a brick floor where I was almost surrounded with water. After six days, however, the prior removed me to an apartment in some respects better, and consisting of four rooms. Here I had a pleasant view; but the rooms were without furniture, very dirty, and no less offensive than the sick wards of the worst hospital. The walls of my chamber, not having been cleaned probably for half a century, were saturated with infection. I got them washed repeatedly with boiling water, to remove the offensive smell, but without any effect. My appetite failed, and I concluded I was in danger of the slow hospital-fever. I proposed white-washing my room with lime slacked in boiling water, but was opposed by strong prejudices. I got, however, this done one morning through the assistance of the British consul, who was so good as to supply me with a quarter of a bushel of fresh lime for the purpose. And the consequence was, that my room was immediately rendered so sweet and fresh, that I was able to drink tea in it in the afternoon, and to lie in it the following night*. On the next day the walls were dry as well as sweet, and in a few days I recovered my appetite. Thus, at a small expense, and to the admiration of the other inhabitants of this lazaretto, I provided for myself and successors, an agreeable and wholesome room, instead of a nasty and contagious one.
 
 Over the gate-ways of two large rooms or warehouses, were carved in stone the images of three faints, (San Sebastiano, San Marco, and San Rocco) reckoned the patrons of this lazaretto. Formerly, when persons who had the plague were brought from the city, they
 
@@ -3486,7 +3486,7 @@ NEW LUDGATE.
 
 [New Ludgate.]
 
-Here are several improvements. Four fire-places are added: plenty of water by two pipes, one on each main. Prison clean and quiet. The Lord Mayor sends three chaldrons of coals, and the Sheriffs two as usual. Keeper now has no licence. In the large work-room I always found either chair-makers, basket-makers, or coopers at work. It would be more convenient if the court were paved with flat stones, and the waste water conduced through the offensive vault. On conversing with the keeper, who is secretary to Mr. Akerman, he observed to me, "now prisoners keep taps."
+Here are several improvements. Four fire-places are added: plenty of water by two pipes, one on each main. Prison clean and quiet. The Lord Mayor sends three chaldrons of coals, and the Sheriffs two as usual. Keeper now has no licence. In the large work-room I always found either chair-makers, basket-makers, or coopers at work. It would be more convenient if the court were paved with flat stones, and the waste water conducted through the offensive vault. On conversing with the keeper, who is secretary to Mr. Akerman, he observed to me, "now prisoners keep taps."
 
 1787, Nov. 6. Debtors 24.
 
@@ -7462,6 +7462,10 @@ Cavan - 1 - 36 | 0 - 0
 
 ---
 
+Clonmell - 10 5i *9 62 
+
+Cork - 3* 64 23 73 
+
 Kilmainham - 7 27 8 47
 
 Lifford - 12 20 0 0
@@ -7472,9 +7476,9 @@ City - 12 26 7 10
 
 Londonderry - 12 23 0 0
 
-Clonmell - 10 5i *9 62 Longford - - 8 8 12 20
+Longford - - 8 8 12 20
 
-Cork - 3* 64 23 73 Loughrea Bridewell - 0 0 0 3
+Loughrea Bridewell - 0 0 0 3
 
 City - - 67 45 76 49 Maryborough - - 2 11 1 7
 
