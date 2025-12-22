@@ -7458,46 +7458,30 @@ Carrick on Shannon - 0 - 0 | 2 - 4
 
 Castlebar - 0 - 0 | 4 - 6
 
-Cavan - 1 - 36 | 0 - 0
+CAVAN - 1 - 36 | 0 - 0
 
----
+Clonmell - 10 - 51 | 19 - 62
 
-Clonmell - 10 5i *9 62 
+CORK - 31 - 64 | 23 - 73
 
-Cork - 3* 64 23 73 
+Cork City - 67 - 45 | 76 - 49
 
-Kilmainham - 7 27 8 47
+Cork Bridewell - 2 - 7 | 4 - 5
 
-Lifford - 12 20 0 0
+Downpatrick - 9 - 26 | 0 - 0
 
-Limerick - 6 *9 0 0
+DUBLIN Bridewell - 0 - 6 | 0 - 12
 
-City - 12 26 7 10
+Dublin City Marshalsea - 92 - 0 | 66 - 0
 
-Londonderry - 12 23 0 0
+Dublin Four C. Marshalsea - 150 - 0 | 180 - 0
 
-Longford - - 8 8 12 20
+Dublin Newgate - 1 - 190 | 0 - 220
 
-Loughrea Bridewell - 0 0 0 3
+Dublin Police Prison - 0 - 32 | 0 - 12
 
-City - - 67 45 76 49 Maryborough - - 2 11 1 7
+Dublin Thos. Court & Donore - 2 - 0 | 0 - 0
 
-Bridewell - - 2 7 4 5 Monaghan - - 13 33 0 0
-
-Downpatrick 9 26 0 0 Mullingar - - 2 24 1 *9
-
-Dublin Bridewell - 0 6 0 12 Naas - - 3 19 0 0
-
-City Marshalsea - 92 0 66 0 Omagh - - 16 19 0 0
-
-FourC. Marshalsea 150 0 180 0 Philipfiown - 0 0 3 3
-
-Newgate - 1 190 0 220
-
-Police Prison * 0 32 0 12
-
-Thos. Court Sc Donore 2 0 0 0
--
 Dundalk - 5 - 8 | 0 - 0
 
 Ennis - 0 - 0 | 6 - 19
@@ -7511,7 +7495,33 @@ Galway City - 7 - 12 | 0 - 0
 KILKENNY - 2 - 13 | 0 - 0
 
 Kilkenny City - 3 - 7 | 0 - 0
----
+
+Kilmainham - 7 - 27 | 8 - 47
+
+Lifford - 12 - 20 | 0 - 0
+
+LIMERICK - 6 - 19 | 0 - 0
+
+Limerick City - 12 - 26 | 7 - 10
+
+LONDONDERRY - 12 - 23 | 0 - 0
+
+LONGFORD - 8 - 8 | 12 - 20
+
+Loughrea Bridewell - 0 - 0 | 0 - 3
+
+Maryborough - 2 - 11 | 1 - 7
+
+Monaghan - 13 - 33 | 0 - 0
+
+Mullingar - 2 - 24 | 1 - 19
+
+Naas - 3 - 19 | 0 - 0
+
+Omagh - 16 - 19 | 0 - 0
+
+Philipstown - 0 - 0 | 3 - 3
+
 ROSCOMMON - 1 - 33 | 3 - 13
 
 SLIGO - 0 - 0 | 2 - 19
@@ -7547,19 +7557,19 @@ TABLE III.
 An Account of the Number of Prisoners in the Gaols and of England and Wales at the last Time they were visited in 1787, or 1788.
 
 As some County Gaols are also the County Bridewells, where petty Offenders are not always separated from Felons, in those Places I sometimes include petty Offenders under the Article Felons - In this Table I have omitted mentioning all those Prisons in which, at the times of my visiting in these two Years, there were no Persons confined.
----
+
 Debtors. Felons &c. Petty Offenders.
 
-Appleby - - I 6 O Carmarthen - 5 7 2
+APPLEBY - 1 - 6 - O
 
-Appleby Bridewell - - 0 0 I Town - 0 2 2
+Appleby Bridewell - 0 - 0 - 1
 
-Aston - - 0 0 s Carnarvon - 3 0 O
+Aston - 0 - 0 - 5
 
-Aylesbury - - II 24 0 Chelmsford - 3* 76 O
+AYLESBURY - 11 - 24 - 0
 
-Aylesbury Bridewell - - 0 0 10 Bridewell - 0 0 30
-
+Aylesbury Bridewell - 0 - 0 - 10
+---
 Banbury - - 0 0 3 Chester - *9 37 O
 
 Barking - - 0 0 2 City - 8 9 O
@@ -7600,26 +7610,42 @@ Bristol Bridewell - 0 0 *4 Bridewell . 0 0 1
 
 Bristol Lawford's-gate - 0 0 5 Exeter - 0 23 2
 
-Bury St. Edmunds - 7 17 0 Sheriff's Ward 44 0 0
+Bury St. Edmunds - 7 17 0 Exeter Sheriff's Ward 44 0 0
 
-Bury St. Edmunds Bridewell - 0 0 3 Bridewell - 0 0 22
+Bury St. Edmunds Bridewell - 0 0 3 Exeter Bridewell - 0 0 22
 
-Cambridge - - 7 8 0 City - 2 11 0
+Cambridge - - 7 8 0
 
-Cambridge Bridewell - 0 0 13 Flint - 4 3 1
+Cambridge Bridewell - 0 0 13
 
-Cambridge Town - - 2 1 0 Folkingham - 0 0 3
+Cambridge Town - - 2 1 0
 
 Cambridge Town Bridewell - 0 0 9
 
-Cardiff - - 33 7 . 0
+CARDIFF - - 33 7 . 0
 
-Carlisle - 32 -20 - 2
+CARLISLE - 32 -20 - 2
 
 Total - 173 - 159 - 133
 
-Gloucester - 24 57 0
+CARMARTHEN - 5 - 7 - 2
+
+Town - 0 2 2
+
+Carnarvon - 3 0 O
+
+Chelmsford - 3* 76 O
+
+Chelmsford Bridewell - 0 0 30
 ---
+Exeter City - 2 - 11 - 0
+
+FLINT - 4 - 3 - 1
+
+Folkingham - 0 - 0 - 3
+
+GLOUCESTER - 24 - 57 - 0
+
 Gloucester Bridewell - 0 - 0 - 5
 
 Gloucester City - 5 - 6 - 0
@@ -7637,45 +7663,45 @@ Guildford - 0 - 0 - 8
 Halifax - 4 - 0 - 0
 
 HAVERFORDWEST - 3 - 4 - 0
+
+HEREFORD - 6 - 25 - 0
+
+Hereford Bridewell - 0 - 0 - 5
+
+Hereford City - 2 - 0 - 1
+
+HERTFORD - 8 - 3 - 0
+
+Hertford Bridewell - 0 - 0 - 3
+
+HORSHAM - 16 - 15 - 0
+
+Hull - 12 - 4 - 0
+
+Hull Bridewell - 1 - 0 - 3
+
+HUNTINGDON - 4 - 9 - 0
+
+Huntingdon Bridewell - 0 - 0 - 2
+
+IPSWICH - 15 - 18 - 0
+
+Ipswich Bridewell - 0 - 0 - 9
+
+IVELCHESTER - 57 - 17 - 0
+
+Kendal Bridewell - 0 - 0 - 6
+
+Kingston - 4 - 0 - 0
+
+Kingston Bridewell - 0 - 0 - 24
+
+LANCASTER - 53 - 65 - 0
+
+LAUNCESTON - 0 - 3 - 0
+
+Leeds - 0 - 0 - 1
 ---
-Hereford - - 6 25 0
-
-Bridewell - 0 0 5
-
-City 2 0 1
-
-Hertford - 8 3 0
-
-Bridewell 0 0 3
-
-Horsham - 16 15 0
-
-Hull - - 12 4 0
-
-Bridewell 1 0 3
-
-Huntingdon - 4 9 0
-
-Bridewell 0 0 2
-
-Ipswich - 15 18 0
-
-Bridewell 0 0 9
-
-IVELCHESTER - 57 17 0
-
-Kendal Bridewell 0 0 6
-
-Kingston - 4 0 0
-
-Bridewell - 0 0 24
-
-Lancaster - 53 65 0
-
-Launceston 0 3 0
-
-Leeds 0 0 1
-
 Leicester - 15 H 0
 
 Bridewell - 0 0 9
@@ -7994,7 +8020,7 @@ Sussex - 34 - 3
 
 Surrey - 167 - 83
 
-- Southwark - 0 - 18 - 268 - 42 
+- Southwark - 0 - 18 - 268 - 42
 ---
 MIDLAND CIRCUIT.
 
@@ -8003,6 +8029,12 @@ Gaol Deliveries and Great Sessions. - Quarter Session. - Total of both. - Yearly
 Derbyshire - 27 - 17
 
 - Derby - 0 - 5 - 49 - 8
+
+Lincolnshire - 50 - 0
+
+Parts of Holland - 0 - 0
+
+Parts of Kesteven - 0 - 1
 
 NORFOLK CIRCUIT.
 
@@ -8042,11 +8074,7 @@ Ipswich 0 5 86 14
 
 NORTHERN CIRCUIT.
 
-Lincolnshire 50 0
-
-Parts of Holland 0 0
-
-Parts of Kesteven 0 1 Cumberland 11 20 3i 5
+Cumberland 11 20 3i 5
 
 Parts of Lindsey 0 10 61 10 Durham 23 *3 36 6
 
@@ -8064,31 +8092,47 @@ Leicester 9 3 12 2 Lancashire - 44 95
 
 Northampton shire - 28 13 4* 7 Liverpool - 0 22
 
-Warwickshire 112 2 114 18 Prelton 0 1
+Warwickshire 112 2 114 18
 
-Coventry 28 0 28 5 Wigan 0 4 166 26
+Coventry 28 0 28 5
 
-789 270 1059 171 395; 1 630 104
+789 270 1059 171
+---
+- Preston - 0 - 1
+
+- Wigan - 0 - 4 1- 66 - 26
+
+395 - 235 - 630 - 104
 
 TABLES 247
 
 Gaol Deliveries and Great Sessions. - Quarter Session. - Total of both. - Yearly Average.
 
-WESTERN CIRCUIT.
+Yorkshire - 124 - O
 
-Yorkshire 12+ O
+- East Riding - 0 - 14
 
-East Riding o *+ Cornwall 53 25 78 12
+- North Riding - 0 - 4
 
-North Riding o 4 Devonshire I04 29
+- West Riding - 0 - 42
 
-West Riding o 42 Plymouth - 0 7 140 22
+- Doncaster - 0 - 1
 
-Doncaster - o 1 Exeter 1 4 5 1
+- Leeds - 0 - 7
+---
+- Pontefract - 0 - 1
+-
+Cornwall - 53 - 25 - 78 - 12
 
-Leeds o 7 Dorsetshire 53 11 64 IO
+Devonshire - 104 - 29
 
-Pontefract - o I Poole 1 3 4 I
+Plymouth - 0 - 7 - 140 - 22
+
+Exeter - 1 - 4 - 5 - 1
+-
+Dorsetshire - 53 - 11 - 64 - 10
+
+Poole 1 3 4 I
 
 Richmond - o 1 Hampshire 1 *3 5 118 *9
 
@@ -8110,9 +8154,13 @@ Westminster 0 *59 1918 296
 
 OXFORD CIRCUIT.
 
+Berkshire - 57 - 15 
+
+WESTERN CIRCUIT.
+
 CHESHIRE AND WALES.
 
-Berkshire 57 15 Cheshire l6 3 *9
+Cheshire l6 3 *9
 
 Reading o 7 79 *3 Chester O *4 *4
 
@@ -8128,26 +8176,38 @@ Gloucester - 7 7 *4 3 Carmarthen 0 0 0
 
 Herefordshire 49 0 49 8 Carnarvonshire - 2 I 3
 
-Monmouthshire - 44 2 46 8 Denbighshire 0 5 5
+Monmouthshire - 44 2 46 8
 
-Salop 82 12 Flintshire 1 5 6
+Salop 82 12
 
-Shrewsbury - 0 5 99 16 Glamorganshire - 12 0 12
+Shrewsbury - 0 - 5 - 99 - 16
+-
+Staffordshire - 85 - 11 - 96 - 15
 
-Staffordshire 85 11 96 *5 Merionethshire - 5 0 5
+- Litchfield - 0 - 3-  3 - 1
 
-Litchfield - 0 3 3 1 Montgomeryshire 5 0 5
+Worcestershire - 59 - 0 - 59 - 10
 
-Worcestershire 59 0 59 10 Pembrokeshire 5 0 5
+Worcester - 15 - 0 - 15 - 3
 
-Worcester - 15 0 *5 3
+707 - 174 - 881 - 144
 
-7°7 *74 881 144 -
+Foregoing page - 789 - 270 - 1059 - 171
 
-Fongoing page 789 270 1059 *7*
-
-1496 444 1940 3*5
+1496 - 444 - 1940 - 315
 ---
+Denbighshire - 0 - 5 - 5
+
+Flintshire - 1 - 5 - 6
+
+Glamorganshire - 12 - 0 - 12
+
+Merionethshire - 5 - 0 - 5
+
+Montgomeryshire - 5 - 0 - 5
+
+Pembrokeshire - 5 - 0 - 5
+
 Haverford-West - 0 - 0 - 0
 
 Radnorshire - 2 - 0 - 2 - 16
@@ -8299,73 +8359,77 @@ This Mark * denotes a Person pardoned; the rest were executed.
 Northern Circuit. - Southern Circuit. - Western Circuit.
 
 Edinburgh. - Aberdeen. Perth. Inverness. - Jedburgh. Dumfries. - Glasgow. Stirling. - Crimes.
----
+
 1783 - *2 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - Street-robbery.
 
-I - - House-breaking and Theft.
+1783 - 1 - *1 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - House-breaking and Theft.
 
-#l - - Theft and Resett.
+1783 - *1 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - Theft and Resett.
 
-00 1 - - " - •x - - Robbery.
+1783 - 1 - 0 - 0 - 0 - 0 - 0 - 0 - *1 - 0 - 0 - Robbery.
 
-- •1 " - - Sheep-stealing.
+1783 - 0 - 0 - 0 - *1 - 0 - 0 - 0 - 0 - 0 - 0 - Sheep-stealing.
 
-* - •3 - - •l - Theft.
+1783 - 0 - 0 - 0 - *3 - 0 - 0 - 0 - 0 - *1 - 0 - Theft.
 
-- I - - ' - - Horse-stealing.
+1783 - 0 - 0 - 0 - 0 - 1 - 0 - 0 - 0 - 0 - 0 - Horse-stealing.
 
-2 _ m #2 _ Theft.
+1784 - 0 - 2 - 0 - 0 - 0 - 0 - 0 - *2 - 0 - 0 - Theft.
 
-_ 1 - . - . - - Stealing a Child.
+1784 - 0 - 1 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - Stealing a Child.
 
-1784 - I - - Robbery.
+1784 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 1 - 0 - 0 - Robbery.
 
-_ -- - . - I Murder.
+1784 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 1 - Murder.
 
-- - - ~ r House-breaking and Theft.
+1784 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 1 - House-breaking and Theft.
 
-2 m House-breaking and Theft.
+1785 - 2 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - House-breaking and Theft.
 
-, I _ _ _ _ m Sheep-stealing.
+1785 - 0 - 0 - 0 - 1 - 0 - 0 - 0 - 0 - 0 - 0 - Sheep-stealing.
 
-m I . _ _ _ m Wilful Fire-railing.
+1785 - 0 - 1 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - Wilful Fire-raising.
 
-I78J - - •l l •l - - Theft. Forgery.
+1785 - 0 - 0 - 0 - 0 - 0 - *1 - 0 - *1 - 0 - 0 - Theft.
 
-_ _ I m _ Murder.
+1785 - 0 - 0 - 0 - 0 - 0 - 0 - 1 - 0 - 0 - 0 - Forgery.
 
-- - 2 - - Robbery.
+1785 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 1 - 0 - 0 - Murder.
 
-_ House-breaking and Theft.
+1785 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 2 - 0 - 0 - Robbery.
 
-* _ _ _ . - Pocket-picking.
+1786 - 2 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - House-breaking and Theft.
 
-I _ I Theft.
+1786 - 1 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - Pocket-picking.
 
-_ _ . Robbery.
+1786 - 1 - 0 - 1 - 0 - 0 - 0 - 0 - 1 - 0 - 0 - Theft.
 
-_ m . Robbery of the Mail.
+1786 - 1 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - Robbery.
 
-1786 •*2 m . _ _ Sheep-stealing.
+1786 - 2 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - Robbery of the Mail.
 
-- - - 2 - 1 - - Stealing a Lecter from the Mail. f Horse-steali ng.
+1786 - 0 - 0 - 0 - **3 - 0 - 0 - 0 - 0 - 0 - 0 - Sheep-stealing.
 
-- - 1 Murder.
+1786 - 0 - 0 - 0 - 0 - 0 - 0 - 1 - 0 - 0 - 0 - Stealing a Letter from the Mail.
 
-I . _ _ Murder of his own Child*
+1786 - 0 - 0 - 0 - 0 - 2 - 0 - 0 - 0 - 0 - 0 - Horse-stealing.
 
-I m - - Sheep-stealing.
+1786 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 1 - Murder.
 
-1 I m . I - - Theft.
+1787 - 1 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - Murder of his own Child.
 
-1787 #, m - * Shop-breaking.
+1787 - 1 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - Sheep-stealing.
 
-« *1 - 2 - Robbery.
+1787 - 0 - 1 - 1 - 0 - 0 - 0 - 0 - 1 - 0 - 0 - Theft.
+
+1787 - 0 - *1 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - Shop-breaking.
+
+1787 - 0 - 0 - 0 - 0 - 0 - *1 - 0 - 2 - 0 - 0 - Robbery.
 
 1787 - 0 - 0 - 0 - 0 - 0 - 1 - 0 - 0 - 0 - 0 - Murder.
 
 1787 - 0 - 0 - 0 - 0 - *1 - 0 - 0 - 0 - 0 - 0 - House-breaking and Theft.
----
+
 16 - 7 - 2 - 8 - 4 - 3 - 2 - 12 - 1 - 3 - 58 Total Condemned.
 
 2 - 2 - 0 - 4 - 1 - 2 - 0 - 3 - 1 - 0 - 15 Pardoned.
