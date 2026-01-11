@@ -5934,7 +5934,7 @@ A LIST OF BENEFACTORS
 
 To the PRISON of LUDGATE.
 
-Sir. Thomas Gresham - £10 0 0
+Sir Thomas Gresham - £10 0 0
 
 Sir Roger Martin - 2 0 0
 
@@ -5954,7 +5954,7 @@ Lady Eliz. Maurice - 1 0 0
 
 Sir William Peacock or Seacock - 1 10 0
 
-Mr. Thomas Cottle - a hind quarter of beef, and a peck of oatmeal, value 1 0 0
+Mr. Thomas Cottle - a hind quarter of beef, and a peck of oatmeal, value - 1 0 0
 
 Lady M. North in bread - 3 0 0
 
@@ -5964,7 +5964,7 @@ Mr. Thomas Dawson - 0 9 0
 
 Mrs. Cooke, Widow of David Cooke 0 5 0
 
-Mrs. Margaret Dane, - 18 stone of beef and some bread, value 1 0 0
+Mrs. Margaret Dane, - 18 stone of beef and some bread, value - 1 0 0
 
 Mr. John Heydon Aldern - 3 0 0
 
@@ -17926,161 +17926,159 @@ Abingdon - 1 - 0 - 0 - 0 | 0 - 1 - 3 - 0
 
 Abingdon Bridewell - 0 - 0 - 0 - 3 | 0 - 0 - 0 - 13
 
----
+APPLEBY - 7 - 1 - 2 - 0 | 6 - 2 - 0 - 0
 
-Appleby 7 1 2 0 - 6 2 0 0
+Appleby Bridewell - 0 - 0 - 0 - 0 | 0 - 0 - 0 - 1
 
-Bridewell 0 0 0 0 - 0 0 0 1
+AYLESBURY - 6 - 0 - 12 - 0 | 19 - 1 - 6 - 0
 
-Aylesbury 6 O 12 0 - r9 r 6 0
+Aylesbury Bridewell - 0 - 0 - 0 - 3 | 0 - 0 - 0 - 2
 
-Bridewell 0 0 0 3 - 0 0 0 2
+Aylsham - 0 - 0 - 0 - 4 |
 
-Aylesham 0 0 0 4
+Barking - 0 - 0 - 0 - 1 | 0 - 0 - 0 - 3
 
-Barking 0 0 0 i - 0 0 0 3
+Basford - 2 - 0 - 0 - 0 |
 
-Basford 2 0 0 0
+Bath - 10 - 0 - 0 - 2 | 3 - 0 - 0 - 5
 
-Bath 10 0 0 2 - 3 0 0 5
+Batley - 17 - 1 - 0 - 0 | 25 - 0 - 0 - 0
 
-Batley 17 1 0 0 - 25 0 0 0
+BEAUMARIS - 4 - 0 - 1 - 0 | 6 - 1 - 1 - 0
 
-Beaumaris 4 O I 0 - 6 X I 0
+Beccles - 0 - 0 - 0 - 9 | 0 - 0 - 0 - 15
 
-Beccles 0 0 0 9 - 0 0 0 ZS
+BEDFORD - 7 - 0 - 2 - 0 | 7 - 0 - 3 - 0
 
-Bedford 7 0 2 0 - 7 0 3 0
+Bedford Bridewell - 0 - 0 - 0 - 2 | 0 - 0 - 0 - 4
 
-Bridewell 0 0 0 2 - 0 0 0 4
+Bedford Town - 0 - 0 - 0 - 0 | 0 - 0 - 0 - 1
 
-Town 0 0 0 0 - 0 0 0 1
+Berkeley - 0 - 0 - 0 - 0 | 0 - 0 - 0 - 1
 
-Berkley 0 0 0 0 - 0 0 0 1
+Berkhamstead - 0 - 0 - 0 - 1 | 0 - 0 - 0 - 0
 
-Berkhamstead 0 0 0 I - 0 0 0 0
+Berwick - 2 - 0 - 0 - 0 | 2 - 0 - 0 - 0
 
-Berwick z 0 0 0 - 2 0 0 0
+Beverley - 0 - 0 - 0 - 1 | 0 - 0 - 0 - 1
 
-Beverley 0 0 0 I - 0 0 0 1
+Beverley Town - 2 - 0 - 0 - 0 | 0 - 0 - 0 - 0
 
-Town 2 0 0 0 - 0 0 0 0
+Beverley Hall-garth - 1 - 0 - 0 - 0 | 2 - 0 - 0 - 0
 
-Hall-garth x 0 0 0 - 2 0 0 0
+Birmingham - 0 - 0 - 0 - 8 | 0 - 0 - 0 - 3
 
-Birmingham. 0 0 0 8 - 0 0 0 3
+Birmingham Court prison - - - - | 1 - 2 - 0 - 0
 
-Court prison - I a 0 0
+Bodmin - 0 - 0 - 0 - 13 | 12 - 2 - 4 - 8
 
-Bodmin 0 0 0 13 - 12 2 4 8
+Bodmin Sheriff's Ward - 12 - 1 - 0 - 0 |
 
-Sheriff's Ward 12 1 0 0
+Boston - 0 - 0 - 2 - 0 | 0 - 0 - 0 - 0
 
-Bofion 0 0 2 0 - 0 0 0 0
+Bradford - 11 - 1 - 0 - 0 | 6 - 1 - 0 - 0
 
-Bradford XI 1 0 0 - 6 1 0 0
+BRECON - 3 - 0 - 3 - 0 | 0 - 1 - 2 - 0
 
-Brecon 3 O 3 0 - 0 I 2 0
+85 - 4 - 22 - 47 | 89 - 11 - 19 - 57
 
-'85 4 22 47 89 '11 19 57
+TABLES 487
 
-Brecon
+1779. | 1782.
 
-487
+Debtors Men. - Debtors Women. - Felons &c. - Petty Offenders. | Debtors Men. - Debtors Women. - Felons &c. - Petty Offenders.
 
-1779*
+Brecon Bridewell - 0 - 0 - 0 - 0 | 0 - 0 - 0 - 1
 
-Debtors. Felons
+Bristol - 41 - 6 - 9 - 0 | 27 - 6 - 32 - 0
 
-Men. Worn. &c.
+Bristol Bridewell - 0 - 0 - 0 - 8 | 0 - 0 - 0 - 19
 
-Brecon Bridewell 0 0 0
+Bristol Lawford's-gate - 0 - 0 - 0 - 5 | 0 - 0 - 0 - 6
 
-Bristol 41 6 9
+Buntingford - 0 - 0 - 0 - 1 | 0 - 0 - 0 - 1
 
-Bridewell 0 0 0
+Bury St. Edmunds - 18 - 0 - 5 - 0 | 14 - 2 - 11 - 0
 
-Lawford's-gate 0 0 0
+Bury St. Edmunds  Bridewell - 0 - 0 - 0 - 2 | 0 - 0 - 0 - 0
 
-Buntingford 0 0 0
+CAMBRIDGE - 20 - 1 - 2 - 0 | 13 - 2 - 3 - 0
 
-Bury St. Edmunds 18 0 5
+Cambridge Bridewell - 0 - 0 - 0 - 7 | 0 - 0 - 0 - 8
 
-Bridewell 0 0 0
+Cambridge Town - 1 - 0 - 2 - 0 | 2 - 0 - 0 - 0
 
-Cambridge 20 I 2
+Cambridge Town Bridewell - 0 - 0 - 0 - 6 | 0 - 0 - 0 - 3
 
-Bridewell 0 0 0
+Canterbury - 2 - 0 - 2 - 0 | 1 - 0 - 2 - 0
 
-Town I 0 2
+Canterbury Bridewell - 0 - 0 - 0 - 4 | 0 - 0 - 5 - 6
 
-Bridewell 0 0 0
+CARDIFF - 2 - 1 - 0 - 0 | 16 - 0 - 5 - 0
 
-Canterbury 2 0 2
+Cardiff Town - 1 - 0 - 0 - 0 | 1 - 0 - 0 - 0
 
-Bridewell 0 0 0
+CARDIGAN - 1 - 1 - 0 - 0 | 3 - 0 - 0 - 1
 
-Cardiff 2 I 0
+CARLISLE - 32 - 0 - 21 - 0 | 28 - 2 - 9 - 0
 
-Town 1 0 0
+Carlisle City - 2 - 1 - 0 - 0 | 0 - 0 - 0 - 0
 
-Cardigan I I 0
+CARMARTHEN - 13 - 1 - 8 - 0 | 13 - 2 - 2 - 1
 
-Carlisle 32 0 21
+Carmarthen Town - 0 - 0 - 1 - 0 | 2 - 0 - 1 - 0
 
-City 2 I 0
+CARNARVON - 5 - 0 - 1 - 0 | 3 - 0 - 0 - 0
 
-Carmarthen *3 I 8
+CHELMSFORD - 34 - 0 - 7 - 0 | 28 - 0 - 19 - 0
 
-Town 0 0 1
+Chelmsford Bridewell - 0 - 0 - 0 - 27 | 0 - 0 - 0 - 28
 
-Carnarvon 5 0 I
+CHESTER - 18 - 1 - 4 - 0 | 19 - 3 - 5 - 0
 
-Chelmsford 34 0 7
+Chester City - 6 - 1 - 5 -  | 5 - 0 - 1 - 0
 
-Bridewell 0 0 0
+Chester Bridewell - 0 - 0 - 0 - 1 | 0 - 0 - 0 - 3
 
-Chester >8; 4
+Chesterfield Bridewell - 0 - 0 - 0 - 1 | 0 - 0 - 0 - 3
 
-City 6 I 5
+Cirencester - 0 - 0 - 0 - 6 | 0 - 0 - 1 - 2
 
-Bridewell 0 0 0
+Clare - 0 - 0 - 0 - 1 | 0 - 0 - 0 - 0
 
-Chererfeld Bridewell 0 0 0
+COLCHESTER - 0 - 0 - 4 - 0 | 1 - 0 - 5 - 0
 
-Cirencester 0 0 0
+Colchester Bridewell - 0 - 0 - 0 - 1 | 0 - 0 - 0 - 3
 
-Clare 0 0 0
+Coventry - 5 - 0 - 4 - 0 | 8 - 0 - 2 - 0
 
-Colchester 0 0 4
+Coventry Bridewell - 0 - 0 - 0 - 1 | 0 - 0 - 0 - 4
 
-Bridewell 0 0 0
+Cowbridge - 0 - 0 - 0 - 2 | 0 - 0 - 0 - 2
 
-Coventry S 0 4
+Dartford - 0 - 0 - 0 - 5 | 0 - 0 - 0 - 5
 
-Bridewell 0 0 0
+DERBY - 12 - 0 - 6 - 0 | 13 - 0 - 9 - 3
 
-Cowbridge 0 0 0
+Derby Town - 0 - 0 - 0 - 0 | 4 - 0 - 2 - 0
 
-Dartford 0 0 0
+Devizes - 1 - 0 - 0 - 14 | 1 - 4 - 0 - 25
 
-Derby 12 0 6
+DOLGELLY - 3 - 0 - 2 - 0 | 7 - 1 - 2 - 0
 
-Town 0 0 0
+Doncaster - 0 - 0 - 0 - 0 | 1 - 0 - 0 - 0
 
-Devizes 1 0 0
+DORCHESTER - 14 - 0 - 6 - O0 | 17 - 0 - 8 - 0
 
-Dolgelly 3 0 2
+Dorchester Town gaol - - - - | 1 - 0 - 0 - 0
 
-Doncaf.tr 0 0 0
+Dover Castle - 3 - 0 - 0 - 0 | 2 - 0 - 0 - 0
 
-Dorchester H 0 6
+Dover Town - 1 - 0 - 1 - 0 | 1 - 0 - 0 - 3
 
-Town gaol Doi/er Castle 3 0 0
+DURHAM - 12 - 2 - 22 - 0 | 18 - 2 - 19 - 0
 
-Town I 0 1
-
-Durham 12 2 22 0 - 18 2 19 0
+247 - 15 - 112 - 92 | 249 - 24 - 143 - 127
 
 488 TABLES.
 
@@ -18088,666 +18086,366 @@ Durham 12 2 22 0 - 18 2 19 0
 
 Debtors Men. - Debtors Women. - Felons &c. - Petty Offenders. | Debtors Men. - Debtors Women. - Felons &c. - Petty Offenders.
 
-O - 0 0 0 I
+Durham Bridewell - 0 - 0 - 0 - 9 | 0 - 0 - 0 - 8
 
-O - 27 6 32 O
+Ely - 7 - 0 - 1 - 0 | 4 - 0 - 2 - 0
 
-8 - 0 0 0 19
+Ely Bridewell - 0 - 0 - 0 - 2 | 0 - 0 - 0 - 3
 
-5 - 0 0 0 6
+EXETER - 0 - 0 - 33 - 0 | 0 - 0 - 25 - 0
 
-1 - 0 0 0 1
+Exeter Sheriff's Ward - 35 - 1 - 0 - 0 | 21 - 2 - 0 - 0
 
-0 - H 2 11 0
+Exeter Bridewell - 0 - 0 - 0 - 27 | 0 - 0 - 0 - 43
 
-2 - T 0 0 0 0
+Exeter City - 2 - 0 - 2 - 0 | 3 - 0 - 1 - 0
 
-0 - 13 2 3 0
+FLINT - 1 - 0 - 3 - 1 | 9 - 0 - 3 - 0
 
-7 - 0 0 0 8
+Folkingham - 0 - 0 - 0 - 2 | 0 - 0 - 0 - 2
 
-0 - 2 0 0 0
+Gainsborough - 0 - 0 - 0 - 5 | 0 - 0 - 0 - 4
 
-6 - 0 0 0 3
+GLOCESTER - 15 - 1 - 24 - 0 | 33 - 5 - 38 - 0
 
-0 - I 0 2 0
+Glocester City - 1 - 0 - 1 - 0 | - - - -
 
-4 - 0 0 S 6
+Gosport - 0 - 0 - 0 - 9 | 0 - 0 - 0 - 3
 
-0 - 16 0 5 0
+Guildford - 0 - 0 - 0 - 3 | 0 - 0 - 0 - 3
 
-0 - 1 0 0 0
+Halifax - 5 - 0 - 0 - 0 | 7 - 0 - 0 - 0
 
-0 - 3 0 0 1
+Halstead - 0 - 0 - 0 - 5 | 0 - 0 - 0 - 0
 
-0 - 28 -2 9 0
+HAVERFORDWEST - 1 - 0 - 2 - 0 | 6 - 0 - 0 - 0
 
-0 - 0 0 0 0
+Haverfordwest Town - 0 - 1 - 0 - 0 | 1 - 0 - 0 - 0
 
-0 - *3 2 2 r
+Henley - - - - | 0 - 0 - 0 - 4
 
-0 - 2 0 1 0
+HEREFORD - 18 - 1 - 9 - 0 | 23 - 0 - 6 - 0
 
-0 - 3 0 0 0
+Hereford Bridewell - - - - | 0 - 0 - 0 - 4
 
-0 - 28 0 J9 0
+Hereford City - 4 - 0 - 0 - 0 | 0 - 0 - 0 - 0
 
-27 - 0 0 0 28
+HERTFORD - 1 - 0 - 17 - 0 | 10 - 0 - 9 - 0
 
-0 - 79 3 5 0
+Hertford Bridewell - 0 - 0 - 0 - 1 | 1 - 0 - 0 - 3
 
-0 - 5 0 1 0
+Hitchin - 0 - 0 - 0 - 0 | 0 - 0 - 0 - 3
 
-1 - 0 0 0 3
+HORSHAM - 12 - 0 - 6 - 0 | 16 - 0 - 7 - 0
 
-1 - 0 0 0 3
+Hull - 8 - 0 - 1 - 0 | 7 - 0 - 4 - 0
 
-6 - 0 0 I 2
+Hull Bridewell - 0 - 0 - 0 - 11 | 2 - 0 - 0 - 4
 
-1 - 0 0 0 0
+HUNTINGDON - 10 - 1 - 14 - 0 | 7 - 0 - 3 - 3
 
-0 - I 0 5 0
+IPSWICH - 22 - 2 - 23 - 0 | 26 - 1 - 10 - 0
 
-1 - 0 0 0 3
+Ipswich Bridewell - 0 - 0 - 0 - 0 | 0 - 0 - 0 - 2
 
-0 - 8 0 2 0
+IVELCHESTER - 32 - 1 - 15 - 0 | 35 - 3 - 14 - 0
 
-1 - 0 0 0 4
+Kendal Bridewell - 0 - 0 - 0 - 0 | 0 - 0 - 0 - 1
 
-2 - 0 0 0 2
+Kettering - 0 - 0 - 0 - 2 | 0 - 0 - 0 - 0
 
-5 - 0 0 0 S
+Kingston - 3 - 0 - 0 - 0 | 3 - 1 - 0 - 0
 
-0 - J3 0 9 3
+Kingston Bridewell - 0 - 0 - 0 - 6 | 0 - 0 - 0 - 17
 
-0 - 4 0 2 0
+Knaresbrough 0 - 0 - 0 - 0 | 1 - 0 - 0 - 0
 
-14 - I 4 0
+LANCASTER - 67 - 5 - 11 - 0 | 55 - 2 - 17 - 0
 
-0 - ">* 7 I 2 0
+LAUNCESTON - 0 - 0 - 4 - 0 | 0 - 0 - 0 - 0
 
-0 - 1 0 0 0
+Lavenham - 0 - 0 - 0 - 3 | 0 - 0 - 0 - 1
 
-0 - *7 0 8 0
+Leeds - 0 - 0 - 0 - 0 | 0 - 0 - 0 - 1
 
-- - 1 0 0 o'
+LEICESTER - 22 - 1 - 10 - 0 | 19 - 1 - 4 - 0
 
-0 - 2 0 0 0
+Leicester Bridewell - 0 - 0 - 0 - 8 | 0 - 0 - 0 - 2
 
-0 - 1 0 0 3
+Leicester Town - 3 - 0 - 2 - 0 | 2 - 0 - 3 - 0
 
-0 - 18 2 x9 0
+Lewes - 0 - 0 - 0 - 8 | 0 - 0 - 1 - 6
 
-249 24 143 127
+269 - 14 - 178 - 101 | 291 - 15 - 147 - 117
 
-Durham
-
-247 J5
-
-112 92
-
-4*3
-
-1779. 1782.
-
-Debtors. Felons Petty Debtors. Felons Petty
-
-Men. Worn. &c. Offenders. Men. Worn. &c. Offenders.
-
-Durham Bridewell 0 0 0 9 - 0 0 0 8
-
-Ely 7 O I 0 - 4 O 2 0
-
-Bridewell 0 0 0 2 - 0 0 0 3
-
-Exeter 0 0 33 0 - 0 0 25 0
-
-Sheriff's Ward 35 1 0 0 - . 21 2 0 0
-
-Bridewell 0 0 0 27 - 0 0 0 43
-
-City Z O z 0 - 3 O I 0
-
-Flint I O 3 0 - 9 O 3 0
-
-Folkingham 0 0 0 2 - 0 0 0 2
-
-Gainsborough 0 0 0 5 - 0 0 0 4
-
-Glocester *5 I 24 0 - 33 5 38 0
-
-City I O I 0
-
-Gosport 0 0 0 9 - 0 0 0 3
-
-Guildford 0 0 0 3 - 0 0 0 3
-
-Halifax 5 0 0 0 - 7 0 0 0
-
-Halfield 0 0 0 5 - 0 0 0 0
-
-Haverfordwest I O 2 0 - 6 0 0 0
-
-Town 0 1 0 0 - 1 0 0 0
-
-Henley - 0 0 0 4
-
-Hereford 18 I 9 0 - 23 0 6 0
-
-Bridewell - 0 0 0 4
-
-City 4 0 0 0 - 0 0 0 0
-
-Hertford I O x7 0 - 10 0 9 0
-
-Bridewell 0 0 0 I - 1 0 0 3
-
-Hitchin 0 0 0 0 - 0 0 0 3
-
-Horsham 12 O 6 0 - 16 0 7 0
-
-Hull 8 O I 0 - 7 0 4 0
-
-Bridewell 0 0 0 11 - 2 0 0 4
-
-Huntingdon 10 I *4 0 - 7 0 3 3
-
-Ipswich 22 2 23 0 - 26 I 10 0
-
-Bridewell 0 0 0 0 - 0 0 0 2
-
-IVELCHESTER 32 I i5 0 - 35 3 *4 0
-
-Kendal Bridewell 0 0 0 0 - 0 0 0 1
-
-Kettering 0 0 0 2 - 0 0 0 0
-
-Kingston 3 0 0 0 - 3 1 0 0
-
-Bridewell 0 0 0 6 - 0 0 0 *7
-
-Knaresbrough 0 0 0 0 - 1 0 0 0
-
-Lancaster 67 5 11 0 - 55 2 J7 0
-
-Launceston 0 0 4 0 - 0 0 0 0
-
-Lavenham 0 0 0 3 - 0 0 0 1
-
-Leeds 0 0 0 0 - 0 0' 0 1
-
-Leicester 22 I 10 0 - l9 I 4 0
-
-Bridewell 0 0 0 8 - 0 0 0 2
-
-Town 3 0 2 0 - 2 0 3 0
-
-Lewes 0 0 0 8 - 0 0 I 6
-
-269 *4 178 101 291 x5 *47 117
----
 TABLES. 489
 
 1779. | 1782.
 
 Debtors Men. - Debtors Women. - Felons &c. - Petty Offenders. | Debtors Men. - Debtors Women. - Felons &c. - Petty Offenders.
 
-Lichfield - 3 0 - 1 - 0 | 2 - 0 - 0 - 2
----
-LINCOLN 22 O *4 O
+Lichfield - 3 - 0 - 1 - 0 | 2 - 0 - 0 - 2
 
-City 1 0 0 O
+LINCOLN - 22 - 0 - 14 - 0 | 28 - 2 - 3 - 0
 
-Liverpool 22 3 0 O
+Lincoln City - 1 - 0 - 0 - 0 | 1 - 0 - 1 - 0
 
-Bridewell 0 0 0 8
+Liverpool - 22 - 3 - 0 - 0 | 16 - 3 - 14 - 0
 
-London Bridewell 0 0 0 J3
+Liverpool Bridewell - 0 - 0 - 0 - 8 | 0 - 0 - 0 - 12
 
-Borough Compter 13 3 2 0
+London Bridewell - 0 - 0 - 0 - 13 | 0 - 0 - 0 - 32
 
-Clerkenwell 0 0 45 0
+Borough Compter - 13 - 3 - 2 - 0 | 14 - 1 - 0 - 3
 
-Bridewell 0 0 0 171
+Clerkenwell - 0 - 0 - 45 - 0 | 77 - 2 - 4 - 5
 
-Fleet 177 7 0 0
+Clerkenwell Bridewell - 0 - 0 - 0 - 171 | 0 - 0 - 0 - 155
 
-King's Bench 473 *s 0 0
+Fleet - 177 - 7 - 0 - 0 | 183 - 7 - 0 - 0
 
-Marshalsea 88 4 0 0
+King's Bench - 473 - 25 - 0 - 0 | 494 - 21 - 0 - 0
 
-Newgate 46 s H1 0
+Marshalsea - 88 - 4 - 0 - 0 | 38 - 9 - 0 - 2
 
-New Ludgate is 0 0 0
+Newgate - 46 - 5 - 141 - 0 | 3 - 0 - 291 - 0
 
-Poultry Compter 43 3 0 0
+New Ludgate - 15 - 0 - 0 - 0 | 20 - 0 - 0 - 0
 
-Savoy 0 0 0 98
+Poultry Compter - 43 - 3 - 0 - 0 | 25 - 1 - 7 - 0
 
-Tothill-Fields Bridewell 0 0 0 74
+Savoy - 0 - 0 - 0 - 98 | 0 - 0 - 0 - 92
 
-Whitechapel 5 0 0 0
+Tothill-Fields Bridewell - 0 - 0 - 0 - 74 | 0 - 0 - 0 - 72
 
-Wood-street Compter 32 6 11 0
+Whitechapel - 5 - 0 - 0 - 0 | 0 - 0 - 0 - 0
 
-Lostwithiel
+Wood-street Comp. - 32 - 6 - 11 - 0 | 47 - 7 - 17 - 0
 
-Ludlow 0 0 2 0
+Lostwithiel - - - - | 2 - 0 - 0 - 0
 
-Lynn Regie 3 0 2 0
+Ludlow - 0 - 0 - 2 - 0 | 0 - 0 - 0 - 0
 
-Macclesfield
+Lynn Regis - 3 - 0 - 2 - 0 | 4 - 0 - 2 - 0
 
-Maidstone *5 0 23 0
+Macclesfield - - - - | 1 - 0 - 0 - 0
 
-Bridewell 0 0 0 *3
+MAIDSTONE - 15 - 0 - 23 - 0 | 23 - 1 - 56 - 0
 
-Manchester 0 0 0 I I
+Maidstone Bridewell - 0 - 0 - 0 - 13 | 0 - 0 - 4 - 11
 
-Marlborough 0 0 0 4
+Manchester - 0 - 0 - 0 - 11 | 0 - 0 - 0 - 14
 
-Middlewich 0 0 0 5
+Marlborough - 0 - 0 - 0 - 4 | 0 - 0 - 0 - 11
 
-MUdenhall 0 0 0 0
+Middlewich - 0 - 0 - 0 - 5 | 0 - 0 - 0 - 14
 
-Monmouth 6 0 12 0
+Mildenhall - 0 - 0 - 0 - 0 | 0 - 0 - 0 - 1
 
-Town 0 0 0 0
+MONMOUTH - 6 - 0 - 12 - 0 | 10 - 0 - 0 - 1
 
-Montgomery 4 0 3 0
+Monmouth Town - 0 - 0 - 0 - 0 | 1 - 0 - 0 - 1
 
-Bridewell 0 0 0 1
+MONTGOMERY - 4 - 0 - 3 - 0 | 11 - 0 - 4 - 0
 
-Morpeth 9 I 6 0
+Montgomery Bridewell - 0 - 0 - 0 - 1 | 0 - 0 - 0 - 0
 
-Bridewell 0 0 0 3
+MORPETH - 9 - 1 - 6 - 0 | 14 - 1 - 4 - 0
 
-Nantwich 2 0 0 0
+Morpeth Bridewell - 0 - 0 - 0 - 3 | 0 - 0 - 0 - 6
 
-Newcastle *3 I 4 0
+Nantwich - 2 - 0 - 0 - 0 | 1 - 0 - 0 - 0
 
-Tower Gaol 0 0 0 1
+Newcastle - 13 - 1 - 4 - 0 | 9 - 3 - 1 - 0
 
-Tallow-house
+Newcastle Tower Gaol - 0 - 0 - 0 - 1 | 0 - 0 - 0 - 2
 
-Bridewell 0 0 0 7
+Newcastle Tallow-house - - - - | 0 - 0 - 2 - 0
 
-Newport, Essex 0 0 0 9
+Newcastle Bridewell - 0 - 0 - 0 - 7 | 0 - 0 - 0 - 5
 
-Isle of Wight 0 0 0 0
+Newport, Essex - 0 - 0 - 0 - 9 | 0 - 0 - 0 - 15
 
-Northampton *4 I i5 0
+Newport, Isle of Wight - 0 - 0 - 0 - 0 | 0 - 0 - 0 - 2
 
-Town 1 0 0 0
+NORTHAMPTON - 14 - 1 - 15 - 0 | 17 - 2 - 9 - 1
 
-1007 59 281 418
+Northampton Town - 1 - 0 - 0 - 0 | 0 - 0 - 0 - 0
 
-3 R
+1007 - 59 - 281 - 418 | 1041 - 60 - 419 - 459
 
-E S. 489
-
-1782.
-
-Debtors. Felons Petty
-
-Men. Worn. &c. Offenders.
-
-- 2 O O 2
-
-- - 28 2 3 O
-
-- - I O I O
-
-- - 16 3 14' O
-
-- - 0 0 0 12
-
-- - 0 0 0 32
-
-- - »4 I 0 3
-
-- - 77 2 4 5
-
-- - 0 0 0 *55
-
-- - 183 7 0 0
-
-- - 494 £1 0 0
-
-- - 38 9 0 2
-
-- - 3 0 291 0
-
-- - 20 0 0 0
-
-- - 25 I 7 0
-
-- . 0 0 0 9a
-
-- - 0 0 0 72
-
-- - 0 0 0 0
-
-- - 47 7 ll 0
-
-- - 2 0 0 0
-
-- - 0 0 0 0
-
-- - 4 0 2 0
-
-- - 1 0 0 0
-
-- - 23 I 56 0
-
-- - 0 0 4 11
-
-- - 0 0 0 14
-
-- - 0 0 0 11
-
-- - 0 0 0 H
-
-- - 0 0 0 1
-
-- - 10 0 0 1
-
-- - 1 0 0 1
-
-- - 11 0 4 0
-
-- - 0 0 0 0
-
-- - 14 I 4 0
-
-- - 0 0 0 6
-
-- - 1 0 0 0
-
-- - 9 3 I 0
-
-- - 0 0 0 2
-
-- - 0 0 2 0
-
-- - 0 0 0 5
-
-- - 0 0 0
-
-- - 0 0 0 2
-
-- - »7 2 9 1
-
-- 0 0 0 0
-
-1041 60
-
-419 459
----
 490 TABLES.
 
 1779. | 1782.
 
 Debtors Men. - Debtors Women. - Felons &c. - Petty Offenders. | Debtors Men. - Debtors Women. - Felons &c. - Petty Offenders.
----
-Norwich 23 I 29
 
-City 19 O 5
+NORWICH - 23 - 1 - 29 - 0 | 24 - 1 - 23 - 0
 
-Bridewell 0 0 0
+Norwich City - 19 - 0 - 5 - 0 | 14 - 2 - 5 - 0
 
-Nottingham 12 O S
+Norwich Bridewell - 0 - 0 - 0 - 7 | 0 - 0 - 0 - 4
 
-Bridewell 0 0 0
+NOTTINGHAM - 12 - 0 - 5 - 0 | 11 - 0 - 6 - 0
 
-Town 2 O 0
+Nottingham Bridewell - 0 - 0 - 0 - 0 | 0 - 0 - 0 - 2
 
-Oakham 3 O 1
+Nottingham Town - 2 - 0 - 0 - 0 | 1 - 0 - 1 - 0
 
-Odiam 0 0 0
+OAKHAM - 3 - 0 - 1 - 0 | 2 - 0 - 3 - 0
 
-Oundle 0 0 0
+Odiam - 0 - 0 - 0 - 5 | 0 - 0 - 0 - 4
 
-Oxford City Bridewell 12 I 4
+Oundle - 0 - 0 - 0 - 0 | 0 - 0 - 0 - 1
 
-Peterborough 1 0 0
+OXFORD - 12 - 1 - 4 - 0 | 21 - 4 - 31 - 0
 
-Bridewell 0 0 0
+Oxford City Bridewell - - - - | 0 - 0 - 1 - 0
 
-Fetworth 0 0 0
+Peterborough - 1 - 0 - 0 - 0 | 1 - 0 - 0 - 0
 
-Plymouth Poole Bridewell 1 O 0
+Peterborough Bridewell - 0 - 0 - 0 - 1 | 0 - 0 - 0 - 0
 
-Portsmouth 6 O 1
+Petworth - 0 - 0 - 0 - 2 | 0 - 0 - 0 - 0
 
-Presteign 2 O 2
+Plymouth - 1 - 0 - 0 - 0 | 4 - 0 - 0 - 4
 
-Preston 0 0 0
+Poole Bridewell - - - - | 0 - 0 - 0 - 1
 
-Reading 8 I 9
+Portsmouth - 6 - 0 - 1 - 0 | 6 - 0 - 4 - 0
 
-Bridewell 0 0 0
+PRESTEIGN - 2 - 0 - 2 - 0 | 9 - 0 - 4 - 0
 
-Richmond 6 O 0
+Preston - 0 - 0 - 0 - 17 | 2 - 0 - 0 - 17
 
-Ripon Liberty 3 0 0
+READING - 8 - 1 - 9 - 0 | 18 - 1 - 11 - 0
 
-Town 1 0 0
+Reading Bridewell - 0 - 0 - 0 - 7 | 0 - 0 - 0 - 13
 
-Rochester Romney 2 0 0
+Richmond - 6 - 0 - 0 - 1 | 12 - 1 - 0 - 2
 
-Ruthin 2 0 2
+Ripon Liberty - 3 - 0 - 0 - 0 | 0 - 0 - 0 - 0
 
-St. Alban s Borough gaol 0 0 0
+Ripon Town  -1 - 0 - 0 - 1 - | 0 - 0 - 0 - 0
 
-Liberty 0 0 1
+Rochester - 2 - 0 - 0 - 0 | 0 - 0 - 0 - 0
 
-Bridewell 0 0 0
+Romney - - - - | 0 - 0 - 1 - 0
 
-St. George's Fields Bridewell 0 0 0
+RUTHIN - 2 - 0 - 2 - 0 | 6 - 2 - 7 - 0
 
-Salisbury 16 I >5
+St. Albans Borough gaol 0 - 0 - 0 - 0 | 1 - 0 - 1 - 0
 
-City I 0 1
+St. Albans Liberty - 0 - 0 - 1 - 0 | - 0 - 0 - 0 - 0
 
-Sheffield 8 0 0
+St. Albans Bridewell - 0 - 0 - 0 - 3 | 0 - 0 - 0 - 2
 
-Shepton-Mallet 0 0 0
+St. George's Fields Bridewell - 0 - 0 - 0 - 44 | 0 - 0 - 1 - 16
 
-Sherborne 0 0 0
+SALISBURY - 16 - 1 - 15 - 0 | 18 - 2 - 13 - 3
 
-Shrewsbury l9 4 10
+Salisbury City - 1 - 0 - 1 - 0 | 1 - 0 - 0 - 0
 
-Bridewell 0 0 0
+Sheffield - 8 - 0 - 0 - 0 | 3 - 0 - 0 - 0
 
-Town 1 0 0
+Shepton-Mallet - 0 - 0 - 0 - 19 | 0 - 0 - 0 - 12
 
-Southampton Sheriff's Ward 3 0 0
+Sherborne - 0 - 0 - 0 - 2 | 0 - 0 - 0 - 13
 
-Town 0 0 1
+SHREWSBURY - 19 - 4 - 10 - 0 | 17 - 2 - 19 - 0
 
-Bridewell 0 0 0
+Shrewsbury Bridewell 0 - 0 - 0 - 8 | 0 - 0 - 0 - 16
 
-Southwark 20 3 H
+Shrewsbury Town - 1 - 0 - 0 - 8 | 0 - 0 - 0 - 12
 
-Southwell 0 0 0
+Southampton Sheriff's Ward - 3 - 0 - 0 - 0 | 2 - 0 - 0 - 0
 
-1782.
+Southampton Town - 0 - 0 - 1 - 0 | 0 - 0 - 0 - 0
 
-Petty Debtors. Felons Petty
+Southampton Town Bridewell - 0 - 0 - 0 - 1 | 0 - 0 - 0 - 1
 
-Offenders Men. Worn. & c. Offenders.
+SOUTHWARK - 20 - 3 - 14 - 0 | 21 - 2 - 42 - 0
 
-0 - 24 I 23 O
+Southwell - 0 - 0 - 0 - 17 | 0 - 0 - 0 - 9
 
-O - H 2 5 O
+Totals - 171 - 11 - 100 - 143 | 194 - 17 - 173 - 132
 
-7 - 0 0 0 4
-
-0 - I I O 6 0
-
-0 - 0 0 0 2
-
-0 - I O I 0
-
-0 - 2 O 3 0
-
-5 - 0 0 0 4
-
-0 - 0 0 0 1
-
-0 - 21 4 3‘ 0
-
-- 0 0 1 0
-
-0 - 1 0 0 0
-
-1 - 0 0 0 0
-
-2 - 0 0 0 0
-
-0 - 4 0 0 4
-
-- 0 0 0 1
-
-0 - 6 0 4 0
-
-0 - 9 0 4 0
-
-17 - 2 0 0 l7
-
-0 - 18 1 11 0
-
-7 - 0 0 0 3
-
-1 - 12 1 0 2
-
-0 - 0 0 0 0
-
-1 - 0 0 0 0
-
-0 - 0 0 0 0
-
-- 0 0 1 0
-
-0 - 6 2 7 0
-
-0 - I 0 1 0
-
-0 - 0 0 0 0
-
-3 - 0 0 0 2
-
-44 - 0 0 1 16
-
-0 - 18 2 13 3
-
-0 - 1 0 0 p
-
-0 - 3 0 0 0
-
-- 0 0 0 12
-
-2 0 0 0 *3
-
-0 - J7 2 *9 0
-
-8 - 0 0 0 16
-
-8 - 0 0 0 12
-
-0 - 2 0 0 0
-
-0 - 0 0 0 0
-
-1 - 0 0 0 1
-
-0 - 21 2 42 0
-
-17 - 0 0 0 9
-
-143 *94 17
-
-I1
-
-173 132
----
 TABLES. 491
 
 1779. | 1782.
 
 Debtors Men. - Debtors Women. - Felons &c. - Petty Offenders. | Debtors Men. - Debtors Women. - Felons &c. - Petty Offenders.
----
+
 Spalding - 0 - 0 - 0 - 2 | 1 - 0 - 0 - 3
 
-Stafford - 40 - 0 J4 O | 37 I 20 O
+STAFFORD - 40 - 0 - 14 - 0 | 37 - 1 - 20 - 0
 
-Stafford Bridewell - 0 - 0 - 0 - 9 - 0 - 0 I 5
+Stafford Bridewell - 0 - 0 - 0 - 9 | 0 - 0 - 1 - 5
 
-Stamford - 0 - 0 - 2 - 0
+Stamford - - - - | 0 - 0 - 2 - 0
 
-Sixiaffham 0 - 0 - 0 - 10 - 0 - 0 - 0 - 4
+Swaffham - 0 - 0 - 0 - 10 | 0 - 0 - 0 - 4
 
-Taunton 0 - 0 - 0 - 10 - 0 - 0 - 0 - 9
+Taunton 0 - 0 - 0 - 10 | 0 - 0 - 0 - 9
 
-Taunton Town - 0 - 0 - 0 - 2
+Taunton Town - - - - | 0 - 0 - 0 - 2
 
-Thame 0 - 0 - 0 - 0 | 0 - 0 - 0 - 1
+Thame - 0 - 0 - 0 - 0 | 0 - 0 - 0 - 1
 
-Thetford 0 - 0 - 1 - 0 | 0 - 0 - 0 - 0
+Thetford - 0 - 0 - 1 - 0 | 0 - 0 - 0 - 0
 
-Thirsk 0 - 0 - 0 S " 0 - 0 - 0 - 9
+Thirsk - 0 - 0 - 0 - 2 | 0 - 0 - 0 - 9
 
-Tiverton | 0 - 0 - 0 - 5
+Tiverton - - - - | 0 - 0 - 0 - 5
 
-UJk 0 - 0 - 0 - 7 | 0 - 0 - 0 - 2
+Usk - 0 - 0 - 0 - 7 | 0 - 0 - 0 - 2
 
-Wakefield 0 0 0 20 | 0 0 0 26
+Wakefield - 0 - 0 - 0 - 20 | 0 - 0 - 0 - 26
 
-Walsingham 0 0 0 2
+Walsingham - 0 - 0 - 0 - 2 |
 
-Warwick 21 1 28 0 | 31 1 11 0
+WARWICK - 21 - 1 - 28 - 0 | 31 - 1 - 11 - 0
 
-Warwick Bridewell 0 0 0 12 | 0 0 0 10
+Warwick Bridewell - 0 - 0 - 0 - 12 | 0 - 0 - 0 - 10
 
-Winchcomb C 0 0 0 | 0 0 0 1
+Winchcomb - 0 - 0 - 0 - 0 | 0 - 0 - 0 - 1
 
-Winchester 12 0 26 0 | 32 1 28 0
+WINCHESTER - 12 - 0 - 26 - 0 | 32 - 1 - 28 - 0
 
-Winchester Bridewell 0 - 0 - 0 - 11 | 0 - 0 - 0 - 23
+Winchester Bridewell - 0 - 0 - 0 - 11 | 0 - 0 - 0 - 23
 
-Winchester Town | 1 - 0 - 0 - 0
+Winchester Town - - - - | 1 - 0 - 0 - 0
 
-Windsor Castle 1 - 0 - 0 - 0 | 0 - 0 - 0 - 0
+Windsor Castle - 1 - 0 - 0 - 0 | 0 - 0 - 0 - 0
 
-Windsor Town 0 - 0 - 1 - 0 | 0 - 0 - 0 - 0
+Windsor Town - 0 - 0 - 1 - 0 | 0 - 0 - 0 - 0
 
-Wisbech 1 - 1 - 0 - 0 | 0 - 1 - 0 - 0
+Wisbech - 1 - 1 - 0 - 0 | 0 - 1 - 0 - 0
 
-WitnessO 0 - 0 - 7 | 0 - 0 - 0 - 2
+Witney  - 0 - 0 - 0 - 7 | 0 - 0 - 0 - 2
 
-Wolverhampton 0 - 0 - 0 - 2 | 0 - 0 - 1 - 2
+Wolverhampton - 0 - 0 - 0 - 2 | 0 - 0 - 1 - 2
 
-Woodbridge 0 - 0 - 0 - 1 | 0 - 0 - 0 - 4
+Woodbridge - 0 - 0 - 0 - 1 | 0 - 0 - 0 - 4
 
-Worcester l8 - 1 - 8 - 0 | >3 - 2 - 7 - 0
+WORCESTER - 18 - 1 - 8 - 0 | 13 - 2 - 7 - 0
 
-Worcester Bridewell 0 - 0 - 0 - 6 | 0 - 0 - 0 - 3
+Worcester Bridewell - 0 - 0 - 0 - 6 | 0 - 0 - 0 - 3
 
-Worcester City 5 - 1 - 4 - 0 | 3 - 1 - 2 - 0
+Worcester City - 5 - 1 - 4 - 0 | 3 - 1 - 2 - 0
 
-Wrexham 0 - 0 - 0 - 2 | 0 - 0 - 0 - 1
+Wrexham - 0 - 0 - 0 - 2 | 0 - 0 - 0 - 1
 
-Wymundham 0 - 0 - 0 - 5 | 0 - 0 - 0 - 9
+Wymundham - 0 - 0 - 0 - 5 | 0 - 0 - 0 - 9
 
-Yarmouth 4 - 0 - 4 - 0 | 4 - 0 - 2 - 0
+Yarmouth - 4 - 0 - 4 - 0 | 4 - 0 - 2 - 0
 
-Yarmouth Bridewell 0 - 0 - 0 - 0 | 1 - 0 - 0 - 1
+Yarmouth Bridewell - 0 - 0 - 0 - 0 | 1 - 0 - 0 - 1
 
-York 64 - 9 - 16 - 0 | 64 s >3 - 0
+YORK - 64 - 9 - 16 - 0 | 64 - 5 - 13 - 0
 
-York City 9 - 3 - 0 - 0 | 5 - 0 - 3 - 0
----
+York City - 9 - 3 - 0 - 0 | 5 - 0 - 3 - 0
+
 York St. Peter's - 5 - 0 - 1 - 0 | 2 - 0 - 0 - 0
 
 York Bridewell - 0 - 0 - 0 - 8 | 0 - 0 - 0 - 3
