@@ -6920,7 +6920,7 @@ Two rooms; one below, the other over the gateway; out of repair; no court; no se
 
 1782, Oct. 24, No prisoners.
 
-GLOCESTERSH1RE.
+GLOCESTERSHIRE.
 
 COUNTY GAOL, GLOCESTER CASTLE.
 
@@ -6928,7 +6928,7 @@ COUNTY GAOL, GLOCESTER CASTLE.
 
 Eight prisoners died about Christmas 1778, of the smallpox. No proper separation of the sexes, or of the bridewell prisoners from the rest. From the magistrates inattention to this important point, there is the most licentious intercourse; and all the endeavours of the chaplain to promote reformation, must necessarily be defeated, where the most abandoned are daily encouraging the others in vice. Many children have been born in this gaol.
 
-Eleven of the twenty-four felons in 177 9, and sixteen in 1782, were fines without any allowance. Clauses against spirituous liquors, and the act for preserving the health of prisoners not hung up. At my visit in 1782 I found some improvements: the floors laid with stone; boxes or bedsteads for the felons and fines; and the whole prison white-washed. The windows (improperly) were close glazed. Numbers of the townsmen were drinking in the tap-room. — Surgeons, Messrs. Powell and Mills. In 1783, several died of the smallpox and gaol-fever. No bath; one like that in the county hospital with an easy descent would induce felons even with their irons to go in. This would freshen and revive them, and might be the means of preventing the
+Eleven of the twenty-four felons in 1779, and sixteen in 1782, were fines without any allowance. Clauses against spirituous liquors, and the act for preserving the health of prisoners not hung up. At my visit in 1782 I found some improvements: the floors laid with stone; boxes or bedsteads for the felons and fines; and the whole prison white-washed. The windows (improperly) were close glazed. Numbers of the townsmen were drinking in the tap-room. — Surgeons, Messrs. Powell and Mills. In 1783, several died of the smallpox and gaol-fever. No bath; one like that in the county hospital with an easy descent would induce felons even with their irons to go in. This would freshen and revive them, and might be the means of preventing the
 
 232 APPENDIX.
 
@@ -9077,77 +9077,77 @@ BRECON - 3 - 0 - 3 - 0 | 0 - 1 - 2 - 0
 Brecon Bridewell - 0 - 0 - 0 - 0 | 0 - 0 - 0 - 1
 
 Bristol - 41 - 6 - 9 - 0 | 27 - 6 - 32 - 0
----
-Bristol Bridewell 0 0 0 8 | 0 0 0 19
 
-Bristol Lawford's-gate 0 0 0 S - 0 0 0 6
+Bristol Bridewell - 0 - 0 - 0 - 8 | 0 - 0 - 0 - 19
 
-Buntingford 0 0 0 1 0 0 0 1
+Bristol Lawford's-gate - 0 - 0 - 0 - 5 | 0 - 0 - 0 - 6
 
-Bury St. Edmunds 18 0 5 0 - H 2 11 0
+Buntingford - 0 - 0 - 0 - 1 | 0 - 0 - 0 - 1
 
-Bridewell 0 0 0 2 > 0 0 0 0
+Bury St. Edmunds - 18 - 0 - 5 - 0 | 14 - 2 - 11 - 0
 
-Cambridge 20 1 2 0 * - 13 2 3 0
+Bury St. Edmunds  Bridewell - 0 - 0 - 0 - 2 | 0 - 0 - 0 - 0
 
-Bridewell 0 0 0 7 - 0 0 0 8
+CAMBRIDGE - 20 - 1 - 2 - 0 | 13 - 2 - 3 - 0
 
-Town 1 0 2 0 - 2 0 0 0
+Cambridge Bridewell - 0 - 0 - 0 - 7 | 0 - 0 - 0 - 8
 
-Bridewell 0 0 0 6 | 0 0 0 3
+Cambridge Town - 1 - 0 - 2 - 0 | 2 - 0 - 0 - 0
 
-Canterbury 2 0 2 0 - 1 0 2 0
+Cambridge Town Bridewell - 0 - 0 - 0 - 6 | 0 - 0 - 0 - 3
 
-Bridewell 0 0 0 4 | 0 0 5 6
+Canterbury - 2 - 0 - 2 - 0 | 1 - 0 - 2 - 0
 
-Cardiff 2 1 0 0 | 16 0 5 0
+Canterbury Bridewell - 0 - 0 - 0 - 4 | 0 - 0 - 5 - 6
 
-Town 1 0 0 0 | 1 0 0 0
+CARDIFF - 2 - 1 - 0 - 0 | 16 - 0 - 5 - 0
 
-Cardigan I 1 0 0 * - 3 0 0 1
+Cardiff Town - 1 - 0 - 0 - 0 | 1 - 0 - 0 - 0
 
-Carlisle 32 0 21 0 - " 28 2 9 0
+CARDIGAN - 1 - 1 - 0 - 0 | 3 - 0 - 0 - 1
 
-City 2 1 0 0 - 0 0 0 0
+CARLISLE - 32 - 0 - 21 - 0 | 28 - 2 - 9 - 0
 
-Carmarthen !3 I 8 0 - 13 2 2 1
+Carlisle City - 2 - 1 - 0 - 0 | 0 - 0 - 0 - 0
 
-Town 0 0 1 0 ' - 2 0 1 0
+CARMARTHEN - 13 - 1 - 8 - 0 | 13 - 2 - 2 - 1
 
-Carnarvon 5 0 1 0 | 3 0 0 0
+Carmarthen Town - 0 - 0 - 1 - 0 | 2 - 0 - 1 - 0
 
-Chelmsford 34 0 7 0 | 28 0 l9 0
+CARNARVON - 5 - 0 - 1 - 0 | 3 - 0 - 0 - 0
 
-Bridewell 0 0 0 27 - 0 0 0 28
+CHELMSFORD - 34 - 0 - 7 - 0 | 28 - 0 - 19 - 0
 
-Chester 18 I 4 0 * - >9 3 5 0
+Chelmsford Bridewell - 0 - 0 - 0 - 27 | 0 - 0 - 0 - 28
 
-City 6 1 5 0 | 5 0 1 0
+CHESTER - 18 - 1 - 4 - 0 | 19 - 3 - 5 - 0
 
-Bridewell 0 0 0 1 0 0 0 3
+Chester City - 6 - 1 - 5 -  | 5 - 0 - 1 - 0
 
-Chesterfield Bridewell 0 0 0 1 | 0 0 0 3
+Chester Bridewell - 0 - 0 - 0 - 1 | 0 - 0 - 0 - 3
 
-Cirencester 0 0 0 6 - 0 0 1 2
+Chesterfield Bridewell - 0 - 0 - 0 - 1 | 0 - 0 - 0 - 3
 
-Clare 0 0 0 1 0 0 0 0
+Cirencester - 0 - 0 - 0 - 6 | 0 - 0 - 1 - 2
 
-Colchester 0 0 4 0 - 1 0 5 0
+Clare - 0 - 0 - 0 - 1 | 0 - 0 - 0 - 0
 
-Bridewell 0 0 0 1 | 0 0 0 3
+COLCHESTER - 0 - 0 - 4 - 0 | 1 - 0 - 5 - 0
 
-Coventry 5 0 4 0 | 8 0 2 0
+Colchester Bridewell - 0 - 0 - 0 - 1 | 0 - 0 - 0 - 3
 
-Bridewell 0 0 0 1 0 0 0 4
+Coventry - 5 - 0 - 4 - 0 | 8 - 0 - 2 - 0
 
-Cowbridge 0 0 0 2 - 0 0 0 2
+Coventry Bridewell - 0 - 0 - 0 - 1 | 0 - 0 - 0 - 4
 
-Dartford 0 0 0 5 - , 0 0 0 5
+Cowbridge - 0 - 0 - 0 - 2 | 0 - 0 - 0 - 2
 
-DERBY - 12 0 6 0 " *3 0 9 3
+Dartford - 0 - 0 - 0 - 5 | 0 - 0 - 0 - 5
 
-Derby Town 0 0 0 0 - 4 0 2 0
----
+DERBY - 12 - 0 - 6 - 0 | 13 - 0 - 9 - 3
+
+Derby Town - 0 - 0 - 0 - 0 | 4 - 0 - 2 - 0
+
 Devizes - 1 - 0 - 0 - 14 | 1 - 4 - 0 - 25
 
 DOLGELLY - 3 - 0 - 2 - 0 | 7 - 1 - 2 - 0
@@ -9169,73 +9169,73 @@ Dorchester Town gaol - - - - | 1 - 0 - 0 - 0
 Dover Castle - 3 - 0 - 0 - 0 | 2 - 0 - 0 - 0
 
 Dover Town - 1 - 0 - 1 - 0 | 1 - 0 - 0 - 3
----
-DURHAM IZ 2 22 0 | 18 2 19 0
 
-Durham Bridewell 0 0 0 9 | 0 0 0 8
+DURHAM - 12 - 2 - 22 - 0 | 18 - 2 - 19 - 0
 
-Ely 7 0 1 0 | 4 0 2 0
+Durham Bridewell - 0 - 0 - 0 - 9 | 0 - 0 - 0 - 8
 
-Bridewell 0 0 0 2 | 0 0 0 3
+Ely - 7 - 0 - 1 - 0 | 4 - 0 - 2 - 0
 
-Exeter 0 0 33 0 | 0 0 25 0
+Ely Bridewell - 0 - 0 - 0 - 2 | 0 - 0 - 0 - 3
 
-Sheriff's Ward 35 1 0 0 _ 21 2 0 0
+EXETER - 0 - 0 - 33 - 0 | 0 - 0 - 25 - 0
 
-Bridewell 0 0 0 27 | 0 0 0 43
+Exeter Sheriff's Ward - 35 - 1 - 0 - 0 | 21 - 2 - 0 - 0
 
-City 2 0 2 0 | 3 0 1 0
+Exeter Bridewell - 0 - 0 - 0 - 27 | 0 - 0 - 0 - 43
 
-Flint 1 0 3 0 . - 9 0 3 0
+Exeter City - 2 - 0 - 2 - 0 | 3 - 0 - 1 - 0
 
-Folkingham 0 0 0 2 - . 0 0 0 2
+FLINT - 1 - 0 - 3 - 1 | 9 - 0 - 3 - 0
 
-Gainsborough 0 0 0 S | 0 0 0 4
+Folkingham - 0 - 0 - 0 - 2 | 0 - 0 - 0 - 2
 
-Glocester lS I 24 0 | 33 5 38 0
+Gainsborough - 0 - 0 - 0 - 5 | 0 - 0 - 0 - 4
 
-City I 0 1 0 -
+GLOCESTER - 15 - 1 - 24 - 0 | 33 - 5 - 38 - 0
 
-Gosport 0 0 0 9 - . 0 0 0 3
+Glocester City - 1 - 0 - 1 - 0 | - - - -
 
-Guildford 0 0 0 3 | 0 0 0 3
+Gosport - 0 - 0 - 0 - 9 | 0 - 0 - 0 - 3
 
-Halifax 5 0 0 0 - . 7 0 0 0
+Guildford - 0 - 0 - 0 - 3 | 0 - 0 - 0 - 3
 
-Halflead 0 0 0 5 | 0 0 0 0
+Halifax - 5 - 0 - 0 - 0 | 7 - 0 - 0 - 0
 
-Haverfordwest 1 0 2 0 | 6 0 0 0
+Halstead - 0 - 0 - 0 - 5 | 0 - 0 - 0 - 0
 
-Town 0 1 0 0 - . 1 0 0 0
+HAVERFORDWEST - 1 - 0 - 2 - 0 | 6 - 0 - 0 - 0
 
-Henley | 0 0 0 4
+Haverfordwest Town - 0 - 1 - 0 - 0 | 1 - 0 - 0 - 0
 
-Hereford 18 1 9 0 | 23 0 6 0
+Henley - - - - | 0 - 0 - 0 - 4
 
-Bridewell - . 0 0 0 4
+HEREFORD - 18 - 1 - 9 - 0 | 23 - 0 - 6 - 0
 
-City 4 0 0 0 | 0 0 0 0
+Hereford Bridewell - - - - | 0 - 0 - 0 - 4
 
-Hertford 1 0 17 0 | 10 0 9 0
+Hereford City - 4 - 0 - 0 - 0 | 0 - 0 - 0 - 0
 
-Bridewell 0 0 0 1 - . 1 0 0 3
+HERTFORD - 1 - 0 - 17 - 0 | 10 - 0 - 9 - 0
 
-Hitchin 0 0 0 0 . 0 0 0 3
+Hertford Bridewell - 0 - 0 - 0 - 1 | 1 - 0 - 0 - 3
 
-Horsham 12 0 6 0 . _ 16 0 7 0
+Hitchin - 0 - 0 - 0 - 0 | 0 - 0 - 0 - 3
 
-Hull 8 0 1 0 | 7 0 4 0
+HORSHAM - 12 - 0 - 6 - 0 | 16 - 0 - 7 - 0
 
-Bridewell 0 0 0 11 | 2 0 0 4
+Hull - 8 - 0 - 1 - 0 | 7 - 0 - 4 - 0
 
-Huntingdon 10 I H 0 | 7 0 3 3
+Hull Bridewell - 0 - 0 - 0 - 11 | 2 - 0 - 0 - 4
 
-Ipswich 22 2 23 0 | 26 1 10 0
+HUNTINGDON - 10 - 1 - 14 - 0 | 7 - 0 - 3 - 3
 
-Bridewell 0 0 0 0 | 0 0 0 2
+IPSWICH - 22 - 2 - 23 - 0 | 26 - 1 - 10 - 0
 
-Ivilchester 32 I lS 0 | 35 3 H 0
----
+Ipswich Bridewell - 0 - 0 - 0 - 0 | 0 - 0 - 0 - 2
+
+IVELCHESTER - 32 - 1 - 15 - 0 | 35 - 3 - 14 - 0
+
 Kendal Bridewell - 0 - 0 - 0 - 0 | 0 - 0 - 0 - 1
 
 Kettering - 0 - 0 - 0 - 2 | 0 - 0 - 0 - 0
@@ -9261,80 +9261,78 @@ LAUNCESTON - 0 - 0 - 4 - 0 | 0 - 0 - 0 - 0
 Lavenham - 0 - 0 - 0 - 3 | 0 - 0 - 0 - 1
 
 Leeds - 0 - 0 - 0 - 0 | 0 - 0 - 0 - 1
----
-Leicester 22 I 10 0 | 19 I 4 0
 
-Bridewell 0 0 0 8 | 0 0 0 2
+LEICESTER - 22 - 1 - 10 - 0 | 19 - 1 - 4 - 0
 
-Town 3 0 2 0 - . - 2 0 3 0
+Leicester Bridewell - 0 - 0 - 0 - 8 | 0 - 0 - 0 - 2
 
-Leaves 0 0 0 8 | 0 0 1 6
+Leicester Town - 3 - 0 - 2 - 0 | 2 - 0 - 3 - 0
 
-Lichfield 3 0 1 0 | 2 0 0 2
+Lewes - 0 - 0 - 0 - 8 | 0 - 0 - 1 - 6
 
-Lincoln 22 0 *4 0 | 28 2 3 0
+Lichfield - 3 - 0 - 1 - 0 | 2 - 0 - 0 - 2
 
-City 1 0 0 0 | 1 0 1 0
+LINCOLN - 22 - 0 - 14 - 0 | 28 - 2 - 3 - 0
 
-Liverpool 22 3 0 0 | 16 3 *4 0
+Lincoln City - 1 - 0 - 0 - 0 | 1 - 0 - 1 - 0
 
-Bridewell 0 0 0 8 | 0 0 0 12
+Liverpool - 22 - 3 - 0 - 0 | 16 - 3 - 14 - 0
 
-London Bridewell 0 0 0 13 | 0 0 0 32
+Liverpool Bridewell - 0 - 0 - 0 - 8 | 0 - 0 - 0 - 12
 
-Borough Compter >3 3 2 0 | H 1 0 3
+London Bridewell - 0 - 0 - 0 - 13 | 0 - 0 - 0 - 32
 
-Clerkenwell 0 0 45 0 | 77 2 4 5
+Borough Compter - 13 - 3 - 2 - 0 | 14 - 1 - 0 - 3
 
-Bridewell 0 0 0 l7l - • 0 0 0 !55
+Clerkenwell - 0 - 0 - 45 - 0 | 77 - 2 - 4 - 5
 
-Fleet >77 7 0 0 | 183 7 0 0
+Clerkenwell Bridewell - 0 - 0 - 0 - 171 | 0 - 0 - 0 - 155
 
-King's Bench 473 25 0 0 | 494 21 0 . 0
+Fleet - 177 - 7 - 0 - 0 | 183 - 7 - 0 - 0
 
-Marshalsea 88 4 0 0 | 38 9 0 2
+King's Bench - 473 - 25 - 0 - 0 | 494 - 21 - 0 - 0
 
-Newgate 46 5 Hi 0 | 3 0 291 0
+Marshalsea - 88 - 4 - 0 - 0 | 38 - 9 - 0 - 2
 
-New Ludgate >5 0 0 0 | 20 0 0 0
+Newgate - 46 - 5 - 141 - 0 | 3 - 0 - 291 - 0
 
-Poultry Compter 43 3 0 0 | 25 1 7 0
+New Ludgate - 15 - 0 - 0 - 0 | 20 - 0 - 0 - 0
 
-Savoy 0 0 0 98 | 0 0 0 92
+Poultry Compter - 43 - 3 - 0 - 0 | 25 - 1 - 7 - 0
 
-Tothill-Fields 0 r\ 0 A 74 A A r\ 72
+Savoy - 0 - 0 - 0 - 98 | 0 - 0 - 0 - 92
 
-Bridewell 5 v \J VJ U V
+Tothill-Fields Bridewell - 0 - 0 - 0 - 74 | 0 - 0 - 0 - 72
 
-Whitechapel 5 ° 0 0 | 0 0 0 0
+Whitechapel - 5 - 0 - 0 - 0 | 0 - 0 - 0 - 0
 
-Wood-streetComp. 32 6 11 0 | 47 7 *7 0
+Wood-street Comp. - 32 - 6 - 11 - 0 | 47 - 7 - 17 - 0
 
-Lostwithiel | 2 0 0 0
+Lostwithiel - - - - | 2 - 0 - 0 - 0
 
-Ludlow 0 0 2 0 | 0 0 0 0
+Ludlow - 0 - 0 - 2 - 0 | 0 - 0 - 0 - 0
 
-Lynn Regis 3 0 2 0 | 4 0 2 0
+Lynn Regis - 3 - 0 - 2 - 0 | 4 - 0 - 2 - 0
 
-Macclesfield | 1 0 0 0
+Macclesfield - - - - | 1 - 0 - 0 - 0
 
-Maidstone 1S 0 23 0 | 23 1 56 0
+MAIDSTONE - 15 - 0 - 23 - 0 | 23 - 1 - 56 - 0
 
-Bridewell 0 0 0 13 | 0 0 4 11
+Maidstone Bridewell - 0 - 0 - 0 - 13 | 0 - 0 - 4 - 11
 
-Manchester 0 0 0 11 | 0 0 0 >4
+Manchester - 0 - 0 - 0 - 11 | 0 - 0 - 0 - 14
 
-Marlborough 0 0 0 4 | 0 0 0 11
+Marlborough - 0 - 0 - 0 - 4 | 0 - 0 - 0 - 11
 
-Middlenjcich 0 0 0 5 | 0 0 0 H
+Middlewich - 0 - 0 - 0 - 5 | 0 - 0 - 0 - 14
 
-Mildenhall 0 0 0 0 | 0 0 0 1
+Mildenhall - 0 - 0 - 0 - 0 | 0 - 0 - 0 - 1
 
-Monmouth 6 0 12 0 | 10 0 0 1
+MONMOUTH - 6 - 0 - 12 - 0 | 10 - 0 - 0 - 1
 
-Town 0 0 0 0 | 1 0 0 1
+Monmouth Town - 0 - 0 - 0 - 0 | 1 - 0 - 0 - 1
 
-1056 62 280 416 1066 57 424 438
+1056 - 62 - 280 - 416 | 1066 - 57 - 424 - 438
 
 284 TABLES
 
@@ -9342,74 +9340,74 @@ Town 0 0 0 0 | 1 0 0 1
 
 Debtors Men. - Debtors Women. - Felons &c. - Petty Offenders. | Debtors Men. - Debtors Women. - Felons &c. - Petty Offenders.
 
-Montgomery 4 0 • 3 0 | II 0 4 0
+MONTGOMERY - 4 - 0 - 3 - 0 | 11 - 0 - 4 - 0
 
-Bridewell 0 0 0 1 | 0 0 0 0
+Montgomery Bridewell - 0 - 0 - 0 - 1 | 0 - 0 - 0 - 0
 
-Morpeth 9 I 6 0 | H 1 4 0
+MORPETH - 9 - 1 - 6 - 0 | 14 - 1 - 4 - 0
 
-Bridewell 0 0 0 3 | 0 0 0 6
+Morpeth Bridewell - 0 - 0 - 0 - 3 | 0 - 0 - 0 - 6
 
-Nantwich 2 0 0 0 | 1 0 0 0
+Nantwich - 2 - 0 - 0 - 0 | 1 - 0 - 0 - 0
 
-Newcastle >3 I 4 0 | 9 3 1 0
+Newcastle - 13 - 1 - 4 - 0 | 9 - 3 - 1 - 0
 
-Tower Gaol 0 0 0 1 | 0 0 0 2
+Newcastle Tower Gaol - 0 - 0 - 0 - 1 | 0 - 0 - 0 - 2
 
-Tallow-house | 0 0 2 0
+Newcastle Tallow-house - - - - | 0 - 0 - 2 - 0
 
-Bridewell 0 0 0 7 | 0 0 0 s
+Newcastle Bridewell - 0 - 0 - 0 - 7 | 0 - 0 - 0 - 5
 
-Newport, Essex 0 0 0 9 | 0 0 0 *5
+Newport, Essex - 0 - 0 - 0 - 9 | 0 - 0 - 0 - 15
 
-Isle of Wight 0 0 0 0 | 0 0 0 2
+Newport, Isle of Wight - 0 - 0 - 0 - 0 | 0 - 0 - 0 - 2
 
-Northampton 14 1 *5 0 - • 17 2 9 1
+NORTHAMPTON - 14 - 1 - 15 - 0 | 17 - 2 - 9 - 1
 
-Town 1 0 0 0 - • 0 0 0 0
+Northampton Town - 1 - 0 - 0 - 0 | 0 - 0 - 0 - 0
 
-Norwich 23 I 29 0 | 24 1 23 0
+NORWICH - 23 - 1 - 29 - 0 | 24 - 1 - 23 - 0
 
-City *9 0 5 0 | H 2 5 0
+Norwich City - 19 - 0 - 5 - 0 | 14 - 2 - 5 - 0
 
-Bridewell 0 0 0 7 | 0 0 0 4
+Norwich Bridewell - 0 - 0 - 0 - 7 | 0 - 0 - 0 - 4
 
-Nottingham 12 0 5 0 | 11 0 6 0
+NOTTINGHAM - 12 - 0 - 5 - 0 | 11 - 0 - 6 - 0
 
-Bridewell 0 0 0 0 | 0 0 0 2
+Nottingham Bridewell - 0 - 0 - 0 - 0 | 0 - 0 - 0 - 2
 
-Town 2 0 0 0 | 1 0 1 0
+Nottingham Town - 2 - 0 - 0 - 0 | 1 - 0 - 1 - 0
 
-Oakham 3 0 1 0 | 2 0 3 0
+OAKHAM - 3 - 0 - 1 - 0 | 2 - 0 - 3 - 0
 
-Odiam 0 0 0 5 | 0 0 0 4
+Odiam - 0 - 0 - 0 - 5 | 0 - 0 - 0 - 4
 
-Oundle 0 0 0 0 | 0 0 0 1
+Oundle - 0 - 0 - 0 - 0 | 0 - 0 - 0 - 1
 
-OXFORD 12 I 4 0 | 21 4 3i 0
+OXFORD - 12 - 1 - 4 - 0 | 21 - 4 - 31 - 0
 
-City Bridewell | 0 0 1 0
+Oxford City Bridewell - - - - | 0 - 0 - 1 - 0
 
-Peterborough 1 0 0 0 | 1 0 0 0
+Peterborough - 1 - 0 - 0 - 0 | 1 - 0 - 0 - 0
 
-Bridewell 0 0 0 1 - . - 0 0 0 0
+Peterborough Bridewell - 0 - 0 - 0 - 1 | 0 - 0 - 0 - 0
 
-Petworth 0 0 0 2 | 0 0 0 0
+Petworth - 0 - 0 - 0 - 2 | 0 - 0 - 0 - 0
 
-Plymouth 1 0 0 0 | 4 0 0 4
+Plymouth - 1 - 0 - 0 - 0 | 4 - 0 - 0 - 4
 
-Pooh Bridewell | 0 0 0 1
+Poole Bridewell - - - - | 0 - 0 - 0 - 1
 
-Portsmouth 6 0 1 0 | 6 0 4 0
+Portsmouth - 6 - 0 - 1 - 0 | 6 - 0 - 4 - 0
 
-PESTEIGN 2 0 2 0 | 9 0 4 0
+PRESTEIGN - 2 - 0 - 2 - 0 | 9 - 0 - 4 - 0
 
-Preston 0 0 0 17 | 2 0 0 47
+Preston - 0 - 0 - 0 - 17 | 2 - 0 - 0 - 17
 
-Reading 8 I 9 0 | 18 1 11 0
+READING - 8 - 1 - 9 - 0 | 18 - 1 - 11 - 0
 
-Reading Bridewell 0 0 0 7 | 0 0 0 >3
----
+Reading Bridewell - 0 - 0 - 0 - 7 | 0 - 0 - 0 - 13
+
 Richmond - 6 - 0 - 0 - 1 | 12 - 1 - 0 - 2
 
 Ripon Liberty - 3 - 0 - 0 - 0 | 0 - 0 - 0 - 0
@@ -9437,31 +9435,31 @@ St. Albans Liberty - 0 - 0 - 1 - 0 | - 0 - 0 - 0 - 0
 St. Albans Bridewell - 0 - 0 - 0 - 3 | 0 - 0 - 0 - 2
 
 St. George's Fields Bridewell - 0 - 0 - 0 - 44 | 0 - 0 - 1 - 16
----
-Salisbury l6 I *5 0 | 18 2 *3 3
 
-City I 0 1 0 | I 0 * 0 0
+SALISBURY - 16 - 1 - 15 - 0 | 18 - 2 - 13 - 3
 
-Sheffield 8 0 0 0 | 3 0 0 0
+Salisbury City - 1 - 0 - 1 - 0 | 1 - 0 - 0 - 0
 
-Shepton-Mallet 0 0 0 19 | 0 0 0 12
+Sheffield - 8 - 0 - 0 - 0 | 3 - 0 - 0 - 0
 
-Sherborne 0 0 0 2 | 0 0 0 13
+Shepton-Mallet - 0 - 0 - 0 - 19 | 0 - 0 - 0 - 12
 
-Shrewsbury *9 4 10 0 | l7 2 19 0
+Sherborne - 0 - 0 - 0 - 2 | 0 - 0 - 0 - 13
 
-Shrewsbury Bridewell 0 0 0 8 | 0 0 0 16
+SHREWSBURY - 19 - 4 - 10 - 0 | 17 - 2 - 19 - 0
 
-Shrewsbury Town 1 0 0 8 | 0 0 0 12
+Shrewsbury Bridewell 0 - 0 - 0 - 8 | 0 - 0 - 0 - 16
 
-Southampton Sheriff's Ward 3 0 0 0 | 2 0 0 0
+Shrewsbury Town - 1 - 0 - 0 - 8 | 0 - 0 - 0 - 12
 
-Southampton Town 0 0 1 0 | 0 0 0 0
+Southampton Sheriff's Ward - 3 - 0 - 0 - 0 | 2 - 0 - 0 - 0
 
-Southampton Town Bridewell 0 0 0 1 | 0 0 0 1
+Southampton Town - 0 - 0 - 1 - 0 | 0 - 0 - 0 - 0
 
-SOUTHWARK - 20 3 H 0 | 21 2 42 0
----
+Southampton Town Bridewell - 0 - 0 - 0 - 1 | 0 - 0 - 0 - 1
+
+SOUTHWARK - 20 - 3 - 14 - 0 | 21 - 2 - 42 - 0
+
 Southwell - 0 - 0 - 0 - 17 | 0 - 0 - 0 - 9
 
 Spalding - 0 - 0 - 0 - 2 | 1 - 0 - 0 - 3

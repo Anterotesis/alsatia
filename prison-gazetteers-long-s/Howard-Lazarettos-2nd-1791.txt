@@ -7569,58 +7569,58 @@ Aston - 0 - 0 - 5
 AYLESBURY - 11 - 24 - 0
 
 Aylesbury Bridewell - 0 - 0 - 10
----
-Banbury - - 0 0 3 Chester - *9 37 O
 
-Barking - - 0 0 2 City - 8 9 O
+Banbury - 0 - 0 - 3
 
-Bath - - 2 6 0 Bridewell - 0 0 2
+Barking - 0 - 0 - 2
 
-Bailey - - 22 0 0 Chesterfield Bridewell - 0 0 4
+Bath - 2 - 6 - 0
 
-Beaumaris - - I 4 0 Chichester -• 0 0 2
+Batley - 22 - 0 - 0
 
-Beccles - - 0 0 3 Colchester - 0 0 3
+BEAUMARIS - 1 - 4 - 0
 
-Bedford - - 6 7 0 Bridewell - 0 0 5
+Beccles - 0 - 0 - 3
 
-Bedford Bridewell - 0 0 7 Coventry - 10 10 0
+BEDFORD - 6 - 7 - 0
 
-Berwick - - 3 0 0 Bridewell - 0 0 8
+Bedford Bridewell - 0 - 0 - 7
 
-Beverley - 0 0 9 Cow bridge - 0 0 6
+Berwick - 3 - 0 - 0
 
-Beverley Town - 0 0 3 Dart ford - 0 0 9
+Beverley - 0 - 0 - 9
 
-Beverley Hall-garth - - 1 0 0 Derby - 7 11 0
+Beverley Town - 0 - 0 - 3
 
-Birmingham - 0 0 13 Town - 1 2 0
+Beverley Hall-garth - 1 - 0 - 0
 
-Birmingham Court Prison - 0 0 7 Devizes - 1 0 29
+Birmingham - 0 - 0 - 13 
 
-Bodmin - - 18 5 24 Dorchester 23 8 0
+Birmingham Court Prison - 0 - 0 - 7
 
-Brecon - - 10 11 0 Durham - 16 *3 0
+Bodmin - 18 - 5 - 24
 
-Bridgewater - - 3 0 0 Bridewell - 0 0 10
+BRECON - 10 - 11 - 0
 
-Bristol - - 24 43 0 Ely . 2 3 0
+Bridgewater - 3 - 0 - 0
 
-Bristol Bridewell - 0 0 *4 Bridewell . 0 0 1
+Bristol - 24 - 43 - 0
 
-Bristol Lawford's-gate - 0 0 5 Exeter - 0 23 2
+Bristol Bridewell - 0 0 - 14
 
-Bury St. Edmunds - 7 17 0 Exeter Sheriff's Ward 44 0 0
+Bristol Lawford's-gate - 0 - 0 - 5
 
-Bury St. Edmunds Bridewell - 0 0 3 Exeter Bridewell - 0 0 22
+Bury St. Edmunds - 7 - 17 - 0
 
-Cambridge - - 7 8 0
+Bury St. Edmunds Bridewell - 0 - 0 - 3
 
-Cambridge Bridewell - 0 0 13
+CAMBRIDGE - 7 - 8 - 0
 
-Cambridge Town - - 2 1 0
+Cambridge Bridewell - 0 - 0 - 13
 
-Cambridge Town Bridewell - 0 0 9
+Cambridge Town - 2 - 1 - 0
+
+Cambridge Town Bridewell - 0 - 0 - 9
 
 CARDIFF - - 33 7 . 0
 
@@ -7630,14 +7630,58 @@ Total - 173 - 159 - 133
 
 CARMARTHEN - 5 - 7 - 2
 
-Town - 0 2 2
+Carnmarthen Town - 0 - 2 - 2
 
-Carnarvon - 3 0 O
+Carnarvon - 3 - 0 - 0
 
-Chelmsford - 3* 76 O
+CHELMSFORD - 31 - 76 - 0
 
 Chelmsford Bridewell - 0 0 30
----
+
+CHESTER - 19 - 37 - 0
+
+Chester City - 8 - 9 - 0
+
+Chester Bridewell - 0 - 0 - 2
+
+Chesterfield Bridewell - 0 - 0 - 4
+
+Chichester - 0 - 0 - 2
+
+Colchester - 0 - 0 - 3
+
+Colchester Bridewell - 0 - 0 - 5
+
+Coventry - 10 - 10 - 0
+
+Coventry Bridewell - 0 - 0 - 8
+
+Cowbridge - 0 - 0 - 6
+
+Dartford - 0 - 0 - 9
+
+DERBY - 7 - 11 - 0
+
+Derby Town - 1 - 2 - 0
+
+Devizes - 1 - 0 - 29
+
+Dorchester - 23 - 8 - 0
+
+DURHAM - 16 - 13 - 0
+
+Durham Bridewell - 0 - 0 - 10
+
+Ely - 2 - 3 - 0
+
+Ely Bridewell - 0 - 0 - 1
+
+EXETER - 0 - 23 - 2
+
+Exeter Sheriff's Ward - 44 - 0 - 0
+
+Exeter Bridewell - 0 - 0 - 22
+
 Exeter City - 2 - 11 - 0
 
 FLINT - 4 - 3 - 1
@@ -7701,233 +7745,235 @@ LANCASTER - 53 - 65 - 0
 LAUNCESTON - 0 - 3 - 0
 
 Leeds - 0 - 0 - 1
----
-Leicester - 15 H 0
 
-Bridewell - 0 0 9
+LEICESTER - 15 - 14 - 0
 
-Town 1 1 0
+Leicester Bridewell - 0 - 0 - 9
 
-Lincoln - 20 29 0
+Leicester Town - 1 - 1 - 0
 
-City - 0 5 0
+LINCOLN - 20 - 29 - 0
 
-Bridewell 0 0 . 3
+Lincoln City - 0 - 5 - 0
 
-Liverpool - 18 22 0
+Lincoln Bridewell - 0 - 0 - 3
 
-Bridewell 0 0 lS
+Liverpool - 18 - 22 - 0
 
-London Bridewell 0 0 29
+Liverpool Bridewell - 0 - 0 - 15
 
-Borough Compter - 11 0 0
+LONDON Bridewell - 0 - 0 - 29
 
-Clerkenwell 0 167 0
+Borough Compter - 11 - 0 - 0
 
-Bridewell - 3 6 234
+Clerkenwell - 0 - 167 - 0
 
-Fleet - 212 0 0
+Clerkenwell Bridewell - 3 - 6 - 234
 
-King's Bench - 444 0 0
+Fleet - 212 - 0 - 0
 
-Marshalsea - 37 0 0
+King's Bench - 444 - 0 - 0
 
-Newgate - 114 499 0
+Marshalsea - 37 - 0 - 0
 
-New Ludgate - 24 0 0
+Newgate - 114 - 499 - 0
 
-Poultry Compter - 35 19 0
+New Ludgate - 24 - 0 - 0
 
-Savoy 0 0 45
+Poultry Compter - 35 - 19 - 0
 
-Tothill-fields Bridewell 3 0 135
+Savoy - 0 - 0 - 45
 
-Tower Hamlets 0 0 1
+Tothill-fields Bridewell - 3 - 0 - 135
 
-Westminster Prison 0 0 94
+Tower Hamlets - 0 - 0 - 1
 
-Wood-Hreet Compter 44 48 0
+Westminster Prison - 0 - 0 - 94
 
-1166 967 629
+Wood-street Compter - 44 - 48 - 0
 
-Lostwithiel Debtors. Felons 8c. Petty Offenders•
+1166 - 967 - 629
 
-m 5 0 O
+Lostwithiel - 5 - 0 - 0
 
-Ludlow - O O I
+Ludlow - 0 - 0 - 1
 
-Macclesfield - 6 O O
+Macclesfield - 6 - 0 - 0
 
-Maidstone - 3i 80 O
+MAIDSTONE - 31 - 80 - 0
 
-Bridewell - 0 0 25
+Maidstone Bridewell - 0 - 0 - 25
 
-Manchester - 0 0 53
+Manchester - 0 - 0 - 53
 
-Marlborough - 0 0 5
+Marlborough - 0 - 0 - 5
 
-Middlewich - 0 0 24
+Middlewich - 0 - 0 - 24
 
-Monmouth - 6 IQ 0
+MONMOUTH - 6 - 10 - 0
 
-Town - 0 2 0
+Monmouth Town - 0 - 2 - 0
 
-Montgomery - 9 12 0
+MONTGOMERY - 9 - 12 - 0
 
-Bridewell - 0 0 0
+Montgomery Bridewell - 0 - 0 - 0
 
-Morpeth - *5 12 0
+MORPETH - 15 - 12 - 0
 
-Bridewell - 0 0 2
+Morpeth Bridewell - 0 - 0 - 2
 
-Nantwich - 0 0 2
+Nantwich - 0 - 0 - 2
 
-Newcastle - H IO O
+Newcastle - 14 - 10 - 0
 
-Bridewell - 0 0 6
+Newcastle Bridewell - 0 - 0 - 6
 
-Newport, Essex - 0 0 13
+Newport, Essex - 0 - 0 - 13
 
-Northampton - 9 20 0
+NORTHAMPTON - 9 - 20 - 0
 
-Town - 0 1 0
+Northampton Town - 0 - 1 - 0
 
-Norwich - 20 20 0
+NORWICH - 20 - 20 - 0
 
-City - 16 IO 0
+Norwich City - 16 - 10 - 0
 
-Bridewell - 0 0 12
+Norwich Bridewell - 0 - 0 - 12
 
-Nottingham - 12 *9 0
+NOTTINGHAM - 12 - 19 - 0
 
-Bridewell - 0 0 3
+Nottingham Bridewell - 0 - 0 - 3
 
-Town - 5 0 1
+Nottingham Town - 5 - 0 - 1
 
-Oakham - 0 0 1
+OAKHAM - 0 - 0 - 1
 
-Odicim - 0 0 2
+Odiam - 0 - 0 - 2
 
-Oundle - 0 0 I
+Oundle - 0 - 0 - 1
 
-Oxford - 12 24 O
+OXFORD - 12 - 24 - 0
 
-City Bridewell - 0 0 7
+Oxford City Bridewell - 0 - 0 - 7
 
-Peterborough - 0 1 0
+Peterborough - 0 - 1 - 0
 
-Bridewell - 0 0 1
+Peterborough Bridewell - 0 - 0 - 1
 
-Petworth - 0 0 5
+Petworth - 0 - 0 - 5
 
-Plymouth - 0 0 3
+Plymouth - 0 - 0 - 3
 
-Portsmouth - 3 8 0
+Portsmouth - 3 - 8 - 0
 
-Presteign - 5 2 0
+PRESTEIGN - 5 - 2 - 0
 
-Preston - 1 0 37
+Preston - 1 - 0 - 37
 
-Reading - 10 18 0
+READING - 10 - 18 - 0
 
-Bridewell - 0 0 l7
+Reading Bridewell - 0 - 0 - 17
 
-Ruthin - 12 9 0
+Ruthin - 12 - 9 - 0
 
-Bridewell - 0 0 2
+Ruthin Bridewell - 0 - 0 - 2
 
-St. Alban's Borough gaol 0 1 0
+St. Alban's Borough gaol - 0 - 1 - 0
 
-Libel$y - 0 6 0
+St. Alban's Liberty - 0 - 6 - 0
 
-St. George's Fields Bridewell 0 0 34
+St. George's Fields Bridewell - 0 - 0 - 34
 
-Salisbury - 13 17 0
+SALISBURY - 13 - 17 - 0
 
-204 282 257
+204 - 282 - 257
 
 TABLES 245
 
-Sheffield Debtors. l6 Felons 8c. O Petty Offenders* O
+Debtors. Felons &c. Petty Offenders.
 
-Town O O I
+Sheffield - 16 - 0 - 0
 
-Shepton-Mallet O O 35
+Sheffield Town - 0 - 0 - 1
 
-Sherborn - O O 9
+Shepton-Mallet - 0 - 0 - 35
 
-Shrewsbury 25 29 0
+Sherborn - 0 - 0 - 9
 
-Bridewell 0 0 H
+SHREWSBURY - 25 - 29 - 0
 
-Southampton Sheriff's Ward 2 O 0
+Shrewsbury Bridewell - 0 - 0 -14
 
-Town O 2 0
+Southampton Sheriff's Ward - 2 - 0 - 0
 
-Southwark 26 55 0
+Southampton Town - 0 - 2 - 0
 
-Southwell - 0 0 11
+SOUTHWARK - 26 - 55 - 0
 
-Stafford - 31 61 0
+Southwell - 0 - 0 - 11
 
-Bridewell - 0 0 18
+STAFFORD - 31 - 61 - 0
 
-Taunton - 0 0 H
+Stafford Bridewell - 0 - 0 - 18
 
-Thirsk 0 0 11
+Taunton - 0 - 0 - 14
 
-UJk 0 0 4
+Thirsk - 0 - 0 - 11
 
-Wakefield 0 0 54
+Usk - 0 - 0 - 4
 
-From foregoing pages 100 173 *47 159 . l71 133
+Wakefield - 0 - 0 - 54
 
-1166 967 629
+100 - 147 - 171
 
-Great Total H39 1273 933
+From foregoing pages - 173 - 159 - 133
 
-Debtors. Felons 8c. Petty Offenders*
+1166 - 967 - 629
 
-Warwick - 31 60 O
+Great Total - 1439 - 1273 - 933
 
-Bridewell 0 0 IO
+Debtors. - Felons &c. - Petty Offenders.
 
-Winchester - 3i 30 O
+WARWICK - 31 - 60 - 0
 
-Bridewell 0 0 26
+Warwick Bridewell - 0 - 0 - 10
 
-Windsor Castle 2 O O
+WINCHESTER - 31 - 30 - 0
 
-Town 0 I O
+Winchester Bridewell - 0 - 0 - 26
 
-Worcester - 23 47 O
+Windsor Castle - 2 - 0 - 0
 
-Bridewell 0 0 13
+Windsor Town - 0 - 1 - 0
 
-City - 12 15 O
+WORCESTER - 23 - 47 - 0
 
-Wymundham 0 0 l6
+Worcester Bridewell - 0 - 0 - 13
 
-Yarmouth 1 9 O
+Worcester City - 12 - 15 - 0
 
-Bridewell 0 0 I
+Wymundham - 0 - 0 - l6
 
-York - 50 5i O
+Yarmouth - 1 - 9 - 0
 
-City - 10 6 O
+Yarmouth Bridewell - 0 - 0 - 1
 
-St. Peter's 3 0 O
+YORK - 50 - 51 - 0
 
-Bridewell - 0 0 IO
+York City - 10 - 6 - 0
 
-163 219
+York St. Peter's - 3 - 0 - 0
 
-205 278 I46
+York Bridewell - 0 - 0 - 10
 
-' 204 282 257
+163 - 219 - 76
 
-And ... - 572 779 479
----
+205 - 278 - 146
+
+204 - 282 - 257
+
+And - 572 - 779 - 479
+
 Total Number of Debtors - 2011.
 
 Total Number of Felons &c. - 2052.
@@ -8021,10 +8067,8 @@ Sussex - 34 - 3
 Surrey - 167 - 83
 
 - Southwark - 0 - 18 - 268 - 42
----
-MIDLAND CIRCUIT.
 
-Gaol Deliveries and Great Sessions. - Quarter Session. - Total of both. - Yearly Average.
+MIDLAND CIRCUIT.
 
 Derbyshire - 27 - 17
 
@@ -8032,72 +8076,78 @@ Derbyshire - 27 - 17
 
 Lincolnshire - 50 - 0
 
-Parts of Holland - 0 - 0
+- Parts of Holland - 0 - 0
 
-Parts of Kesteven - 0 - 1
+- Parts of Kesteven - 0 - 1
+
+- Parts of Lindsey - 0 - 10 - 61 - 10
+
+Lincoln - 4 - 0 - 4 - 1
+
+Nottinghamshire - 19 - 20 - 39 - 6
+
+- Nottingham - 7 - 7 - 14 - 3
+
+Rutlandshire - 8 - 0 - 8 - 2 
+
+Leicestershire - 25 - 0 - 25 - 4 
+
+- Leicester - 9 - 3 - 12 - 2
+
+Northamptonshire - 28 - 13 - 41 - 7
+
+Warwickshire - 112 - 2 - 114 - 18
+
+Coventry - 28 - 0 - 28 - 5
+
+789 - 270 - 1059 - 171
 
 NORFOLK CIRCUIT.
 
-Gaol Deliveries and Great Sessions. - Quarter Session. - Total of both. - Yearly Average.
+Bedfordshire - 40 - 0 - 40 - 7
+
+Buckinghamshire - 44 - 10 - 54 - 9
+
+Cambridgeshire - 23 - 2 - 25 - 4
+
+Ely - 8 - O - 8 - 2
+
+Huntingdonshire - 17 - 0 - 17 - 3
+
+Norfolk - 70 - 3
+
+- King's Lynn - 0 - 9
+
+- Yarmouth - 0 - 13 - 95 - 15
+
+Norwich - 12 - 0 - 12 - 2
+
+Suffolk - 72 - 4
+
+- Bury - 0 - 5
+
+- Ipswich - 0 - 5 - 86 - 14
 
 NORTHERN CIRCUIT.
 
-Gaol Deliveries and Great Sessions. - Quarter Session. - Total of both. - Yearly Average.
+Cumberland - 11 - 20 - 31 - 5
 
- Total of Yearly Gaol Deliveries and Quarter Total of Yuriy
+Durham - 23 - 13 - 36 - 6
 
-* Sejicns, both. A jet age* Great Sessions* Sessions* both* * Average
+Northumberland - 18 - 9
 
-Bedfordshire 40 O 40 7
+- Berwick - 0 - 2 - 29 - 5
 
-Buckinghamshire - 44 IO 54 9
+Newcastle on Tyne - 10 - 17 - 27 - 5
 
-Cambridgeshire 23 2 25 4
+Westmorland - 3 - 0
 
-Ely - 8 O 8 2
+- Kirkby in Kendal - 1 - 4 - 1
 
-Huntingdonshire - *7 O l7 3
+Lancashire - 44 - 95
 
-Norfolk 70 3
+- Liverpool - 0 - 22
 
-King's Lynn 0 9
-
-Yarmouth - 0 *3 95 *5
-
-Norwich 12 0 12 2
-
-Suffolk 72 4
-
-Bury 0 5
-
-Ipswich 0 5 86 14
-
-NORTHERN CIRCUIT.
-
-Cumberland 11 20 3i 5
-
-Parts of Lindsey 0 10 61 10 Durham 23 *3 36 6
-
-Lincoln 4 0 4 1 Northumberland - 18 9
-
-Nottinghamshire 19 20 39 6 Berwick - 0 2 29 5
-
-Nottingham - 7 7 *4 3 ' Newcastle on Tyne 10 17 27 S
-
-Rutlandshire 8 0 8 2 Weilraorland 3 0
-
-Leicestershire 25 0 25 4 Kirkby in Kendal 1 4 1
-
-Leicester 9 3 12 2 Lancashire - 44 95
-
-Northampton shire - 28 13 4* 7 Liverpool - 0 22
-
-Warwickshire 112 2 114 18
-
-Coventry 28 0 28 5
-
-789 270 1059 171
----
 - Preston - 0 - 1
 
 - Wigan - 0 - 4 1- 66 - 26
@@ -8119,69 +8169,41 @@ Yorkshire - 124 - O
 - Doncaster - 0 - 1
 
 - Leeds - 0 - 7
----
+
 - Pontefract - 0 - 1
--
-Cornwall - 53 - 25 - 78 - 12
 
-Devonshire - 104 - 29
+- Richmond - 0 - 1
 
-Plymouth - 0 - 7 - 140 - 22
+- Rippon - 0 - 1 - 195 - 30
 
-Exeter - 1 - 4 - 5 - 1
--
-Dorsetshire - 53 - 11 - 64 - 10
+York - 12 - 5 - 17 - 3
 
-Poole 1 3 4 I
-
-Richmond - o 1 Hampshire 1 *3 5 118 *9
-
-Rippon o 1 195 30 Southampton 1 5 6 1
-
-York 12 s *7 3 Wiltshire 60 26
-
-Kingston on Hull - I 8 9 2 Salisbury - 0 3 89 *4
-
-Somersetshire 120 40 160 25
-
-Bristol 36 73 109 17
-
-City of London - 699 0 699 107
-
-Middlesex 1365 394
-
-Westminster 0 *59 1918 296
+Kingston on Hull - 1 - 8 - 9 - 2
 
 OXFORD CIRCUIT.
 
-Berkshire - 57 - 15 
+Berkshire - 57 - 15
 
-WESTERN CIRCUIT.
+- Reading - 0 - 7 - 79 - 13
 
-CHESHIRE AND WALES.
+Oxfordshire - 53 - 3
 
-Cheshire l6 3 *9
+Banbury - 0 - 2
 
-Reading o 7 79 *3 Chester O *4 *4
+- Oxford - 0 - 4 - 62 - 10
 
-Oxfordshire 53 3 Anglesey 1 2 3
+Gloucestershire - 119 - 19 - 138 - 22
 
-Banbury 0 2 Brecknockshire - *4 0 *4
+- Gloucester - 7 - 7 - 14 - 3
 
-Oxford o 4 62 10 Cardiganshire 3 0 3
+Herefordshire - 49 - 0 - 49 - 8
 
-Gloucestershire 119 *9 138 22 Carmarthenshire - 8 0 8
+Monmouthshire - 44 - 2 - 46 - 8 -
 
-Gloucester - 7 7 *4 3 Carmarthen 0 0 0
+Salop - 82 - 12
 
-Herefordshire 49 0 49 8 Carnarvonshire - 2 I 3
+- Shrewsbury - 0 - 5 - 99 - 16
 
-Monmouthshire - 44 2 46 8
-
-Salop 82 12
-
-Shrewsbury - 0 - 5 - 99 - 16
--
 Staffordshire - 85 - 11 - 96 - 15
 
 - Litchfield - 0 - 3-  3 - 1
@@ -8195,7 +8217,57 @@ Worcester - 15 - 0 - 15 - 3
 Foregoing page - 789 - 270 - 1059 - 171
 
 1496 - 444 - 1940 - 315
----
+
+WESTERN CIRCUIT.
+
+Cornwall - 53 - 25 - 78 - 12
+
+Devonshire - 104 - 29
+
+- Plymouth - 0 - 7 - 140 - 22
+
+Exeter - 1 - 4 - 5 - 1
+
+Dorsetshire - 53 - 11 - 64 - 10
+
+- Poole - 1 - 3 - 4 - 1
+
+Hampshire - 113 - 5 - 118 - 19
+
+- Southampton - 1 - 5 - 6 - 1
+
+Wiltshire - 60 - 26
+
+- Salisbury - 0 - 3 - 89 - 14
+
+Somersetshire - 120 - 40 - 160 - 25
+
+- Bristol - 36 - 73 - 109 - 17
+
+City of London - 699 - 0 - 699 - 107
+
+Middlesex - 1365 - 394
+
+- Westminster - 0 - 159 - 1918 - 296
+
+CHESHIRE AND WALES.
+
+Cheshire - 16 - 3 - 19
+
+Chester - O - 14 - 14
+
+Anglesey - 1 - 2 - 3
+
+Brecknockshire - 14 - 0 - 14
+
+Cardiganshire - 3 - 0 - 3
+
+Carmarthenshire - 8 - 0 - 8
+
+Carmarthen - 0 - 0 - 0
+
+Carnarvonshire - 2 - 1 - 3
+
 Denbighshire - 0 - 5 - 5
 
 Flintshire - 1 - 5 - 6
